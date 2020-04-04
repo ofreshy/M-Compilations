@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library</title>
+        {% if collections %}
+        <ul>
+        {% for c in collections %}
+            <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
+        {% endfor %}
+        </ul>
+        {% else %}
+        <p>No collections are available.</p>
+        {% endif %}
+</head>
+<body>
+
+</body>
+</html>

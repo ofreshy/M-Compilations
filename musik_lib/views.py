@@ -1,24 +1,27 @@
 
 # Create your views here.
 from django.http import HttpResponse
+from django.shortcuts import get_object_or_404, render
 
-from musik_lib.models import *
+from musik_lib.models import Artist, Collection, Library, Track
 
 
-def index(_):
-    l = Library.objects.get(id=1)
-    collections = l.collection_set.all()
-    names = ",".join([c.name for c in collections])
-    return HttpResponse("Library contains the following collections %s" % names)
+def index(request):
+    root_lib = Library.objects.get(id=1)
+    context = {'collections': root_lib.collection_set.all()}
+    return render(request, 'musik_lib/lib.html', context)
 
 
 def collection(request, collection_id):
-    return HttpResponse("You're looking at collection %s." % collection_id)
+    context = {"collection": get_object_or_404(Collection, pk=collection_id)}
+    return render(request, 'musik_lib/collection.html', context)
 
 
 def track(request, track_id):
-    return HttpResponse("You're looking at track %s." % track_id)
+    context = {"track": get_object_or_404(Track, pk=track_id)}
+    return render(request, 'musik_lib/track.html', context)
 
 
 def artist(request, artist_id):
-    return HttpResponse("You're looking at artist %s." % artist_id)
+    context = {"artist": get_object_or_404(Artist, pk=artist_id)}
+    return render(request, 'musik_lib/artist.html', context)

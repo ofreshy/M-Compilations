@@ -23,5 +23,17 @@ def track(request, track_id):
 
 
 def artist(request, artist_id):
-    context = {"artist": get_object_or_404(Artist, pk=artist_id)}
+    _artist = get_object_or_404(Artist, pk=artist_id)
+    tracks = _artist.track.all()
+    collections = []
+    for t in tracks:
+        collections.extend((c.id, c) for c in t.collection.all())
+    unique_collections = list(dict(collections).values())
+    sorted_collections = sorted(unique_collections, key=lambda x: x.ordinal)
+
+    context = {
+        "artist": _artist,
+        "tracks": tracks,
+        "collections": sorted_collections
+    }
     return render(request, 'musik_lib/artist.html', context)

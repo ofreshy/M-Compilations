@@ -12,6 +12,10 @@ Setup the Django framework and git. Set up index route.
 ```Maria can see the library, one collection, song and artist pages. They are all linkable.```
 
 Create the models and views and include one collection with basic info.
+Create Library page view.
+Create Collection page view.
+Create Track page view.
+Create Artist page view.
 
 ### M2 - Library with two collections and their stats
 

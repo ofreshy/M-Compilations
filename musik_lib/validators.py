@@ -14,6 +14,6 @@ def validate_year(value):
     """
     if value > current_year:
         raise ValidationError(
-            _('%(value)s cannot exceed current year %(current_year)'),
-            params={'value': value, 'current_year':current_year},
+            _('Released year %(value)s cannot be in the future'),
+            params={'value': value},
         )

@@ -5,14 +5,13 @@ from musik_lib.models import *
 
 
 def create_collection():
-    l = Library.load()
     return Collection(
         name="C1",
         nick_name="to2",
         description="test",
         created_year=2000,
         ordinal=1,
-        library=l
+        library=Library.load()
     )
 
 
@@ -27,8 +26,8 @@ class LibraryTest(TestCase):
         l2 = Library()
         l1.save()
         l2.save()
-        self.assertEqual(l1.id, l2.id)
         self.assertEqual(l1.id, 1)
+        self.assertEqual(l1.id, l2.id)
 
 
 class CollectionTest(TestCase):

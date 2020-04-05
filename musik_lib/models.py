@@ -1,6 +1,7 @@
+import datetime
 import operator
-from functools import reduce
 
+from functools import reduce
 
 from django.db import models
 
@@ -43,7 +44,11 @@ class Collection(models.Model):
         return "name={} , nick_name = {}, ordinal = {}".format(self.name, self.nick_name, self.ordinal)
 
     def duration(self):
-        return reduce(operator.add, [t.duration for t in self.track_set.all()])
+        return reduce(
+            operator.add,
+            [t.duration for t in self.track_set.all()],
+            datetime.timedelta()
+        )
 
 
 class Track(models.Model):

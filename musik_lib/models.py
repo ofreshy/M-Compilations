@@ -7,7 +7,21 @@ from django.utils import timezone
 
 
 class Library(models.Model):
-    pass
+    """
+    The library holds all collections and it is a singleton class
+    """
+
+    def save(self, *args, **kwargs):
+        self.pk = 1
+        super(Library, self).save(*args, **kwargs)
+
+    def delete(self, *args, **kwargs):
+        pass
+
+    @classmethod
+    def load(cls):
+        obj, created = cls.objects.get_or_create(pk=1)
+        return obj
 
 
 class Collection(models.Model):

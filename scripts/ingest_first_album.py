@@ -25,15 +25,13 @@ data = [
 
 
 def cleanup_db():
-    Library.objects.all().delete()
     Collection.objects.all().delete()
     Track.objects.all().delete()
     Artist.objects.all().delete()
 
 
 def ingest_data(d):
-    l = Library(id=1)
-    l.save()
+    l = Library.load()
 
     collection = Collection(
         name="My First Album",

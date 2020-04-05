@@ -1,7 +1,7 @@
 from django.urls import path
 from musik_lib import views
 
-
+app_name = 'lib'
 urlpatterns = [
     # ex: /lib/
     path('', views.index, name='index'),

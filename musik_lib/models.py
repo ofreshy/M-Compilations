@@ -3,7 +3,8 @@ from functools import reduce
 
 
 from django.db import models
-from django.utils import timezone
+
+from musik_lib.validators import validate_year
 
 
 class Library(models.Model):
@@ -33,7 +34,7 @@ class Collection(models.Model):
     nick_name = models.CharField(max_length=200, null=True)
     description = models.CharField(max_length=2000)
 
-    created_year = models.PositiveSmallIntegerField()
+    created_year = models.PositiveSmallIntegerField(validators=[validate_year])
     ordinal = models.PositiveSmallIntegerField(unique=True)
 
     library = models.ForeignKey(Library, on_delete=models.CASCADE)
@@ -50,13 +51,9 @@ class Track(models.Model):
         Music track
     """
 
-    @classmethod
-    def create_track(cls, name):
-        return Track(name=name, released_date=timezone.now())
-
     name = models.CharField(max_length=1000)
     duration = models.DurationField()
-    released_year = models.PositiveSmallIntegerField()
+    released_year = models.PositiveSmallIntegerField(validators=[validate_year])
 
     collection = models.ManyToManyField(Collection)
 

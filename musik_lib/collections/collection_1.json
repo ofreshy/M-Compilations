@@ -1,0 +1,21 @@
+{
+  "name": "My 1st Album",
+  "nick_name": "My 1st Album",
+  "description": "My first ever album. Indie Boy",
+  "created_year": "2001",
+  "ordinal": "1",
+  "tracks": [
+    {"name":"Any Day Now", "duration":"6:18", "released_year": 2000, "artist": "Elbow"},
+    {"name":"Fear of Fireflies", "duration":"3:07", "released_year": 2000, "artist": "Calla"},
+    {"name":"Wish Fulfilment", "duration":"3:27", "released_year": 2000, "artist": "Sonic Youth"},
+    {"name":"Plug in Baby", "duration":"3:39", "released_year": 2000, "artist": "Muse"},
+    {"name":"Stereo", "duration":"3:10", "released_year": 2000, "artist": "Pavement"},
+    {"name":"Miner at the Dial View", "duration":"5:22", "released_year": 2000, "artist": "Grandaddy"},
+    {"name":"So You'll Aim to the Sky", "duration":"4:44", "released_year": 2000, "artist": "Grandaddy"},
+    {"name":"Monkey's Gone to Heaven", "duration":"2:59", "released_year": 2000, "artist": "Pixies"},
+    {"name":"Cannonball", "duration":"3:34", "released_year": 2000, "artist": "Breeders"},
+    {"name":"The Mess We're in", "duration":"3:56", "released_year": 2000, "artist": "PJ Harvey & Thom Yorke"},
+    {"name":"Night as Rain", "duration":"4:28", "released_year": 2000, "artist": "Deus"},
+    {"name":"Angelene", "duration":"3:35", "released_year": 2000, "artist": "PJ Harvey"}
+  ]
+}

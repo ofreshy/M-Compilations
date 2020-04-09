@@ -5,63 +5,62 @@ django.setup()
 from django.utils.dateparse import parse_duration
 
 from musik_lib.models import *
-
-data = [
-    "Any Day Now,Elbow,6:18",
-    "fear of fireflies, Calla, 4:17",
-    "wish fulfilment, sonic youth, 3:27",
-    "Plug in Baby, Muse, 3:39",
-    "Stereo, Pavement, 3:10",
-    "Miner at the dial view, Granddady, 5:22",
-    "So You'll aim to the sky, Granddady, 4:44",
-    "Novocain for the Soul, Eals, 3:09",
-    "Today, Smashing Pumpkins, 3:23",
-    "Monkey's Gone to Heaven, Pixies, 2:59",
-    "Cannonball, Breeders, 3:34",
-    "The Mess We're in, PJ Harvey & Thom Yorke, 3:56",
-    "Night as Rain, Deus, 4:28",
-    "Angelene, PJ Harvey, 3:35",
-]
+from musik_lib.collections.init import read_collection_file
 
 
-def cleanup_db():
-    Collection.objects.all().delete()
-    Track.objects.all().delete()
-    Artist.objects.all().delete()
+def get_or_create_collection(d):
+    collections = Collection.objects.filter(pk=1)
+    if collections:
+        collections.first().delete()
+
+    return Collection(
+        name=d["name"],
+        nick_name=d["nick_name"],
+        description=d["description"],
+        created_year=d["created_year"],
+        ordinal=d["ordinal"],
+        library=Library.load(),
+        id=1,
+    )
+
+
+def get_artists_from_db():
+    return dict(
+        [(a.name, a) for a in Artist.objects.all()]
+    )
+
+
+def get_track_artists(artist_field, artists_dict):
+    artist_names = [a.strip() for a in artist_field.split("&")]
+    artist_set = set()
+    for artist_name in artist_names:
+        if artist_name not in artists_dict:
+            artist = Artist(name=artist_name)
+            artist.save()
+            artists_dict[artist_name] = artist
+        artist_set.add(artists_dict[artist_name])
+    return artist_set
 
 
 def ingest_data(d):
-    l = Library.load()
-
-    collection = Collection(
-        name="My First Album",
-        nick_name="My First",
-        description="My ever first album",
-        created_year=2001,
-        ordinal=1,
-        library=l,
-        id=1,
-    )
+    collection = get_or_create_collection(d)
     collection.save()
 
-    artists = dict()
-    for line in d:
-        track_name, artists_name, duration = [s.strip() for s in line.split(",")]
+    artists = get_artists_from_db()
 
+    tracks = d["tracks"]
+    for t in tracks:
         track = Track(
-            name=track_name,
-            duration=parse_duration(duration),
-            released_year=2001,
+            name=t["name"].strip(),
+            duration=parse_duration(t["duration"].strip()),
+            released_year=t["released_year"],
         )
         track.save()
 
-        artists_list = [a.strip() for a in artists_name.split("&")]
-        for artist_name in artists_list:
-            if artist_name not in artists.keys():
-                artist = Artist(name=artist_name)
-                artist.save()
-                artists[artist_name] = artist
-            track.artist_set.add(artists[artist_name])
+        track_artists = get_track_artists(t["artist"], artists)
+        for track_artist in track_artists:
+            track.artist_set.add(track_artist)
+
         track.save()
 
         collection.track_set.add(track)
@@ -71,7 +70,7 @@ def ingest_data(d):
 
 def main():
     print("Start")
-    cleanup_db()
+    data = read_collection_file("collection_1.json")
     ingest_data(data)
     print("Finish")
 

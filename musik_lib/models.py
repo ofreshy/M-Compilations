@@ -70,7 +70,7 @@ class Artist(models.Model):
     """
         An artist with a name and can be a band
     """
-    name = models.CharField(max_length=200)
+    name = models.CharField(max_length=200, unique=True)
 
     track = models.ManyToManyField(Track)
 

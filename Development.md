@@ -11,17 +11,17 @@ Setup the Django framework and git. Set up index route.
 
 ```Maria can see the library, one collection, song and artist pages. They are all linkable.```
 
-Create the models and views and include one collection with basic info.
-Create Library page view.
-Create Collection page view.
-Create Track page view.
-Create Artist page view.
+* Create the models and views and include one collection with basic info.
+* Create Library page view.
+* Create Collection page view.
+* Create Track page view.
+* Create Artist page view.
 
 ### M2 - Library with two collections and their stats
 
 ```Maria can see another collection and stats of the library and each the collections.```
 
-Create the stats models and views. Link them to albums.
+Create the basic stats models and views. Link them to albums.
 
 ### M3 - Richer information on the library
 
@@ -44,7 +44,14 @@ Improve and use the tooling to import and expose the rest of the library.
 Implement search functionality in framework (Django) on each entity.
 
 
-### M6 - Artists on the outside world
+### M6 - Searchable library
+
+```Maria can see really cool stats``
+
+Add funkier stats for library and collections.
+
+
+### M7 - Artists on the outside world
 
 ```Maria can now see web pages (Wiki?) for artists``
 

@@ -3,22 +3,6 @@ from django.utils.dateparse import parse_duration
 from musik_lib.models import *
 
 
-def get_or_create_collection(d):
-    collections = Collection.objects.filter(pk=1)
-    if collections:
-        collections.first().delete()
-
-    return Collection(
-        name=d["name"],
-        nick_name=d["nick_name"],
-        description=d["description"],
-        created_year=d["created_year"],
-        ordinal=d["ordinal"],
-        library=Library.load(),
-        id=1,
-    )
-
-
 def get_artists_from_db():
     return dict(
         [(a.name, a) for a in Artist.objects.all()]
@@ -38,7 +22,15 @@ def get_track_artists(artist_field, artists_dict):
 
 
 def ingest_collection(d):
-    collection = get_or_create_collection(d)
+    collection = Collection(
+        name=d["name"],
+        nick_name=d["nick_name"],
+        description=d["description"],
+        created_year=d["created_year"],
+        ordinal=d["ordinal"],
+        library=Library.load()
+    )
+
     collection.save()
 
     artists = get_artists_from_db()

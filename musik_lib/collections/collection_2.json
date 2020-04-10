@@ -1,0 +1,28 @@
+{
+  "name": "My 2nd Album",
+  "nick_name": "Second",
+  "description": "My second album",
+  "created_year": "2001",
+  "ordinal": "2",
+  "tracks": [
+    {"name":"Mad About You", "duration":"3:55", "artist": "String", "released_year": 2000},
+    {"name":"Givin' Up", "duration":"2:46", "artist": "Harry Diamond", "released_year": 2000},
+    {"name":"Playboy Mommy", "duration":"4:05", "artist": "Tori Amos", "released_year": 2000},
+    {"name":"Pyramid Song", "duration":"4:49", "artist": "Radiohead", "released_year": 2000},
+    {"name":"Sing", "duration":"3:48", "artist": "Travis", "released_year": 2000},
+    {"name":"Reality", "duration":"4:03", "artist": "Raz O'Hara", "released_year": 2000},
+    {"name":"Things Behind the Sun", "duration":"3:54", "artist": "Nick Drake", "released_year": 1972},
+    {"name":"Milky Ways", "duration":"1:55", "artist": "International Airport", "released_year": 2000},
+    {"name":"With No One", "duration":"3:32", "artist": "John Frusciante", "released_year": 2000},
+    {"name":"Plant and Rugs", "duration":"4:09", "artist": "PJ Harvey", "released_year": 2000},
+    {"name":"I Still Love You, Judith", "artist": "Firewater", "duration":"4:00", "released_year": 2000},
+    {"name":"Nothing Compares to You", "artist": "Sinead O'Connor", "duration":"4:41", "released_year": 2000},
+    {"name":"Lava Kiss", "artist": "Grandaddy", "duration":"3:04", "released_year": 2000},
+    {"name":"Padraic My Prince", "artist": "Bright Eyes", "duration":"3:49", "released_year": 1998},
+    {"name":"Good Evening Mr. Waldheim", "artist": "Lou Reed", "duration":"4:36", "released_year": 1989},
+    {"name":"Once Around the Block", "artist": "Badly Drawn Boy", "duration":"4:05", "released_year": 2000},
+    {"name":"Venus as a Boy", "artist": "Björk", "duration":"4:43", "released_year": 2000},
+    {"name":"Alabama Song", "artist": "The Doors", "duration":"3:21", "released_year": 2000},
+    {"name":"Goodnight Ladies", "artist": "Lou Reed", "duration":"4:21", "released_year": 1972}
+  ]
+}

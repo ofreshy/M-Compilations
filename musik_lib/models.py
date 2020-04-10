@@ -50,6 +50,9 @@ class Collection(models.Model):
             datetime.timedelta()
         )
 
+    def number_of_tracks(self):
+        return len(self.track_set.all())
+
 
 class Track(models.Model):
     """
@@ -68,7 +71,7 @@ class Track(models.Model):
 
 class Artist(models.Model):
     """
-        An artist with a name and can be a band
+        An artist
     """
     name = models.CharField(max_length=200, unique=True)
 

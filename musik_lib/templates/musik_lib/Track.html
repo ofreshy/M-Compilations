@@ -8,7 +8,7 @@
      <h1>{{ track }}</h1>
         <ul>
             {% for a in track.artist_set.all %}
-                <li><a href="/lib/artist/{{ a.id }}/">{{ a }}</a></li>
+                <li><a href="/lib/artist/{{ a.id }}/">{{ a.name }}</a></li>
             {% endfor %}
         </ul>
 </body>

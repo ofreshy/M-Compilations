@@ -8,10 +8,10 @@
 </head>
 <body>
      <h1>{{ collection }}</h1>
-        <ul>
+        <ol>
             {% for t in collection.track_set.all %}
                 <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
             {% endfor %}
-        </ul>
+        </ol>
 </body>
 </html>

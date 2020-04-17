@@ -1,6 +1,6 @@
 from datetime import timedelta
 
-from musik_lib.models import *
+from musik_lib.models.stats import *
 
 
 def library():

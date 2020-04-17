@@ -1,16 +1,15 @@
 from django.test import TestCase
 
-from musik_lib.calculators import calculate_artist_frequency_collection
-
 from musik_lib.tests import fixtures
 
 
-class ArtistFrequencyCollectionTest(TestCase):
+class CollectionStatTest(TestCase):
 
     def test_empty_collections_stat_empty_stats(self):
         c_stat = fixtures.collection_stat_1()
-        result = list(calculate_artist_frequency_collection(c_stat))
-        self.assertFalse(result)
+        c_stat.add_artist_frequency_counts()
+        artist_frequency_counts = c_stat.artistfrequencycollection_set.all()
+        self.assertFalse(artist_frequency_counts)
 
     def test_artist_collections_stat_single_artist(self):
         artist = fixtures.artist_1()
@@ -30,7 +29,9 @@ class ArtistFrequencyCollectionTest(TestCase):
 
         c_stat = fixtures.collection_stat_1(collection=c1)
 
-        result = list(calculate_artist_frequency_collection(c_stat))
+        c_stat.add_artist_frequency_counts()
+
+        result = c_stat.artistfrequencycollection_set.all()
 
         self.assertEqual(len(result), 1)
         artist_frequency_count = result[0]
@@ -56,7 +57,8 @@ class ArtistFrequencyCollectionTest(TestCase):
 
         c_stat = fixtures.collection_stat_1(collection=c1)
 
-        result = list(calculate_artist_frequency_collection(c_stat))
+        c_stat.add_artist_frequency_counts()
+        result = c_stat.artistfrequencycollection_set.all()
 
         self.assertEqual(len(result), 2)
         a1_result = next(x for x in result if x.artist.id == a1.id)

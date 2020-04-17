@@ -1,4 +1,10 @@
+from collections import defaultdict
+
+
 from django.db import models
+
+from musik_lib.models.base import Artist, Collection, Library, Track
+
 
 class DuplicateTrack(models.Model):
     track = models.OneToOneField(
@@ -17,6 +23,10 @@ class LibraryStat(models.Model):
 
 
 class CollectionStat(models.Model):
+    """
+    The stat extension of the collection model.
+
+    """
     collection = models.OneToOneField(
         Collection,
         on_delete=models.CASCADE,
@@ -27,8 +37,30 @@ class CollectionStat(models.Model):
         on_delete=models.CASCADE,
         default=None,
     )
-
     duplicate_tracks = models.ManyToManyField(DuplicateTrack)
+
+    def add_artist_frequency_counts(self):
+        """
+
+        :return: updated artist frequency counts of this collection stat
+        """
+        frequency_counts = defaultdict(int)
+        unique_artists = dict()
+
+        artists = [a for track in self.collection.track_set.all() for a in track.artist_set.all()]
+        for artist in artists:
+            frequency_counts[artist.id] += 1
+            unique_artists[artist.id] = artist
+
+        for artist_id, frequency in frequency_counts.items():
+            artist = unique_artists[artist_id]
+            afc = ArtistFrequencyCollection.objects.get_or_create(
+                artist=artist,
+                collection_stat=self
+            )[0]
+            afc.frequency = frequency
+            afc.save()
+            self.artistfrequencycollection_set.add(afc)
 
 
 class ArtistFrequencyCollection(models.Model):

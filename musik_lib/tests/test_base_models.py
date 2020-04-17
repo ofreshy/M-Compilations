@@ -1,7 +1,7 @@
 
 from django.test import TestCase
 
-from musik_lib.models import *
+from musik_lib.models.base import *
 from musik_lib.tests import fixtures
 
 

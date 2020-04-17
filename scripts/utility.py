@@ -1,6 +1,6 @@
 from django.utils.dateparse import parse_duration
 
-from musik_lib.models import *
+from musik_lib.models.base import *
 
 
 def get_artists_from_db():

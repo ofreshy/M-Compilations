@@ -1,5 +1,5 @@
 
-from musik_lib.models import *
+from musik_lib.models.base import *
 
 from collections import defaultdict
 

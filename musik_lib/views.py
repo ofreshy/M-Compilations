@@ -2,7 +2,7 @@
 # Create your views here.
 from django.shortcuts import get_object_or_404, render
 
-from musik_lib.models import Artist, Collection, Library, Track
+from musik_lib.models.base import Artist, Collection, Library, Track
 
 
 def index(request):

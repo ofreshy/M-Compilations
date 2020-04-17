@@ -2,17 +2,7 @@
 from django.test import TestCase
 
 from musik_lib.models import *
-
-
-def create_collection():
-    return Collection(
-        name="C1",
-        nick_name="to2",
-        description="test",
-        created_year=2000,
-        ordinal=1,
-        library=Library.load()
-    )
+from musik_lib.tests import fixtures
 
 
 class LibraryTest(TestCase):
@@ -33,21 +23,18 @@ class LibraryTest(TestCase):
 class CollectionTest(TestCase):
 
     def test_empty_collection_duration(self):
-        c = create_collection()
-        c.save()
+        c = fixtures.collection_1()
         self.assertEqual(c.duration().seconds, 0)
 
     def test_duration_sum(self):
-        c = create_collection()
-        c.save()
+        c = fixtures.collection_1()
 
-        t1 = Track(name="t1", released_year=1979, duration=datetime.timedelta(minutes=0, seconds=18))
-        t2 = Track(name="t2", released_year=2001, duration=datetime.timedelta(minutes=0, seconds=100))
-        t1.save()
-        t2.save()
+        duration1 = datetime.timedelta(minutes=0, seconds=18)
+        duration2 = datetime.timedelta(minutes=0, seconds=100)
+        t1 = fixtures.track_1(duration=duration1)
+        t2 = fixtures.track_2(duration=duration2)
 
-        c.track_set.add(t1)
-        c.track_set.add(t2)
+        c.track_set.add(t1, t2)
 
         actual = c.duration()
         expected = t1.duration + t2.duration
@@ -55,21 +42,15 @@ class CollectionTest(TestCase):
         self.assertEqual(actual.seconds, expected.seconds)
 
     def test_empty_track_set(self):
-        c = create_collection()
-        c.save()
+        c = fixtures.collection_1()
         self.assertEqual(c.number_of_tracks(), 0)
 
     def test_track_set_count(self):
-        c = create_collection()
-        c.save()
+        c = fixtures.collection_1()
 
-        t1 = Track(name="t1", released_year=1979, duration=datetime.timedelta(minutes=0, seconds=18))
-        t2 = Track(name="t2", released_year=2001, duration=datetime.timedelta(minutes=0, seconds=100))
-        t1.save()
-        t2.save()
+        t1 = fixtures.track_1()
+        t2 = fixtures.track_2()
 
-        c.track_set.add(t1)
-        c.track_set.add(t2)
+        c.track_set.add(t1, t2)
 
         self.assertEqual(c.number_of_tracks(), 2)
-

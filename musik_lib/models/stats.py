@@ -13,20 +13,22 @@ class LibraryStat(models.Model):
         primary_key=True,
     )
 
-    def add_artist_frequency_counts(self):
+    def update_artist_frequency_counts(self):
         """
 
         :return:
         """
+
         frequency_counts = defaultdict(int)
         unique_artists = dict()
-        cafcs = [
-            cafc for c_stat in self.collectionstat_set.all()
-            for cafc in c_stat.artistfrequencycollection_set.all()
-        ]
-        for cafc in cafcs:
-            frequency_counts[cafc.artist.id] += cafc.frequency
-            unique_artists[cafc.artist.id] = cafc.artist
+
+        def add_collection_counts(cafcs):
+            for cafc in cafcs:
+                frequency_counts[cafc.artist.id] += cafc.frequency
+                unique_artists[cafc.artist.id] = cafc.artist
+
+        for c_stat in self.collectionstat_set.all():
+            add_collection_counts(c_stat.update_artist_frequency_counts())
 
         for artist_id, frequency in frequency_counts.items():
             artist = unique_artists[artist_id]
@@ -37,6 +39,7 @@ class LibraryStat(models.Model):
             afl.frequency = frequency
             afl.save()
             self.artistfrequencylibrary_set.add(afl)
+        return self.artistfrequencylibrary_set.all()
 
 
 class DuplicateTrack(models.Model):
@@ -64,7 +67,7 @@ class CollectionStat(models.Model):
     )
     duplicate_tracks = models.ManyToManyField(DuplicateTrack)
 
-    def add_artist_frequency_counts(self):
+    def update_artist_frequency_counts(self):
         """
 
         :return: updated artist frequency counts of this collection stat
@@ -86,6 +89,7 @@ class CollectionStat(models.Model):
             afc.frequency = frequency
             afc.save()
             self.artistfrequencycollection_set.add(afc)
+        return self.artistfrequencycollection_set.all()
 
 
 class ArtistFrequencyCollection(models.Model):

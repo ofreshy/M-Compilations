@@ -6,17 +6,42 @@ from django.db import models
 from musik_lib.models.base import Artist, Collection, Library, Track
 
 
-class DuplicateTrack(models.Model):
-    track = models.OneToOneField(
-        Track,
+class LibraryStat(models.Model):
+    library = models.OneToOneField(
+        Library,
         on_delete=models.CASCADE,
         primary_key=True,
     )
 
+    def add_artist_frequency_counts(self):
+        """
 
-class LibraryStat(models.Model):
-    library = models.OneToOneField(
-        Library,
+        :return:
+        """
+        frequency_counts = defaultdict(int)
+        unique_artists = dict()
+        cafcs = [
+            cafc for c_stat in self.collectionstat_set.all()
+            for cafc in c_stat.artistfrequencycollection_set.all()
+        ]
+        for cafc in cafcs:
+            frequency_counts[cafc.artist.id] += cafc.frequency
+            unique_artists[cafc.artist.id] = cafc.artist
+
+        for artist_id, frequency in frequency_counts.items():
+            artist = unique_artists[artist_id]
+            afl = ArtistFrequencyLibrary.objects.get_or_create(
+                artist=artist,
+                library_stat=self
+            )[0]
+            afl.frequency = frequency
+            afl.save()
+            self.artistfrequencylibrary_set.add(afl)
+
+
+class DuplicateTrack(models.Model):
+    track = models.OneToOneField(
+        Track,
         on_delete=models.CASCADE,
         primary_key=True,
     )
@@ -94,3 +119,6 @@ class ArtistFrequencyLibrary(models.Model):
         on_delete=models.CASCADE
     )
     frequency = models.PositiveSmallIntegerField(default=1)
+
+    def __str__(self):
+        return "{} - {}".format(self.artist.name, self.frequency)

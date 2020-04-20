@@ -18,6 +18,10 @@ class LibraryStat(models.Model):
         obj, created = cls.objects.get_or_create(pk=1, library=Library.load())
         return obj
 
+    def update(self):
+        self.update_artist_frequency_counts()
+        self.update_duplicate_tracks()
+
     def update_artist_frequency_counts(self):
         """
 
@@ -86,6 +90,9 @@ class CollectionStat(models.Model):
         default=None,
     )
     duplicate_tracks = models.ManyToManyField(DuplicateTrack)
+
+    def update(self):
+        self.update_artist_frequency_counts()
 
     def update_artist_frequency_counts(self):
         """

@@ -13,6 +13,11 @@ class LibraryStat(models.Model):
         primary_key=True,
     )
 
+    @classmethod
+    def load(cls):
+        obj, created = cls.objects.get_or_create(pk=1, library=Library.load())
+        return obj
+
     def update_artist_frequency_counts(self):
         """
 
@@ -27,19 +32,34 @@ class LibraryStat(models.Model):
                 frequency_counts[cafc.artist.id] += cafc.frequency
                 unique_artists[cafc.artist.id] = cafc.artist
 
-        for c_stat in self.collectionstat_set.all():
-            add_collection_counts(c_stat.update_artist_frequency_counts())
-
-        for artist_id, frequency in frequency_counts.items():
-            artist = unique_artists[artist_id]
-            afl = ArtistFrequencyLibrary.objects.get_or_create(
+        def add_artist_frequency_library(artist, frequency):
+            afl, _ = ArtistFrequencyLibrary.objects.get_or_create(
                 artist=artist,
-                library_stat=self
-            )[0]
+                library_stat=self,
+            )
             afl.frequency = frequency
             afl.save()
             self.artistfrequencylibrary_set.add(afl)
+
+        for c_stat in self.collectionstat_set.all():
+            add_collection_counts(c_stat.update_artist_frequency_counts())
+
+        for aid, freq in frequency_counts.items():
+            add_artist_frequency_library(unique_artists[aid], freq)
+        
         return self.artistfrequencylibrary_set.all()
+
+    def update_duplicate_tracks(self):
+        duplicate_tracks = [
+            (track, c_stat) for c_stat in self.collectionstat_set.all()
+            for track in c_stat.collection.track_set.all()
+            if len(track.collection.all()) > 1
+        ]
+        for track, c_stat in duplicate_tracks:
+            dt = DuplicateTrack.objects.get_or_create(track=track)[0]
+            c_stat.duplicate_tracks.add(dt)
+            c_stat.save()
+        return DuplicateTrack.objects.all()
 
 
 class DuplicateTrack(models.Model):
@@ -123,6 +143,12 @@ class ArtistFrequencyLibrary(models.Model):
         on_delete=models.CASCADE
     )
     frequency = models.PositiveSmallIntegerField(default=1)
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(
+                fields=['artist', 'library_stat'], name='Artist And Library')
+        ]
 
     def __str__(self):
         return "{} - {}".format(self.artist.name, self.frequency)

@@ -3,26 +3,19 @@ from django.utils.dateparse import parse_duration
 from musik_lib.models.base import *
 
 
-def get_artists_from_db():
-    return dict(
-        [(a.name, a) for a in Artist.objects.all()]
-    )
-
-
 def get_track_artists(artist_field, artists_dict):
     artist_names = [a.strip() for a in artist_field.split("&")]
     artist_set = set()
     for artist_name in artist_names:
         if artist_name not in artists_dict:
-            artist = Artist(name=artist_name)
-            artist.save()
+            artist = Artist.objects.create(name=artist_name)
             artists_dict[artist_name] = artist
         artist_set.add(artists_dict[artist_name])
     return artist_set
 
 
 def ingest_collection(d):
-    collection = Collection(
+    collection, _ = Collection.objects.get_or_create(
         name=d["name"],
         nick_name=d["nick_name"],
         description=d["description"],
@@ -31,28 +24,45 @@ def ingest_collection(d):
         library=Library.load()
     )
 
-    collection.save()
-
-    artists = get_artists_from_db()
+    # Safe to key by name as it is unique
+    artists = dict(
+        [(a.name, a) for a in Artist.objects.all()]
+    )
 
     tracks = d["tracks"]
     for t in tracks:
-        track = Track(
-            name=t["name"].strip(),
-            duration=parse_duration(t["duration"].strip()),
-            released_year=t["released_year"],
-        )
-        track.save()
-
-        track_artists = get_track_artists(t["artist"], artists)
-        for track_artist in track_artists:
-            track.artist_set.add(track_artist)
-
-        track.save()
-
+        _, track = _get_or_create_track(t, artists)
         collection.track_set.add(track)
-
     collection.save()
+
+
+def _get_or_create_track(track_dict, artist_dict):
+    track_name = track_dict["name"].strip()
+    track_artists = get_track_artists(track_dict["artist"], artist_dict)
+    db_tracks = Track.objects.filter(name=track_name)
+
+    if db_tracks:
+        track_artists_ids = {a.id for a in track_artists}
+        for track in db_tracks:
+            db_track_set_id = {a.id for a in track.artist_set.all()}
+            if db_track_set_id == track_artists_ids:
+                # This is a duplicate track. return created=False, track
+                return False, track
+
+    duration_str = track_dict["duration"].strip()
+    duration = parse_duration(duration_str)
+    if duration is None:
+        raise ValueError("Could not parse duration - '{}'n found in {}".format(duration_str, track_dict))
+
+    track = Track.objects.create(
+        name=track_name,
+        duration=duration,
+        released_year=track_dict["released_year"],
+    )
+    track.artist_set.add(*track_artists)
+    track.save()
+    # return created=True, track
+    return True, track
 
 
 def clear_db():

@@ -69,7 +69,11 @@ class Track(models.Model):
     collection = models.ManyToManyField(Collection)
 
     def __str__(self):
-        return self.name
+        name = self.name
+        if hasattr(self, "artist_set"):
+            artists = " & ".join([a.name for a in self.artist_set.all()])
+            name += " - {}".format(artists)
+        return name
 
 
 class Artist(models.Model):

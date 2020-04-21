@@ -21,7 +21,7 @@ class CollectionView(generic.DetailView):
 
 
 class TrackView(generic.DetailView):
-    model = Collection
+    model = Track
     template_name = 'musik_lib/track.html'
 
 

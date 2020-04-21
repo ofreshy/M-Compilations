@@ -1,24 +1,28 @@
 
-# Create your views here.
+
 from django.shortcuts import get_object_or_404, render
+from django.views import generic
 
 from musik_lib.models.base import Artist, Collection, Library, Track
 
 
-def index(request):
-    root_lib = Library.objects.get(id=1)
-    context = {'collections': root_lib.collection_set.all()}
-    return render(request, 'musik_lib/lib.html', context)
+class IndexView(generic.ListView):
+    template_name = 'musik_lib/lib.html'
+    context_object_name = 'collections'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return Collection.objects.order_by('ordinal')
 
 
-def collection(request, collection_id):
-    context = {"collection": get_object_or_404(Collection, pk=collection_id)}
-    return render(request, 'musik_lib/collection.html', context)
+class CollectionView(generic.DetailView):
+    model = Collection
+    template_name = 'musik_lib/collection.html'
 
 
-def track(request, track_id):
-    context = {"track": get_object_or_404(Track, pk=track_id)}
-    return render(request, 'musik_lib/track.html', context)
+class TrackView(generic.DetailView):
+    model = Collection
+    template_name = 'musik_lib/track.html'
 
 
 def artist(request, artist_id):

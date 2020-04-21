@@ -5,7 +5,7 @@ from musik_lib.models.stats import *
 
 
 class LibraryAdmin(admin.ModelAdmin):
-    actions = ['calculate_stats']
+    actions = ['update_stats']
 
     def update_stats(self, request, queryset):
         library_stat = LibraryStat.load()
@@ -16,7 +16,7 @@ class LibraryAdmin(admin.ModelAdmin):
 
 
 class CollectionAdmin(admin.ModelAdmin):
-    actions = ['create_collection_stat']
+    actions = ['update_stats']
 
     def update_stats(self, request, queryset):
         library_stat = LibraryStat.load()

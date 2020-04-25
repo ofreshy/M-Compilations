@@ -19,8 +19,15 @@ class LibraryStat(models.Model):
         return obj
 
     def update(self):
+        self.update_collection_stats()
         self.update_artist_frequency_counts()
         self.update_duplicate_tracks()
+
+    def update_collection_stats(self):
+        collections = self.library.collection_set.all()
+        for coll in collections:
+            c_stat, _ = CollectionStat.objects.get_or_create(collection=coll, library_stat=self)
+            c_stat.update()
 
     def update_artist_frequency_counts(self):
         """

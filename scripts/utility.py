@@ -1,6 +1,6 @@
 from django.utils.dateparse import parse_duration
 
-from musik_lib.models.base import *
+from musik_lib.models.stats import *
 
 
 def get_track_artists(artist_field, artists_dict):
@@ -69,3 +69,6 @@ def clear_db():
     Collection.objects.all().delete()
     Track.objects.all().delete()
     Artist.objects.all().delete()
+
+    CollectionStat.objects.all().delete()
+    LibraryStat.objects.all().delete()

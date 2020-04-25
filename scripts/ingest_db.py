@@ -2,7 +2,7 @@ import django
 django.setup()
 
 
-from musik_lib.collections.init import read_collection_file
+from musik_lib.collections.init import get_all_collection_files, read_collection_file
 from scripts import utility
 
 import argparse
@@ -14,7 +14,9 @@ def setup_parser():
         'file_names',
         type=str,
         nargs='+',
-        help='space separated list of files under collection folder. Use file name only'
+        help='space separated list of files under collection folder.'
+             ' Use file name only.'
+             ' Or special argument all to read all collections'
     )
     parser.add_argument(
         '--clear',
@@ -33,7 +35,11 @@ def main():
         print("Clearing DB")
         utility.clear_db()
 
-    for file_name in args.file_names:
+    file_names = args.file_names
+    if len(file_names) == 1 and args.file_names[0] == "all":
+        file_names = get_all_collection_files()
+
+    for file_name in file_names:
         print("Reading file name %s" % file_name)
         collection = read_collection_file(file_name)
         utility.ingest_collection(collection)

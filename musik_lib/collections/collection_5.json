@@ -1,0 +1,25 @@
+{
+  "name": "To Shira",
+  "nick_name": "To Shira",
+  "description": "Album for Shira, she loved it!",
+  "created_year": "2002",
+  "ordinal": "5",
+  "tracks": [
+    {"name":"Lust for Life", "duration":"5:13", "artist": "Iggy Pop", "released_year": 1977},
+    {"name":"There She Goes Again", "duration":"2:41", "artist": "The Velvet Underground", "released_year": 1967},
+    {"name":"Take it Or Leave it", "duration":"3:16", "artist": "The Strokes", "released_year": 2001},
+    {"name":"Jigsaw You", "duration":"2:26", "artist": "dEUS", "released_year": 1994},
+    {"name":"King Only", "duration":"3:07", "artist": "The Twilight Singers", "released_year": 2000},
+    {"name":"Up to Me", "duration":"3:14", "artist": "Jethro Tull", "released_year": 1971},
+    {"name":"Annie, Waits", "duration":"4:16", "artist": "Ben Folds", "released_year": 2001},
+    {"name":"Someone's", "duration":"1:53", "artist": "John Frusciante", "released_year": 2001},
+    {"name":"Going Inside", "duration":"3:35", "artist": "John Frusciante", "released_year": 1996},
+    {"name":"Sine Wave", "artist": "Mogwai", "duration":"4:55", "released_year": 2001},
+    {"name":"Six Pack", "artist": "Tortoise", "duration":"3:11", "released_year": 2001},
+    {"name":"Piano Fire", "artist": "Sparklehorse feat PJ Harvey", "duration":"2:41", "released_year": 2001},
+    {"name":"Made of Stone", "artist": "The Stone Roses", "duration":"4:14", "released_year": 1989},
+    {"name":"Late in the Day", "artist": "Supergrass", "duration":"4:43", "released_year": 1997},
+    {"name":"Winterlight", "artist": "Clearlake", "duration":"4:50", "released_year": 2000},
+    {"name":"Ágætis byrjun", "artist": "Sigur Rós", "duration":"7:55", "released_year": 1999}
+  ]
+}

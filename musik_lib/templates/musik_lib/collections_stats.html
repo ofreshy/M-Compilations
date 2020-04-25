@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collections Stats</title>
+        {% if collections_stats %}
+        <ul>
+        {% for c in collections_stats %}
+            <li><a href="/lib/collection_stat/{{ c.collection_id }}/">{{ c }}</a></li>
+        {% endfor %}
+        </ul>
+        {% else %}
+        <p>No collection stats are available.</p>
+        {% endif %}
+</head>
+<body>
+
+</body>
+</html>

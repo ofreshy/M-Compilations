@@ -98,6 +98,9 @@ class CollectionStat(models.Model):
     )
     duplicate_tracks = models.ManyToManyField(DuplicateTrack)
 
+    def __str__(self):
+        return "Stats for {} ".format(self.collection.name)
+
     def update(self):
         self.update_artist_frequency_counts()
 
@@ -144,7 +147,7 @@ class ArtistFrequencyCollection(models.Model):
         ]
 
     def __str__(self):
-        return "{} - {} - {}".format(self.artist.name, self.collection_stat.collection.name, self.frequency)
+        return "{} - {}".format(self.artist.name, self.frequency)
 
 
 class ArtistFrequencyLibrary(models.Model):

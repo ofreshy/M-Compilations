@@ -15,5 +15,15 @@
                 <li><a href="/lib/afc/{{ afc.id }}/">{{ afc }}</a></li>
             {% endfor %}
         </ol>
+        {% if c_stat.duplicate_tracks.all %}
+        <h1>Duplicate Tracks</h1>
+            <ol>
+                {% for dt in c_stat.duplicate_tracks.all %}
+                    <li><a href="/lib/dt/{{ dt.pk }}/">{{ dt.track.name }}</a></li>
+                {% endfor %}
+            </ol>
+            {% else %}
+            <p>No Duplicate Tracks.</p>
+        {% endif %}
 </body>
 </html>

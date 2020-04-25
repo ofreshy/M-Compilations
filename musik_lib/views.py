@@ -4,7 +4,7 @@ from django.shortcuts import get_object_or_404, render
 from django.views import generic
 
 from musik_lib.models.base import Artist, Collection, Track
-from musik_lib.models.stats import ArtistFrequencyCollection, CollectionStat
+from musik_lib.models.stats import ArtistFrequencyCollection, CollectionStat, DuplicateTrack
 
 
 class IndexView(generic.ListView):
@@ -43,8 +43,8 @@ def artist(request, artist_id):
     return render(request, 'musik_lib/artist.html', context)
 
 
-class CollectionStatsView(generic.ListView):
-    template_name = 'musik_lib/collections_stats.html'
+class CollectionStatListView(generic.ListView):
+    template_name = 'musik_lib/collections_stat_list.html'
     context_object_name = 'collections_stats'
 
     def get_queryset(self):
@@ -58,6 +58,12 @@ def collection_stats_view(request, pk):
         "c_stat": c_stat,
     }
     return render(request, 'musik_lib/collection_stat.html', context)
+
+
+class DuplicateTrackView(generic.DetailView):
+    model = DuplicateTrack
+    template_name = 'musik_lib/duplicate_track.html'
+    context_object_name = 'dt'
 
 
 def afc(request, pk):

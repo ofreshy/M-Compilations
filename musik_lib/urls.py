@@ -13,10 +13,12 @@ urlpatterns = [
     path('artist/<int:artist_id>/', views.artist, name='artist'),
 
     # ex: /collection_stat/
-    path('collection_stat/', views.CollectionStatsView.as_view(), name='collections_stats'),
+    path('collection_stat/', views.CollectionStatListView.as_view(), name='collections_stats'),
     # ex: /collection_stat/5/
     path('collection_stat/<int:pk>/', views.collection_stats_view, name='collection_stats'),
 
     # ex: /afc/5/
     path('afc/<int:pk>/', views.afc, name='afc'),
+    # ex: /dt/5/
+    path('dt/<int:pk>/', views.DuplicateTrackView.as_view(), name='dt'),
 ]

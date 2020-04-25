@@ -80,6 +80,9 @@ class DuplicateTrack(models.Model):
         primary_key=True,
     )
 
+    def __str__(self):
+        return self.track.name
+
 
 class CollectionStat(models.Model):
     """

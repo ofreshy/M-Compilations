@@ -16,7 +16,7 @@ urlpatterns = [
     # ex: /artist
     path('artist/', views.ArtistListView.as_view(), name='artists'),
     # ex: /artist/5/
-    path('artist/<int:artist_id>/', views.artist, name='artist'),
+    path('artist/<int:pk>/', views.ArtistDetailView.as_view(), name='artist'),
 
     # ex: /lib_stat/
     path('lib_stat/', views.lib_stat, name='lib_stat'),
@@ -27,7 +27,7 @@ urlpatterns = [
     path('collection_stat/<int:pk>/', views.CollectionStatDetailView.as_view(), name='collection_stats'),
 
     # ex: /afc
-    path('afc/', views.ArtistFrequencyCollectionListView.as_view(), name='afcs'),
+    path('afc/', views.ArtistFrequencyCollectionListView.as_view(), name='afc'),
     # ex: /afc/5/
     path('afc/<int:pk>/', views.ArtistFrequencyCollectionDetailView.as_view(), name='afc'),
 

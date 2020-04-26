@@ -15,6 +15,13 @@ class IndexView(generic.ListView):
         return Collection.objects.order_by('ordinal')
 
 
+def lib_stat(request):
+    context = {
+        "lib_stat": LibraryStat.load(),
+    }
+    return render(request, 'musik_lib/lib_stat.html', context)
+
+
 class CollectionDetailView(generic.DetailView):
     model = Collection
     template_name = 'musik_lib/collection.html'
@@ -34,28 +41,9 @@ class TrackListView(generic.ListView):
         return Track.objects.order_by('name')
 
 
-def artist(request, artist_id):
-    _artist = get_object_or_404(Artist, pk=artist_id)
-    tracks = _artist.tracks
-    collections = []
-    for t in tracks:
-        collections.extend((c.id, c) for c in t.collection_set.all())
-    unique_collections = list(dict(collections).values())
-    sorted_collections = sorted(unique_collections, key=lambda x: x.ordinal)
-
-    context = {
-        "artist": _artist,
-        "tracks": tracks,
-        "collections": sorted_collections
-    }
-    return render(request, 'musik_lib/artist.html', context)
-
-
-def lib_stat(request):
-    context = {
-        "lib_stat": LibraryStat.load(),
-    }
-    return render(request, 'musik_lib/lib_stat.html', context)
+class ArtistDetailView(generic.DetailView):
+    model = Artist
+    template_name = 'musik_lib/artist.html'
 
 
 class ArtistListView(generic.ListView):

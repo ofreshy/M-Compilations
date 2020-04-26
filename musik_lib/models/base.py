@@ -8,6 +8,15 @@ from django.db import models
 from musik_lib.validators import validate_year
 
 
+def total_durations(durations):
+    """
+    Helper function to add durations
+    :param durations:
+    :return:
+    """
+    return reduce(operator.add, durations, datetime.timedelta())
+
+
 class Library(models.Model):
     """
     The library holds all collections and it is a singleton class
@@ -25,6 +34,12 @@ class Library(models.Model):
         obj, created = cls.objects.get_or_create(pk=1)
         return obj
 
+    @property
+    def duration(self):
+        return total_durations(
+            [t.duration for t in self.collection_set.all()]
+        )
+
 
 class Collection(models.Model):
     """
@@ -41,13 +56,12 @@ class Collection(models.Model):
     library = models.ForeignKey(Library, on_delete=models.CASCADE)
 
     def __str__(self):
-        return "name={} , nick_name = {}, ordinal = {}".format(self.name, self.nick_name, self.ordinal)
+        return "name={} , nick_name = {}, duration = {}".format(self.name, self.nick_name, self.duration)
 
+    @property
     def duration(self):
-        return reduce(
-            operator.add,
-            [t.duration for t in self.track_set.all()],
-            datetime.timedelta()
+        return total_durations(
+            [t.duration for t in self.track_set.all()]
         )
 
     def number_of_tracks(self):

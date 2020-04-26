@@ -3,8 +3,7 @@
 from django.shortcuts import get_object_or_404, render
 from django.views import generic
 
-from musik_lib.models.base import Artist, Collection, Track
-from musik_lib.models.stats import ArtistFrequencyCollection, CollectionStat, DuplicateTrack
+from musik_lib.models.stats import *
 
 
 class IndexView(generic.ListView):
@@ -16,14 +15,23 @@ class IndexView(generic.ListView):
         return Collection.objects.order_by('ordinal')
 
 
-class CollectionView(generic.DetailView):
+class CollectionDetailView(generic.DetailView):
     model = Collection
     template_name = 'musik_lib/collection.html'
 
 
-class TrackView(generic.DetailView):
+class TrackDetailView(generic.DetailView):
     model = Track
     template_name = 'musik_lib/track.html'
+
+
+class TrackListView(generic.ListView):
+    template_name = 'musik_lib/track_list.html'
+    context_object_name = 'tracks'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return Track.objects.order_by('name')
 
 
 def artist(request, artist_id):
@@ -43,6 +51,22 @@ def artist(request, artist_id):
     return render(request, 'musik_lib/artist.html', context)
 
 
+def lib_stat(request):
+    context = {
+        "lib_stat": LibraryStat.load(),
+    }
+    return render(request, 'musik_lib/lib_stat.html', context)
+
+
+class ArtistListView(generic.ListView):
+    template_name = 'musik_lib/artist_list.html'
+    context_object_name = 'artists'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return Artist.objects.order_by('name')
+
+
 class CollectionStatListView(generic.ListView):
     template_name = 'musik_lib/collections_stat_list.html'
     context_object_name = 'collections_stats'
@@ -52,25 +76,43 @@ class CollectionStatListView(generic.ListView):
         return CollectionStat.objects.order_by('collection_id')
 
 
-def collection_stats_view(request, pk):
-    c_stat = get_object_or_404(CollectionStat, pk=pk)
-    context = {
-        "c_stat": c_stat,
-    }
-    return render(request, 'musik_lib/collection_stat.html', context)
+class CollectionStatDetailView(generic.DetailView):
+    model = CollectionStat
+    template_name = 'musik_lib/collection_stat.html'
+    context_object_name = 'c_stat'
 
 
-class DuplicateTrackView(generic.DetailView):
+class DuplicateTrackDetailView(generic.DetailView):
     model = DuplicateTrack
     template_name = 'musik_lib/duplicate_track.html'
     context_object_name = 'dt'
 
 
-def afc(request, pk):
-    afc = get_object_or_404(ArtistFrequencyCollection, pk=pk)
-    tracks = afc.collection_stat.collection.track_set.filter(artist=afc.artist)
-    context = {
-        "afc": afc,
-        "tracks": tracks,
-    }
-    return render(request, 'musik_lib/afc.html', context)
+class DuplicateTrackListView(generic.ListView):
+    template_name = 'musik_lib/dt_list.html'
+    context_object_name = 'dts'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return DuplicateTrack.objects.all()
+
+
+class ArtistFrequencyCollectionDetailView(generic.DetailView):
+    model = ArtistFrequencyCollection
+    template_name = 'musik_lib/afc.html'
+    context_object_name = 'afc'
+
+
+class ArtistFrequencyLibraryDetailView(generic.DetailView):
+    model = ArtistFrequencyLibrary
+    template_name = 'musik_lib/afl.html'
+    context_object_name = 'afl'
+
+
+class ArtistFrequencyLibraryListView(generic.ListView):
+    template_name = 'musik_lib/afl_list.html'
+    context_object_name = 'afls'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return ArtistFrequencyLibrary.objects.order_by('-frequency')

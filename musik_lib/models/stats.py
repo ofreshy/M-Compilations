@@ -18,14 +18,25 @@ class LibraryStat(models.Model):
         obj, created = cls.objects.get_or_create(pk=1, library=Library.load())
         return obj
 
+    @property
+    def num_collections(self):
+        return Collection.objects.count()
+
+    @property
+    def num_tracks(self):
+        return Track.objects.count()
+
+    @property
+    def num_artists(self):
+        return Artist.objects.count()
+
     def update(self):
         self.update_collection_stats()
         self.update_artist_frequency_counts()
         self.update_duplicate_tracks()
 
     def update_collection_stats(self):
-        collections = self.library.collection_set.all()
-        for coll in collections:
+        for coll in self.library.collection_set.all():
             c_stat, _ = CollectionStat.objects.get_or_create(collection=coll, library_stat=self)
             c_stat.update()
 
@@ -81,6 +92,10 @@ class DuplicateTrack(models.Model):
     )
 
     def __str__(self):
+        return self.track.name
+
+    @property
+    def name(self):
         return self.track.name
 
 
@@ -152,6 +167,10 @@ class ArtistFrequencyCollection(models.Model):
     def __str__(self):
         return "{} - {}".format(self.artist.name, self.frequency)
 
+    @property
+    def tracks(self):
+        return self.collection_stat.collection.track_set.filter(artist=self.artist)
+
 
 class ArtistFrequencyLibrary(models.Model):
     artist = models.ForeignKey(
@@ -172,3 +191,7 @@ class ArtistFrequencyLibrary(models.Model):
 
     def __str__(self):
         return "{} - {}".format(self.artist.name, self.frequency)
+
+    @property
+    def tracks(self):
+        return self.artist.track.all()

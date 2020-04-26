@@ -14,7 +14,7 @@
          - {{ afc.frequency }}
      </h1>
         <ol>
-            {% for t in tracks %}
+            {% for t in afc.tracks %}
                 <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
             {% endfor %}
         </ol>

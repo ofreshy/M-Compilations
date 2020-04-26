@@ -6,14 +6,25 @@ from musik_lib.models.stats import *
 
 
 def get_track_artists(artist_field, artists_dict):
-    artist_names = [a.strip() for a in re.split('& |and', artist_field)]
-    artist_set = set()
-    for artist_name in artist_names:
-        if artist_name not in artists_dict:
-            artist = Artist.objects.create(name=artist_name)
-            artists_dict[artist_name] = artist
-        artist_set.add(artists_dict[artist_name])
-    return artist_set
+    def get_normalized_names(artist_str):
+        artist_names = list()
+        if not artist_str:
+            return artist_names
+        artist_list = [a.strip() for a in re.split("& |and|And|AND", artist_str)]
+
+        for artist_name in artist_list:
+            artist_name = artist_name.strip()
+            artist_obj, created = Artist.objects.get_or_create(name=artist_name)
+            if created:
+                artists_dict[artist_name] = artist_obj
+            artist_names.append(artists_dict[artist_name])
+        return artist_names
+
+    artist_field = artist_field.replace("Feat", "feat").replace("Feat.", "feat").replace("feat.", "feat")
+    main_artists, _, feat_artists = artist_field.partition("feat")
+    main_artists = get_normalized_names(main_artists)
+    feat_artists = get_normalized_names(feat_artists)
+    return main_artists, feat_artists
 
 
 def ingest_collection(d):
@@ -37,11 +48,11 @@ def ingest_collection(d):
 
 def _get_or_create_track(track_dict, artist_dict):
     track_name = track_dict["name"].strip()
-    track_artists = get_track_artists(track_dict["artist"], artist_dict)
+    main_artists, feat_artists = get_track_artists(track_dict["artist"], artist_dict)
     db_tracks = Track.objects.filter(name=track_name)
 
     if db_tracks:
-        track_artists_ids = {a.id for a in track_artists}
+        track_artists_ids = {a.id for a in (main_artists + feat_artists)}
         for track in db_tracks:
             db_track_set_id = {a.id for a in track.artist.all()}
             if db_track_set_id == track_artists_ids:
@@ -58,7 +69,9 @@ def _get_or_create_track(track_dict, artist_dict):
         duration=duration,
         released_year=track_dict["released_year"],
     )
-    track.artist.add(*track_artists)
+    track.artist.add(*main_artists)
+    if feat_artists:
+        track.featuring.add(*feat_artists)
     track.save()
     # return created=True, track
     return True, track

@@ -54,3 +54,30 @@ class CollectionTest(TestCase):
         c.track.add(t1, t2)
 
         self.assertEqual(c.number_of_tracks(), 2)
+
+
+class TrackTest(TestCase):
+    def test_artist_names_single(self):
+        t = fixtures.track_1(name="t1")
+        t.artist.add(
+            fixtures.artist_1(name="a1")
+        )
+        self.assertEqual(t.artist_names, "a1")
+
+    def test_artist_names_several(self):
+        t = fixtures.track_1(name="t1")
+        t.artist.add(
+            fixtures.artist_1(name="a1"),
+            fixtures.artist_1(name="a2")
+        )
+        self.assertEqual(t.artist_names, "a1 & a2")
+
+    def test_artist_names_feat(self):
+        t = fixtures.track_1(name="t1")
+        t.artist.add(
+            fixtures.artist_1(name="a1"),
+        )
+        t.featuring.add(
+            fixtures.artist_1(name="a2"),
+        )
+        self.assertEqual(t.artist_names, "a1 Feat. a2")

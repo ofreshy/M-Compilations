@@ -26,6 +26,16 @@ class Artist(models.Model):
     def __str__(self):
         return self.name
 
+    @property
+    def tracks(self):
+        tracks = []
+        if hasattr(self, "main_artist"):
+            tracks.extend([t for t in self.main_artist.all()])
+        if hasattr(self, "featured_artist"):
+            tracks.extend([t for t in self.featured_artist.all()])
+        return tracks
+
+
 
 class Track(models.Model):
     """
@@ -40,12 +50,23 @@ class Track(models.Model):
     featuring = models.ManyToManyField(Artist, related_name='featured_artist')
 
     def __str__(self):
-        disp = self.name
-        if hasattr(self, "artist"):
-            artists = " & ".join([a.name for a in self.artist.all()])
-            disp += " - {}".format(artists)
-        disp += " - " + str(self.duration)
-        return disp
+        return "{} - {}".format(self.name, self.artist_names)
+
+    @property
+    def artist_names(self):
+        artist_names = ""
+        artists = self.artist.all()
+        if artists:
+            artist_names += " & ".join([a.name for a in artists])
+        featuring = self.featuring.all()
+        if featuring:
+            artist_names += " Feat. "
+            artist_names += " & ".join([a.name for a in featuring])
+        return artist_names
+
+    @property
+    def artists(self):
+        return [a for a in self.artist.all()] + [a for a in self.featuring.all()]
 
 
 class Collection(models.Model):

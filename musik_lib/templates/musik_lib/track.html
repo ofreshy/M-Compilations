@@ -7,7 +7,7 @@
 <body>
      <h1>{{ track }}</h1>
         <ul>
-            {% for a in track.artist.all %}
+            {% for a in track.artists %}
                 <li><a href="/lib/artist/{{ a.id }}/">{{ a.name }}</a></li>
             {% endfor %}
         </ul>

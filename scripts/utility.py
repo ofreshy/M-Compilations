@@ -10,7 +10,7 @@ def get_track_artists(artist_field, artists_dict):
         artist_names = list()
         if not artist_str:
             return artist_names
-        artist_list = [a.strip() for a in re.split("& |and|And|AND", artist_str)]
+        artist_list = [a.strip() for a in re.split("^& |^and|^And|^AND", artist_str)]
 
         for artist_name in artist_list:
             artist_name = artist_name.strip()

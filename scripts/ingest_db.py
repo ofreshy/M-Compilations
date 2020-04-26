@@ -3,6 +3,7 @@ django.setup()
 
 
 from musik_lib.collections.init import get_all_collection_files, read_collection_file
+from musik_lib.models.base import Library
 from scripts import utility
 
 import argparse
@@ -39,6 +40,7 @@ def main():
     if len(file_names) == 1 and args.file_names[0] == "all":
         file_names = get_all_collection_files()
 
+    _ = Library.load()
     for file_name in file_names:
         print("Reading file name %s" % file_name)
         collection = read_collection_file(file_name)

@@ -7,16 +7,14 @@
 <body>
      <h1>{{ artist }}</h1>
 
-     <h2>Tracks</h2>
         <ul>
             {% for t in tracks %}
                 <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
-            {% endfor %}
-        </ul>
-    <h2>Collections</h2>
-        <ul>
-            {% for c in collections %}
-                <li><a href="/lib/collection/{{ c.id }}/">{{ c }}</a></li>
+                    <ul>
+                        {% for c in t.collection_set.all %}
+                            <li><a href="/lib/collection/{{ c.id }}/">{{ c }}</a></li>
+                        {% endfor %}
+                     </ul>
             {% endfor %}
         </ul>
 

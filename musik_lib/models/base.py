@@ -36,7 +36,6 @@ class Artist(models.Model):
         return tracks
 
 
-
 class Track(models.Model):
     """
         Music track

@@ -36,10 +36,10 @@ class TrackListView(generic.ListView):
 
 def artist(request, artist_id):
     _artist = get_object_or_404(Artist, pk=artist_id)
-    tracks = _artist.track.all()
+    tracks = _artist.main_artist.all()
     collections = []
     for t in tracks:
-        collections.extend((c.id, c) for c in t.collection.all())
+        collections.extend((c.id, c) for c in t.collection_set.all())
     unique_collections = list(dict(collections).values())
     sorted_collections = sorted(unique_collections, key=lambda x: x.ordinal)
 

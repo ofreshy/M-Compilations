@@ -1,10 +1,12 @@
+import re
+
 from django.utils.dateparse import parse_duration
 
 from musik_lib.models.stats import *
 
 
 def get_track_artists(artist_field, artists_dict):
-    artist_names = [a.strip() for a in artist_field.split("&")]
+    artist_names = [a.strip() for a in re.split('& |and', artist_field)]
     artist_set = set()
     for artist_name in artist_names:
         if artist_name not in artists_dict:
@@ -20,8 +22,7 @@ def ingest_collection(d):
         nick_name=d["nick_name"],
         description=d["description"],
         created_year=d["created_year"],
-        ordinal=d["ordinal"],
-        library=Library.load()
+        ordinal=d["ordinal"]
     )
 
     # Safe to key by name as it is unique
@@ -29,10 +30,8 @@ def ingest_collection(d):
         [(a.name, a) for a in Artist.objects.all()]
     )
 
-    tracks = d["tracks"]
-    for t in tracks:
-        _, track = _get_or_create_track(t, artists)
-        collection.track_set.add(track)
+    tracks = [_get_or_create_track(t, artists)[1] for t in d["tracks"]]
+    collection.track.add(*tracks)
     collection.save()
 
 
@@ -44,7 +43,7 @@ def _get_or_create_track(track_dict, artist_dict):
     if db_tracks:
         track_artists_ids = {a.id for a in track_artists}
         for track in db_tracks:
-            db_track_set_id = {a.id for a in track.artist_set.all()}
+            db_track_set_id = {a.id for a in track.artist.all()}
             if db_track_set_id == track_artists_ids:
                 # This is a duplicate track. return created=False, track
                 return False, track
@@ -59,7 +58,7 @@ def _get_or_create_track(track_dict, artist_dict):
         duration=duration,
         released_year=track_dict["released_year"],
     )
-    track.artist_set.add(*track_artists)
+    track.artist.add(*track_artists)
     track.save()
     # return created=True, track
     return True, track
@@ -69,6 +68,3 @@ def clear_db():
     Collection.objects.all().delete()
     Track.objects.all().delete()
     Artist.objects.all().delete()
-
-    CollectionStat.objects.all().delete()
-    LibraryStat.objects.all().delete()

@@ -36,8 +36,8 @@ class LibraryStat(models.Model):
         self.update_duplicate_tracks()
 
     def update_collection_stats(self):
-        for coll in self.library.collection_set.all():
-            c_stat, _ = CollectionStat.objects.get_or_create(collection=coll, library_stat=self)
+        for coll in self.library.collections:
+            c_stat, _ = CollectionStat.objects.get_or_create(collection=coll)
             c_stat.update()
 
     def update_artist_frequency_counts(self):
@@ -63,7 +63,7 @@ class LibraryStat(models.Model):
             afl.save()
             self.artistfrequencylibrary_set.add(afl)
 
-        for c_stat in self.collectionstat_set.all():
+        for c_stat in self.collection_stats:
             add_collection_counts(c_stat.update_artist_frequency_counts())
 
         for aid, freq in frequency_counts.items():
@@ -71,14 +71,21 @@ class LibraryStat(models.Model):
         
         return self.artistfrequencylibrary_set.all()
 
+    @property
+    def collection_stats(self):
+        return CollectionStat.objects.all()
+
     def update_duplicate_tracks(self):
-        duplicate_tracks = [
-            (track, c_stat) for c_stat in self.collectionstat_set.all()
-            for track in c_stat.collection.track_set.all()
-            if len(track.collection.all()) > 1
+        track_counts = [
+            (track, c_stat, track.collection_set.count()) for c_stat in self.collection_stats
+            for track in c_stat.collection.track.all()
         ]
-        for track, c_stat in duplicate_tracks:
+        duplicate_tracks = [tup for tup in track_counts if tup[2] > 1]
+
+        for track, c_stat, frequency in duplicate_tracks:
             dt = DuplicateTrack.objects.get_or_create(track=track)[0]
+            dt.frequency = frequency
+            dt.save()
             c_stat.duplicate_tracks.add(dt)
             c_stat.save()
         return DuplicateTrack.objects.all()
@@ -90,6 +97,8 @@ class DuplicateTrack(models.Model):
         on_delete=models.CASCADE,
         primary_key=True,
     )
+
+    frequency = models.PositiveSmallIntegerField(default=2)
 
     def __str__(self):
         return self.track.name
@@ -109,11 +118,6 @@ class CollectionStat(models.Model):
         on_delete=models.CASCADE,
         primary_key=True,
     )
-    library_stat = models.ForeignKey(
-        LibraryStat,
-        on_delete=models.CASCADE,
-        default=None,
-    )
     duplicate_tracks = models.ManyToManyField(DuplicateTrack)
 
     def __str__(self):
@@ -130,7 +134,7 @@ class CollectionStat(models.Model):
         frequency_counts = defaultdict(int)
         unique_artists = dict()
 
-        artists = [a for track in self.collection.track_set.all() for a in track.artist_set.all()]
+        artists = [a for track in self.collection.track.all() for a in track.artist.all()]
         for artist in artists:
             frequency_counts[artist.id] += 1
             unique_artists[artist.id] = artist
@@ -169,7 +173,7 @@ class ArtistFrequencyCollection(models.Model):
 
     @property
     def tracks(self):
-        return self.collection_stat.collection.track_set.filter(artist=self.artist)
+        return self.collection_stat.collection.track.filter(artist=self.artist)
 
 
 class ArtistFrequencyLibrary(models.Model):

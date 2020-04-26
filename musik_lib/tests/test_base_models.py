@@ -24,7 +24,7 @@ class CollectionTest(TestCase):
 
     def test_empty_collection_duration(self):
         c = fixtures.collection_1()
-        self.assertEqual(c.duration().seconds, 0)
+        self.assertEqual(c.duration.seconds, 0)
 
     def test_duration_sum(self):
         c = fixtures.collection_1()
@@ -34,23 +34,23 @@ class CollectionTest(TestCase):
         t1 = fixtures.track_1(duration=duration1)
         t2 = fixtures.track_2(duration=duration2)
 
-        c.track_set.add(t1, t2)
+        c.track.add(t1, t2)
 
-        actual = c.duration()
+        actual = c.duration
         expected = t1.duration + t2.duration
 
         self.assertEqual(actual.seconds, expected.seconds)
 
-    def test_empty_track_set(self):
+    def test_empty_tracks(self):
         c = fixtures.collection_1()
         self.assertEqual(c.number_of_tracks(), 0)
 
-    def test_track_set_count(self):
+    def test_track_count(self):
         c = fixtures.collection_1()
 
         t1 = fixtures.track_1()
         t2 = fixtures.track_2()
 
-        c.track_set.add(t1, t2)
+        c.track.add(t1, t2)
 
         self.assertEqual(c.number_of_tracks(), 2)

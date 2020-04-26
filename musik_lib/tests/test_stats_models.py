@@ -16,14 +16,14 @@ class CollectionStatTest(TestCase):
         t1 = fixtures.track_1()
         t2 = fixtures.track_2()
 
-        t1.artist_set.add(artist)
-        t2.artist_set.add(artist)
+        t1.artist.add(artist)
+        t2.artist.add(artist)
 
         t1.save()
         t2.save()
 
         c1 = fixtures.collection_1()
-        c1.track_set.add(t1, t2)
+        c1.track.add(t1, t2)
         c1.save()
 
         c_stat = fixtures.collection_stat(collection=c1)
@@ -42,14 +42,14 @@ class CollectionStatTest(TestCase):
         t1 = fixtures.track_1()
         t2 = fixtures.track_2()
 
-        t1.artist_set.add(a1)
-        t2.artist_set.add(a1, a2)
+        t1.artist.add(a1)
+        t2.artist.add(a1, a2)
 
         t1.save()
         t2.save()
 
         c1 = fixtures.collection_1()
-        c1.track_set.add(t1, t2)
+        c1.track.add(t1, t2)
         c1.save()
 
         c_stat = fixtures.collection_stat(collection=c1)
@@ -79,15 +79,15 @@ class LibraryStatTest(TestCase):
         c1, c2 = fixtures.collection_1(), fixtures.collection_2()
 
         # Wire the collections
-        t1.artist_set.add(a1)
-        t2.artist_set.add(a1, a2)
-        t3.artist_set.add(a1, a2, a3)
-        c1.track_set.add(t1, t2)  # a1 + a1+a2
-        c2.track_set.add(t2, t3)  # a1+a2 + a1+a2+a3
+        t1.artist.add(a1)
+        t2.artist.add(a1, a2)
+        t3.artist.add(a1, a2, a3)
+        c1.track.add(t1, t2)  # a1 + a1+a2
+        c2.track.add(t2, t3)  # a1+a2 + a1+a2+a3
 
         l_stat = fixtures.library_stat()
-        _ = fixtures.collection_stat(collection=c1, lib_stat=l_stat)
-        _ = fixtures.collection_stat(collection=c2, lib_stat=l_stat)
+        _ = fixtures.collection_stat(collection=c1)
+        _ = fixtures.collection_stat(collection=c2)
 
         artist_frequency_counts = l_stat.update_artist_frequency_counts()
         self.assertEqual(3, len(artist_frequency_counts))
@@ -113,17 +113,17 @@ class LibraryStatTest(TestCase):
         c1, c2 = fixtures.collection_1(), fixtures.collection_2()
 
         # Wire the collections
-        t1.artist_set.add(a1)
-        t2.artist_set.add(a1, a2)
-        t3.artist_set.add(a1, a2, a3)
-        t4.artist_set.add(a1)
-        c1.track_set.add(t1, t2, t4)
-        c2.track_set.add(t2, t3, t4)
+        t1.artist.add(a1)
+        t2.artist.add(a1, a2)
+        t3.artist.add(a1, a2, a3)
+        t4.artist.add(a1)
+        c1.track.add(t1, t2, t4)
+        c2.track.add(t2, t3, t4)
+
+        _ = fixtures.collection_stat(collection=c1)
+        _ = fixtures.collection_stat(collection=c2)
 
         l_stat = fixtures.library_stat()
-        _ = fixtures.collection_stat(collection=c1, lib_stat=l_stat)
-        _ = fixtures.collection_stat(collection=c2, lib_stat=l_stat)
-
         duplicate_tracks = l_stat.update_duplicate_tracks()
         track_ids = {dt.track_id for dt in duplicate_tracks}
         self.assertEqual(set([t2.id, t4.id]), track_ids)

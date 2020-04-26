@@ -54,7 +54,6 @@ def collection_1(name="C1", nick_name="C1 nick", description="C1 description", r
         description=description,
         created_year=released_year,
         ordinal=ordinal,
-        library=lib or library()
     )[0]
 
 
@@ -65,12 +64,10 @@ def collection_2(name="C2", nick_name="C2 nick", description="C2 description", r
         description=description,
         created_year=released_year,
         ordinal=ordinal,
-        library=lib or library()
     )[0]
 
 
-def collection_stat(collection=None, lib_stat=None):
+def collection_stat(collection=None):
     return CollectionStat.objects.get_or_create(
             collection=collection or collection_1(),
-            library_stat=lib_stat or library_stat(),
     )[0]

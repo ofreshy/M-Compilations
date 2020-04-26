@@ -26,6 +26,8 @@ urlpatterns = [
     # ex: /collection_stat/5/
     path('collection_stat/<int:pk>/', views.CollectionStatDetailView.as_view(), name='collection_stats'),
 
+    # ex: /afc
+    path('afc/', views.ArtistFrequencyCollectionListView.as_view(), name='afcs'),
     # ex: /afc/5/
     path('afc/<int:pk>/', views.ArtistFrequencyCollectionDetailView.as_view(), name='afc'),
 

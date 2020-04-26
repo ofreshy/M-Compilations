@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Artist Frequency Library</title>
+</head>
+<body>
+     </h1>
+        <ol>
+            {% for afc in afcs %}
+                <li><a href="/lib/afc/{{ afc.id }}/">{{ afc.artist }}, {{ afc.collection_stat.collection.name}}, {{afc.frequency}}</a></li>
+            {% endfor %}
+        </ol>
+
+</body>
+</html>

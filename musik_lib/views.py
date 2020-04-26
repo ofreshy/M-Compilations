@@ -103,6 +103,15 @@ class ArtistFrequencyCollectionDetailView(generic.DetailView):
     context_object_name = 'afc'
 
 
+class ArtistFrequencyCollectionListView(generic.ListView):
+    template_name = 'musik_lib/afc_list.html'
+    context_object_name = 'afcs'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return ArtistFrequencyCollection.objects.order_by('-frequency')
+
+
 class ArtistFrequencyLibraryDetailView(generic.DetailView):
     model = ArtistFrequencyLibrary
     template_name = 'musik_lib/afl.html'

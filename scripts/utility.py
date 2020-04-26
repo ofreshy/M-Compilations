@@ -4,13 +4,15 @@ from django.utils.dateparse import parse_duration
 
 from musik_lib.models.stats import *
 
+AND_REGEX = re.compile(" & | and ", re.IGNORECASE)
+
 
 def get_track_artists(artist_field, artists_dict):
     def get_normalized_names(artist_str):
         artist_names = list()
         if not artist_str:
             return artist_names
-        artist_list = [a.strip() for a in re.split("^& |^and|^And|^AND", artist_str)]
+        artist_list = [a.strip() for a in AND_REGEX.split(artist_str)]
 
         for artist_name in artist_list:
             artist_name = artist_name.strip()

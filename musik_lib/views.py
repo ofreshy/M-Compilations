@@ -93,7 +93,7 @@ class ArtistFrequencyCollectionListView(generic.ListView):
     context_object_name = 'afcs'
 
     def get_queryset(self):
-        return ArtistFrequencyCollection.objects.order_by('-frequency')
+        return ArtistFrequencyCollection.objects.order_by('-frequency', Upper("artist__name"))
 
 
 class ArtistFrequencyLibraryDetailView(generic.DetailView):
@@ -107,4 +107,4 @@ class ArtistFrequencyLibraryListView(generic.ListView):
     context_object_name = 'afls'
 
     def get_queryset(self):
-        return ArtistFrequencyLibrary.objects.order_by('-frequency')
+        return ArtistFrequencyLibrary.objects.order_by('-frequency', Upper("artist__name"))

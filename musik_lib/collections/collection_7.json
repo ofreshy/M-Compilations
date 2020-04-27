@@ -2,6 +2,7 @@
   "name": "Silence in the Studio",
   "nick_name": "Number 7",
   "description": "Quiet songs",
+  "created_year": "2004",
   "ordinal": "7",
   "tracks": [
     {"name":"Pigs On The Wing (Part One)", "artist": "Pink Floyd", "duration":"3:23", "released_year": 1977},
@@ -23,7 +24,6 @@
     {"name":"Caramel", "artist": "Suzanne Vega", "duration":"2:54", "released_year": 1996},
     {"name":"Bang Bang", "artist": "Nancy Sinatra", "duration":"2:41", "released_year": 1994},
     {"name":"Famous Blue Raincoat", "artist": "Leonard Cohen", "duration":"5:09", "released_year": 1971},
-    {"name":"Pigs On The Wing (Part Two)", "artist": "Pink Floyd", "duration":"1:26", "released_year": 1977},
-
+    {"name":"Pigs On The Wing (Part Two)", "artist": "Pink Floyd", "duration":"1:26", "released_year": 1977}
   ]
 }

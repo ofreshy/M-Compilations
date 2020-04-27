@@ -28,12 +28,10 @@ class Artist(models.Model):
 
     @property
     def tracks(self):
-        tracks = []
-        if hasattr(self, "main_artist"):
-            tracks.extend([t for t in self.main_artist.all()])
-        if hasattr(self, "featured_artist"):
-            tracks.extend([t for t in self.featured_artist.all()])
-        return tracks
+        return \
+            [t for t in self.main_artist.all()] \
+            + \
+            [t for t in self.featured_artist.all()]
 
 
 class Track(models.Model):

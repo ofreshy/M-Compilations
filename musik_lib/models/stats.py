@@ -134,7 +134,7 @@ class CollectionStat(models.Model):
         frequency_counts = defaultdict(int)
         unique_artists = dict()
 
-        artists = [a for track in self.collection.track.all() for a in track.artist.all()]
+        artists = [a for track in self.collection.track.all() for a in track.artists]
         for artist in artists:
             frequency_counts[artist.id] += 1
             unique_artists[artist.id] = artist
@@ -198,4 +198,4 @@ class ArtistFrequencyLibrary(models.Model):
 
     @property
     def tracks(self):
-        return self.artist.track.all()
+        return self.artist.tracks

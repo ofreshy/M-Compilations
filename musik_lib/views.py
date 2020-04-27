@@ -1,6 +1,6 @@
 
-
-from django.shortcuts import get_object_or_404, render
+from django.db.models.functions import Upper
+from django.shortcuts import render
 from django.views import generic
 
 from musik_lib.models.stats import *
@@ -11,7 +11,6 @@ class IndexView(generic.ListView):
     context_object_name = 'collections'
 
     def get_queryset(self):
-        """Return the last five published questions."""
         return Collection.objects.order_by('ordinal')
 
 
@@ -51,8 +50,7 @@ class ArtistListView(generic.ListView):
     context_object_name = 'artists'
 
     def get_queryset(self):
-        """Return the last five published questions."""
-        return Artist.objects.order_by('name')
+        return Artist.objects.order_by(Upper('name'))
 
 
 class CollectionStatListView(generic.ListView):
@@ -60,7 +58,6 @@ class CollectionStatListView(generic.ListView):
     context_object_name = 'collections_stats'
 
     def get_queryset(self):
-        """Return the last five published questions."""
         return CollectionStat.objects.order_by('collection_id')
 
 
@@ -96,7 +93,6 @@ class ArtistFrequencyCollectionListView(generic.ListView):
     context_object_name = 'afcs'
 
     def get_queryset(self):
-        """Return the last five published questions."""
         return ArtistFrequencyCollection.objects.order_by('-frequency')
 
 
@@ -111,5 +107,4 @@ class ArtistFrequencyLibraryListView(generic.ListView):
     context_object_name = 'afls'
 
     def get_queryset(self):
-        """Return the last five published questions."""
         return ArtistFrequencyLibrary.objects.order_by('-frequency')

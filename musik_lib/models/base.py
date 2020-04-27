@@ -49,7 +49,7 @@ class Track(models.Model):
     featuring = models.ManyToManyField(Artist, related_name='featured_artist')
 
     def __str__(self):
-        return "{} - {}".format(self.name, self.artist_names)
+        return "{} - {} - {}".format(self.name, self.artist_names, self.duration)
 
     @property
     def artist_names(self):

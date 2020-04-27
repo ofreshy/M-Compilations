@@ -4,6 +4,7 @@ django.setup()
 
 from musik_lib.collections.init import get_all_collection_files, read_collection_file
 from musik_lib.models.base import Library
+from musik_lib.models.stats import LibraryStat
 from scripts import utility
 
 import argparse
@@ -46,6 +47,10 @@ def main():
         collection = read_collection_file(file_name)
         utility.ingest_collection(collection)
         print("Done ingesting file name %s" % file_name)
+
+    l_stat = LibraryStat.load()
+    print("Updating stats")
+    l_stat.update()
 
     print("Finish DB ingest script")
 

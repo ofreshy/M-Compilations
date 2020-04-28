@@ -12,6 +12,11 @@
         <ol>
             {% for t in afl.tracks %}
                 <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
+                    <ul>
+                        {% for c in t.collection_set.all %}
+                            <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
+                        {% endfor %}
+                    </ul>
             {% endfor %}
         </ol>
 

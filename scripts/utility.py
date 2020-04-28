@@ -10,7 +10,11 @@ AND_REGEX = re.compile(" & | and ", re.IGNORECASE)
 def get_track_artists(artist_field, artists_dict):
 
     def normalize_artist_names(artist_names):
-        return [name.strip().replace("\\&", "&") for name in AND_REGEX.split(artist_names)]
+        return [
+            name.strip().replace("\\&", "&")
+            for name
+            in AND_REGEX.split(artist_names)
+        ]
 
     def get_normalized_names(artist_str):
         artist_names = list()

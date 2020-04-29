@@ -101,7 +101,7 @@ class DuplicateTrack(models.Model):
     frequency = models.PositiveSmallIntegerField(default=2)
 
     def __str__(self):
-        return self.track.name
+        return "{} - {}".format(self.track, self.frequency)
 
     @property
     def name(self):

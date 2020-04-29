@@ -15,12 +15,11 @@
     {"name":"Obstacle 2", "artist": "Interpol", "duration":"3:48", "released_year": 2002},
     {"name":"The Second Line", "artist": "Clinic", "duration":"2:31", "released_year": 2000},
     {"name":"No One Knows", "artist": "Queens Of The Stone Age", "duration":"4:14", "released_year": 2002},
-
     {"name":"Car", "artist": "Built To Spill", "duration":"2:58", "released_year": 1994},
     {"name":"Dolphins", "artist": "Tim Buckley", "duration":"3:12", "released_year": 1973},
     {"name":"Jesus, Etc.", "artist": "Wilco", "duration":"3:52", "released_year": 2002},
     {"name":"Illumination", "artist": "Paul Weller", "duration":"3:08", "released_year": 2002},
-    {"name":"Sleep The Clock Around", "artist": "Belle & Sebastian", "duration":"4:56", "released_year": 1998},
+    {"name":"Sleep The Clock Around", "artist": "Belle \\& Sebastian", "duration":"4:56", "released_year": 1998},
     {"name":"Sister Due", "artist": "dEUS", "duration":"5:31", "released_year": 2003},
     {"name":"Not Even Stevie Nicks", "artist": "Calexico", "duration":"2:44", "released_year": 2003},
     {"name":"Remind Me", "artist": "Röyksopp", "duration":"3:37", "released_year": 2001},

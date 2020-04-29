@@ -26,6 +26,15 @@ class CollectionDetailView(generic.DetailView):
     template_name = 'musik_lib/collection.html'
 
 
+class CollectionListView(generic.ListView):
+    template_name = 'musik_lib/collection_list.html'
+    context_object_name = 'collections'
+
+    def get_queryset(self):
+        """Return the last five published questions."""
+        return Collection.objects.order_by('ordinal')
+
+
 class TrackDetailView(generic.DetailView):
     model = Track
     template_name = 'musik_lib/track.html'

@@ -5,6 +5,9 @@ app_name = 'lib'
 urlpatterns = [
     # ex: /lib/
     path('', views.IndexView.as_view(), name='index'),
+
+    # /collection
+    path('collection/', views.CollectionListView.as_view(), name='collections'),
     # ex: /collection/1/
     path('collection/<int:pk>/', views.CollectionDetailView.as_view(), name='collection'),
 

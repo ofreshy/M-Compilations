@@ -5,6 +5,7 @@ from django.utils.dateparse import parse_duration
 from musik_lib.models.stats import *
 
 AND_REGEX = re.compile(" & | and ", re.IGNORECASE)
+FEAT_REGEX = re.compile(" feat | featuring | feat\\. ", re.IGNORECASE)
 
 
 def get_track_artists(artist_field, artists_dict):
@@ -29,8 +30,10 @@ def get_track_artists(artist_field, artists_dict):
             artist_names.append(artists_dict[artist_name])
         return artist_names
 
-    artist_field = artist_field.replace("Feat", "feat").replace("Feat.", "feat").replace("feat.", "feat")
-    main_artists, _, feat_artists = artist_field.partition("feat")
+    featuring = FEAT_REGEX.search(artist_field)
+    if featuring:
+        artist_field = artist_field.replace(featuring.group(), " feat ")
+    main_artists, _, feat_artists = artist_field.partition(" feat ")
     main_artists = get_normalized_names(main_artists)
     feat_artists = get_normalized_names(feat_artists)
     return main_artists, feat_artists

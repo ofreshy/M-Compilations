@@ -1,0 +1,28 @@
+{
+  "name": "To Dennis",
+  "nick_name": "Number 16",
+  "description": "Gave this to Dennis, My Yoga Teacher when I left NYC. Was compiled as one track",
+  "created_year": "2017",
+  "ordinal": "16",
+  "tracks": [
+    {"name":"Eleggua (Intro)", "artist": "Ibeyi", "duration":"1:17", "released_year": 2015},
+    {"name":"Black Lake", "artist": "Björk", "duration":"10:09", "released_year": 2015},
+    {"name":"Woods", "artist": "Bon Iver", "duration":"4:46", "released_year": 2009},
+    {"name":"This Is My Hand", "artist": "My Brightest Diamond", "duration":"3:46", "released_year": 2014},
+    {"name":"Piano Player", "artist": "Gil Scott-Heron & Jamie xx", "duration":"1:17", "released_year": 2011},
+    {"name":"New York Is Killing Me", "artist": "Gil Scott-Heron", "duration":"4:31", "released_year": 2010},
+    {"name":"22 Letters", "artist": "Victoria Hanna", "duration":"3:23", "released_year": 2015},
+    {"name":"Silver Bed", "artist": "Red Axes", "duration":"5:47", "released_year": 2013},
+    {"name":"Maya's Valse", "artist": "TheAngelcy", "duration":"1:21", "released_year": 2014},
+    {"name":"Meshoch Be Gufi", "artist": "Riff Cohen", "duration":"4:51", "released_year": 2012},
+    {"name":"Arrabi al Arabe", "artist": "Mariem Hassan", "duration":"4:27", "released_year": 2012},
+    {"name":"River Man", "artist": "Nick Drake", "duration":"4:19", "released_year": 1969},
+    {"name":"Please Please Please, Let Me Get What I Want", "artist": "The Smiths", "duration":"1:53", "released_year": 1984},
+    {"name":"Divine", "artist": "Laura Marling", "duration":"2:59", "released_year": 2015},
+    {"name":"Corpus Christi Carol", "artist": "Jeff Buckley", "duration":"2:57", "released_year": 1994},
+    {"name":"Á Ferð Til Breiðafjarðar", "artist": "Steindór Andersen & Sigur Rós", "duration":"5:37", "released_year": 2010},
+    {"name":"The Sun Is Going Down II", "artist": "Sóley", "duration":"5:33", "released_year": 2011},
+    {"name":"Outro", "artist": "John Grant", "duration":"0:31", "released_year": 2015},
+    {"name":"Ibeyi (Outro) (Mommy, I lie To You)", "artist": "Ibeyi", "duration":"1:49", "released_year": 2015}
+  ]
+}

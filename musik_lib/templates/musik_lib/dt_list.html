@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Duplicate Tracks</title>
+</head>
+<body>
+     </h1>
+        <ol>
+            {% for dt in dts %}
+                <li><a href="/lib/dt/{{ dt.track_id }}/">{{ dt }}</a></li>
+            {% endfor %}
+        </ol>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "name": "The Folk Album",
+  "nick_name": "To Richard II",
+  "description": "Focus on Fold as the name suggest",
+  "created_year": "2008",
+  "ordinal": "12",
+  "tracks": [
+    {"name":"My My, Hey Hey (Out Of The Blue) - Live", "artist": "Neil Young", "duration":"4:02", "released_year": 1979},
+    {"name":"You're lovely To Me", "artist": "Lucky Jim", "duration":"5:15", "released_year": 2003},
+    {"name":"Across The Wire", "artist": "Calexico", "duration":"3:27", "released_year": 2003},
+    {"name":"It Happens Every Time", "artist": "Tim Buckley", "duration":"1:52", "released_year": 1966},
+    {"name":"Alone Again Or", "artist": "Love", "duration":"3:18", "released_year": 1967},
+    {"name":"Vincent O'Brien", "artist": "M. Ward", "duration":"2:39", "released_year": 2003},
+    {"name":"Sgt. Pepper's Lonely Hearts Club Band (Reprise)", "artist": "The Beatles", "duration":"1:23", "released_year": 1975},
+    {"name":"Hello, I Love You", "artist": "The Doors", "duration":"2:14", "released_year": 1968},
+    {"name":"I'm The Man Who Loves You", "artist": "Wilco", "duration":"3:56", "released_year": 2002},
+    {"name":"Tango Till They Die", "artist": "Tom Waits", "duration":"2:52", "released_year": 1985},
+    {"name":"Poor Boy, Low Key", "artist": "M. Ward", "duration":"3:29", "released_year": 2003},
+    {"name":"Rhineland (Heartland)", "artist": "Beirut", "duration":"3:59", "released_year": 2006},
+    {"name":"Theologians", "artist": "Wilco", "duration":"3:33", "released_year": 2005},
+    {"name":"Wintertime Love", "artist": "The Doors", "duration":"1:54", "released_year": 1968},
+    {"name":"Bessie Smith", "artist": "Bob Dylan & The Band", "duration":"4:17", "released_year": 1975},
+    {"name":"The Only Living Boy In New York", "artist": "Simon \\& Garfunkel", "duration":"3:58", "released_year": 1970},
+    {"name":"No Man Can Find The War", "artist": "Tim Buckley", "duration":"2:59", "released_year": 1967},
+    {"name":"Eyepennis", "artist": "Saprklhorse", "duration":"5:28", "released_year": 2001},
+    {"name":"Transfiguration #1 ", "artist": "M. Ward", "duration":"2:42", "released_year": 2003}
+  ]
+}

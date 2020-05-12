@@ -65,5 +65,3 @@ Augment admin tooling to link to wiki pages.
 - *Collection* - A collection of music Tracks.
 - *Track* - A music track associated with Artists.
 - *Artist* - Composer of music track.
-
-

@@ -1,0 +1,29 @@
+{
+  "name": "An Album",
+  "nick_name": "Number 10",
+  "description": "Bunch of songs that I quite like, probably most Zeitgest album that I had so far",
+  "created_year": "2004",
+  "ordinal": "10",
+  "tracks": [
+    {"name":"The Day We All Died", "artist": "The Reindeer Section", "duration":"2:01", "released_year": 2001},
+    {"name":"Conversation Intercom", "artist": "Soulwax", "duration":"3:07", "released_year": 1998},
+    {"name":"Happy Endings", "artist": "Something For Kate", "duration":"4:29", "released_year": 2001},
+    {"name":"Extreme Ways", "artist": "Moby", "duration":"3:58", "released_year": 2002},
+    {"name":"Bi-Pet", "artist": "Lali Puna", "duration":"3:13", "released_year": 2001},
+    {"name":"Ladybird", "artist": "Ladytron", "duration":"3:22", "released_year": 2001},
+    {"name":"A Wolf At The Door", "artist": "Radiohead", "duration":"4:07", "released_year": 2003},
+    {"name":"Obstacle 2", "artist": "Interpol", "duration":"3:48", "released_year": 2002},
+    {"name":"The Second Line", "artist": "Clinic", "duration":"2:31", "released_year": 2000},
+    {"name":"No One Knows", "artist": "Queens Of The Stone Age", "duration":"4:14", "released_year": 2002},
+    {"name":"Car", "artist": "Built To Spill", "duration":"2:58", "released_year": 1994},
+    {"name":"Dolphins", "artist": "Tim Buckley", "duration":"3:12", "released_year": 1973},
+    {"name":"Jesus, Etc.", "artist": "Wilco", "duration":"3:52", "released_year": 2002},
+    {"name":"Illumination", "artist": "Paul Weller", "duration":"3:08", "released_year": 2002},
+    {"name":"Sleep The Clock Around", "artist": "Belle \\& Sebastian", "duration":"4:56", "released_year": 1998},
+    {"name":"Sister Due", "artist": "dEUS", "duration":"5:31", "released_year": 2003},
+    {"name":"Not Even Stevie Nicks", "artist": "Calexico", "duration":"2:44", "released_year": 2003},
+    {"name":"Remind Me", "artist": "Röyksopp", "duration":"3:37", "released_year": 2001},
+    {"name":"Your Cheating Heart", "artist": "His Name Is Alive", "duration":"3:39", "released_year": 2001},
+    {"name":"I Saw Drones", "artist": "Boards Of Canada", "duration":"0:28", "released_year": 2002}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "To Assaf",
+  "nick_name": "אספסוף שירים",
+  "description": "Album for Assfa's bday. One of my favourites!",
+  "created_year": "2002",
+  "ordinal": "6",
+  "tracks": [
+    {"name":"So Young", "duration":"3:38", "artist": "Suede", "released_year": 1993},
+    {"name":"Hallelujah Jordan", "duration":"3:08", "artist": "Hot House Flowers", "released_year": 1988},
+    {"name":"Mind Over Money", "duration":"4:51", "artist": "Turin Brakes", "released_year": 2001},
+    {"name":"Mercy", "duration":"2:26", "artist": "Mojave 3", "released_year": 1995},
+    {"name":"Grace", "duration":"5:22", "artist": "Jeff Buckley", "released_year": 1994},
+    {"name":"Can't Change Me", "duration":"3:22", "artist": "Chris Cornell", "released_year": 1999},
+    {"name":"I'm Only Sleeping", "duration":"3:07", "artist": "The Vines", "released_year": 2002},
+    {"name":"Go Progress Chrome", "duration":"2:37", "artist": "Grandaddy", "released_year": 1997},
+    {"name":"Pets", "duration":"3:36", "artist": "Porno for Pyros", "released_year": 1993},
+    {"name":"Shoot Doris Day", "artist": "Super Furry Animals", "duration":"3:36", "released_year": 2001},
+    {"name":"Do It All Over Again", "artist": "Spiritualized", "duration":"3:46", "released_year": 2001},
+    {"name":"Low", "artist": "R.E.M.", "duration":"4:56", "released_year": 1991},
+    {"name":"Slow Emotion Replay", "artist": "The The", "duration":"3:54", "released_year": 1992},
+    {"name":"3rd Planet", "artist": "Modest Mouse", "duration":"3:58", "released_year": 2000},
+    {"name":"Without You I'm Nothing", "artist": "Placebo feat. David Bowie", "duration":"4:11", "released_year": 1999},
+    {"name":"Superstar", "artist": "Sonic Youth", "duration":"4:08", "released_year": 1994},
+    {"name":"Climbing Up The Walls", "artist": "Radiohead", "duration":"4:45", "released_year": 1997},
+    {"name":"Mayzelle", "artist": "Calla", "duration":"3:13", "released_year": 2001},
+    {"name":"Love Of Ivah", "artist": "Calla", "duration":"5:15", "released_year": 2001}
+  ]
+}

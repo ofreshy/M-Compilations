@@ -1,0 +1,26 @@
+{
+  "name": "Comeback",
+  "nick_name": "Number 13",
+  "description": "Have not made albums for a while, 5 years! and back here with some Indie taste as usual",
+  "created_year": "2013",
+  "ordinal": "13",
+  "tracks": [
+    {"name":"Chapel Song", "artist": "We Are Augustines", "duration":"3:09", "released_year": 2011},
+    {"name":"L.I.G.E.G.O.E.S.O.N.", "artist": "Noah \\& The Whale", "duration":"3:49", "released_year": 2011},
+    {"name":"Orange Crush", "artist": "R.E.M.", "duration":"3:52", "released_year": 1988},
+    {"name":"Solitude Is Bliss", "artist": "Tame Impala", "duration":"3:56", "released_year": 2010},
+    {"name":"L.S.F.", "artist": "Kasabian", "duration":"3:18", "released_year": 2004},
+    {"name":"Same Old Thing", "artist": "The Black Keys", "duration":"3:10", "released_year": 2008},
+    {"name":"Soldier Girl", "artist": "The Polyphonic Spree", "duration":"4:00", "released_year": 2003},
+    {"name":"In The Dark Places", "artist": "P.J. Harvey", "duration":"3:10", "released_year": 2011},
+    {"name":"Creature Fear", "artist": "Bon Iver", "duration":"3:07", "released_year": 2008},
+    {"name":"Team", "artist": "Bon Iver", "duration":"1:57", "released_year": 2008},
+    {"name":"Crystalised", "artist": "The xx", "duration":"3:22", "released_year": 2009},
+    {"name":"Pretty Face", "artist": "Sóley", "duration":"4:41", "released_year": 2011},
+    {"name":"Top Ranking", "artist": "Blonde Redhead", "duration":"3:33", "released_year": 2007},
+    {"name":"Sugar", "artist": "Ladytron", "duration":"1:50", "released_year": 2005},
+    {"name":"Song To Sing When I'm Lonely", "artist": "John Frusciante", "duration":"3:15", "released_year": 2004},
+    {"name":"The Scale", "artist": "Interpol", "duration":"3:25", "released_year": 2007},
+    {"name":"New York, I Love You But You’re Bringing Me Down", "artist": "LCD Soundsystem", "duration":"5:35", "released_year": 2007}
+  ]
+}

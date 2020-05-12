@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collection Stats</title>
+
+
+</head>
+<body>
+    <h1> <a href="/lib/collection/{{ c_stat.collection.id }}/">{{ c_stat.collection }}</a> </h1>
+    <h1>{{ c_stat }}</h1>
+     <h1> Artist Frequencies </h1>
+        <ol>
+            {% for afc in c_stat.artistfrequencycollection_set.all %}
+                <li><a href="/lib/afc/{{ afc.id }}/">{{ afc }}</a></li>
+            {% endfor %}
+        </ol>
+        {% if c_stat.duplicate_tracks.all %}
+        <h1>Duplicate Tracks</h1>
+            <ol>
+                {% for dt in c_stat.duplicate_tracks.all %}
+                    <li><a href="/lib/dt/{{ dt.pk }}/">{{ dt.track.name }}</a></li>
+                {% endfor %}
+            </ol>
+            {% else %}
+            <p>No Duplicate Tracks.</p>
+        {% endif %}
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "name": "Silence in the Studio",
+  "nick_name": "Number 7",
+  "description": "Quiet songs",
+  "created_year": "2004",
+  "ordinal": "7",
+  "tracks": [
+    {"name":"Pigs On The Wing (Part One)", "artist": "Pink Floyd", "duration":"3:23", "released_year": 1977},
+    {"name":"Marlene on the Wall", "artist": "Suzanne Vega", "duration":"3:39", "released_year": 1985},
+    {"name":"Hurt", "artist": "Johnny Cash", "duration":"3:37", "released_year": 2003},
+    {"name":"Vincent", "artist": "Don McLean", "duration":"4:03", "released_year": 1971},
+    {"name":"Who Brings Joy", "artist": "Paul Weller", "duration":"3:30", "released_year": 2002},
+    {"name":"The Weight Of My Words", "artist": "Kings Of Convenience & Erlend Oye & Elrick Glambeck Boe", "duration":"4:06", "released_year": 2001},
+    {"name":"Ana's Song (Open Fire)", "artist": "Silverchair", "duration":"3:42", "released_year": 1999},
+    {"name":"I Could Have Lied", "artist": "Red Hot Chili Peppers", "duration":"4:04", "released_year": 1991},
+    {"name":"I Will", "artist": "Radiohead", "duration":"1:59", "released_year": 2003},
+    {"name":"The Great Gig In The Sky", "artist": "Pink Floyd", "duration":"4:43", "released_year": 1973},
+    {"name":"Untitled #1 (Vaka)", "artist": "Sigur Rós", "duration":"6:38", "released_year": 2002},
+    {"name":"To Sheila", "artist": "The Smashing Pumpkins", "duration":"6:38", "released_year": 1998},
+    {"name":"Sea Song", "artist": "Robert Wyatt", "duration":"6:32", "released_year": 1974},
+    {"name":"Baker Baker", "artist": "Tori Amos", "duration":"3:13", "released_year": 1994},
+    {"name":"Once I Was", "artist": "Tim Buckley", "duration":"3:13", "released_year": 1967},
+    {"name":"Empty Boat", "artist": "The Birdwatcher", "duration":"4:30", "released_year": 2001},
+    {"name":"Caramel", "artist": "Suzanne Vega", "duration":"2:54", "released_year": 1996},
+    {"name":"Bang Bang", "artist": "Nancy Sinatra", "duration":"2:41", "released_year": 1994},
+    {"name":"Famous Blue Raincoat", "artist": "Leonard Cohen", "duration":"5:09", "released_year": 1971},
+    {"name":"Pigs On The Wing (Part Two)", "artist": "Pink Floyd", "duration":"1:26", "released_year": 1977}
+  ]
+}

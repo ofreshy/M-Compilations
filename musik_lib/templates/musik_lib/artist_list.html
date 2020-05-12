@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Artists</title>
+        <ul>
+        {% for a in artists %}
+            <li><a href="/lib/artist/{{ a.id }}/">{{ a }}</a></li>
+        {% endfor %}
+        </ul>
+</head>
+<body>
+
+</body>
+</html>

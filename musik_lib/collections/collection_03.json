@@ -1,0 +1,22 @@
+{
+  "name": "Class~A",
+  "nick_name": "To Ohad I",
+  "description": "Album for Ohad, composed of classic rock songs",
+  "created_year": "2002",
+  "ordinal": "3",
+  "tracks": [
+    {"name":"You Can't Always Get What You Want", "duration":"7:28", "artist": "The Rolling Stones", "released_year": 1969},
+    {"name":"Tunnel of Love", "duration":"8:10", "artist": "Dire Strait", "released_year": 1998},
+    {"name":"Satellite of Love", "duration":"3:42", "artist": "Lou Reed", "released_year": 1972},
+    {"name":"There is a Light that Never Goes Out", "duration":"4:04", "artist": "The Smiths", "released_year": 1986},
+    {"name":"In My Life", "duration":"2:26", "artist": "The Beatles", "released_year": 1965},
+    {"name":"Lady Grinning Soul", "duration":"3:55", "artist": "David Bowie", "released_year": 1973},
+    {"name":"Castles Made of Sand", "duration":"2:47", "artist": "Jimi Hendrix", "released_year": 1967},
+    {"name":"One More Cup of Coffee", "duration":"3:46", "artist": "Bob Dylan", "released_year": 1976},
+    {"name":"Fragile (Live @ ?)", "duration":"3:32", "artist": "Sting", "released_year": 1991},
+    {"name":"Hallelujah", "duration":"6:53", "artist": "Jeff Buckley", "released_year": 1994},
+    {"name":"No Surprises", "artist": "Radiohead", "duration":"3:49", "released_year": 1997},
+    {"name":"Fruit Tree", "artist": "Nick Drake", "duration":"4:45", "released_year": 1969},
+    {"name":"Suzanne", "artist": "Leonard Cohen", "duration":"3:47", "released_year": 1975}
+  ]
+}

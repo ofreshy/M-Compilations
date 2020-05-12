@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Artist Frequency Collection</title>
+</head>
+<body>
+     <h1>
+         <a href="/lib/artist/{{ afc.artist_id }}/">{{ afc.artist }}</a>
+         -
+         <a href="/lib/collection_stat/{{ afc.collection_stat_id }}/">{{ afc.collection_stat.collection.name }}</a>
+
+
+         - {{ afc.frequency }}
+     </h1>
+        <ol>
+            {% for t in afc.tracks %}
+                <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
+            {% endfor %}
+        </ol>
+
+</body>
+</html>

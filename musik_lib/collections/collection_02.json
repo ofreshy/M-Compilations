@@ -5,7 +5,7 @@
   "created_year": "2001",
   "ordinal": "2",
   "tracks": [
-    {"name":"Mad About You", "duration":"3:55", "artist": "String", "released_year": 2000},
+    {"name":"Mad About You", "duration":"3:55", "artist": "Sting", "released_year": 2000},
     {"name":"Givin' Up", "duration":"2:46", "artist": "Harry Diamond", "released_year": 2000},
     {"name":"Playboy Mommy", "duration":"4:05", "artist": "Tori Amos", "released_year": 2000},
     {"name":"Pyramid Song", "duration":"4:49", "artist": "Radiohead", "released_year": 2000},

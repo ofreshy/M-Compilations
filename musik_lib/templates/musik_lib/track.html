@@ -6,8 +6,9 @@
 </head>
 <body>
      <h1>{{ track }}</h1>
+     <p>  {{ track.released_year }}  </p>
         <ul>
-            {% for a in track.artist_set.all %}
+            {% for a in track.artists %}
                 <li><a href="/lib/artist/{{ a.id }}/">{{ a.name }}</a></li>
             {% endfor %}
         </ul>

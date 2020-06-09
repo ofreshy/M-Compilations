@@ -23,35 +23,42 @@ Setup the Django framework and git. Set up index route.
 
 Create the basic stats models and views. Link them to albums.
 
-### M3 - Richer information on the library
+### M3 - Library hosted
+
+```Maria can see see the library now on external website```
+
+Deploy the library on a hosted services such as Heroku.
+Create setup.py and move to use postgres required.
+
+### M4 - Richer information on the library
 
 ```Maria can now see years of the songs, the albums, genres, times, and other fields. Stats have upgraded to include that too```
 
 Provide tooling for scraping a 3rd party vendor for the information on songs.
 Update models to include the required info.
 
-### M4 - More collections are out
+### M5 - More collections are out
 
 ```Maria can now see the rest of the collection``
 
 Improve and use the tooling to import and expose the rest of the library.
 
 
-### M5 - Searchable library
+### M6 - Searchable library
 
 ```Maria can now search the library``
 
 Implement search functionality in framework (Django) on each entity.
 
 
-### M6 - Searchable library
+### M7 - Searchable library
 
 ```Maria can see really cool stats``
 
 Add funkier stats for library and collections.
 
 
-### M7 - Artists on the outside world
+### M8 - Artists on the outside world
 
 ```Maria can now see web pages (Wiki?) for artists``
 

@@ -16,6 +16,7 @@ extra_reqs = {
 
 install_requires = [
     'Django>=3.0.0',
+    'psycopg2',
 ]
 
 setup(

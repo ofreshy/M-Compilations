@@ -25,7 +25,7 @@ SECRET_KEY = '*zsez(!6%+k-ym#8!=s@1+e%ujeh88v1d0q!c=jf(6r5iz5^5*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['musika-3.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition

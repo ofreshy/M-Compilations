@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'musika.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.environ.get("MUSIKA_DB_NAME", ''),
-        'USER': os.environ.get("MUSIKA_DB_USER", ''),
-        'PASSWORD': os.environ.get("MUSIKA_DB_PASSWORD", ''),
+        'NAME': os.environ.get("MUSIKA_DB_NAME", 'postgres'),
+        'USER': os.environ.get("MUSIKA_DB_USER", 'postgres'),
+        'PASSWORD': os.environ.get("MUSIKA_DB_PASSWORD", 'postgres'),
         'HOST': os.environ.get("MUSIKA_DB_HOST", '127.0.0.1'),
         'PORT': '5432',
     }

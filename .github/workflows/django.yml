@@ -46,7 +46,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install .
     - name: check env variables for postgres DB
-      run: echo MUSIKA_DB_NAME MUSIKA_DB_NAME
+      run: echo MUSIKA_DB_NAME $MUSIKA_DB_NAME
     - name: Run Tests
       run: |
         python manage.py test

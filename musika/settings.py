@@ -81,7 +81,7 @@ DATABASES = {
         'USER': os.environ.get("MUSIKA_DB_USER", 'postgres'),
         'PASSWORD': os.environ.get("MUSIKA_DB_PASSWORD", 'postgres'),
         'HOST': os.environ.get("MUSIKA_DB_HOST", '127.0.0.1'),
-        'PORT': '5432',
+        'PORT': os.environ.get("MUSIKA_DB_PORT", '5432'),
     }
 }
 

@@ -29,7 +29,7 @@ setup(
     long_description_content_type="text/markdown",
     author="@osharabi",
     author_email="osharabi@gmail.com",
-    url='http://noneyet/',
+    url='https://musika-3.herokuapp.com/lib/',
     install_requires=install_requires,
     tests_require=test_reqs,
     extras_require=extra_reqs,

@@ -24,7 +24,30 @@ I then defined several env vars; namely ``` MUSIKA_DB_NAME, MUSIKA_DB_USER, MUSI
 After installing the app (See run locally), run
 ``` python manage.py test ```
 
-## Application
+## Heroku
+
+The application is currently running on Heroku - https://musika-3.herokuapp.com/lib/
+
+Created the app on heroku; See that you need to have all data on master
+* ``` heroku create musika-3 ```
+* Then adding ``` 'musika-3.herokuapp.com', 'localhost', '127.0.0.1' ``` to allowed hosts in settings.py;
+* ``` heroku config:set DISABLE_COLLECTSTATIC=1 ```
+* ``` git push heroku master ```
+
+Took the following values from the heroku postgres settings page
+* ``` heroku config:set MUSIKA_DB_NAME=*** ```
+* ``` heroku config:set MUSIKA_DB_USER=*** ```
+* ``` heroku config:set MUSIKA_DB_PASSWORD=*** ```
+* ``` heroku config:set MUSIKA_DB_HOST=*** ```
+* ``` heroku config ```  to verify  the current config vars
+
+Add migrations and create super user
+* ``` heroku run python manage.py migrate ```
+* ``` heroku run python manage.py createsuperuser ```
+
+Seed the DB
+* ``` heroku config:set DJANGO_SETTINGS_MODULE=musika.settings ```
+* ``` heroku run python scripts/ingest_db.py all ```
 
 ### Goal
 The target state for the first development phase is to have all my compilations available on the webserver,

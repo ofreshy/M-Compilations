@@ -9,9 +9,14 @@ doc_reqs = [
     'Sphinx>=1.5.2'
 ]
 
+dev_requires = [
+    "gunicorn"
+]
+
 extra_reqs = {
     'doc': doc_reqs,
-    'test': test_reqs
+    'test': test_reqs,
+    'dev': dev_requires,
 }
 
 install_requires = [

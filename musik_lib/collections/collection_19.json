@@ -1,0 +1,31 @@
+{
+  "name": "To S22",
+  "nick_name": "To S20 Too",
+  "description": "Second one for S20 basically",
+  "created_year": "2019",
+  "ordinal": "19",
+  "tracks": [
+    {"name":"Murmurs", "artist": "Hundred Waters", "duration":"3:29", "released_year": 2018},
+    {"name":"Pass This On", "artist": "The Knife", "duration":"3:48", "released_year": 2018},
+    {"name":"Get Free", "artist": "Major Laser Feat. Amber Of The Dirty Projectors", "duration":"4:49", "released_year": 2018},
+    {"name":"All We Are", "artist": "Dirty Projectors Feat. Björk", "duration":"4:49", "released_year": 2018},
+    {"name":"Behind The Bushes", "artist": "The Knife", "duration":"4:14", "released_year": 2018},
+    {"name":"Under Cover", "artist": "Susanne Sundfør", "duration":"4:17", "released_year": 2018},
+    {"name":"Suspirium", "artist": "Thom Yorke", "duration":"3:21", "released_year": 2018},
+    {"name":"Low", "artist": "Lenny Kravitz", "duration":"5:19", "released_year": 2018},
+    {"name":"Kiss", "artist": "Prince", "duration":"3:46", "released_year": 2018},
+    {"name":"Hangin' Out", "artist": "The Knife", "duration":"1:03", "released_year": 2018},
+    {"name":"Forever", "artist": "The Dandy Warhols", "duration":"4:43", "released_year": 2018},
+    {"name":"Black Balloons Reprise", "artist": "Flying Lotus Feat. Denzel Curry", "duration":"2:42", "released_year": 2018},
+    {"name":"Heart Don't Stand a Chance", "artist": "Anderson .Paak", "duration":"5:12", "released_year": 2018},
+    {"name":"Veridis Quo", "artist": "Daft Punk", "duration":"5:45", "released_year": 2018},
+    {"name":"You Make Me Like Charity", "artist": "The Knife", "duration":"3:05", "released_year": 2018},
+    {"name":"Night Call", "artist": "Kavinsky", "duration":"4:17", "released_year": 2018},
+    {"name":"Shake the Disease", "artist": "Depeche Mode", "duration":"4:49", "released_year": 2018},
+    {"name":"This Is the Day", "artist": "The The", "duration":"4:57", "released_year": 2018},
+    {"name":"The Long Island Sound", "artist": "Beirut", "duration":"1:18", "released_year": 2018},
+    {"name":"This Is the Day", "artist": "The The", "duration":"4:57", "released_year": 2018},
+    {"name":"Everybody's Got To Learn Sometime", "artist": "Beck", "duration":"5:51", "released_year": 2018},
+    {"name":"You Take My Breath Away", "artist": "The Knife", "duration":"4:27", "released_year": 2018}
+  ]
+}

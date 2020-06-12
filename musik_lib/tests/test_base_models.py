@@ -56,6 +56,10 @@ class CollectionTest(TestCase):
         self.assertEqual(c.number_of_tracks(), 2)
 
 
+    def test_order_of_tracks_in_collection(self):
+        pass
+
+
 class TrackTest(TestCase):
     def test_artist_names_single(self):
         t = fixtures.track_1(name="t1")
@@ -81,3 +85,24 @@ class TrackTest(TestCase):
             fixtures.artist_1(name="a2"),
         )
         self.assertEqual(t.artist_names, "a1 Feat. a2")
+
+
+
+class TrackInCollectionTest(TestCase):
+
+    def test_collection_track_constraint(self):
+        c = fixtures.collection_1(name="c1")
+        TrackInCollection.objects.create(
+            track=fixtures.track_1(name="t1"),
+            collection=c,
+            ordinal=1,
+        )
+        # Test the constraint for ordinal in the collection
+        with self.assertRaises(Exception):
+            TrackInCollection.objects.create(
+                track=fixtures.track_1(name="t2"),
+                collection=c,
+                ordinal=1,
+            )
+
+

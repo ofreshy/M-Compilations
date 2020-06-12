@@ -66,6 +66,7 @@ class Track(models.Model):
         return [a for a in self.artist.all()] + [a for a in self.featuring.all()]
 
 
+
 class Collection(models.Model):
     """
     Collection stores some tracks
@@ -90,10 +91,34 @@ class Collection(models.Model):
         )
 
     def number_of_tracks(self):
-        if hasattr(self, "track"):
-            return self.track.count()
-        else:
-            return 0
+        return self.track.count() if hasattr(self, "track") else 0
+
+    @property
+    def tracks(self):
+        return self.trackincollection_set.order_by('ordinal').values('track')
+
+    def add_tracks(self, tracks):
+        """
+
+        :param tracks:
+        :return:
+        """
+        return self
+
+
+class TrackInCollection(models.Model):
+    """
+    A track in a collection; Separate from a track as it has a unique ordinal in the collection
+    """
+    track = models.ForeignKey(Track, on_delete=models.CASCADE)
+    collection = models.ForeignKey(Collection, on_delete=models.CASCADE)
+    ordinal = models.PositiveSmallIntegerField()
+
+    class Meta:
+        constraints = [
+            models.UniqueConstraint(
+                fields=['collection', 'ordinal'], name='Collection and Ordinal')
+        ]
 
 
 class Library(models.Model):

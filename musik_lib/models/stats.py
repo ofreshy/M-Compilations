@@ -1,9 +1,7 @@
 from collections import defaultdict
 
 
-from django.db import models
-
-from musik_lib.models.base import Artist, Collection, Library, Track
+from musik_lib.models.base import *
 
 
 class LibraryStat(models.Model):

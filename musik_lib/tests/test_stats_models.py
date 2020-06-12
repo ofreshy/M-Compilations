@@ -23,7 +23,7 @@ class CollectionStatTest(TestCase):
         t2.save()
 
         c1 = fixtures.collection_1()
-        c1.track.add(t1, t2)
+        c1.add_tracks([t1, t2])
         c1.save()
 
         c_stat = fixtures.collection_stat(collection=c1)
@@ -49,7 +49,7 @@ class CollectionStatTest(TestCase):
         t2.save()
 
         c1 = fixtures.collection_1()
-        c1.track.add(t1, t2)
+        c1.add_tracks([t1, t2])
         c1.save()
 
         c_stat = fixtures.collection_stat(collection=c1)
@@ -82,8 +82,8 @@ class LibraryStatTest(TestCase):
         t1.artist.add(a1)
         t2.artist.add(a1, a2)
         t3.artist.add(a1, a2, a3)
-        c1.track.add(t1, t2)  # a1 + a1+a2
-        c2.track.add(t2, t3)  # a1+a2 + a1+a2+a3
+        c1.add_tracks([t1, t2])  # a1 + a1+a2
+        c2.add_tracks([t2, t3])  # a1+a2 + a1+a2+a3
 
         l_stat = fixtures.library_stat()
         _ = fixtures.collection_stat(collection=c1)
@@ -117,8 +117,8 @@ class LibraryStatTest(TestCase):
         t2.artist.add(a1, a2)
         t3.artist.add(a1, a2, a3)
         t4.artist.add(a1)
-        c1.track.add(t1, t2, t4)
-        c2.track.add(t2, t3, t4)
+        c1.add_tracks([t1, t2, t4])
+        c2.add_tracks([t2, t3, t4])
 
         _ = fixtures.collection_stat(collection=c1)
         _ = fixtures.collection_stat(collection=c2)

@@ -34,7 +34,7 @@ class CollectionTest(TestCase):
         t1 = fixtures.track_1(duration=duration1)
         t2 = fixtures.track_2(duration=duration2)
 
-        c.track.add(t1, t2)
+        c.add_tracks([t1, t2])
 
         actual = c.duration
         expected = t1.duration + t2.duration

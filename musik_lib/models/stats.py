@@ -75,8 +75,8 @@ class LibraryStat(models.Model):
 
     def update_duplicate_tracks(self):
         track_counts = [
-            (track, c_stat, track.collection_set.count()) for c_stat in self.collection_stats
-            for track in c_stat.collection.track.all()
+            (track, c_stat, track.trackincollection_set.count()) for c_stat in self.collection_stats
+            for track in c_stat.collection.tracks
         ]
         duplicate_tracks = [tup for tup in track_counts if tup[2] > 1]
 
@@ -132,7 +132,7 @@ class CollectionStat(models.Model):
         frequency_counts = defaultdict(int)
         unique_artists = dict()
 
-        artists = [a for track in self.collection.track.all() for a in track.artists]
+        artists = [a for track in self.collection.tracks for a in track.artists]
         for artist in artists:
             frequency_counts[artist.id] += 1
             unique_artists[artist.id] = artist
@@ -141,7 +141,7 @@ class CollectionStat(models.Model):
             artist = unique_artists[artist_id]
             afc = ArtistFrequencyCollection.objects.get_or_create(
                 artist=artist,
-                collection_stat=self
+                collection_stat=self,
             )[0]
             afc.frequency = frequency
             afc.save()
@@ -171,7 +171,7 @@ class ArtistFrequencyCollection(models.Model):
 
     @property
     def tracks(self):
-        return self.collection_stat.collection.track.filter(artist=self.artist)
+        return [t for t in self.collection_stat.collection.tracks if t.artist == self.artist]
 
 
 class ArtistFrequencyLibrary(models.Model):

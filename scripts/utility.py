@@ -54,7 +54,7 @@ def ingest_collection(d):
     )
 
     tracks = [_get_or_create_track(t, artists)[1] for t in d["tracks"]]
-    collection.track.add(*tracks)
+    collection.add_tracks(tracks)
     collection.save()
 
 

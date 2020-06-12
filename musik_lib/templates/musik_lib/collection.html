@@ -9,7 +9,7 @@
 <body>
      <h1>{{ collection }}</h1>
         <ol>
-            {% for t in collection.track.all %}
+            {% for t in collection.tracks %}
                 <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
             {% endfor %}
         </ol>

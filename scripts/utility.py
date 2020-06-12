@@ -90,6 +90,6 @@ def _get_or_create_track(track_dict, artist_dict):
 
 
 def clear_db():
-    Collection.objects.all().delete()
     Track.objects.all().delete()
+    Collection.objects.all().delete()
     Artist.objects.all().delete()

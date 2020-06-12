@@ -54,7 +54,7 @@ def ingest_collection(d):
     )
 
     tracks = [_get_or_create_track(t, artists)[1] for t in d["tracks"]]
-    collection.track.add(*tracks)
+    collection.add_tracks(tracks)
     collection.save()
 
 
@@ -90,6 +90,6 @@ def _get_or_create_track(track_dict, artist_dict):
 
 
 def clear_db():
-    Collection.objects.all().delete()
     Track.objects.all().delete()
+    Collection.objects.all().delete()
     Artist.objects.all().delete()

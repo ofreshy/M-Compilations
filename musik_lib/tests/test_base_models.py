@@ -34,12 +34,17 @@ class CollectionTest(TestCase):
         t1 = fixtures.track_1(duration=duration1)
         t2 = fixtures.track_2(duration=duration2)
 
-        c.track.add(t1, t2)
+        c.add_tracks([t1, t2])
 
         actual = c.duration
         expected = t1.duration + t2.duration
 
         self.assertEqual(actual.seconds, expected.seconds)
+
+    def test_order_of_tracks_in_collection(self):
+        pass
+
+
 
     def test_empty_tracks(self):
         c = fixtures.collection_1()
@@ -48,16 +53,28 @@ class CollectionTest(TestCase):
     def test_track_count(self):
         c = fixtures.collection_1()
 
-        t1 = fixtures.track_1()
-        t2 = fixtures.track_2()
-
-        c.track.add(t1, t2)
+        c = c.add_tracks([fixtures.track_1(), fixtures.track_2()])
 
         self.assertEqual(c.number_of_tracks(), 2)
 
 
-    def test_order_of_tracks_in_collection(self):
-        pass
+    def test_track_add_ordinal(self):
+        c = fixtures.collection_1()
+        t2, t1 = fixtures.track_2(), fixtures.track_1()
+
+        c = c.add_tracks([t1, t2])
+
+        self.assertEqual([t for t in c.tracks], [t1, t2])
+
+    def test_track_add_respects_order_when_called_twice(self):
+        c = fixtures.collection_1()
+        t1, t2, t3 = fixtures.track_1(), fixtures.track_2(), fixtures.track_3()
+
+        c = c.add_tracks([t1, t2])
+        c = c.add_tracks([t3])
+
+        self.assertEqual([t for t in c.tracks], [t1, t2, t3])
+
 
 
 class TrackTest(TestCase):
@@ -104,5 +121,3 @@ class TrackInCollectionTest(TestCase):
                 collection=c,
                 ordinal=1,
             )
-
-

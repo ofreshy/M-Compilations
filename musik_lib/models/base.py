@@ -79,30 +79,31 @@ class Collection(models.Model):
     created_year = models.PositiveSmallIntegerField(validators=[validate_year])
     ordinal = models.PositiveSmallIntegerField(unique=True)
 
-    track = models.ManyToManyField(Track)
-
     def __str__(self):
         return "name={} , nick_name = {}, duration = {}".format(self.name, self.nick_name, self.duration)
 
     @property
     def duration(self):
         return total_durations(
-            [t.duration for t in self.track.all()]
+            [t.duration for t in self.tracks]
         )
 
     def number_of_tracks(self):
-        return self.track.count() if hasattr(self, "track") else 0
+        return self.trackincollection_set.count() if hasattr(self, "trackincollection_set") else 0
 
     @property
     def tracks(self):
-        return self.trackincollection_set.order_by('ordinal').values('track')
+        return [t.track for t in self.trackincollection_set.order_by('ordinal')]
 
     def add_tracks(self, tracks):
         """
 
-        :param tracks:
+        :param tracks: Track objects. Assume that the order of this list maps to their order in the collection
         :return:
         """
+        start_index = self.number_of_tracks() + 1
+        for ind, track in enumerate(tracks):
+            TrackInCollection.objects.create(track=track, collection=self, ordinal=start_index + ind)
         return self
 
 
@@ -119,6 +120,9 @@ class TrackInCollection(models.Model):
             models.UniqueConstraint(
                 fields=['collection', 'ordinal'], name='Collection and Ordinal')
         ]
+
+    def __str__(self):
+        return "track={} , ordinal = {}".format(self.track, self.ordinal)
 
 
 class Library(models.Model):

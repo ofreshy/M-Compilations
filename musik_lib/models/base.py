@@ -79,15 +79,13 @@ class Collection(models.Model):
     created_year = models.PositiveSmallIntegerField(validators=[validate_year])
     ordinal = models.PositiveSmallIntegerField(unique=True)
 
-    track = models.ManyToManyField(Track)
-
     def __str__(self):
         return "name={} , nick_name = {}, duration = {}".format(self.name, self.nick_name, self.duration)
 
     @property
     def duration(self):
         return total_durations(
-            [t.duration for t in self.track.all()]
+            [t.duration for t in self.tracks]
         )
 
     def number_of_tracks(self):
@@ -122,6 +120,9 @@ class TrackInCollection(models.Model):
             models.UniqueConstraint(
                 fields=['collection', 'ordinal'], name='Collection and Ordinal')
         ]
+
+    def __str__(self):
+        return "track={} , ordinal = {}".format(self.track, self.ordinal)
 
 
 class Library(models.Model):

@@ -91,18 +91,21 @@ class Collection(models.Model):
         )
 
     def number_of_tracks(self):
-        return self.track.count() if hasattr(self, "track") else 0
+        return self.trackincollection_set.count() if hasattr(self, "trackincollection_set") else 0
 
     @property
     def tracks(self):
-        return self.trackincollection_set.order_by('ordinal').values('track')
+        return [t.track for t in self.trackincollection_set.order_by('ordinal')]
 
     def add_tracks(self, tracks):
         """
 
-        :param tracks:
+        :param tracks: Track objects. Assume that the order of this list maps to their order in the collection
         :return:
         """
+        start_index = self.number_of_tracks() + 1
+        for ind, track in enumerate(tracks):
+            TrackInCollection.objects.create(track=track, collection=self, ordinal=start_index + ind)
         return self
 
 

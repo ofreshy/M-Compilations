@@ -1,0 +1,32 @@
+{
+  "name": "Girls' Power",
+  "nick_name": "Girls",
+  "description": "Upbeat playlist that I created in India while traveling with Radi and Neha, mostly in the car. We later danced to id on the first BBQ night",
+  "created_year": "2020",
+  "ordinal": "21",
+  "tracks": [
+    {"name":"Girls Just Want To Have Fun", "artist": "Cyndi Lauper", "duration":"3:55", "released_year": 2018},
+    {"name":"Walk Like An Egyptian", "artist": "The Banglers", "duration":"3:23", "released_year": 2018},
+    {"name":"One Way Or Another", "artist": "Blondie", "duration":"3:35", "released_year": 2018},
+    {"name":"Shake It Off", "artist": "Taylor Swift", "duration":"3:39", "released_year": 2018},
+    {"name":"Hit", "artist": "The Sugarcubes", "duration":"3:56", "released_year": 2018},
+    {"name":"White Noise", "artist": "My Brightest Diamond", "duration":"3:33", "released_year": 2018},
+    {"name":"Got 2 Let U", "artist": "The Knife", "duration":"3:59", "released_year": 2018},
+    {"name":"bad guy", "artist": "Billie Eilish", "duration":"4:05", "released_year": 2018},
+    {"name":"Soulmate", "artist": "Lizzo", "duration":"2:55", "released_year": 2018},
+    {"name":"Juice", "artist": "Lizzo", "duration":"3:15", "released_year": 2018},
+    {"name":"Valerie (Live At BBC Radio 1 Live Lounge, London/20070", "artist": "Amy Winehouse", "duration":"3:52", "released_year": 2018},
+    {"name":"Tom's Diner", "artist": "Suzanne Vega", "duration":"2:11", "released_year": 2018},
+    {"name":"everything i wanted", "artist": "Billie Eilish", "duration":"4:05", "released_year": 2018},
+    {"name":"Sorry", "artist": "Madonna", "duration":"4:41", "released_year": 2018},
+    {"name":"I Feel Love", "artist": "Donna Summer", "duration":"5:53", "released_year": 2018},
+    {"name":"In For The Kill", "artist": "La Roux", "duration":"4:08", "released_year": 2018},
+    {"name":"Bulletproof", "artist": "La Roux", "duration":"3:25", "released_year": 2018},
+    {"name":"Bad Girls", "artist": "M.I.A.", "duration":"3:47", "released_year": 2018},
+    {"name":"Marrakech", "artist": "Riff Cohen", "duration":"3:35", "released_year": 2018},
+    {"name":"Survivor", "artist": "Destiny's Child", "duration":"4:14", "released_year": 2018},
+    {"name":"Be Careful", "artist": "Cardi B", "duration":"3:30", "released_year": 2018},
+    {"name":"La Bruja - Son Jarocho Tradicional", "artist": "Salma Hayek", "duration":"1:56", "released_year": 2018},
+    {"name":"Haiyu", "artist": "Mariem Hassan", "duration":"3:22", "released_year": 2018}
+  ]
+}

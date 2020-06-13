@@ -103,6 +103,17 @@ class TrackTest(TestCase):
         )
         self.assertEqual(t.artist_names, "a1 Feat. a2")
 
+    def test_collection_property_when_empty(self):
+        self.assertFalse(fixtures.track_1().collections)
+
+
+    def test_collection_property_when_added_to_collections(self):
+        t = fixtures.track_1()
+
+        c1 = fixtures.collection_1().add_tracks([t])
+        c2 = fixtures.collection_2().add_tracks([t])
+
+        self.assertEqual(t.collections, [c1, c2])
 
 
 class TrackInCollectionTest(TestCase):

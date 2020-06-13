@@ -65,6 +65,10 @@ class Track(models.Model):
     def artists(self):
         return [a for a in self.artist.all()] + [a for a in self.featuring.all()]
 
+    @property
+    def collections(self):
+        tracks_in_collection = self.trackincollection_set.all() if hasattr(self, "trackincollection_set") else []
+        return [t.collection for t in tracks_in_collection]
 
 
 class Collection(models.Model):

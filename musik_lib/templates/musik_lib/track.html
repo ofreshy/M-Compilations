@@ -5,12 +5,22 @@
     <title>Track</title>
 </head>
 <body>
-     <h1>{{ track }}</h1>
-     <p>  {{ track.released_year }}  </p>
+     <h1>{{ track }} - {{  track.released_year }}</h1>
+     <p>  Artists  </p>
         <ul>
             {% for a in track.artists %}
                 <li><a href="/lib/artist/{{ a.id }}/">{{ a.name }}</a></li>
             {% endfor %}
         </ul>
+     <p>  Collections  </p>
+        <ul>
+            {% for c in track.collections %}
+                <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
+            {% endfor %}
+        </ul>
 </body>
 </html>
+
+
+
+

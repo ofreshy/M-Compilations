@@ -11,7 +11,7 @@
             {% for t in artist.tracks %}
                 <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a>
                     <ul>
-                        {% for c in t.collection_set.all %}
+                        {% for c in t.collections %}
                             <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
                         {% endfor %}
                      </ul>

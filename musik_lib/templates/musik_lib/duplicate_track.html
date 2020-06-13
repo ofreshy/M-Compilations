@@ -7,7 +7,7 @@
 <body>
      <h1><a href="/lib/track/{{ dt.track_id }}/">{{ dt.track }}</a></h1>
         <ul>
-            {% for c in dt.track.collection_set.all %}
+            {% for c in dt.track.collections %}
                 <li><a href="/lib/collection/{{ c.id }}/">{{ c }}</a></li>
             {% endfor %}
         </ul>

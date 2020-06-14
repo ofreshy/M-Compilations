@@ -1,0 +1,26 @@
+{
+  "name": "Fast & Furious Part-II",
+  "nick_name": "F & F 2",
+  "description": "Mostly fast rock songs. Second Part. April 2020",
+  "created_year": "2020",
+  "ordinal": "23",
+  "tracks": [
+    {"name":"The Rat", "artist": "The Walkmen", "duration":"4:22", "released_year": 2018},
+    {"name":"Ever Fallen In Love (With Someone You Shouldn't've?)", "artist": "Buzzcocks", "duration":"2:43", "released_year": 2018},
+    {"name":"Debaser", "artist": "Pixies", "duration":"2:53", "released_year": 2018},
+    {"name":"Big", "artist": "FONTAINES D.C.", "duration":"1:45", "released_year": 2018},
+    {"name":"Driving", "artist": "Arab Strap", "duration":"2:31", "released_year": 2018},
+    {"name":"Jacqueline", "artist": "Franz Ferdinand", "duration":"3:51", "released_year": 2018},
+    {"name":"C'mere", "artist": "Interpol", "duration":"3:11", "released_year": 2018},
+    {"name":"Rebellion (Lies)", "artist": "Arcade Fire", "duration":"5:10", "released_year": 2018},
+    {"name":"Bohemian Like You", "artist": "The Dandy Warhols", "duration":"3:31", "released_year": 2018},
+    {"name":"I Can Change", "artist": "Ezra Furman", "duration":"4:55", "released_year": 2018},
+    {"name":"Bring On The Dancing Horses", "artist": "Echo \\& The Bunnymen", "duration":"3:55", "released_year": 2018},
+    {"name":"Venus", "artist": "Television", "duration":"3:49", "released_year": 2018},
+    {"name":"I Fought The Law", "artist": "The Clash", "duration":"2:43", "released_year": 2018},
+    {"name":"Purple Haze", "artist": "Jimi Hendrix", "duration":"2:51", "released_year": 2018},
+    {"name":"There Goes My Gun", "artist": "Pixies", "duration":"1:49", "released_year": 2018},
+    {"name":"Somebody To Love", "artist": "Jefferson Airplane", "duration":"2:54", "released_year": 2018},
+    {"name":"The Song Remains The Same", "artist": "Led Zeppelin", "duration":"5:29", "released_year": 2018}
+  ]
+}

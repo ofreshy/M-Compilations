@@ -1,0 +1,22 @@
+{
+  "name": "Fast & Furious Part-I",
+  "nick_name": "F & F 1",
+  "description": "Mostly fast rock songs. March 2020",
+  "created_year": "2020",
+  "ordinal": "22",
+  "tracks": [
+    {"name":"Liberty Bell", "artist": "FONTAINES D.C.", "duration":"2:31", "released_year": 2018},
+    {"name":"I Bet You Look Good On The Dance Floor", "artist": "Arctic Monkeys", "duration":"2:53", "released_year": 2018},
+    {"name":"Babies", "artist": "Pulp", "duration":"4:05", "released_year": 2018},
+    {"name":"Body Was Made", "artist": "Ezra Furman", "duration":"3:31", "released_year": 2018},
+    {"name":"Little Girl", "artist": "Danger Mouse & Sparklehorse Feat. Julian Casablancas", "duration":"4:32", "released_year": 2018},
+    {"name":"Une Annee Sans Lumiere", "artist": "Arcade Fire", "duration":"3:55", "released_year": 2018},
+    {"name":"Dance Of The Clairvoyants", "artist": "Pearl Jam", "duration":"4:25", "released_year": 2018},
+    {"name":"Live Alone", "artist": "Debbie Harry & Franz Ferdinand", "duration":"3:31", "released_year": 2018},
+    {"name":"White Rabbit", "artist": "Jefferson Airplane", "duration":"2:30", "released_year": 2018},
+    {"name":"Can I Sleep In Your Brain", "artist": "Ezra Furman", "duration":"3:57", "released_year": 2018},
+    {"name":"Whole Lotta Love", "artist": "Led Zeppelin", "duration":"5:34", "released_year": 2018},
+    {"name":"Fade To Grey", "artist": "Nouvelle Vague", "duration":"4:45", "released_year": 2018},
+    {"name":"Lost In Music", "artist": "The Fall", "duration":"3:50", "released_year": 2018}
+  ]
+}

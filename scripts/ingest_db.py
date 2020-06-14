@@ -2,7 +2,7 @@ import django
 django.setup()
 
 
-from musik_lib.collections.init import get_all_collection_files, read_collection_file
+from musik_lib.collections.init import get_all_collection_files, read_collection_file, resolve_collection_file
 from musik_lib.models.base import Library
 from musik_lib.models.stats import LibraryStat
 from scripts import utility
@@ -40,6 +40,8 @@ def main():
     file_names = args.file_names
     if len(file_names) == 1 and args.file_names[0] == "all":
         file_names = get_all_collection_files()
+    else:
+        file_names = [resolve_collection_file(f) for f in file_names]
 
     _ = Library.load()
     for file_name in file_names:

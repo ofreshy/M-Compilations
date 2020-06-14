@@ -1,4 +1,2 @@
 
-def t():
-    pass
 

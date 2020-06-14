@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <title>Collections Stats</title>
         {% if collections_stats %}
-        <ul>
+        <ol>
         {% for c in collections_stats %}
             <li><a href="/lib/collection_stat/{{ c.collection_id }}/">{{ c }}</a></li>
         {% endfor %}
-        </ul>
+        </ol>
         {% else %}
         <p>No collection stats are available.</p>
         {% endif %}

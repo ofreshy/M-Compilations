@@ -1,0 +1,28 @@
+{
+  "name": "Lost",
+  "nick_name": "Lost",
+  "description": "Songs that are a bit airy and lost in time. May 2020",
+  "created_year": "2020",
+  "ordinal": "24",
+  "tracks": [
+    {"name":"Just As You Are", "artist": "Robert Wyatt", "duration":"4:22", "released_year": 2018},
+    {"name":"Time Moves Slow", "artist": "BADBADNOTGOOD feat. Samuel T. Herring", "duration":"4:34", "released_year": 2016},
+    {"name":"Ana", "artist": "Pixies", "duration":"2:09", "released_year": 2018},
+    {"name":"Chamber of Reflection", "artist": "Mac Demarco", "duration":"3:52", "released_year": 2014},
+    {"name":"Fade Into You", "artist": "Mazzy Star", "duration":"4:54", "released_year": 2018},
+    {"name":"Sister", "artist": "Angel Olsen", "duration":"7:46", "released_year": 2018},
+    {"name":"Shipbuilding", "artist": "Robert Wyatt", "duration":"3:04", "released_year": 2018},
+    {"name":"Summer Wine", "artist": "Nancy Sinatra", "duration":"4:16", "released_year": 2018},
+    {"name":"Soul Love", "artist": "David Bowie", "duration":"3:34", "released_year": 2018},
+    {"name":"Little Wing", "artist": "Jimi Hendrix", "duration":"4:22", "released_year": 2018},
+    {"name":"White Foxes", "artist": "Susanne Sundfør", "duration":"4:16", "released_year": 2018},
+    {"name":"Fitter Happier", "artist": "Radiohead", "duration":"1:57", "released_year": 2018},
+    {"name":"Une belle histoire", "artist": "Michael Fugain And Le Big Bazar", "duration":"3:14", "released_year": 2018},
+    {"name":"In My Life", "artist": "Johnny Cash", "duration":"2:57", "released_year": 2018},
+    {"name":"Because", "artist": "The Beatles", "duration":"2:45", "released_year": 2018},
+    {"name":"Let Down", "artist": "Radiohead", "duration":"4:59", "released_year": 2018},
+    {"name":"Candy Says", "artist": "The Velvet Underground", "duration":"4:03", "released_year": 2018},
+    {"name":"God Only Knows", "artist": "The Beach Boys", "duration":"2:53", "released_year": 2018},
+    {"name":"At Last I Am Free", "artist": "Robert Wyatt", "duration":"4:17", "released_year": 2018}
+  ]
+}

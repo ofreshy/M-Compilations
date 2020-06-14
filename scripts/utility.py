@@ -66,7 +66,7 @@ def _get_or_create_track(track_dict, artist_dict):
     if db_tracks:
         track_artists_ids = {a.id for a in (main_artists + feat_artists)}
         for track in db_tracks:
-            db_track_set_id = {a.id for a in track.artist.all()}
+            db_track_set_id = {a.id for a in track.artists}
             if db_track_set_id == track_artists_ids:
                 # This is a duplicate track. return created=False, track
                 return False, track

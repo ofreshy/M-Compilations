@@ -7,11 +7,11 @@
   "tracks": [
     {"name":"My Friend The Forest", "artist": "Nils Frahm", "duration":"5:17", "released_year": 2018},
     {"name":"New York Morning", "artist": "Elbow", "duration":"5:20", "released_year": 2014},
-    {"name":"Chamber of Reflection", "artist": "Mac Damarco", "duration":"3:52", "released_year": 2014},
+    {"name":"Chamber of Reflection", "artist": "Mac Demarco", "duration":"3:52", "released_year": 2014},
     {"name":"Forever Dolphin Love", "artist": "Connan Mockasin", "duration":"10:05", "released_year": 2011},
     {"name":"Hostiles", "artist": "Damon Albarn", "duration":"4:10", "released_year": 2014},
     {"name":"Hot Dreams", "artist": "Timber Timbre", "duration":"4:54", "released_year": 2014},
-    {"name":"Time Moves Slowly", "artist": "BADBADNOTGOOD feat. Samuel T. Herring", "duration":"4:34", "released_year": 2016},
+    {"name":"Time Moves Slow", "artist": "BADBADNOTGOOD feat. Samuel T. Herring", "duration":"4:34", "released_year": 2016},
     {"name":"Miss You", "artist": "Alabama Shake", "duration":"3:48", "released_year": 2015},
     {"name":"Stars", "artist": "Angel Olsen", "duration":"4:39", "released_year": 2014},
     {"name":"Pounding", "artist": "Doves", "duration":"4:46", "released_year": 2000},

@@ -17,6 +17,30 @@ def total_durations(durations):
     return reduce(operator.add, durations, datetime.timedelta())
 
 
+
+def render_duration(duration):
+    """
+    Helper function to render duration
+    0:ss for less than a minute songs
+    m:ss for less than 10 minutes
+    mm:ss for less than an hour
+    h:mm:ss for more than an hour
+    :param td: a duration object (time delta)
+    :return:
+    """
+    total_seconds = int(duration.total_seconds())
+    hours = total_seconds // 3600
+    minutes = (total_seconds % 3600) // 60
+    seconds = (total_seconds % 3600) % 60
+
+    if hours:
+        return "{}:{:02}:{:02}".format(hours, minutes, seconds)
+    if minutes:
+        return "{}:{:02}".format(minutes, seconds)
+    else:
+        return "0:{:02}".format(total_seconds)
+
+
 class Artist(models.Model):
     """
         An artist
@@ -47,7 +71,7 @@ class Track(models.Model):
     featuring = models.ManyToManyField(Artist, related_name='featured_artist')
 
     def __str__(self):
-        return "{} - {} - {}".format(self.name, self.artist_names, self.duration)
+        return "{} - {} - {}".format(self.name, self.artist_names, render_duration(self.duration))
 
     @property
     def artist_names(self):
@@ -84,7 +108,7 @@ class Collection(models.Model):
     ordinal = models.PositiveSmallIntegerField(unique=True)
 
     def __str__(self):
-        return "name={} , nick_name = {}, duration = {}".format(self.name, self.nick_name, self.duration)
+        return "name={} , nick_name = {}, duration = {}".format(self.name, self.nick_name, render_duration(self.duration))
 
     @property
     def duration(self):

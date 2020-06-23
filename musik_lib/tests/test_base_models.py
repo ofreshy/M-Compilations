@@ -1,4 +1,6 @@
 
+from datetime import timedelta
+
 from django.test import TestCase
 
 from musik_lib.models.base import *
@@ -132,3 +134,51 @@ class TrackInCollectionTest(TestCase):
                 collection=c,
                 ordinal=1,
             )
+
+class HelperTest(TestCase):
+
+    def test_duration_render_seconds(self):
+        duration=timedelta(seconds=18)
+
+        actual = render_duration(duration)
+
+        expected = "0:18"
+
+        self.assertEquals(actual, expected)
+
+    def test_duration_render_seconds_and_single_digit_minutes(self):
+        duration = timedelta(minutes=1, seconds=18)
+
+        actual = render_duration(duration)
+
+        expected = "1:18"
+
+        self.assertEquals(actual, expected)
+
+    def test_duration_render_seconds_and_double_digit_minutes(self):
+        duration = timedelta(minutes=10, seconds=18)
+
+        actual = render_duration(duration)
+
+        expected = "10:18"
+
+        self.assertEquals(actual, expected)
+
+    def test_duration_render_minutes_and_no_seconds(self):
+        duration = timedelta(minutes=10, seconds=0)
+
+        actual = render_duration(duration)
+
+        expected = "10:00"
+
+        self.assertEquals(actual, expected)
+
+
+    def test_duration_render_seconds_minutes_and_hours(self):
+        duration = timedelta(minutes=64, seconds=18)
+
+        actual = render_duration(duration)
+
+        expected = "1:04:18"
+
+        self.assertEquals(actual, expected)

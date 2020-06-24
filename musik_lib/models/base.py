@@ -71,7 +71,9 @@ class Track(models.Model):
     featuring = models.ManyToManyField(Artist, related_name='featured_artist')
 
     def __str__(self):
-        return "{} - {} - {}".format(self.name, self.artist_names, render_duration(self.duration))
+        template = "{} - {} - {}"
+        values = self.name, self.artist_names, render_duration(self.duration)
+        return template.format(*values)
 
     @property
     def artist_names(self):
@@ -108,7 +110,9 @@ class Collection(models.Model):
     ordinal = models.PositiveSmallIntegerField(unique=True)
 
     def __str__(self):
-        return "name={} , nick_name = {}, duration = {}".format(self.name, self.nick_name, render_duration(self.duration))
+        template = "name={} , nick_name = {}, duration = {}"
+        values = self.name, self.nick_name, render_duration(self.duration)
+        return template.format(*values)
 
     @property
     def duration(self):

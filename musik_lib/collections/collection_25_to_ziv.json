@@ -1,0 +1,23 @@
+{
+  "name": "To Ziv",
+  "nick_name": "41",
+  "description": "Songs for Ziv Bday of 41. June 2020",
+  "created_year": "2020",
+  "ordinal": "25",
+  "tracks": [
+    {"name":"Heaven Can Wait (Chris Talyor Remix)", "artist": "Charlotte Gainsbourg Feat. Beck", "duration":"2:15", "released_year": 2018},
+    {"name":"Balls and Pins", "artist": "Khruangbin", "duration":"3:28", "released_year": 2018},
+    {"name":"Keep Your Name", "artist": "Dirty Projectors", "duration":"4:30", "released_year": 2018},
+    {"name":"Beautiful Mother", "artist": "Dirty Projectors Feat. Björk", "duration":"2:16", "released_year": 2018},
+    {"name":"Heartbeats", "artist": "The Knife", "duration":"3:53", "released_year": 2018},
+    {"name":"Games Without Frontiers", "artist": "Peter Gabriel", "duration":"3:57", "released_year": 2018},
+    {"name":"Dogs Got a Bone", "artist": "The Beta Band", "duration":"5:58", "released_year": 2018},
+    {"name":"Old Man", "artist": "Neil Young", "duration":"3:22", "released_year": 2018},
+    {"name":"Says", "artist": "Nils Frahm", "duration":"8:24", "released_year": 2018},
+    {"name":"O Children", "artist": "Nick Cave And The Bad Seeds", "duration":"6:51", "released_year": 2018},
+    {"name":"Bela Lugusi's Dead", "artist": "Nouvelle Vague Feat. Phoebe Killdeer", "duration":"4:00", "released_year": 2018},
+    {"name":"Off The Rail", "artist": "The Notwist", "duration":"3:28", "released_year": 2018},
+    {"name":"Consequence", "artist": "The Notwist", "duration":"3:28", "released_year": 2018},
+    {"name":"Why We Build the Wall", "artist": "Patrick Page", "duration":"4:00", "released_year": 2018}
+  ]
+}

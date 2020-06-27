@@ -78,14 +78,17 @@ class Track(models.Model):
     @property
     def artist_names(self):
         artist_names = ""
+
         artists = self.artist.all()
         if artists:
             artist_names += " & ".join([a.name for a in artists])
+
         featuring = self.featuring.all()
         if featuring:
-            artist_names += " Feat. "
-            artist_names += " & ".join([a.name for a in featuring])
+            artist_names += " Feat. " + " & ".join([a.name for a in featuring])
+
         return artist_names
+
 
     @property
     def artists(self):
@@ -171,13 +174,12 @@ class Library(models.Model):
 
     @classmethod
     def load(cls):
-        obj, created = cls.objects.get_or_create(pk=1)
-        return obj
+        return cls.objects.get_or_create(pk=1)[0]
 
     @property
     def duration(self):
         return total_durations(
-            [t.duration for t in Collection.objects.all()]
+            [t.duration for t in self.collections]
         )
 
     @property

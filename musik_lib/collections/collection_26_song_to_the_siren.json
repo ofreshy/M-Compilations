@@ -1,0 +1,25 @@
+{
+  "name": "Chill Part I",
+  "nick_name": "Song to the Siren",
+  "description": "This was actually a part of Chill II that was cut and re edited into its own collection. June 2020",
+  "created_year": "2020",
+  "ordinal": "26",
+  "tracks": [
+    {"name":"Song to the Siren", "artist": "Amen Dunes", "duration":"3:44", "released_year": 2018},
+    {"name":"Resurrection Drive Part II", "artist": "Timbre Timbre", "duration":"2:10", "released_year": 2018},
+    {"name":"Bring Me Simple Man", "artist": "Timbre Timbre", "duration":"3:50", "released_year": 2018},
+    {"name":"Wicked Game", "artist": "Chris Isaak", "duration":"4:46", "released_year": 2018},
+    {"name":"Nothing's Gonna Hurt You Baby", "artist": "Cigarettes After Sex", "duration":"4:46", "released_year": 2018},
+    {"name":"By Now", "artist": "Little Wings", "duration":"3:44", "released_year": 2018},
+    {"name":"Song to the Siren", "artist": "John Frusciante", "duration":"3:34", "released_year": 2018},
+    {"name":"Youth", "artist": "Daughter", "duration":"4:13", "released_year": 2018},
+    {"name":"Caroline's Fingers", "artist": "Cocteau Twins", "duration":"3:07", "released_year": 2018},
+    {"name":"Song to the Siren", "artist": "This Mortal Coil", "duration":"3:31", "released_year": 2018},
+    {"name":"Twin Peaks Main Theme", "artist": "Angelo Badalamenti", "duration":"1:29", "released_year": 2018},
+    {"name":"Underwater Love", "artist": "Smoke City", "duration":"6:46", "released_year": 2018},
+    {"name":"The Girl From Ipanema", "artist": "Frank Sinatra", "duration":"3:12", "released_year": 2018},
+    {"name":"Never Fallen In Love", "artist": "Nouvelle Vague feat. Mélanie Pain", "duration":"3:19", "released_year": 2018},
+    {"name":"Drop The Other", "artist": "Emika", "duration":"3:27", "released_year": 2018},
+    {"name":"Song to the Siren", "artist": "Tim Buckley", "duration":"3:29", "released_year": 2018}
+  ]
+}

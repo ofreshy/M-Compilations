@@ -1,0 +1,28 @@
+{
+  "name": "To Floyd",
+  "nick_name": "Floyd Cause Black Lives Matter",
+  "description": "For the murder of George Floyd. July 2020",
+  "created_year": "2020",
+  "ordinal": "28",
+  "tracks": [
+    {"name":"Rikers Island Redux", "artist": "Raphael Saadiq", "duration":"2:57", "released_year": 2018},
+    {"name":"This Is America", "artist": "Childish Gambino", "duration":"3:45", "released_year": 2018},
+    {"name":"UMI Says", "artist": "Mos Def", "duration":"5:05", "released_year": 2018},
+    {"name":"Wolves (Intro)", "artist": "Dead Prez", "duration":"2:16", "released_year": 2018},
+    {"name":"BLK Girl Soldier", "artist": "Jamila Woods", "duration":"3:22", "released_year": 2018},
+    {"name":"Hard Times", "artist": "Baby Huey & The Baby Sitters", "duration":"3:23", "released_year": 2018},
+    {"name":"Big Brother", "artist": "Stevie Wonder", "duration":"3:33", "released_year": 2018},
+    {"name":"What's Going On", "artist": "Marvin Gaye", "duration":"3:53", "released_year": 2018},
+    {"name":"Alright", "artist": "Kendrick Lamar", "duration":"3:39", "released_year": 2018},
+    {"name":"Strange Fruit", "artist": "Billie Holiday", "duration":"3:03", "released_year": 2018},
+    {"name":"Black Bird", "artist": "The Beatles", "duration":"2:18", "released_year": 2018},
+    {"name":"To Be Young, Gifted and Black", "artist": "Nina Simone", "duration":"2:49", "released_year": 2018},
+    {"name":"This Is Not a Song, It's an Outburst: Or, the Establishment Blues", "artist": "Rodriguez", "duration":"2:06", "released_year": 2018},
+    {"name":"Blowin' in the Wind", "artist": "Bob Dylan", "duration":"2:47", "released_year": 2018},
+    {"name":"Mississippi Goddam", "artist": "Nina Simone", "duration":"4:59", "released_year": 2018},
+    {"name":"i", "artist": "Kendrick Lamar", "duration":"5:36", "released_year": 2018},
+    {"name":"List Of Demands (Reparations)", "artist": "Saul Williams", "duration":"3:18", "released_year": 2018},
+    {"name":"Star Spangled Banner (Live at the Woodstock Music & Art Fair)", "artist": "Jimi Hendrix", "duration":"3:46", "released_year": 2018},
+    {"name":"A Change Is Gonna Come", "artist": "Otis Redding", "duration":"4:15", "released_year": 2018}
+  ]
+}

@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <title>Library</title>
         {% if collections %}
-        <ul>
+        <ol>
         {% for c in collections %}
             <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
         {% endfor %}
-        </ul>
+        </ol>
         {% else %}
         <p>No collections are available.</p>
         {% endif %}

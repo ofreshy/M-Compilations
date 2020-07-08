@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Artists</title>
-        <ul>
+        <ol>
         {% for a in artists %}
             <li><a href="/lib/artist/{{ a.id }}/">{{ a }}</a></li>
         {% endfor %}
-        </ul>
+        </ol>
 </head>
 <body>
 

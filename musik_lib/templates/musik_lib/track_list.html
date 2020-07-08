@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Tracks</title>
-        <ul>
+        <ol>
         {% for t in tracks %}
             <li><a href="/lib/track/{{ t.id }}/">{{ t }}</a></li>
         {% endfor %}
-        </ul>
+        </ol>
 </head>
 <body>
 

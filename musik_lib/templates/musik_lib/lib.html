@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Library</title>
-        {% if collections %}
-        <ol>
-        {% for c in collections %}
-            <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
-        {% endfor %}
-        </ol>
-        {% else %}
-        <p>No collections are available.</p>
-        {% endif %}
-</head>
-<body>
+    <head>
+        <meta charset="UTF-8">
 
-</body>
+    </head>
+    <body>
+        <title>Library</title>
+            {% if collections %}
+            <ol>
+            {% for c in collections %}
+                <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
+            {% endfor %}
+            </ol>
+            {% else %}
+            <p>No collections are available.</p>
+            {% endif %}
+    </body>
 </html>

@@ -40,13 +40,15 @@ def get_track_artists(artist_field, artists_dict):
 
 
 def ingest_collection(d):
-    collection, _ = Collection.objects.get_or_create(
+    collection, created = Collection.objects.get_or_create(
         name=d["name"],
         nick_name=d["nick_name"],
         description=d["description"],
         created_year=d["created_year"],
         ordinal=d["ordinal"]
     )
+    if not created:
+        collection.trackincollection_set.all().delete()
 
     # Safe to key by name as it is unique
     artists = dict(

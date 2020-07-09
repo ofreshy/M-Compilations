@@ -1,0 +1,24 @@
+{
+  "name": "Chill Part II",
+  "nick_name": "Chill Part II",
+  "description": "Continue the chill sound, start and ends with Bristol. July 2020",
+  "created_year": "2020",
+  "ordinal": "29",
+  "tracks": [
+    {"name":"Hell Is Round The Corner", "artist": "Tricky", "duration":"3:47", "released_year": 1000},
+    {"name":"It Could Be Sweet", "artist": "Portishead", "duration":"4:20", "released_year": 1000},
+    {"name":"Danube Incident", "artist": "Lalo Schifrin", "duration":"1:56", "released_year": 1000},
+    {"name":"Hyssop of Love", "artist": "BADBADNOTGOOD", "duration":"3:15", "released_year": 1000},
+    {"name":"Cry Mississippi", "artist": "Helicopter Girl", "duration":"4:10", "released_year": 1000},
+    {"name":"Risingson", "artist": "Massive Attack", "duration":"4:58", "released_year": 1000},
+    {"name":"Shelter", "artist": "The xx", "duration":"4:30", "released_year": 1000},
+    {"name":"Kaes On Aeg", "artist": "Velly Joonas", "duration":"2:52", "released_year": 1000},
+    {"name":"Je t'aime moi non plus", "artist": "Serge Gainsbourg & Jane Birkin", "duration":"4:21", "released_year": 1000},
+    {"name":"On Our Knees", "artist": "Konoba Feat. R.O", "duration":"4:43", "released_year": 1000},
+    {"name":"The Wilhelm Scream", "artist": "James Blake", "duration":"4:33", "released_year": 1000},
+    {"name":"Why Don't You Call Me", "artist": "James Blake", "duration":"1:32", "released_year": 1000},
+    {"name":"We", "artist": "Bon Iver", "duration":"2:22", "released_year": 1000},
+    {"name":"Comptine d`un autre ete, l`apres-midi", "artist": "Yann Tiersen", "duration":"2:20", "released_year": 1000},
+    {"name":"Funny Time Of Year", "artist": "Beth Gibbons & Rustic Man", "duration":"6:45", "released_year": 1000}
+  ]
+}

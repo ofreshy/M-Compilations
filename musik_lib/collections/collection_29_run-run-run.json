@@ -1,0 +1,31 @@
+{
+  "name": "Run Run Run",
+  "nick_name": "Run Run Run",
+  "description": "My Running Mix. End of July 2020",
+  "created_year": "2020",
+  "ordinal": "29",
+  "tracks": [
+    {"name":"Introduction", "artist": "Django Django", "duration":"2:12", "released_year": 2018},
+    {"name":"Hail Bop", "artist": "Django Django", "duration":"4:03", "released_year": 2018},
+    {"name":"My Zero", "artist": "Ezra Furman", "duration":"3:55", "released_year": 2018},
+    {"name":"Colors", "artist": "Beck", "duration":"4:21", "released_year": 2018},
+    {"name":"Easy", "artist": "The Beta Band", "duration":"2:32", "released_year": 2018},
+    {"name":"Good as Hell", "artist": "Lizzo", "duration":"2:39", "released_year": 2018},
+    {"name":"Make a Scene", "artist": "Shamir", "duration":"2:52", "released_year": 2018},
+    {"name":"Time (You and I)", "artist": "Khruangbin", "duration":"5:42", "released_year": 2018},
+    {"name":"Damon Albarn", "artist": "Cusick & Doto & Rothermel", "duration":"1:43", "released_year": 2018},
+    {"name":"D.A.N.C.E", "artist": "Justice", "duration":"4:02", "released_year": 2018},
+    {"name":"Ms. Jackson", "artist": "OutKast", "duration":"4:30", "released_year": 2018},
+    {"name":"Come Down", "artist": "Anderson .Paak", "duration":"2:56", "released_year": 2018},
+    {"name":"Doin' It Right", "artist": "Daft Punk", "duration":"4:11", "released_year": 2018},
+    {"name":"Take Me Out", "artist": "Franz Ferdinand", "duration":"3:59", "released_year": 2018},
+    {"name":"A Hero's Death", "artist": "FONTAINES D.C.", "duration":"4:18", "released_year": 2018},
+    {"name":"Trompe le Monde", "artist": "Pixies", "duration":"1:47", "released_year": 2018},
+    {"name":"Lovely Day", "artist": "Pixies", "duration":"2:05", "released_year": 2018},
+    {"name":"Selfless", "artist": "The Strokes", "duration":"3:42", "released_year": 2018},
+    {"name":"In the Clouds", "artist": "The Black Ghosts", "duration":"3:45", "released_year": 2018},
+    {"name":"House Music All Night Long", "artist": "JARV IS & Jarvis Cocker", "duration":"5:53", "released_year": 2018},
+    {"name":"It Ain't Over 'Til it's Over", "artist": "Lenny Kravitz", "duration":"4:02", "released_year": 2018},
+    {"name":"Slip Into Something More Comfortable", "artist": "Kinobe", "duration":"3:42", "released_year": 2018}
+  ]
+}

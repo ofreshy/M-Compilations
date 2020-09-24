@@ -1,0 +1,28 @@
+{
+  "name": "More",
+  "nick_name": "Mark Mulcahy Tribute",
+  "description": "My Running Mix. August 2020",
+  "created_year": "2020",
+  "ordinal": "30",
+  "tracks": [
+    {"name":"Heaven Can Wait", "artist": "Charlotte Gainsbourg Feat. Beck", "duration":"2:40", "released_year": 2018},
+    {"name":"The Eraser", "artist": "Thom Yorke", "duration":"4:55", "released_year": 2018},
+    {"name":"Where is My Mind", "artist": "Pixies", "duration":"3:51", "released_year": 2018},
+    {"name":"Everything's Coming Undone", "artist": "Michael Stipe", "duration":"3:49", "released_year": 2018},
+    {"name":"Everything's Coming Undone", "artist": "Mark Mulcahy", "duration":"3:04", "released_year": 2018},
+    {"name":"Dear Darkness", "artist": "PJ Harvey", "duration":"3:09", "released_year": 2018},
+    {"name":"Kansas", "artist": "Neil Young", "duration":"2:12", "released_year": 2018},
+    {"name":"We Don't Smoke It No More", "artist": "Neil Young", "duration":"4:51", "released_year": 2018},
+    {"name":"Hey Joe", "artist": "Jimi Hendrix", "duration":"3:29", "released_year": 2018},
+    {"name":"Pissing In a River", "artist": "Patti Smith", "duration":"4:51", "released_year": 2018},
+    {"name":"Far From Me", "artist": "Nick Cave & The Bad Seeds", "duration":"5:33", "released_year": 2018},
+    {"name":"Ashamed of the Story I Told", "artist": "Polaris", "duration":"4:29", "released_year": 2018},
+    {"name":"Drop Out", "artist": "Teleman", "duration":"5:13", "released_year": 2018},
+    {"name":"Queen", "artist": "Perfume Genius", "duration":"3:50", "released_year": 2018},
+    {"name":"Hide and Seek", "artist": "Imogen Heap", "duration":"2:57", "released_year": 2018},
+    {"name":"Reflektor", "artist": "Arcade Fire", "duration":"7:33", "released_year": 2018},
+    {"name":"Organ Donor", "artist": "DJ Shadow", "duration":"1:57", "released_year": 2018},
+    {"name":"Everybody Loves The Sunshine", "artist": "Roy Ayers Ubiquity", "duration":"3:59", "released_year": 2018},
+    {"name":"You'd Be so Nice to Come Home To", "artist": "Nina Simone", "duration":"5:25", "released_year": 2018}
+  ]
+}

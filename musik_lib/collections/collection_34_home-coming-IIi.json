@@ -1,0 +1,25 @@
+{
+  "name": "Home Coming III",
+  "nick_name": "Israeli not only mix III",
+  "description": "Mixing more Israeli songs in with the lot. Bit more dark. September 2020",
+  "created_year": "2020",
+  "ordinal": "34",
+  "tracks": [
+    {"name":"קרן שמש ראשונה", "artist": "אסף אמדורסקי", "duration":"0:34", "released_year": 2018},
+    {"name":"Strange Weather", "artist": "Anna Calvi & David Byrne", "duration":"5:34", "released_year": 2018},
+    {"name":"For Today I Am A Boy", "artist": "Anthony \\& The Johnsons", "duration":"2:36", "released_year": 2018},
+    {"name":"השמיים הכחולים", "artist": "אסף אמדורסקי", "duration":"4:02", "released_year": 2018},
+    {"name":"בתוך הצינורות", "artist": "אלג׳יר", "duration":"5:48", "released_year": 2018},
+    {"name":"באביב", "artist": "מיכה שטרית", "duration":"4:04", "released_year": 2018},
+    {"name": "Service Bell", "artist": "Grizzly Bear & Feist", "duration":"2:23", "released_year": 2018},
+    {"name":"רק לעוד כמה שעות", "artist": "גבריאל בלחסן", "duration":"5:02", "released_year": 2018},
+    {"name":" כל הנשמה", "artist": "עפרה חזה", "duration":"0:51", "released_year": 2018},
+    {"name":"חלום ישן", "artist": "לירון עמרם", "duration":"3:32", "released_year": 2018},
+    {"name":"בובה זהבה", "artist": "יובל דיין", "duration":"3:39", "released_year": 2018},
+    {"name":"צלצולי פעמונים", "artist": "אהובה עוזרי", "duration":"5:02", "released_year": 2018},
+    {"name":"סחרחורת", "artist": "טונה", "duration":"4:16", "released_year": 2018},
+    {"name":"Fallin'", "artist": "Alicia Keys", "duration":"3:30", "released_year": 2018},
+    {"name":"Strange Weather", "artist": "Keren Ann ", "duration":"5:27", "released_year": 2018},
+    {"name":"String Reprise / Treaty", "artist": "Leonard Cohen", "duration":"3:26", "released_year": 2018}
+  ]
+}

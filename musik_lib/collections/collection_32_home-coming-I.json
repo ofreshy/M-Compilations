@@ -1,0 +1,26 @@
+{
+  "name": "Home Coming I",
+  "nick_name": "Israeli not only mix I",
+  "description": "Mixing more Israeli songs in with the lot. September 2020",
+  "created_year": "2020",
+  "ordinal": "32",
+  "tracks": [
+    {"name":"שלוק בטון", "artist": "הפה והטלפיים", "duration":"3:42", "released_year": 2018},
+    {"name":"Sound and Vision", "artist": "David Bowie", "duration":"3:04", "released_year": 2018},
+    {"name":"Sir Duke", "artist": "Stevie Wonder", "duration":"3:52", "released_year": 2018},
+    {"name": "בגדים", "artist": "ספוטניק היי פיי", "duration":"2:40", "released_year": 2018},
+    {"name":"Tempo", "artist": "Lizzo Feat. Missy Elliott", "duration":"2:53", "released_year": 2018},
+    {"name":"Human After All", "artist": "Daft Punk", "duration":"5:19", "released_year": 2018},
+    {"name":"all the good girls go to hell", "artist": "Billie Eilish", "duration":"2:48", "released_year": 2018},
+    {"name":"המלך מת", "artist": "הילה רוח", "duration":"3:23", "released_year": 2018},
+    {"name":"Controversy (Single Version)", "artist": "Prince", "duration":"3:37", "released_year": 2018},
+    {"name":"דימונה סטריט", "artist": "רחוב שאנן", "duration":"2:40", "released_year": 2018},
+    {"name":"ברצלונה", "artist": "זוהר ארגוב", "duration":"4:04", "released_year": 2018},
+    {"name":"Magat Milkitna Dulaa", "artist": "Mariem Hassan", "duration":"3:10", "released_year": 2018},
+    {"name":"El Arabi", "artist": "Mariem Hassan", "duration":"2:44", "released_year": 2018},
+    {"name":"טרף הלב", "artist": "Abate Berihun", "duration":"3:44", "released_year": 2018},
+    {"name":"Maria También", "artist": "Khruangbin", "duration":"3:11", "released_year": 2018},
+    {"name":"י׳א 2", "artist": "טונה", "duration":"2:56", "released_year": 2018},
+    {"name":"Six Days", "artist": "DJ Shadow", "duration":"5:01", "released_year": 2018}
+  ]
+}

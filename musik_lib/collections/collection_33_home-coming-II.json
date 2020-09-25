@@ -1,0 +1,23 @@
+{
+  "name": "Home Coming II",
+  "nick_name": "Israeli not only mix II",
+  "description": "Mixing more Israeli songs in with the lot. Bit more club like. September 2020",
+  "created_year": "2020",
+  "ordinal": "33",
+  "tracks": [
+    {"name":"Mona Lisa", "artist": "theAngelcy", "duration":"3:19", "released_year": 2018},
+    {"name":"She's So Young", "artist": "Uzi Ramirez", "duration":"2:26", "released_year": 2018},
+    {"name":"Reckoning Song", "artist": "Asaf Avidan & The Mojos", "duration":"2:46", "released_year": 2018},
+    {"name": "I Can't Go to Sleep", "artist": "Wu-Tang Clan", "duration":"3:35", "released_year": 2018},
+    {"name":"אבודים בחלל", "artist": "טונה feat. A-WA", "duration":"4:52", "released_year": 2018},
+    {"name":"גלבי", "artist": "לירון עמרם", "duration":"2:46", "released_year": 2018},
+    {"name":"Bayti Fi Rasi", "artist": "A-WA", "duration":"3:38", "released_year": 2018},
+    {"name":"Cry Me a River", "artist": "Justin Timberlake", "duration":"4:48", "released_year": 2018},
+    {"name":"bury a friend", "artist": "Billie Eilish", "duration":"3:13", "released_year": 2018},
+    {"name":"Sipoor", "artist": "Red Axes", "duration":"6:20", "released_year": 2018},
+    {"name":"Jesus (Eyal Samson Remix)", "artist": "הילה רוח", "duration":"5:30", "released_year": 2018},
+    {"name":"tonite (electric Lady sessions)", "artist": "LCD Soundsystem", "duration":"5:44", "released_year": 2018},
+    {"name":"home (electric Lady sessions)", "artist": "LCD Soundsystem", "duration":"6:03", "released_year": 2018},
+    {"name":"I Want Your Love (electric Lady sessions)", "artist": "LCD Soundsystem", "duration":"4:16", "released_year": 2018}
+  ]
+}

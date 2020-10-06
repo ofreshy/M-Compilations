@@ -5,7 +5,7 @@ from django.utils.dateparse import parse_duration
 from musik_lib.models.stats import *
 
 AND_REGEX = re.compile(" & | and ", re.IGNORECASE)
-FEAT_REGEX = re.compile(" feat | featuring | feat\\. ", re.IGNORECASE)
+FEAT_REGEX = re.compile(" feat | featuring | feat\\. | מארח את", re.IGNORECASE)
 
 
 def get_track_artists(artist_field, artists_dict):

@@ -1,0 +1,25 @@
+{
+  "name": "Home Coming V",
+  "nick_name": "Israeli not only mix V",
+  "description": "Israeli not only mix, funky and groovy mostly. October 2020",
+  "created_year": "2020",
+  "ordinal": "36",
+  "tracks": [
+    {"name":"סליק", "artist": "Wc", "duration":"5:35", "released_year": 2018},
+    {"name":"אנחנו באים", "artist": "חנה אהרוני", "duration":"1:20", "released_year": 2018},
+    {"name":"המצב", "artist": "מתתיהו בנד", "duration":"3:26", "released_year": 2018},
+    {"name":"הפסיקו את המוזיקה", "artist": "החצר האחורית", "duration":"3:52", "released_year": 2018},
+    {"name":"זיצן ביי די לעכט", "artist": "הרב יואל קליין", "duration":"0:24", "released_year": 2018},
+    {"name":"אמת או חובה", "artist": "מיכאל גוטליב מארח את יוסי צברי", "duration":"3:05", "released_year": 2018},
+    {"name":"זמן להתעורר", "artist": "הדג נחש", "duration":"3:48", "released_year": 2018},
+    {"name":"שירת הסטיקר 2019", "artist": "הדג נחש", "duration":"3:54", "released_year": 2018},
+    {"name":"אם הייתי עשירה", "artist": "סימה נון", "duration":"2:16", "released_year": 2018},
+    {"name":"כהרף עין", "artist": "רביד פלוטניק מארח את טדי נגוסה", "duration":"4:23", "released_year": 2018},
+    {"name":"מטען חבלה", "artist": "סימה נון", "duration":"2:26", "released_year": 2018},
+    {"name":"אזיקים על הידיים", "artist": "טדי נגוסה", "duration":"3:26", "released_year": 2018},
+    {"name":"סטיריקנים", "artist": "Wc", "duration":"3:48", "released_year": 2018},
+    {"name":"מהפכה", "artist": "ברי סחרוף", "duration":"2:25", "released_year": 2018},
+    {"name":"הריני", "artist": "רביד פלוטניק", "duration":"4:00", "released_year": 2018},
+    {"name":"האור החדש", "artist": "החצר האחורית", "duration":"3:56", "released_year": 2018}
+  ]
+}

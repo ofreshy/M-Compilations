@@ -17,7 +17,6 @@ def total_durations(durations):
     return reduce(operator.add, durations, datetime.timedelta())
 
 
-
 def render_duration(duration):
     """
     Helper function to render duration
@@ -25,7 +24,7 @@ def render_duration(duration):
     m:ss for less than 10 minutes
     mm:ss for less than an hour
     h:mm:ss for more than an hour
-    :param td: a duration object (time delta)
+    :param duration: a duration object (time delta)
     :return:
     """
     total_seconds = int(duration.total_seconds())
@@ -88,7 +87,6 @@ class Track(models.Model):
             artist_names += " Feat. " + " & ".join([a.name for a in featuring])
 
         return artist_names
-
 
     @property
     def artists(self):

@@ -1,0 +1,24 @@
+{
+  "name": "Home Coming VI",
+  "nick_name": "Israeli not only mix VI",
+  "description": "Israeli not only mix, funky and groovy mostly. October 2020",
+  "created_year": "2020",
+  "ordinal": "37",
+  "tracks": [
+    {"name":"Star Eyes (I Can't Catch It)", "artist": "Danger Mouse & Sparklehorse feat. David Lynch", "duration":"3:10", "released_year": 2018},
+    {"name":"Once You Near Me", "artist": "Kutiman", "duration":"4:33", "released_year": 2018},
+    {"name":"צר לי צ׳רלי", "artist": "קרולינה", "duration":"3:56", "released_year": 2018},
+    {"name":"Cry For Me", "artist": "אסתר רדא", "duration":"2:35", "released_year": 2018},
+    {"name":"Lifted", "artist": "Princess Shaw", "duration":"3:47", "released_year": 2018},
+    {"name":"שמבלה", "artist": "טונה", "duration":"2:58", "released_year": 2018},
+    {"name":"מוזיקה טובה", "artist": "רביד פלוטניק", "duration":"3:21", "released_year": 2018},
+    {"name":"מורידה את הכפפה", "artist": "סימה נון", "duration":"3:00", "released_year": 2018},
+    {"name":"Chin Chin", "artist": "Noga Erez & ECHO", "duration":"2:16", "released_year": 2018},
+    {"name":"Sign 'O' The Times", "artist": "Prince", "duration":"5:02", "released_year": 2018},
+    {"name":"Wave", "artist": "Rone Feat. Noga Erez", "duration":"5:32", "released_year": 2018},
+    {"name":"Windowlicker", "artist": "Aphex Twin", "duration":"6:08", "released_year": 2018},
+    {"name":"A Higher Place", "artist": "Röyksopp", "duration":"4:31", "released_year": 2018},
+    {"name":"היפ הופי", "artist": "קיי. ג׳י. סי", "duration":"4:32", "released_year": 2018},
+    {"name":"Heaven Help Me", "artist": "Lizzo", "duration":"3:22", "released_year": 2018}
+  ]
+}

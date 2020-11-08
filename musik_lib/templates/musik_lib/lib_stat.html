@@ -1,28 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Library Stats</title>
-       <h1>
-           The Library has
-         <a href="/lib/collection_stat/">{{ lib_stat.num_collections }} collections</a>
-            Totalling
-         <a href="/lib/track/">{{ lib_stat.num_tracks }} tracks </a>
-           ,
-         <a href="/lib/artist/">{{ lib_stat.num_artists }} artists </a>
-            And {{ lib_stat.library.duration }} hours of music.
-     </h1>
+    <head>
+        <meta charset="UTF-8">
+        <title>Library Stats</title>
+    </head>
 
-    <h1>
-        <a href="/lib/dt/"> Duplicate Tracks </a>
-    </h1>
+    <body>
 
-    <h1>
-        <a href="/lib/afl/"> Artist Frequencies </a>
-    </h1>
-
-</head>
-<body>
-
-</body>
+        <h1>Library Stats</h1>
+            <ul>
+                <li> <a href="/lib/collection_stat/">  Collection Stats </a> </li>
+                <li> <a href="/lib/dt/">  Duplicate Tracks </a> </li>
+                <li> <a href="/lib/afl/"> Artist Frequency Library </a> </li>
+                <li> <a href="/lib/afc/"> Artist Frequency Collection  </a> </li>
+                <li> {{ lib_stat.num_artists }} <a href="/lib/artist/"> Artists </a> </li>
+                <li> {{ lib_stat.num_tracks }} <a href="/lib/track/"> Tracks </a> </li>
+                <li> {{ lib_stat.duration }} of music time </li>
+            </ul>
+    </body>
 </html>

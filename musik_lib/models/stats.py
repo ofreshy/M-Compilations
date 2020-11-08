@@ -28,6 +28,10 @@ class LibraryStat(models.Model):
     def num_artists(self):
         return Artist.objects.count()
 
+    @property
+    def duration(self):
+        return self.library.duration
+
     def update(self):
         self.update_collection_stats()
         self.update_artist_frequency_counts()

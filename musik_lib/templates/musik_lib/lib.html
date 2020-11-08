@@ -6,14 +6,12 @@
     </head>
     <body>
         <title>Library</title>
-            {% if collections %}
-            <ol>
-            {% for c in collections %}
-                <li><a href="/lib/collection/{{ c.id }}/">{{ c.name }}</a></li>
-            {% endfor %}
-            </ol>
-            {% else %}
-            <p>No collections are available.</p>
-            {% endif %}
+        <h1> Library </h1>
+        <ul>
+            <li> <a href="/lib/collection/"> Collections </a> </li>
+            <li> <a href="/lib/track/"> Tracks </a>   </li>
+            <li> <a href="/lib/artist/"> Artists </a> </li>
+            <li> <a href="/lib/lib_stat/"> Stats </a>  </li>
+        </ul>
     </body>
 </html>

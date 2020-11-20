@@ -1,0 +1,15 @@
+{
+  "name": "Decades II",
+  "nick_name": "Decades II - progressing bizarre",
+  "description": "Long songs from each decade of 60's to 2010's. Songs on the Bizarre Spectrum. November 2020",
+  "created_year": "2020",
+  "ordinal": "40",
+  "tracks": [
+    {"name":"Cygnet Committee", "artist": "David Bowie", "duration":"9:33", "released_year": 2018},
+    {"name":"Supper's Ready", "artist": "Genesis", "duration":"23:05", "released_year": 2018},
+    {"name":"Comfortably Numb", "artist": "Pink Floyd", "duration":"6:22", "released_year": 2018},
+    {"name":"Paranoid Android", "artist": "Radiohead", "duration":"6:27", "released_year": 2018},
+    {"name":"In the Backseat", "artist": "Arcade Fire", "duration":"6:20", "released_year": 2018},
+    {"name":"Atom Dance", "artist": "Björk Feat. Antony", "duration":"8:09", "released_year": 2018}
+  ]
+}

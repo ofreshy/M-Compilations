@@ -1,0 +1,15 @@
+{
+  "name": "Decades I",
+  "nick_name": "Decades I - progressing mesmerizing",
+  "description": "Long songs from each decade of 60's to 2010's. Songs that are on the mesmerizing spectrum. November 2020",
+  "created_year": "2020",
+  "ordinal": "39",
+  "tracks": [
+    {"name":"The End", "artist": "The Doors", "duration":"11:43", "released_year": 2018},
+    {"name":"Child in Time", "artist": "Deep Purple", "duration":"10:13", "released_year": 2018},
+    {"name":"Pictures of You", "artist": "The Cure", "duration":"7:28", "released_year": 2018},
+    {"name":"Protection", "artist": "Massive Attack Feat. Tracey Thorn", "duration":"7:51", "released_year": 2018},
+    {"name":"Roscoe", "artist": "Midlake", "duration":"6:53", "released_year": 2018},
+    {"name":"Before the Beginning", "artist": "John Frusciante", "duration":"9:09", "released_year": 2018}
+  ]
+}

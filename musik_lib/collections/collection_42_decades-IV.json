@@ -1,0 +1,14 @@
+{
+  "name": "Decades IV",
+  "nick_name": "Decades IV - the 70's",
+  "description": "Long songs from the 70's decade. November 2020",
+  "created_year": "2020",
+  "ordinal": "42",
+  "tracks": [
+    {"name":"Turiya & Ramakrishna", "artist": "Alice Coltrane", "duration":"8:17", "released_year": 2018},
+    {"name":"Sinnerman", "artist": "Nina Simone", "duration":"10:19", "released_year": 2018},
+    {"name":"Riders on the Storm", "artist": "The Doors","duration":"7:14", "released_year": 2018},
+    {"name":"In the Light", "artist": "Led Zeppelin", "duration":"8:47", "released_year": 2018},
+    {"name":"Ambulance Blues", "artist": "Neil Young", "duration":"8:56", "released_year": 2018}
+  ]
+}

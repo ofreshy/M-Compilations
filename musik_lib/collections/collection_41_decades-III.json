@@ -1,0 +1,16 @@
+{
+  "name": "Decades III",
+  "nick_name": "Decades III - progressing guitar",
+  "description": "Long songs from each decade of 60's to 2010's. November 2020",
+  "created_year": "2020",
+  "ordinal": "41",
+  "tracks": [
+    {"name":"Epitaph", "artist": "King Crimson", "duration":"8:55", "released_year": 2018},
+    {"name":"My God", "artist": "Jethro Tull", "duration":"7:11", "released_year": 2018},
+    {"name":"Telegraph Road", "artist": "Dire Straits", "duration":"14:20", "released_year": 2018},
+    {"name":"Soma", "artist": "The Smashing Pumpkins", "duration":"6:38", "released_year": 2018},
+    {"name":"I Am Trying to Break Your Heart", "artist": "Wilco", "duration":"6:58", "released_year": 2018},
+    {"name":"Under The Pressure", "artist": "The War On Drugs", "duration":"8:52", "released_year": 2018},
+    {"name":"Comes Then Goes", "artist": "Pearl Jam", "duration":"6:02", "released_year": 2018}
+  ]
+}

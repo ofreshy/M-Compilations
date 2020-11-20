@@ -1,0 +1,25 @@
+{
+  "name": "Home Coming VII",
+  "nick_name": "Israeli not only mix VII",
+  "description": "Israeli mix. Funk and Yemenite flavour. Sang mostly in languages other than Hebrew. November 2020",
+  "created_year": "2020",
+  "ordinal": "38",
+  "tracks": [
+    {"name":"Nanu Ney", "artist": "אסתר רדא", "duration":"3:20", "released_year": 2018},
+    {"name":"The Worls Is All There Is", "artist": "Fools Gold", "duration":"4:42", "released_year": 2018},
+    {"name":"Im Nin'Alu", "artist": "Tsvia Abarbanel", "duration":"2:54", "released_year": 2018},
+    {"name":"La Trib Ani Utruch", "artist": "דודו טסה, ברי סחרוף", "duration":"3:38", "released_year": 2018},
+    {"name":"מה לך יחידה", "artist": "ברי סחרוף, רע מוכיח", "duration":"3:55", "released_year": 2018},
+    {"name":"אליך", "artist": "ריף כהן", "duration":"3:01", "released_year": 2018},
+    {"name":"להלה זיד אקטר", "artist": "זוהר ארגוב", "duration":"5:38", "released_year": 2018},
+    {"name":"קאנא ווחדה", "artist": "כנסיית השכל", "duration":"4:39", "released_year": 2018},
+    {"name":"חור בלבנה", "artist": "Adi-Keshet Cohen", "duration":"3:18", "released_year": 2018},
+    {"name":"איגרת אל הילדים", "artist": "דודו טסה", "duration":"4:20", "released_year": 2018},
+    {"name":"תן לי רגע", "artist": "קרולינה", "duration":"3:44", "released_year": 2018},
+    {"name":"Quelle heure est-il", "artist": "ריף כהן, תמיר מוסקט", "duration":"4:04", "released_year": 2018},
+    {"name":"אני ישנה", "artist": "Victoria Hanna", "duration":"3:22", "released_year": 2018},
+    {"name":"Ya Shaifin al Malih", "artist": "A-WA", "duration":"3:19", "released_year": 2018},
+    {"name":"התחפרתי", "artist": "אהובה עוזרי", "duration":"3:53", "released_year": 2018},
+    {"name":"טרנטה לירא", "artist": "אהוד בנאי, ברי סחרוף", "duration":"3:06", "released_year": 2018}
+  ]
+}

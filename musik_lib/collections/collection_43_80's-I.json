@@ -1,0 +1,24 @@
+{
+  "name": "80's-I",
+  "nick_name": "80's that I can leave with",
+  "description": "Fun and Light 80's (as much as I could). First song meant a lot to me as kid... November 2020",
+  "created_year": "2020",
+  "ordinal": "43",
+  "tracks": [
+    {"name":"Touch Me", "artist": "Samantha Fox", "duration":"3:33", "released_year": 2018},
+    {"name":"She Drives Me Crazu", "artist": "Fine Young Cannibals", "duration":"3:35", "released_year": 2018},
+    {"name":"Hungry Like the Wolf", "artist": "Duran Duran", "duration":"3:29", "released_year": 2018},
+    {"name":"Gold", "artist": "Spandau Ballet", "duration":"3:51", "released_year": 2018},
+    {"name":"Papa Don't Preach", "artist": "Madonna", "duration":"4:09", "released_year": 2018},
+    {"name":"Love of the Common People", "artist": "Paul Young", "duration":"3:34", "released_year": 2018},
+    {"name":"Father Figure", "artist": "George Micheal", "duration":"5:40", "released_year": 2018},
+    {"name":"Smalltown Boy", "artist": "Bronski Beat", "duration":"4:59", "released_year": 2018},
+    {"name":"There Must Be an Angel", "artist": "Eurythmics", "duration":"4:41", "released_year": 2018},
+    {"name":"Karma Chameleon", "artist": "Culture Club", "duration":"4:02", "released_year": 2018},
+    {"name":"Little Lies", "artist": "Fleetwood Mac", "duration":"3:38", "released_year": 2018},
+    {"name":"Always the Sun", "artist": "The Stranglers", "duration":"4:04", "released_year": 2018},
+    {"name":"Don't You", "artist": "Simple Minds", "duration":"4:21", "released_year": 2018},
+    {"name":"Tainted Love", "artist": "Soft Cell", "duration":"2:42", "released_year": 2018},
+    {"name":"Just Can't Get Enough", "artist": "Depeche Mode", "duration":"3:40", "released_year": 2018}
+  ]
+}

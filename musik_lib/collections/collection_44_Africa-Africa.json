@@ -1,0 +1,21 @@
+{
+  "name": "Africa Africa",
+  "nick_name": "Simon's gone to Africa",
+  "description": "Influenced by Africa's beats and Simon's posting... November 2020",
+  "created_year": "2020",
+  "ordinal": "44",
+  "tracks": [
+    {"name":"Yègellé Tezeta", "artist": "Mulatu Astatke", "duration":"3:18", "released_year": 2018},
+    {"name":"Me And Julio Down By The Schoolyard", "artist": "Paul Simon", "duration":"2:44", "released_year": 2018},
+    {"name":"Kella Village", "artist": "Malian Musicians & Damon Albarn", "duration":"3:10", "released_year": 2018},
+    {"name":"Megumi The Milkyway Above", "artist": "Connan Mockasin", "duration":"2:28", "released_year": 2018},
+    {"name":"Fireflys Before Tomorrow", "artist": "Kutiman", "duration":"2:51", "released_year": 2018},
+    {"name":"Jelefne Bi Salam", "artist": "Mariem Hassan", "duration":"3:59", "released_year": 2018},
+    {"name":"Grazing in the Grass", "artist": "Hugh Masekela", "duration":"2:37", "released_year": 2018},
+    {"name":"Pata Pata", "artist": "Miriam Makeba", "duration":"3:00", "released_year": 2018},
+    {"name":"I'm Not The Man I Used To Be", "artist": "Fine Yound Cannibals", "duration":"4:18", "released_year": 2018},
+    {"name":"בין כל הבלוף", "artist": "קיי. ג׳י. סי", "duration":"3:41", "released_year": 2018},
+    {"name":"Big Shot", "artist": "Kendrick Lamar & Travis Scott", "duration":"3:41", "released_year": 2018},
+    {"name":"Abusey Junction", "artist": "KOKOROKO", "duration":"7:09", "released_year": 2018}
+  ]
+}

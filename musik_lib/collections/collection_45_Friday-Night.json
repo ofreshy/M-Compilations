@@ -1,0 +1,28 @@
+{
+  "name": "Friday Night",
+  "nick_name": "Dance to Bed",
+  "description": "Started on a drunken night on Saturday actually... November 2020",
+  "created_year": "2020",
+  "ordinal": "45",
+  "tracks": [
+    {"name":"Tribulations", "artist": "LCD Soundsystem", "duration":"4:59", "released_year": 2018},
+    {"name":"House Of Jealous Lovers", "artist": "The Rupture", "duration":"5:06", "released_year": 2018},
+    {"name":"Screamager", "artist": "Therapy?", "duration":"2:38", "released_year": 2018},
+    {"name":"4 DEGREES", "artist": "ANOHNI", "duration":"3:51", "released_year": 2018},
+    {"name":"Kings Fall", "artist": "Raphael Saadiq", "duration":"2:46", "released_year": 2018},
+    {"name":"Don't You Want Me", "artist": "The Human League", "duration":"3:56", "released_year": 2018},
+    {"name":"Psycho Lover (Live)", "artist": "Talking Heads", "duration":"4:24", "released_year": 2018},
+    {"name":"Around (Solomun Vox) (Moodymann Edit)", "artist": "Noir \\& Haze", "duration":"3:20", "released_year": 2018},
+    {"name":"Sea Sick", "artist": "Binki", "duration":"2:10", "released_year": 2018},
+    {"name":"Therefore I am", "artist": "Billie Eilish", "duration":"2:54", "released_year": 2018},
+    {"name":"Sweet Dreams (Are Made Of This)", "artist": "Eurythmics", "duration":"3:39", "released_year": 2018},
+    {"name":"The Model", "artist": "Kraftwerk", "duration":"3:39", "released_year": 2018},
+    {"name":"חמם אותי", "artist": "Red Axes feat. Hamash Halavan", "duration":"4:24", "released_year": 2018},
+    {"name":"לא עכשיו", "artist": "ענבל פרלומטר", "duration":"2:48", "released_year": 2018},
+    {"name":"Creep", "artist": "Stone Temple Pilots", "duration":"5:32", "released_year": 2018},
+    {"name":"Nearly Lost You", "artist": "Screaming Trees", "duration":"4:07", "released_year": 2018},
+    {"name":"Cocaine", "artist": "J. J. Cale", "duration":"2:52", "released_year": 2018},
+    {"name":"Walk On the Wild Side", "artist": "Lou Reed", "duration":"4:15", "released_year": 2018},
+    {"name":"I'll Keep It With Mine", "artist": "Nico", "duration":"3:17", "released_year": 2018}
+  ]
+}

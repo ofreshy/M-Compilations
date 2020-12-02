@@ -4,8 +4,13 @@ import os
 from collections import OrderedDict
 
 COLLECTION_DIR = os.path.dirname(os.path.realpath(__file__))
-COLLECTION_FILES = sorted([f for f in os.listdir(COLLECTION_DIR) if f.startswith("collection_")])
-COLLECTION_DICT = OrderedDict([(f.split("_")[1], f) for f in COLLECTION_FILES])
+COLLECTION_DICT = OrderedDict(
+    [
+        (f.split("_")[1], f)
+        for f
+        in sorted([f for f in os.listdir(COLLECTION_DIR) if f.startswith("collection_")])
+    ]
+)
 
 
 def read_collection_file(file_name):
@@ -14,7 +19,7 @@ def read_collection_file(file_name):
 
 
 def get_all_collection_files():
-    return COLLECTION_DICT.keys()
+    return COLLECTION_DICT.values()
 
 
 def resolve_collection_files(collection_numbers):

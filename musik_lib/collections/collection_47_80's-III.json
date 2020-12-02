@@ -1,0 +1,23 @@
+{
+  "name": "80's III",
+  "nick_name": "80's that are a bit more moody.",
+  "description": "A bit more moody 80's with bitter sweet songs mostly.  December 2020",
+  "created_year": "2020",
+  "ordinal": "47",
+  "tracks": [
+    {"name":"Mad world", "artist": "Tears For Fears", "duration":"3:35", "released_year": 2018},
+    {"name":"Save A Prayer", "artist": "Duran Duran", "duration":"5:26", "released_year": 2018},
+    {"name":"All Through the Night", "artist": "Cyndi Lauper", "duration":"4:32", "released_year": 2018},
+    {"name":"Running Up That Hill", "artist": "Kate Bush", "duration":"4:58", "released_year": 2018},
+    {"name":"The Killing Moon", "artist": "Echo \\& The Bunnymen", "duration":"5:48", "released_year": 2018},
+    {"name":"Bigmouth Strikes Again", "artist": "The Smiths", "duration":"3:13", "released_year": 2018},
+    {"name":"Fools Gold", "artist": "The Stone Roses", "duration":"4:16", "released_year": 2018},
+    {"name":"I'm Not The Man I Used To Be", "artist": "Fine Yound Cannibals", "duration":"4:18", "released_year": 2018},
+    {"name":"Red Red Wine", "artist": "UB40", "duration":"2:57", "released_year": 2018},
+    {"name":"Down Under", "artist": "Men At Work", "duration":"3:42", "released_year": 2018},
+    {"name":"Private Dancer", "artist": "Tina Turner", "duration":"4:00", "released_year": 2018},
+    {"name":"Without You", "artist": "David Bowie", "duration":"3:09", "released_year": 2018},
+    {"name":"Sometimes It Snows In April", "artist": "Prince", "duration":"6:49", "released_year": 2018},
+    {"name":"Time After Time", "artist": "Cyndi Lauper", "duration":"4:03", "released_year": 2018}
+  ]
+}

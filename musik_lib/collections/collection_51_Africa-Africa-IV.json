@@ -1,0 +1,26 @@
+{
+  "name": "Africa Africa IV",
+  "nick_name": "Fourth collection with strong African influences. This time more slow paced and low key",
+  "description": "Africa IV. December 2020",
+  "created_year": "2020",
+  "ordinal": "51",
+  "tracks": [
+    {"name":"La Relax", "artist": "Malian Musicians And Damon Albarn", "duration":"3:51", "released_year": 2018},
+    {"name":"Pagan Poetry", "artist": "Björk", "duration":"5:14", "released_year": 2018},
+    {"name":"Inner City Blues (Make Me Wanna Holler)", "artist": "Marvin Gaye", "duration":"5:13", "released_year": 2018},
+    {"name":"Youkouli", "artist": "Dobet Gnahoré", "duration":"1:27", "released_year": 2018},
+    {"name":"Allah", "artist": "Dobet Gnahoré", "duration":"1:06", "released_year": 2018},
+    {"name":"Suspicious Minds", "artist": "Fine Young Cannibals", "duration":"3:59", "released_year": 2018},
+    {"name":"Enkèn Yèlélèbesh", "artist": "Girma Bèyènè & Akalé Wubé", "duration":"3:58", "released_year": 2018},
+    {"name":"Kilimandjaro", "artist": "Miriam Makabe", "duration":"2:25", "released_year": 2018},
+    {"name":"Away Away", "artist": "Ibeyi", "duration":"3:00", "released_year": 2018},
+    {"name":"Come Meh Way", "artist": "Sudan Archives", "duration":"2:26", "released_year": 2018},
+    {"name":"Formidable", "artist": "Stormae", "duration":"3:33", "released_year": 2018},
+    {"name":"Bal De Bamako", "artist": "-M-", "duration":"3:49", "released_year": 2018},
+    {"name":"Unfinished Sympathy", "artist": "Massive Attack", "duration":"5:08", "released_year": 2018},
+    {"name":"Swimming Pools (Drunk)", "artist": "Kendrick Lamar", "duration":"4:07", "released_year": 2018},
+    {"name":"Before The Fire", "artist": "Santigold", "duration":"3:03", "released_year": 2018},
+    {"name":"How Far", "artist": "Gorillaz Feat. Tony Allen & Skepta", "duration":"2:46", "released_year": 2018},
+    {"name":"Spoons", "artist": "Malian Musicians And Damon Albarn", "duration":"5:19", "released_year": 2018}
+  ]
+}

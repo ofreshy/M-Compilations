@@ -1,0 +1,21 @@
+{
+  "name": "Africa Africa III",
+  "nick_name": "Third collection with strong African influences. This time toward African American",
+  "description": "Africa III. December 2020",
+  "created_year": "2020",
+  "ordinal": "50",
+  "tracks": [
+    {"name":"Victory (Instrumental)", "artist": "Ebo Taylor", "duration":"3:24", "released_year": 2018},
+    {"name":"Brothers On The Side", "artist": "Cymande", "duration":"4:11", "released_year": 2018},
+    {"name":"Isn't She Lovely", "artist": "Stevie Wonder", "duration":"6:34", "released_year": 2018},
+    {"name":"It's Your World", "artist": "Gil Scott-Heron And Brian Jackson", "duration":"3:59", "released_year": 2018},
+    {"name":"Theme From Shaft", "artist": "Isaac Hayes", "duration":"4:38", "released_year": 2018},
+    {"name":"Hihache", "artist": "Lafayette Afro Rock Band", "duration":"6:57", "released_year": 2018},
+    {"name":"Black Magic Woman", "artist": "Santana", "duration":"3:15", "released_year": 2018},
+    {"name":"Yaa Amponsah", "artist": "Ebo Taylor", "duration":"4:27", "released_year": 2018},
+    {"name":"Akissi la rebelle", "artist": "Dobet Gnahoré", "duration":"3:12", "released_year": 2018},
+    {"name":"See-Line Woman", "artist": "Nina Simone", "duration":"2:35", "released_year": 2018},
+    {"name":"Bourée", "artist": "Jethro Tull", "duration":"3:46", "released_year": 2018},
+    {"name":"I Got The...", "artist": "Labi Siffre", "duration":"6:35", "released_year": 2018}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Africa Africa Again",
+  "nick_name": "Second go at African Songs and inspired ones",
+  "description": "Africa II. December 2020",
+  "created_year": "2020",
+  "ordinal": "49",
+  "tracks": [
+    {"name":"Yèkèrmo Sèw", "artist": "Mulatu Astatke", "duration":"4:15", "released_year": 2018},
+    {"name":"Shakara", "artist": "Ezra Collective Feat. KOKOROKKO", "duration":"5:17", "released_year": 2018},
+    {"name":"Lady Day and John Coltrane", "artist": "Gil-Scott Heron", "duration":"3:34", "released_year": 2018},
+    {"name":"This Must Be The Place (Naive Melody)", "artist": "The Talking Heads", "duration":"4:56", "released_year": 2018},
+    {"name":"Griot Village", "artist": "Malian Musicians & Damon Albarn", "duration":"1:12", "released_year": 2018},
+    {"name":"Ha Po Zamani (Stereo Version)", "artist": "Miriam Makeba", "duration":"2:55", "released_year": 2018},
+    {"name":"De Camino a La Vereda", "artist": "Buena Vista Social Club", "duration":"5:03", "released_year": 2018},
+    {"name":"Adwa", "artist": "KOKOROKKO", "duration":"5:56", "released_year": 2018},
+    {"name":"Sittin' On (The Dock Of The Bay)", "artist": "Otis Redding", "duration":"2:46", "released_year": 2018},
+    {"name":"The Click Song", "artist": "Miriam Makeba", "duration":"2:33", "released_year": 2018},
+    {"name":"Me Voy", "artist": "Ibeyi", "duration":"3:07", "released_year": 2018},
+    {"name":"All The Stars", "artist": "Kendrick Lamar And SZA", "duration":"3:52", "released_year": 2018},
+    {"name":"Parking Lot", "artist": "Anderson .Paak", "duration":"3:54", "released_year": 2018},
+    {"name":"Le Hogon", "artist": "Malian Musicians & Damon Albarn", "duration":"3:51", "released_year": 2018},
+    {"name":"Shaking The Tree", "artist": "Peter Gabriel", "duration":"6:24", "released_year": 2018}
+  ]
+}

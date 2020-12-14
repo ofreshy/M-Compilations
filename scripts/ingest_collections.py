@@ -17,8 +17,10 @@ def setup_parser():
         type=str,
         nargs='+',
         help='space separated list of collection numbers under collection folder.'
-             ' Use file numbers only, e.g. 10 40 41'
-             ' Or special argument all to read all collections'
+             ' Use file numbers only, e.g. "10 40" for collection_10, collection_40 respectively'
+             ' Duplicate numbers will be ignored.'
+             ' If no respective collection is found then an error is raised'
+             ' Use special argument "all" to read all collections'
     )
     parser.add_argument(
         '--clear',

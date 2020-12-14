@@ -23,7 +23,9 @@ def get_all_collection_files():
 
 
 def resolve_collection_files(collection_numbers):
-    missing_collections =  set(collection_numbers) - COLLECTION_DICT.keys()
+    # dedup the collection numbers while also keeping their order
+    collection_numbers_dedup = OrderedDict([(cn, cn) for cn in collection_numbers]).keys()
+    missing_collections = collection_numbers_dedup - COLLECTION_DICT.keys()
     if missing_collections:
-        raise ValueError("Collection files for numbers '%s' do not exist" % (",".join(collection_numbers)))
-    return [COLLECTION_DICT[cn] for cn in collection_numbers]
+        raise ValueError("Collection files for numbers '%s' do not exist" % (",".join(collection_numbers_dedup)))
+    return [COLLECTION_DICT[cn] for cn in collection_numbers_dedup]

@@ -52,7 +52,6 @@ def main():
         utility.ingest_collection(collection)
         print("Done ingesting file name %s" % file_name)
 
-    # TODO add here a cleanup for orphan tracks
     l_stat = LibraryStat.load()
     print("Updating stats")
     l_stat.update()

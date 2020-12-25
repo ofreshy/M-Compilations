@@ -1,0 +1,23 @@
+{
+  "name": "Africa Africa VI",
+  "nick_name": "Sixth collection with strong African influences. This one with Samba / Cuban sounds",
+  "description": "Africa VI. December 2020",
+  "created_year": "2020",
+  "ordinal": "53",
+  "tracks": [
+    {"name":"Souleymane", "artist": "Orchestra Baobab", "duration":"4:26", "released_year": 2018},
+    {"name":"Don't Worry 'Bout A Thing", "artist": "Stevie Wonder", "duration":"4:44", "released_year": 2018},
+    {"name":"Rubén Sings!", "artist": "Buena Vista Social Club Feat. Rubén González", "duration":"0:48", "released_year": 2018},
+    {"name":"I Like It", "artist": "Cardi B Feat. Bad Bunny & J Alvin", "duration":"4:13", "released_year": 2018},
+    {"name":"Soy El Rey", "artist": "Pete Rodríguez", "duration":"3:05", "released_year": 2018},
+    {"name":"Papa Ndiaye", "artist": "Orchestra Baobab", "duration":"3:39", "released_year": 2018},
+    {"name":"C'est Pas Facile Pour Les Aigles", "artist": "Amadou \\& Mariam Feat. Ebony Bones", "duration":"2:41", "released_year": 2018},
+    {"name":"Breaking Down The Door", "artist": "Santana Feat. Buika", "duration":"4:30", "released_year": 2018},
+    {"name":"Mi Confesion", "artist": "Gotan Project", "duration":"4:20", "released_year": 2018},
+    {"name":"Amado Mio", "artist": "Pink Martini", "duration":"4:47", "released_year": 2018},
+    {"name":"No Habra Nadie En El Mundo", "artist": "Buika", "duration":"3:49", "released_year": 2018},
+    {"name":"Yetikimt Abeba", "artist": "The Roha Band", "duration":"5:20", "released_year": 2018},
+    {"name":"Habanera", "artist": "Buena Vista Social Club Feat. Manuel Mirabal", "duration":"2:16", "released_year": 2018},
+    {"name":"Utrus Horas", "artist": "Orchestra Baobab", "duration":"8:39", "released_year": 2018}
+  ]
+}

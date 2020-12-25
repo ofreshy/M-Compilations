@@ -1,0 +1,25 @@
+{
+  "name": "Africa Africa V",
+  "nick_name": "Fifth collection with strong African influences. All over continent with some known classics",
+  "description": "Africa V. December 2020",
+  "created_year": "2020",
+  "ordinal": "52",
+  "tracks": [
+    {"name":"Adame vs Keziah", "artist": "Adama Yalomba", "duration":"2:16", "released_year": 2018},
+    {"name":"Kanou", "artist": "Issa Bagayogo", "duration":"4:55", "released_year": 2018},
+    {"name":"I Can't Stand the Rain", "artist": "Ann Peebles", "duration":"2:30", "released_year": 2018},
+    {"name":"Funny How Love Is", "artist": "Fine Young Cannibals", "duration":"3:29", "released_year": 2018},
+    {"name":"Dougou Badia", "artist": "Amadou \\& Mariam Feat. Santigold", "duration":"3:54", "released_year": 2018},
+    {"name":"Tenere (The Desert, My Home)", "artist": "Bombino", "duration":"3:32", "released_year": 2018},
+    {"name":"Let It Carry You", "artist": "José González", "duration":"5:34", "released_year": 2018},
+    {"name":"Pelota", "artist": "Khruangbin", "duration":"2:48", "released_year": 2018},
+    {"name":"Tounga", "artist": "Issa Bagayogo", "duration":"3:22", "released_year": 2018},
+    {"name":"Hinwani", "artist": "Mariem Hassan", "duration":"3:08", "released_year": 2018},
+    {"name":"Every Season", "artist": "Tony Allen Feat. Damon Albarn", "duration":"4:07", "released_year": 2018},
+    {"name":"Karmacoma", "artist": "Massive Attack", "duration":"5:14", "released_year": 2018},
+    {"name":"Reason In Disguise", "artist": "Ezra Collective Feat. Jorja Smith", "duration":"3:41", "released_year": 2018},
+    {"name":"Out Of Time", "artist": "Blur", "duration":"3:53", "released_year": 2018},
+    {"name":"It Must Be Love", "artist": "Labi Siffre", "duration":"3:57", "released_year": 2018},
+    {"name":"Simply Beautiful", "artist": "Al Green", "duration":"4:11", "released_year": 2018}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Zeitgeist 2020 Part V - Folk",
+  "nick_name": "2020 Folk",
+  "description": "Fifth part of my best songs for 2020. Have a Folk flavour, but not only of course. January 2021",
+  "created_year": "2021",
+  "ordinal": "58",
+  "tracks": [
+    {"name":"Bow", "artist": "Sault", "duration":"4:05", "released_year": 2020},
+    {"name":"One More Second", "artist": "Matt Berninger", "duration":"5:22", "released_year": 2020},
+    {"name":"There Is A War", "artist": "Nathaniel Retliff Feat. Kevin Morby", "duration":"3:43", "released_year": 2020},
+    {"name":"Texas Sun", "artist": "Khruangbin Feat. Leon Bridges", "duration":"4:13", "released_year": 2020},
+    {"name":"I Contain Multitudes", "artist": "Bob Dylan", "duration":"4:36", "released_year": 2020},
+    {"name":"Lene", "artist": "Susanne Sundfør", "duration":"2:12", "released_year": 2020},
+    {"name":"anything", "artist": "Adrianne Lenker", "duration":"3:22", "released_year": 2020},
+    {"name":"willow", "artist": "Taylor Swift", "duration":"3:34", "released_year": 2020},
+    {"name":"Lockdown", "artist": "Koffee", "duration":"2:59", "released_year": 2020},
+    {"name":"Jason", "artist": "Perfume Genius", "duration":"3:05", "released_year": 2020},
+    {"name":"Sunblind", "artist": "Fleet Foxes", "duration":"4:13", "released_year": 2020},
+    {"name":"Sunny's Time", "artist": "Caribou", "duration":"2:49", "released_year": 2020},
+    {"name":"The End Of The Affair", "artist": "Laura Marling", "duration":"3:25", "released_year": 2020},
+    {"name":"White Line", "artist": "Neil Young", "duration":"3:13", "released_year": 2020}
+  ]
+}

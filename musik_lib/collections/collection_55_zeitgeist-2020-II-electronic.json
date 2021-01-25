@@ -1,0 +1,22 @@
+{
+  "name": "Zeitgeist 2020 Part II - Electronic",
+  "nick_name": "2020 Electronic",
+  "description": "Second part of my best songs for 2020. Have an Electronic Flavour, but not only of course. January 2021",
+  "created_year": "2021",
+  "ordinal": "55",
+  "tracks": [
+    {"name":"So We Won't Forget", "artist": "Khruangbin", "duration":"4:58", "released_year": 2020},
+    {"name":"Rise", "artist": "Sault", "duration":"1:01", "released_year": 2020},
+    {"name":"Wildfires", "artist": "Sault", "duration":"3:26", "released_year": 2020},
+    {"name":"Back To Work", "artist": "BC Camplight", "duration":"4:10", "released_year": 2020},
+    {"name":"Star Song.IMG", "artist": "The Avalanches", "duration":"0:10", "released_year": 2020},
+    {"name":"Interstellar Love", "artist": "The Avalanches Feat. Leon Bridges", "duration":"3:38", "released_year": 2020},
+    {"name":"Ravi", "artist": "Caribou", "duration":"4:30", "released_year": 2020},
+    {"name":"Before", "artist": "James Blake", "duration":"4:47", "released_year": 2020},
+    {"name":"Cathedrals Of The Mind", "artist": "Doves", "duration":"5:20", "released_year": 2020},
+    {"name":"Arpeggi", "artist": "Kelly Lee Owens", "duration":"4:45", "released_year": 2020},
+    {"name":"Weird Fishes", "artist": "Lianne Le Havas", "duration":"5:54", "released_year": 2020},
+    {"name":"Strange To Explain", "artist": "Woods", "duration":"3:34", "released_year": 2020},
+    {"name":"Wander", "artist": "Kevin Morby", "duration":"1:54", "released_year": 2020}
+  ]
+}

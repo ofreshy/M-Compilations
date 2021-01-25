@@ -1,0 +1,24 @@
+{
+  "name": "Zeitgeist 2020 Part I - Israeli",
+  "nick_name": "2020 Israel",
+  "description": "Best local / Israeli songs for 2020. January 2021",
+  "created_year": "2021",
+  "ordinal": "54",
+  "tracks": [
+    {"name":"מדינה מחלה", "artist": "טברנק", "duration":"1:16", "released_year": 2020},
+    {"name":"הארץ השטוחה", "artist": "הזאבות", "duration":"2:40", "released_year": 2020},
+    {"name":"בתחנה המרכזית החדשה", "artist": "קוסטה קפלן", "duration":"4:41", "released_year": 2020},
+    {"name":"לילה של רוק קטיפתי", "artist": "אביב מארק, המפשעות", "duration":"3:03", "released_year": 2020},
+    {"name":"מסיבה", "artist": "יסמין מועלם feat. שקל", "duration":"3:22", "released_year": 2020},
+    {"name":"אגו טריפ", "artist": "סימה נון", "duration":"1:53", "released_year": 2020},
+    {"name":"זבוב צרפתי", "artist": "כרמלה והאורחים הנוספים", "duration":"1:51", "released_year": 2020},
+    {"name":"VIEWS", "artist": "Noga Erez, Reo Cragun, ROUSSO", "duration":"2:45", "released_year": 2020},
+    {"name":"הטוב הרע ואחותך", "artist": "טונה, שלום חנוך", "duration":"3:24", "released_year": 2020},
+    {"name":"הייאוש תמיד שם", "artist": "אמרי כהן", "duration":"1:55", "released_year": 2020},
+    {"name":"ים יבשה", "artist": "עומר מושקוביץ", "duration":"3:09", "released_year": 2020},
+    {"name":"גיטרה ופסנתר", "artist": "איה זהבה פייגלין", "duration":"3:48", "released_year": 2020},
+    {"name":"חלום", "artist": "חומר אפל", "duration":"3:37", "released_year": 2020},
+    {"name":"עצות", "artist": "עומר מושקוביץ", "duration":"5:36", "released_year": 2020},
+    {"name":"כדור הארץ", "artist": "הנוקמים 2, הילה רוח, Ryskinder", "duration":"3:34", "released_year": 2020}
+  ]
+}

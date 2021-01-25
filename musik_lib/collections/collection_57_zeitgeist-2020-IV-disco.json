@@ -1,0 +1,24 @@
+{
+  "name": "Zeitgeist 2020 Part IV - Disco",
+  "nick_name": "2020 Disco",
+  "description": "Fourth part of my best songs for 2020. Have a Disco flavour, but not only of course. January 2021",
+  "created_year": "2021",
+  "ordinal": "57",
+  "tracks": [
+    {"name":"I Just Want to Dance", "artist": "Sault", "duration":"4:21", "released_year": 2020},
+    {"name":"Can't Put It In The Hand Of Faith", "artist": "Stevie Wonder Feat. Rapsody, Corade, CHIKA & Busta Rhymes", "duration":"6:42", "released_year": 2020},
+    {"name":"Is It True", "artist": "Tame Impala", "duration":"3:59", "released_year": 2020},
+    {"name":"Incapable", "artist": "Róisín Murphy", "duration":"3:45", "released_year": 2020},
+    {"name":"Son Shine", "artist": "Sault", "duration":"3:16", "released_year": 2020},
+    {"name":"Blue World", "artist": "MAC MILLER", "duration":"3:29", "released_year": 2020},
+    {"name":"39.28", "artist": "Childish Gambino", "duration":"2:59", "released_year": 2020},
+    {"name":"Under The Table", "artist": "Fiona Apple", "duration":"3:21", "released_year": 2020},
+    {"name":"On the Floor", "artist": "Perfume Genius", "duration":"5:03", "released_year": 2020},
+    {"name":"Cemetery Lifestyle", "artist": "Bc Camplight", "duration":"3:42", "released_year": 2020},
+    {"name":"Algorhythm", "artist": "Childish Gambino", "duration":"3:38", "released_year": 2020},
+    {"name":"The Adults Are Talking", "artist": "The Strokes", "duration":"5:09", "released_year": 2020},
+    {"name":"We Will Always Love You", "artist": "The Avalanches Feat. Blood Orange", "duration":"2:52", "released_year": 2020},
+    {"name":"Re-Wild", "artist": "Kelly Lee Owens", "duration":"3:42", "released_year": 2020},
+    {"name":"Trouble", "artist": "Hen Ogledd", "duration":"5:50", "released_year": 2020}
+  ]
+}

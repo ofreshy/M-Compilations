@@ -1,0 +1,26 @@
+{
+  "name": "Zeitgeist 2020 Part III - HipHop & Rock",
+  "nick_name": "2020 HipHop & Rock",
+  "description": "Third part of my best songs for 2020. Have an Hip Hop and Rock Flavour, but not only of course. January 2021",
+  "created_year": "2021",
+  "ordinal": "56",
+  "tracks": [
+    {"name":"The Beginning & The End", "artist": "Sault", "duration":"3:38", "released_year": 2020},
+    {"name":"Televised Mind", "artist": "FOUNTAINS D.C.", "duration":"4:10", "released_year": 2020},
+    {"name":"Born Confused", "artist": "Porridge Radio", "duration":"3:01", "released_year": 2020},
+    {"name":"Ladies", "artist": "Fiona Apple", "duration":"5:25", "released_year": 2020},
+    {"name":"pulling the pin", "artist": "Run The Jewels Feat. Josh Homme & Mavis Staples", "duration":"3:37", "released_year": 2020},
+    {"name":"a few words for the firing squad (radiation)", "artist": "Run The Jewels", "duration":"6:42", "released_year": 2020},
+    {"name":"53.49", "artist": "Childish Gambino", "duration":"3:55", "released_year": 2020},
+    {"name":"Cut Me", "artist": "Moses Sumney", "duration":"4:10", "released_year": 2020},
+    {"name":"also also also and and and", "artist": "Moses Sumney", "duration":"1:31", "released_year": 2020},
+    {"name":"never look back", "artist": "Run The Jewels", "duration":"2:57", "released_year": 2020},
+    {"name":"Sweet", "artist": "Porridge Radio", "duration":"3:42", "released_year": 2020},
+    {"name":"Are We Alright Again", "artist": "Eels", "duration":"3:43", "released_year": 2020},
+    {"name":"Lockdown", "artist": "Anderson .Paak", "duration":"3:32", "released_year": 2020},
+    {"name":"The Young God Speaks", "artist": "Busta Rhymes", "duration":"0:40", "released_year": 2020},
+    {"name":"Look Over Your Shoulder", "artist": "Busta Rhymes Feat. Kendrick Lamar", "duration":"4:58", "released_year": 2020},
+    {"name":"Something", "artist": "Porridge Radio", "duration":"1:58", "released_year": 2020},
+    {"name":"Homecoming Song", "artist": "Porridge Radio", "duration":"2:41", "released_year": 2020}
+  ]
+}

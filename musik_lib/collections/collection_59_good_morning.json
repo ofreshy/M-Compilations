@@ -1,0 +1,24 @@
+{
+  "name": "Good Morning",
+  "nick_name": "Good Morning",
+  "description": "Good morning songs that I often would have played at the Radio. March 2021",
+  "created_year": "2021",
+  "ordinal": "59",
+  "tracks": [
+    {"name":"Sunday", "artist": "Nick Drake", "duration":"3:42", "released_year": 2020},
+    {"name":"Is It Wicked Not To Care", "artist": "Belle \\& Sebastian", "duration":"3:22", "released_year": 2020},
+    {"name":"Sunday Morning", "artist": "The Velvet Underground & Nico", "duration":"2:55", "released_year": 2020},
+    {"name":"Bryter Layter", "artist": "Nick Drake", "duration":"3:20", "released_year": 2020},
+    {"name":"So Long, Marianne", "artist": "Leonard Cohen", "duration":"5:36", "released_year": 2020},
+    {"name":"The Call", "artist": "TheAngelcy", "duration":"3:26", "released_year": 2020},
+    {"name":"Neat Wild Heaven 2(Demo)", "artist": "R.E.M.", "duration":"3:36", "released_year": 2020},
+    {"name":"Embryonic Journey", "artist": "Jefferson Airplane", "duration":"1:52", "released_year": 2020},
+    {"name":"Heart of Gold", "artist": "Neil Young", "duration":"3:07", "released_year": 2020},
+    {"name":"Pretty Pimpin", "artist": "Kurt Vile", "duration":"4:58", "released_year": 2020},
+    {"name":"Mozambique", "artist": "Bob Dylan", "duration":"3:01", "released_year": 2020},
+    {"name":"Mama Don't", "artist": "J.J. Cale", "duration":"3:49", "released_year": 2020},
+    {"name":"Short People", "artist": "Randy Newman", "duration":"2:56", "released_year": 2020},
+    {"name":"Good Day Sunshine", "artist": "The Beatles", "duration":"2:09", "released_year": 2020},
+    {"name":"Another Star", "artist": "Stevie Wonder", "duration":"8:28", "released_year": 2020}
+  ]
+}

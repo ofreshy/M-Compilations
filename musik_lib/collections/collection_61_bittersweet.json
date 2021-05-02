@@ -1,0 +1,23 @@
+{
+  "name": "Bittersweet",
+  "nick_name": "Bittersweet",
+  "description": "Bittersweet songs. End of April 2021",
+  "created_year": "2021",
+  "ordinal": "61",
+  "tracks": [
+    {"name":"Space Golf", "artist": "Hen Ogledd", "duration":"4:57", "released_year": 2020},
+    {"name":"Lovesong", "artist": "The Cure", "duration":"3:28", "released_year": 2020},
+    {"name":"The Look", "artist": "Metronomy", "duration":"4:37", "released_year": 2020},
+    {"name":"Suedehead", "artist": "Morrissey", "duration":"3:54", "released_year": 2020},
+    {"name":"Pale Shelter", "artist": "Tears For Fears", "duration":"4:35", "released_year": 2020},
+    {"name":"Break England", "artist": "Jean-Michelle Jarre Feat. Pet Shop Boys", "duration":"4:01", "released_year": 2020},
+    {"name":"Rent", "artist": "Pet Shop Boys", "duration":"3:33", "released_year": 2020},
+    {"name":"The Delayed 3:15", "artist": "Elbow", "duration":"3:24", "released_year": 2020},
+    {"name":"New Skin", "artist": "The Wave Pictures", "duration":"4:47", "released_year": 2020},
+    {"name":"Don't Panic", "artist": "Coldplay", "duration":"2:16", "released_year": 2020},
+    {"name":"Hope", "artist": "Arlo Parks", "duration":"4:20", "released_year": 2020},
+    {"name":"It's All Over Now Baby Blue", "artist": "Marianne Faithfull", "duration":"3:50", "released_year": 2020},
+    {"name":"Sonnet", "artist": "The Verve", "duration":"4:21", "released_year": 2020},
+    {"name":"Bitter Sweet Symphony", "artist": "The Verve", "duration":"5:57", "released_year": 2020}
+  ]
+}

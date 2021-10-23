@@ -1,0 +1,21 @@
+{
+  "name": "Night to Dawn III",
+  "nick_name": "Night to Dawn III",
+  "description": "Night To Dawn. Mid July 2021",
+  "created_year": "2021",
+  "ordinal": "64",
+  "tracks": [
+    {"name":"As Tears Go By", "artist": "Marianne Faithfull", "duration":"2:38", "released_year": 2020},
+    {"name":"True Love Will Find You in the End", "artist": "Daniel Johnston", "duration":"1:51", "released_year": 2020},
+    {"name":"I am Coming to Paris (To Kill You)", "artist": "Timber Timbre", "duration":"3:19", "released_year": 2020},
+    {"name":"These Days", "artist": "St. Vincent", "duration":"3:19", "released_year": 2020},
+    {"name":"Those were the Days", "artist": "Angel Olsen", "duration":"4:20", "released_year": 2020},
+    {"name":"Baby's Arms", "artist": "Kurt Vile", "duration":"3:56", "released_year": 2020},
+    {"name":"Just Like Heaven", "artist": "Christian Lee Hutson & Shamir", "duration":"3:26", "released_year": 2020},
+    {"name":"Angeles", "artist": "Elliott Smith", "duration":"2:57", "released_year": 2020},
+    {"name":"Them", "artist": "Nils Frahm", "duration":"4:00", "released_year": 2020},
+    {"name":"Don't Pass Me By", "artist": "Laura Marling", "duration":"5:09", "released_year": 2020},
+    {"name":"True Love Will Find You in the End", "artist": "Wilco", "duration":"3:51", "released_year": 2020},
+    {"name":"To Love Somebody", "artist": "Bee Gees", "duration":"3:02", "released_year": 2020}
+  ]
+}

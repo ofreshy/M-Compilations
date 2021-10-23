@@ -1,0 +1,19 @@
+{
+  "name": "Night to Dawn II",
+  "nick_name": "Night to Dawn II",
+  "description": "Night To Dawn. End of June 2021",
+  "created_year": "2021",
+  "ordinal": "63",
+  "tracks": [
+    {"name":"By This River", "artist": "Brian Eno", "duration":"3:03", "released_year": 2020},
+    {"name":"Lady Grinning Soul", "artist": "Anna Calvi", "duration":"3:56", "released_year": 2020},
+    {"name":"03:06", "artist": "Ólafur Arnalds & Nils Frahm", "duration":"5:02", "released_year": 2020},
+    {"name":"Underneath The Weeping Willow", "artist": "Grandaddy", "duration":"2:40", "released_year": 2020},
+    {"name":"Pizzola: Milonga de Angel", "artist": "Tango for Four", "duration":"6:44", "released_year": 2020},
+    {"name":"Avalanche", "artist": "Leonard Cohen", "duration":"5:02", "released_year": 2020},
+    {"name":"Bleu Nuit", "artist": "Timber Timbre", "duration":"4:06", "released_year": 2020},
+    {"name":"The Light 3000", "artist": "Schneider PM & KPT.Michi.Gan", "duration":"4:04", "released_year": 2020},
+    {"name":"The Heart of Noise (The Origin)", "artist": "Jean-Michel Jarre", "duration":"2:36", "released_year": 2020},
+    {"name":"Dying on the Vine", "artist": "Grandaddy", "duration":"5:21", "released_year": 2020}
+  ]
+}

@@ -7,7 +7,7 @@ Holds all the metadata for the music collections and compilations that I have; E
 ``` pip install -e . [dev] ```
 
 2. Run the migrations
-``` python manage.py migrations ```
+``` python manage.py migrate ```
 
 
 ## Use with a DB

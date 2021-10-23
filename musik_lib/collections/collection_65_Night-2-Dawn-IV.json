@@ -1,0 +1,25 @@
+{
+  "name": "Night to Dawn IV",
+  "nick_name": "Country Folk Night",
+  "description": "Night To Dawn. 23 October 2021",
+  "created_year": "2021",
+  "ordinal": "65",
+  "tracks": [
+    {"name":"Ballad of a Thin Man", "artist": "Bob Dylan", "duration":"5:57", "released_year": 2020},
+    {"name":"Something On Your Mind", "artist": "Karen Dalton", "duration":"3:23", "released_year": 2020},
+    {"name":"Katie Cruel", "artist": "Karen Dalton", "duration":"2:22 ", "released_year": 2020},
+    {"name":"Been Smoking Too Long", "artist": "Nick Drake", "duration":"2:13", "released_year": 2020},
+    {"name":"Black is the Colour of True Love's Hair", "artist": "Nina Simone", "duration":"3:26", "released_year": 2020},
+    {"name":"Coney Island Baby, ", "artist": "Lout Reed", "duration":"6:35", "released_year": 2020},
+    {"name":"Elevation", "artist": "Television", "duration":"5:05", "released_year": 2020},
+    {"name":"Chemtrails", "artist": "Beck", "duration":"4:38", "released_year": 2020},
+    {"name":"Femme Fatale", "artist": "Sharon Van Etten", "duration":"4:43", "released_year": 2020},
+    {"name":"Henry Lee", "artist": "Nick Cave && The Bad Seeds feat. PJ Harvey", "duration":"3:58", "released_year": 2020},
+    {"name":"Green Grass", "artist": "Tom Waits", "duration":"3:12", "released_year": 2020},
+    {"name":"Seaside", "artist": "Spencer Cullum", "duration":"3:15", "released_year": 2020},
+    {"name":"The Wind", "artist": "Yusuf / Cat Stevens", "duration":"1:42", "released_year": 2020},
+    {"name":"I Want You", "artist": "Elvis Costello & The Attractions", "duration":"6:41", "released_year": 2020},
+    {"name":"Dark End of the Street", "artist": "Cat Power", "duration":"4:02", "released_year": 2020},
+    {"name":"Watch You", "artist": "Labi Siffre", "duration":"3:33", "released_year": 2020}
+  ]
+}

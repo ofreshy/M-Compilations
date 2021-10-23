@@ -1,0 +1,19 @@
+{
+  "name": "Night to Dawn I",
+  "nick_name": "Night to Dawn I",
+  "description": "Night To Dawn. 26 June 2021",
+  "created_year": "2021",
+  "ordinal": "62",
+  "tracks": [
+    {"name":"Tunnel Vision", "artist": "Kae Tempest", "duration":"5:15", "released_year": 2020},
+    {"name":"Night", "artist": "Kelly Lee Owens", "duration":"5:10", "released_year": 2020},
+    {"name":"Fifty On Our Foreheads", "artist": "White Lies", "duration":"4:22 ", "released_year": 2020},
+    {"name":"Pills I Swallow", "artist": "The Twilight Sad", "duration":"4:01", "released_year": 2020},
+    {"name":"The Turning of Our Bones", "artist": "Arab Strap", "duration":"5:05", "released_year": 2020},
+    {"name":"All the Colours of the Dark, ", "artist": "Federale", "duration":"3:53", "released_year": 2020},
+    {"name":"The Rip", "artist": "Portishead", "duration":"4:31", "released_year": 2020},
+    {"name":"Are You Sure", "artist": "David Lynch", "duration":"3:46", "released_year": 2020},
+    {"name":"Night Scented Stock", "artist": "Kate Bush", "duration":"0:52", "released_year": 2020},
+    {"name":"Army Dreamers", "artist": "Kate Bush", "duration":"2:59", "released_year": 2020}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Home Coming IX",
+  "nick_name": "Home Coming Digital",
+  "description": "Israeli Songs, digital version mostly. Mid May 2021",
+  "created_year": "2021",
+  "ordinal": "63",
+  "tracks": [
+    {"name":"זמנך עבר", "artist": "רע מוכיח וקורין אלאל", "duration":"4:52", "released_year": 2020},
+    {"name":"רכבת לצםון", "artist": "אסף אמדורסקי מציג אבישג כהן רודריגז", "duration":"4:52", "released_year": 2020},
+    {"name":"היינו מסטולים", "artist": "WC", "duration":"5:01", "released_year": 2020},
+    {"name":"מוליכות הכלבים", "artist": "Mouth \\& Foot", "duration":"2:43", "released_year": 2020},
+    {"name":"קולנוע", "artist": "Omer Moskovitch", "duration":"4:16", "released_year": 2020},
+    {"name":"נראה לי", "artist": "יסמין מועלם", "duration":"3:29", "released_year": 2020},
+    {"name":"Leftovers", "artist": "יסמין מועלם", "duration":"3:02", "released_year": 2020},
+    {"name":"Shine Again", "artist": "Kutiman", "duration":"2:59", "released_year": 2020},
+    {"name":"תמיד אותו סיפור", "artist": "Liron Amram", "duration":"3:46", "released_year": 2020},
+    {"name":"פעמונים", "artist": "Omri Smaadar & Roy Shpilman Feat. Ahuva Ozeri", "duration":"4:34", "released_year": 2020},
+    {"name":"Anan", "artist": "קרולינה .Vooz Brothers Feat", "duration":"6:04", "released_year": 2020},
+    {"name":"הזוג הזה", "artist": "Merugi", "duration":"3:13", "released_year": 2020},
+    {"name":"End of the Road", "artist": "Noga Erez", "duration":"2:40", "released_year": 2020},
+    {"name":"שלח לי מלאך", "artist": "אביתר בנאי", "duration":"3:57", "released_year": 2020},
+    {"name":"בלדה בין כוכבים", "artist": "BĘÃTFÓØT & Adi Bronicki", "duration":"5:32", "released_year": 2020}
+  ]
+}

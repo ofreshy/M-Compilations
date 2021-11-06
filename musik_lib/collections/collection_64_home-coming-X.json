@@ -1,0 +1,25 @@
+{
+  "name": "Home Coming X",
+  "nick_name": "Home Coming 90's with strong flavour",
+  "description": "Israeli Songs. Late May 2021",
+  "created_year": "2021",
+  "ordinal": "64",
+  "tracks": [
+       {"name":"פתיחה", "artist": "אביתר בנאי", "duration":"1:06", "released_year": 2020},
+       {"name":"יש לי סיכוי", "artist": "אביתר בנאי", "duration":"2:56", "released_year": 2020},
+       {"name":"יקירתי", "artist": "אסף אמדורסקי", "duration":"3:30", "released_year": 2020},
+       {"name":"מות התפוז", "artist": "רונה קינן", "duration":"3:04", "released_year": 2020},
+       {"name":"לך איתה", "artist": "אילנה רובינא", "duration":"4:07", "released_year": 2020},
+       {"name":"לא ידעתי שתלכי ממני", "artist": "דני ליטני", "duration":"5:23", "released_year": 2020},
+       {"name":"משהו אחר", "artist": "בלוז ראש פינה", "duration":"3:34", "released_year": 2020},
+       {"name":"לך איתה", "artist": "נוער שוליים", "duration":"5:37", "released_year": 2020},
+       {"name":"רחוב 60", "artist": "יוסי אלפנט", "duration":"3:32", "released_year": 2020},
+       {"name":"קסם על ים כנרת", "artist": "המכשפות", "duration":"3:26", "released_year": 2020},
+       {"name":"שיר לשלום", "artist": "האחים צברי", "duration":"2:24", "released_year": 2020},
+       {"name":"ימי ראשית הקיץ", "artist": "אורי אדרו & ג׳נגו", "duration":"3:50", "released_year": 2020},
+       {"name":"מה אתה עושה כשאתה קם בבוקר", "artist": "אריק איינשטין ושלום חנוך", "duration":"3:36", "released_year": 2020},
+       {"name":"שבלול", "artist": "רוקפור", "duration":"3:17", "released_year": 2020},
+       {"name":"חור בלבנה", "artist": "עדי קשת-כהן", "duration":"3:18", "released_year": 2020},
+       {"name":"אם כבר לבד", "artist": "החברים של נטאשה", "duration":"5:12", "released_year": 2020}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Home Coming VIII",
+  "nick_name": "Home Coming Nostalgic",
+  "description": "Israeli Songs, quite nostalgic. Was hard to find a song after Ashlayot.Mid May 2021",
+  "created_year": "2021",
+  "ordinal": "62",
+  "tracks": [
+    {"name":"ברחוב הנשמות הטהורות", "artist": "קרן אן", "duration":"3:34", "released_year": 2020},
+    {"name":"I Follow Rivers", "artist": "Roni Alter", "duration":"3:26", "released_year": 2020},
+    {"name":"שבלול", "artist": "אריק איינשטיין ושלום חנוך", "duration":"2:46", "released_year": 2020},
+    {"name":"זה מכבר", "artist": "אסף אמדורסקי", "duration":"3:16", "released_year": 2020},
+    {"name":"ערב של שושנים", "artist": "Miriam Makeba", "duration":"2:22", "released_year": 2020},
+    {"name":"שחרחורת", "artist": "אסתר עופרים", "duration":"3:03", "released_year": 2020},
+    {"name":"חוזה לך ברח", "artist": "אושיק לוי", "duration":"3:29", "released_year": 2020},
+    {"name":"ערב ב׳ כסליו", "artist": "ערן צור ואנסמבל מיתר", "duration":"4:19", "released_year": 2020},
+    {"name":"שיר הפריחה", "artist": "עופרה חזה", "duration":"2:28", "released_year": 2020},
+    {"name":"אשליות", "artist": "ניסים סרוסי", "duration":"4:13", "released_year": 2020},
+    {"name":"She's a Revolution", "artist": "Kutiman", "duration":"3:47", "released_year": 2020},
+    {"name":"פנקס הקטן", "artist": "ששי קשת", "duration":"6:29", "released_year": 2020},
+    {"name":"מרי לו", "artist": "צביקה פיק", "duration":"5:55", "released_year": 2020}
+  ]
+}

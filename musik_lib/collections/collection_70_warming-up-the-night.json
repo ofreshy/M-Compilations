@@ -1,0 +1,19 @@
+{
+  "name": "Warming up the night",
+  "nick_name": "Gentle Beats",
+  "description": "Was mostly done as Yoga 4, a collection for a yoga class. updated Nov 2021.  03 November 2021",
+  "created_year": "2021",
+  "ordinal": "70",
+  "tracks": [
+    {"name":"Harvest Moon", "artist": "Poolside", "duration":"6:09", "released_year": 2020},
+    {"name":"Daydream", "artist": "Youth Lagoon", "duration":"5:20", "released_year": 2020},
+    {"name":"Getting There From Here (Instrumental)", "artist": "Poolside, Todd Edwards, Turbotito", "duration":"4:06", "released_year": 2020},
+    {"name":"Migration", "artist": "Bonobo", "duration":"5:27", "released_year": 2020},
+    {"name":"Outlier", "artist": "Bonobo", "duration":"7:55", "released_year": 2020},
+    {"name":"Baby", "artist": "Donnie & Joe Emerson", "duration":"4:11", "released_year": 2020},
+    {"name":"oh baby", "artist": "LCD Soundsystem", "duration":"5:50", "released_year": 2020},
+    {"name":"Mi Mujer", "artist": "Nicolas Jaar", "duration":"6:51", "released_year": 2020},
+    {"name":"Hands of Time", "artist": "Kraak \\& Smack, Alexander London", "duration":"5:44", "released_year": 2020},
+    {"name":"Isobel - Deodata Mix", "artist": "Björk", "duration":"6:12", "released_year": 2020}
+  ]
+}

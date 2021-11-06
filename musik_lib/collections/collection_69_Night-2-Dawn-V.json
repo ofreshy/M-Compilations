@@ -1,0 +1,21 @@
+{
+  "name": "Night to Dawn V",
+  "nick_name": "Chill up",
+  "description": "Night To Dawn. A bit more upbeat..  23 October 2021",
+  "created_year": "2021",
+  "ordinal": "69",
+  "tracks": [
+    {"name":"Keep Me There", "artist": "Nicolas Jaar", "duration":"5:22", "released_year": 2020},
+    {"name":"Two Thousand and Seventeen", "artist": "Four Tet", "duration":"4:12", "released_year": 2020},
+    {"name":"Nude", "artist": "Radiohead", "duration":"4:15", "released_year": 2020},
+    {"name":"It Was Willow", "artist": "Bibio", "duration":"2:02", "released_year": 2020},
+    {"name":"Between The Bars", "artist": "Madeleine Peyroux", "duration":"3:42", "released_year": 2020},
+    {"name":"Billie Holiday", "artist": "Warpaint", "duration":"6:45", "released_year": 2020},
+    {"name":"Wingbeats Source III: Piano and Wings", "artist": "Hidden Orchestra", "duration":"2:36", "released_year": 2020},
+    {"name":"Feel First Life", "artist": "Jon Hopkins", "duration":"5:33", "released_year": 2020},
+    {"name":"Untitled #3 - Samskeyti", "artist": "Sigur Rós", "duration":"6:33", "released_year": 2020},
+    {"name":"Variations", "artist": "Nicolas Jaar", "duration":"3:21", "released_year": 2020},
+    {"name":"Everybody's Got To Learn Something", "artist": "The Field", "duration":"6:47", "released_year": 2020},
+    {"name":"Looking for the Rain", "artist": "Unkle & Mark Lanegan & ESKA", "duration":"6:02", "released_year": 2020}
+  ]
+}

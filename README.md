@@ -5,10 +5,12 @@ Holds all the metadata for the music collections and compilations that I have; E
 
 1. Install the app
 ``` pip install -e . [dev] ```
-
 2. Run the migrations
 ``` python manage.py migrate ```
+3. Run the server with 
+``` python manage.py runserver ```
 
+Application is then available on `http://127.0.0.1:8000/lib`
 
 ## Use with a DB
 

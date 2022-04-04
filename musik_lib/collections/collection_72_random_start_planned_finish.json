@@ -1,0 +1,19 @@
+{
+  "name": "Random Start Planned Finish",
+  "nick_name": "Random Start",
+  "description": "Started in 2021 in a few minutes. took a while to finish. Finished in Feb 2022.  20+ February 2021",
+  "created_year": "2022",
+  "ordinal": "72",
+  "tracks": [
+    {"name":"The Night of Santiago", "artist": "Leonard Cohen", "duration":"4:15", "released_year": 2020},
+    {"name":"Our Love", "artist": "Sharon Van Etten", "duration":"3:53", "released_year": 2020},
+    {"name":"Space Song", "artist": "Beach House", "duration":"5:20", "released_year": 2020},
+    {"name":"Love Will Tear Us Apart (Again)", "artist": "Cause \\& Effect", "duration":"4:55", "released_year": 2020},
+    {"name":"Mami", "artist": "The White Screen", "duration":"5:09", "released_year": 2020},
+    {"name":"Avalanche", "artist": "Just Friends", "duration":"6:51", "released_year": 2020},
+    {"name":"אין אותי", "artist": "Roei Hermon", "duration":"4:51", "released_year": 2020},
+    {"name":"Spaced Cowboy", "artist": "Sly & The Family Stone", "duration":"3:58", "released_year": 2020},
+    {"name":"Cómo Me Quieres", "artist": "Khruangbin", "duration":"3:45", "released_year": 2020},
+    {"name":"Oi", "artist": "Ryskinder", "duration":"4:33", "released_year": 2020}
+  ]
+}

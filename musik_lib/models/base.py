@@ -1,6 +1,7 @@
 import datetime
 import operator
 
+from itertools import chain
 from functools import reduce
 
 from django.db import models
@@ -51,10 +52,13 @@ class Artist(models.Model):
 
     @property
     def tracks(self):
-        return \
-            [t for t in self.main_artist.all()] \
-            + \
-            [t for t in self.featured_artist.all()]
+        return [
+            t for t
+            in chain(
+                self.main_artist.all(),
+                self.featured_artist.all(),
+            )
+        ]
 
 
 class Track(models.Model):

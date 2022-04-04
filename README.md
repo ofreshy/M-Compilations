@@ -49,7 +49,7 @@ Add migrations and create super user
 
 Seed the DB
 * ``` heroku config:set DJANGO_SETTINGS_MODULE=musika.settings ```
-* ``` heroku run python scripts/ingest_db.py all ```
+* ``` heroku run python scripts/ingest_collections.py all ```
 
 ### Goal
 The target state for the first development phase is to have all my compilations available on the webserver,

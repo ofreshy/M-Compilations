@@ -8,7 +8,11 @@ COLLECTION_DICT = OrderedDict(
     [
         (f.split("_")[1], f)
         for f
-        in sorted([f for f in os.listdir(COLLECTION_DIR) if f.startswith("collection_")])
+        in sorted(
+            [
+                f for f in os.listdir(COLLECTION_DIR) if f.startswith("collection_")
+            ]
+        )
     ]
 )
 

@@ -1,0 +1,23 @@
+{
+  "name": "Abracadabra",
+  "nick_name": "Jumpy Moly 80's",
+  "description": "Started this collection from the first song Abracadabra. Was really hard for me to find the next song and then it got a turn into hip hop that I liked but not for this one. So ended up having quite a few off shoots of this one collection. July 2022",
+  "created_year": "2022",
+  "ordinal": "74",
+  "tracks": [
+    {"name":"Abracadabra", "artist": "Steve Miller Band", "duration":"5:08", "released_year": 2020},
+    {"name":"Sugar On My Tongue", "artist": "Talking Heads", "duration":"2:36", "released_year": 2020},
+    {"name":"I Think We're Alone Now", "artist": "Lene Lovich", "duration":"2:46", "released_year": 2020},
+    {"name":"The Strokes", "artist": "Hard To Explain", "duration":"3:44", "released_year": 2020},
+    {"name":"Atomic", "artist": "Blondie", "duration":"4:42", "released_year": 2020},
+    {"name":"Can't Get Blue Monday Out Of My Head", "artist": "Kylie Minogue", "duration":"4:01", "released_year": 2020},
+    {"name":"West End Girls", "artist": "Pet Shop Boys", "duration":"4:05", "released_year": 2020},
+    {"name":"Murder On The Dancefloor", "artist": "Sophie Ellis-Bextor", "duration":"3:50", "released_year": 2020},
+    {"name":"Acceptable in the 80's", "artist": "Calvin Harris", "duration":"5:34", "released_year": 2020},
+    {"name":"I Belong To You", "artist": "Lenny Kravitz", "duration":"4:18", "released_year": 2020},
+    {"name":"I Touch Myself", "artist": "Divinyls", "duration":"3:48", "released_year": 2020},
+    {"name":"Middle of the Road", "artist": "Pretenders", "duration":"4:14", "released_year": 2020},
+    {"name":"Suicide Blonde", "artist": "INXS", "duration":"3:53", "released_year": 2020},
+    {"name":"By My Side", "artist": "INXS", "duration":"3:03", "released_year": 2020}
+  ]
+}

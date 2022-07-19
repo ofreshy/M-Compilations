@@ -1,0 +1,31 @@
+{
+  "name": "OffShoot I",
+  "nick_name": "Weedy Hop",
+  "description": "This one is the first off shoot of Abracadabra. Weedy in nature and touches on other groovy bits. Finished it on train ride to pick up the spanyards on 30th oh June. 30th June 2022",
+  "created_year": "2022",
+  "ordinal": "75",
+  "tracks": [
+    {"name":"Intro (Operation Stackola)", "artist": "Luniz", "duration":"0:52", "released_year": 2020},
+    {"name":"I Got 5 On It", "artist": "Luniz, Michael Marshall", "duration":"4:14", "released_year": 2020},
+    {"name":"California Love", "artist": "2Pac, Roger, Dr. Dre", "duration":"3:44", "released_year": 2020},
+    {"name":"Clint Eastwood", "artist": "Gorrilaz", "duration":"5:41", "released_year": 2020},
+    {"name":"Loser", "artist": "Beck", "duration":"3:55", "released_year": 2020},
+    {"name":"Old Town Road", "artist": "Lil Nas X", "duration":"1:53", "released_year": 2020},
+    {"name":"No Diggity", "artist": "Blackstreet, Dr. Dre, Queen Pen", "duration":"5:05", "released_year": 2020},
+    {"name":"Get It Together", "artist": "Beastie Boys, Q-Tip", "duration":"4:06", "released_year": 2020},
+    {"name":"I'm Cool Like That", "artist": "Jazzinuf", "duration":"5:05", "released_year": 2020},
+    {"name":"My Girl", "artist": "Otis Redding", "duration":"2:56", "released_year": 2020},
+    {"name":"I Feel For You", "artist": "Prince", "duration":"3:25", "released_year": 2020},
+    {"name":"Physical", "artist": "Olivia Newton-John", "duration":"3:46", "released_year": 2020},
+    {"name":"Love Hater", "artist": "Outkast", "duration":"2:50", "released_year": 2020},
+    {"name":"Award Tour", "artist": "A Tribe Called Quest", "duration":"3:46", "released_year": 2020},
+    {"name":"Rock Co.Kane Flow", "artist": "De La Soul Feat. MF Doom Newton-John", "duration":"3:46", "released_year": 2020},
+    {"name":"Hypnotize", "artist": "The Notorious B.I.G.", "duration":"3:50", "released_year": 2020},
+    {"name":"Rebirth of Slick (Cool Like Dat)", "artist": "Digable Plants", "duration":"4:25", "released_year": 2020},
+    {"name":"Passin' Me Be", "artist": "The Pharcyde", "duration":"5:03", "released_year": 2020},
+    {"name":"Having A Party", "artist": "Lee \"Scratch\" Perry", "duration":"4:41", "released_year": 2020},
+    {"name":"C.R.E.A.M. (Cash Rules Everything Around Me)", "artist": "Wu-Tang Clan feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk ", "duration":"4:12", "released_year": 2020},
+    {"name":"Paper Trail$", "artist": "Joey Bada$$", "duration":"3:15", "released_year": 2020},
+    {"name":"Regulate", "artist": "Warren G., Nate Dogg", "duration":"4:09", "released_year": 2020}
+  ]
+}

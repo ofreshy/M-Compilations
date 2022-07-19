@@ -1,0 +1,23 @@
+{
+  "name": "70s Guitars",
+  "nick_name": "Jimi introduce",
+  "description": "Really strong 70's guitars vibe.  24 April 2022",
+  "created_year": "2022",
+  "ordinal": "73",
+  "tracks": [
+    {"name":"All Along the Watchtower", "artist": "Jimi Hendrix", "duration":"4:01", "released_year": 2020},
+    {"name":"White Room", "artist": "Cream", "duration":"4:58", "released_year": 2020},
+    {"name":"Love Her Madly", "artist": "The Doors", "duration":"3:21", "released_year": 2020},
+    {"name":"Serenade", "artist": "Steve Miller Band", "duration":"3:11", "released_year": 2020},
+    {"name":"You Keep Me Handin' On", "artist": "Vanilla Fudge", "duration":"2:56", "released_year": 2020},
+    {"name":"Rumble", "artist": "Link Wray", "duration":"2:26", "released_year": 2020},
+    {"name":"Be My Wife", "artist": "David Bowie", "duration":"2:57", "released_year": 2020},
+    {"name":"Strange Brew", "artist": "Cream", "duration":"2:46", "released_year": 2020},
+    {"name":"Always On The Run", "artist": "Lenny Kravitz", "duration":"3:53", "released_year": 2020},
+    {"name":"Crosstown Traffic", "artist": "Jimi Hendrix", "duration":"2:27", "released_year": 2020},
+    {"name":"Desert Raven", "artist": "Jonathan Wilson", "duration":"7:58", "released_year": 2020},
+    {"name":"Today", "artist": "Jefferson Airplane", "duration":"2:58", "released_year": 2020},
+    {"name":"Andmoreagain", "artist": "Love", "duration":"3:21", "released_year": 2020},
+    {"name":"Witchi Tai To", "artist": "Harpers Bizzare", "duration":"2:44", "released_year": 2020}
+  ]
+}

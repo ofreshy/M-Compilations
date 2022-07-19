@@ -84,11 +84,11 @@ class Track(models.Model):
 
         artists = self.artist.all()
         if artists:
-            artist_names += " & ".join([a.name for a in artists])
+            artist_names += " , ".join([a.name for a in artists])
 
         featuring = self.featuring.all()
         if featuring:
-            artist_names += " Feat. " + " & ".join([a.name for a in featuring])
+            artist_names += " Feat. " + " , ".join([a.name for a in featuring])
 
         return artist_names
 

@@ -46,8 +46,6 @@ class CollectionTest(TestCase):
     def test_order_of_tracks_in_collection(self):
         pass
 
-
-
     def test_empty_tracks(self):
         c = fixtures.collection_1()
         self.assertEqual(c.number_of_tracks(), 0)
@@ -58,7 +56,6 @@ class CollectionTest(TestCase):
         c = c.add_tracks([fixtures.track_1(), fixtures.track_2()])
 
         self.assertEqual(c.number_of_tracks(), 2)
-
 
     def test_track_add_ordinal(self):
         c = fixtures.collection_1()
@@ -76,7 +73,6 @@ class CollectionTest(TestCase):
         c = c.add_tracks([t3])
 
         self.assertEqual([t for t in c.tracks], [t1, t2, t3])
-
 
 
 class TrackTest(TestCase):
@@ -108,7 +104,6 @@ class TrackTest(TestCase):
     def test_collection_property_when_empty(self):
         self.assertFalse(fixtures.track_1().collections)
 
-
     def test_collection_property_when_added_to_collections(self):
         t = fixtures.track_1()
 
@@ -134,6 +129,7 @@ class TrackInCollectionTest(TestCase):
                 collection=c,
                 ordinal=1,
             )
+
 
 class HelperTest(TestCase):
 
@@ -172,7 +168,6 @@ class HelperTest(TestCase):
         expected = "10:00"
 
         self.assertEquals(actual, expected)
-
 
     def test_duration_render_seconds_minutes_and_hours(self):
         duration = timedelta(minutes=64, seconds=18)

@@ -1,0 +1,26 @@
+{
+  "name": "OffShoot II",
+  "nick_name": "Unhinged",
+  "description": "This one is the second off shoot of Abracadabra. Unhinged notes, on the verge of (in)sanity. July 2022",
+  "created_year": "2022",
+  "ordinal": "76",
+  "tracks": [
+    {"name":"Ashes to Ashes", "artist": "David Bowie", "duration":"4:26", "released_year": 2020},
+    {"name":"The Chauffeur", "artist": "Duran Duran", "duration":"5:22", "released_year": 2020},
+    {"name":"Films", "artist": "Gary Numan", "duration":"4:09", "released_year": 2020},
+    {"name":"Equinoxe, Pt. 5", "artist": "Jean-Michel Jarre", "duration":"3:52", "released_year": 2020},
+    {"name":"Time of the Season - Mono Version", "artist": "The Zombies", "duration":"3:34", "released_year": 2020},
+    {"name":"Das Model", "artist": "Kraftwerk", "duration":"3:40", "released_year": 2020},
+    {"name":"The Sinking Feeling", "artist": "The The", "duration":"3:41", "released_year": 2020},
+    {"name":"Barracuda", "artist": "John Cale", "duration":"3:48", "released_year": 2020},
+    {"name":"I Heard It Through The Grapevine", "artist": "The Slits", "duration":"3:59", "released_year": 2020},
+    {"name":"Rapture - Special Mix", "artist": "Blondie", "duration":"5:37", "released_year": 2020},
+    {"name":"Straight to Hell", "artist": "The Clash", "duration":"5:31", "released_year": 2020},
+    {"name":"The Game Black", "artist": "Lee \"Scratch\" Perry", "duration":"4:36", "released_year": 2020},
+    {"name":"Baby's on Fire", "artist": "Bryan Eno", "duration":"5:19", "released_year": 2020},
+    {"name":"Birthday", "artist": "The Sugarcubes", "duration":"3:59", "released_year": 2020},
+    {"name":"I Wanna Be Your Dog", "artist": "The Stooges", "duration":"3:09", "released_year": 2020},
+    {"name":"I'm Coolin', No Foolin'", "artist": "Lesely Gore", "duration":"2:53", "released_year": 2020},
+    {"name":"Giant", "artist": "The The", "duration":"9:35", "released_year": 2020}
+  ]
+}

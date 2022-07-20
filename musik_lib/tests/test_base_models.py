@@ -93,7 +93,7 @@ class TrackTest(TestCase):
             fixtures.artist_1(name="a1"),
             fixtures.artist_1(name="a2")
         )
-        self.assertEqual(t.artist_names, "a1 & a2")
+        self.assertEqual(t.artist_names, "a1 , a2")
 
     def test_artist_names_feat(self):
         t = fixtures.track_1(name="t1")

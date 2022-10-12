@@ -37,4 +37,3 @@ setup(
     packages=['musika'],
     scripts=["manage.py", "scripts/ingest_collections.py"],
 )
-

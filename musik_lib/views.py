@@ -57,6 +57,7 @@ class ArtistDetailView(generic.DetailView):
 class ArtistListView(generic.ListView):
     template_name = 'musik_lib/artist_list.html'
     context_object_name = 'artists'
+    paginate_by = 100
 
     def get_queryset(self):
         return Artist.objects.order_by(Upper('name'))

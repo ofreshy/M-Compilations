@@ -57,8 +57,8 @@ jobs:
         MUSIKA_DB_NAME: ${{ matrix.database-name }}
         MUSIKA_DB_USER: ${{ matrix.database-user }}
         MUSIKA_DB_PASSWORD: ${{ matrix.database-password }}
-        POSTGRES_DB_HOST: ${{ matrix.database-host }}
-        POSTGRES_PORT: ${{ matrix.database-port }}
+        MUSIKA_DB_HOST: ${{ matrix.database-host }}
+        MUSIKA_DB_PORT: ${{ matrix.database-port }}
       run: |
         export DATABASE_URL=postgres://${{ matrix.database-user }}:${{ matrix.database-password }}@${{ matrix.database-host }}:${{ matrix.database-port }}/${{ matrix.database-name }}
         export SECRET_KEY=test-secret-key

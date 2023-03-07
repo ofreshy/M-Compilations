@@ -18,7 +18,7 @@ services:
       - postgres_data:/var/lib/postgresql/data/
     environment:
       - "POSTGRES_HOST_AUTH_METHOD=trust"
-      - POSTGRES_PORT: 5432
+      - POSTGRES_PORT: "5432"
       - MUSIKA_DB_NAME: postgres
       - MUSIKA_DB_PASSWORD: postgres
       - MUSIKA_DB_USER: postgres

@@ -9,6 +9,7 @@ Prerequisite
 1. build the app on docker 
 ``` docker-compose up -d --build ```
 2. Run the migrations
+``` docker-compose exec web python manage.py makemigrations ```
 ``` docker-compose exec web python manage.py migrate ```
 3. Ingest collections 
 ``` docker-compose exec web python scripts/ingest_collections.py all ```

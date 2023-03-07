@@ -22,7 +22,7 @@ jobs:
         database-user:
           - postgres
         database-host:
-          - 127.0.0.1
+          - db
         database-port:
           - 5432
 

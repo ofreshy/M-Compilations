@@ -45,14 +45,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install .
-    - name: check env variables for postgres DB
-      run: echo MUSIKA_DB_NAME $MUSIKA_DB_NAME
     - name: Run Tests
       run: |
         python manage.py test
       env:
         # The hostname used to communicate with the PostgreSQL service container
-        POSTGRES_HOST: localhost
+        POSTGRES_HOST: postgres
         # The default PostgreSQL port
         POSTGRES_PORT: 5432
         MUSIKA_DB_NAME: postgres

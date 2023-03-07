@@ -30,9 +30,11 @@ jobs:
       postgres:
         image: postgres:latest
         env:
-          POSTGRES_DB: ${{ matrix.database-host }}
-          POSTGRES_USER: ${{ matrix.database-user }}
-          POSTGRES_PASSWORD: ${{ matrix.database-password }}
+          MUSIKA_DB_NAME: ${{ matrix.database-name }}
+          MUSIKA_DB_USER: ${{ matrix.database-user }}
+          MUSIKA_DB_PASSWORD: ${{ matrix.database-password }}
+          MUSIKA_DB_HOST: ${{ matrix.database-host }}
+          MUSIKA_DB_PORT: ${{ matrix.database-port }}
         ports:
           - 5432:5432
         # Set health checks to wait until postgres has started

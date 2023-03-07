@@ -65,8 +65,6 @@ jobs:
         export SECRET_KEY=test-secret-key
         export DEBUG=1
     - name: Run migrations
-      depends_on:
-        - postgres
       run: |
         export DATABASE_URL=postgres://${{ matrix.database-user }}:${{ matrix.database-password }}@${{ matrix.database-host }}:${{ matrix.database-port }}/${{ matrix.database-name }}
         export SECRET_KEY=test-secret-key

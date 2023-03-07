@@ -17,12 +17,8 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     environment:
-      POSTGRES_HOST_AUTH_METHOD: trust
-      MUSIKA_DB_NAME: musika
-      MUSIKA_DB_USER: postgres
-      MUSIKA_DB_PASSWORD: postgres
-      MUSIKA_DB_HOST: localhost
-      MUSIKA_DB_PORT: "5432"
+      - "POSTGRES_HOST_AUTH_METHOD=trust"
+
 
 volumes:
   postgres_data:

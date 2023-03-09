@@ -7,54 +7,89 @@ on:
     branches: [ master ]
 
 jobs:
+
   build:
 
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 4
       matrix:
-        python-version: [3.6, 3.7, 3.8]
+        python-version: ["3.10"]
+        database-name:
+          - musika
+        database-password:
+          - postgres
+        database-user:
+          - postgres
+        database-host:
+          - 127.0.0.1
+        database-port:
+          - 5432
 
-    # Service containers to run with `container-job`
     services:
-      # Label used to access the service container
       postgres:
-        # Docker Hub image
-        image: postgres
-        # Provide the password for postgres
+        image: postgres:latest
         env:
-          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: ${{ matrix.database-name }}
+          POSTGRES_USER: ${{ matrix.database-user }}
+          POSTGRES_PASSWORD: ${{ matrix.database-password }}
+        ports:
+          - 5432:5432
         # Set health checks to wait until postgres has started
-        options: >-
+        options:
           --health-cmd pg_isready
           --health-interval 10s
           --health-timeout 5s
           --health-retries 5
-        ports:
-          # Maps tcp port 5432 on service container to the host
-          - 5432:5432
-
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2.4.0
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v2.3.1
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Install Dependencies
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install .
-    - name: check env variables for postgres DB
-      run: echo MUSIKA_DB_NAME $MUSIKA_DB_NAME
-    - name: Run Tests
-      run: |
-        python manage.py test
+    - name: Setup test database
       env:
-        # The hostname used to communicate with the PostgreSQL service container
-        POSTGRES_HOST: localhost
-        # The default PostgreSQL port
-        POSTGRES_PORT: 5432
-        MUSIKA_DB_NAME: postgres
-        MUSIKA_DB_PASSWORD: postgres
-        MUSIKA_DB_USER: postgres
+        MUSIKA_DB_HOST: ${{ matrix.database-host }}
+      run: |
+        export DATABASE_URL=postgres://${{ matrix.database-user }}:${{ matrix.database-password }}@${{ matrix.database-host }}:${{ matrix.database-port }}/${{ matrix.database-name }}
+        export SECRET_KEY=test-secret-key
+        export DEBUG=1
+    - name: Run migrations
+      run: |
+        export DATABASE_URL=postgres://${{ matrix.database-user }}:${{ matrix.database-password }}@${{ matrix.database-host }}:${{ matrix.database-port }}/${{ matrix.database-name }}
+        export SECRET_KEY=test-secret-key
+        export DEBUG=1
+        export ALLOWED_HOSTS=localhost
+        export GITHUB_WORKFLOW=True
+        export MODE=workflow
+        python manage.py makemigrations
+        python manage.py migrate
+        python manage.py migrate --run-syncdb
+        python manage.py check
+      env:
+        MUSIKA_DB_HOST: ${{ matrix.database-host }}
+    - name: Run tests
+      run: |
+          python manage.py test
+      env:
+        DATABASE_URL: postgres://${{ matrix.database-user }}:${{ matrix.database-password }}@${{ matrix.database-host }}:${{ matrix.database-port }}/${{ matrix.database-name }}
+        SECRET_KEY: test-secret-key
+        DEBUG: 1
+        ALLOWED_HOSTS: localhost
+        GITHUB_WORKFLOW: True
+        MODE: workflow
+        MUSIKA_DB_HOST: ${{ matrix.database-host }}
+    - uses: actions/checkout@v2.4.0
+    - name: Build the images and start the containers
+      run: |
+        export GITHUB_WORKFLOW=True
+        export MODE="Test"
+        docker-compose up -d --build
+    - name: Stop containers
+      if: always()
+      run: docker-compose -f "docker-compose.yml" down

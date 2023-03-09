@@ -1,32 +1,28 @@
 # Musika
 Holds all the metadata for the music collections and compilations that I have; Exposes stats that are extensible; Used as a vehicle to learn the Django web framework.
 
-## Run Locally
+## Run Locally on Docker
 
-1. Install the app
-``` pip install -e . [dev] ```
+Prerequisite
+- Docker installed 
+
+1. build the app on docker 
+``` docker-compose up -d --build ```
 2. Run the migrations
-``` python manage.py migrate ```
-3. Run the server with 
-``` python manage.py runserver ```
+``` docker-compose exec web python manage.py makemigrations ```
+``` docker-compose exec web python manage.py migrate ```
+3. Ingest collections 
+``` docker-compose exec web python scripts/ingest_collections.py all ```
 
 Application is then available on `http://127.0.0.1:8000/lib`
 
-## Use with a DB
-
-The application is configured to run with postgres DB;
-
-I have used homebrew to install postgress sql - ``` brew install postgresql ```
-and then followed [this tutorial](http://www.marinamele.com/taskbuster-django-tutorial/install-and-configure-posgresql-for-django) for setting it up;
-
-I then defined several env vars; namely ``` MUSIKA_DB_NAME, MUSIKA_DB_USER, MUSIKA_DB_PASSWORD, MUSIKA_DB_HOST```
 
 ## Test
 
 After installing the app (See run locally), run
-``` python manage.py test ```
+``` docker-compose exec web python manage.py test ```
 
-## Heroku
+## Heroku - TBD
 
 The application is currently running on Heroku - https://musika-3.herokuapp.com/lib/
 

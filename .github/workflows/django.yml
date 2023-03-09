@@ -52,6 +52,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install .
+      - uses: harmon758/postgresql-action@v1
+        with:
+          postgresql version: '11'
     - name: Setup test database
       env:
         MUSIKA_DB_NAME: ${{ matrix.database-name }}

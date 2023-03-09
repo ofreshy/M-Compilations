@@ -85,6 +85,11 @@ jobs:
         ALLOWED_HOSTS: localhost
         GITHUB_WORKFLOW: True
         MODE: workflow
+        MUSIKA_DB_NAME: ${{ matrix.database-name }}
+        MUSIKA_DB_USER: ${{ matrix.database-user }}
+        MUSIKA_DB_PASSWORD: ${{ matrix.database-password }}
+        MUSIKA_DB_HOST: ${{ matrix.database-host }}
+        MUSIKA_DB_PORT: ${{ matrix.database-port }}
     - uses: actions/checkout@v2.4.0
     - name: Build the images and start the containers
       run: |

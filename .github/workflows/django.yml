@@ -22,12 +22,12 @@ jobs:
         database-user:
           - postgres
         database-host:
-          - db
+          - postgres
         database-port:
           - 5432
 
     services:
-      db:
+      postgres:
         image: postgres:latest
         env:
           POSTGRES_DB: ${{ matrix.database-name }}

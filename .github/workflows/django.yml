@@ -75,6 +75,12 @@ jobs:
         python manage.py migrate
         python manage.py migrate --run-syncdb
         python manage.py check
+      env:
+        MUSIKA_DB_NAME: ${{ matrix.database-name }}
+        MUSIKA_DB_USER: ${{ matrix.database-user }}
+        MUSIKA_DB_PASSWORD: ${{ matrix.database-password }}
+        MUSIKA_DB_HOST: ${{ matrix.database-host }}
+        MUSIKA_DB_PORT: ${{ matrix.database-port }}
     - name: Run tests
       run: |
           python manage.py test

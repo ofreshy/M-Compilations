@@ -19,13 +19,15 @@ def main():
     print("Start Spotify sync")
     args = read_args()
 
+    client = spotify.SpotifyClient.make_default()
+
     if args.clear:
         print("Removing local spotify collections")
         spotify.clear_local_collections()
 
     local_collections = spotify.get_local_collections_ids()
     remote_collections = spotify.get_remote_collections(
-        client=spotify.SpotifyClient.make_default()
+        client=client,
     )
     for collection in remote_collections:
         if collection.spotify_id in local_collections:

@@ -29,10 +29,18 @@ AUTH_URL = 'https://accounts.spotify.com/api/token'
 # access_token = auth_response_data['access_token']
 # print(access_token)
 access_token = "BQBwAVI0vDEAItorKpVtgyupMUeBb_9Us145U35IIFbrcGgD5kIqUVxqi03Gi-TIsfFJHFOhsP6TlFvfMXmcZzAR7JjAs8kdXpAjVsESy6ToVJ2oCHlSvsWjHLETNsK_fiNHUaP_a4uHZcoBOnshUbAR9d_lMH4FR41DiC3WJadt8uv-Rvq8trcTrhKUxj7-YsJnuFMr9RTl4JyoCUAJ"
+access_token = "BQC0aax1KUllPxsDXEEcl4v348Em8rbMmIzp56OkV28CkvXUbNJB"
+access_token = "BQA42Qhvsyz15a9g1IWYUhqGkG1iqqI7pkvG60s_XD5SVaYggYDLKHhxe_PJth_94cUpxe4LyetRezu4oFezQd3EAE_-qgfwpWmDVn-uSaAXyeaySpZORyfm_Hlbq7cH-mizLDN4vSM3Ef_cL1HdB7J207jWRAF46BLjI69_jv9aPuIzcOwF1NlDjDkU-32FHmH6AlWmoTyQDIDVx5i4epM_9BeJAyU"
 headers = {
     'Authorization': 'Bearer {token}'.format(token=access_token),
     'Contenty-Type': "Application/json",
 }
+
+
+url = "https://api.spotify.com/v1/audio-features?ids=13s6dCsNpSZflwVu2uzzPi%2C7u4YYDqgqEu7etjfwWy3u8"
+r = requests.get(url, headers=headers)
+print(r.json())
+print()
 
 
 def get_playlists():
@@ -152,3 +160,6 @@ for i, (pi, tracks) in enumerate(gen):
 #
 # for album in d['items']:
 #     print(album['name'], ' --- ', album['release_date'])
+
+url = "https://api.spotify.com/v1/audio-features?ids=13s6dCsNpSZflwVu2uzzPi="
+requests.get(url, headers=headers)

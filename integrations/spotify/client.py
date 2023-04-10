@@ -11,7 +11,7 @@ import requests
 
 CLIENT_ID = "5e552813c154484eb1c62688ccd6d0e1"
 CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
-
+print(CLIENT_SECRET)
 
 AUTH_URL = 'https://accounts.spotify.com/api/token'
 

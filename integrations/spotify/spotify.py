@@ -112,14 +112,14 @@ class SpotifyClient:
     limit: int
 
     @classmethod
-    def make_default(cls):
+    def make_default(cls, limit=50):
         return cls(
             client=spotipy.Spotify(
                 client_credentials_manager=SpotifyOAuth(
                     scope="user-read-private user-read-email",
                 ),
             ),
-            limit=50,
+            limit=limit,
         )
 
     def __init__(self, client: spotipy.Spotify, limit):
@@ -134,53 +134,33 @@ class SpotifyClient:
         Returns an iterator of playlist items dict;
         Buffering the API call into chunks of items
         """
-        user_id = self.me()["id"]
-        limit = self.limit
+        def gen_items(playlist_items):
+            return (i for i in playlist_items)
 
-        def _get_playlists(offset):
-            return self.client.user_playlists(
-                user=user_id,
-                offset=offset,
-                limit=limit,
+        playlists = self.client.user_playlists(
+                user=self.me()["id"],
+                limit=self.limit,
             )
-
-        def _playlist_gen():
-            offset = 0
-            playlists = _get_playlists(offset)
-            while playlists["next"] is not None:
-                yield playlists["items"]
-                offset += limit
-                playlists = _get_playlists(offset)
-            yield playlists["items"]
-
-        for playlist in _playlist_gen():
-            for item in playlist:
-                yield item
+        while playlists["next"] is not None:
+            yield from gen_items(playlists["items"])
+            playlists = self.client.next(playlists)
+        yield from gen_items(playlists["items"])
 
     def playlist_items(self, playlist) -> Iterator[Dict]:
         """
         Returns an iterator of playlist items (Tracks)
         """
-        playlist_id = playlist["id"]
-        limit = self.limit
+        def gen_items(items):
+            return (i for i in items)
 
-        def _get_items(offset):
-            return self.client.playlist_items(
-                playlist_id=playlist_id,
-                offset=offset,
-                limit=limit,
-            )
-
-        def _items_gen():
-            offset = 0
-            playlist_items = _get_items(offset)
-            while playlist_items["next"] is not None:
-                yield playlist_items["items"]
-                offset += limit
-                playlist_items = _get_items(offset)
-            yield playlist_items["items"]
-
-        return itertools.chain(*_items_gen())
+        playlist_items = self.client.playlist_items(
+            playlist_id=playlist["id"],
+            limit=self.limit,
+        )
+        while playlist_items["next"] is not None:
+            yield from gen_items(playlist_items["items"])
+            playlist_items = self.client.next(playlist_items)
+        yield from gen_items(playlist_items["items"])
 
     def get_track_stats(self, spotify_track_id: str):
         """
@@ -286,8 +266,16 @@ def clear_local_collections(path=SPOTIFY_COLLECTIONS_PATH):
 
 
 
-client = SpotifyClient.make_default()
-collections = get_remote_collections(client)
-for col in collections:
-    collection_stats = get_collection_stats(client, col)
+client = SpotifyClient.make_default(limit=20)
+# collections = get_remote_collections(client)
+# for col in collections:
+#     collection_stats = get_collection_stats(client, col)
+#     break
+
+pi = client.playlists()
+for i, p in enumerate(pi):
+    print(p)
     break
+
+for item in client.playlist_items(p):
+    print(item)

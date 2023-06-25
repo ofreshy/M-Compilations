@@ -1,4 +1,3 @@
-import django.db.models
 from django.apps import AppConfig
 
 

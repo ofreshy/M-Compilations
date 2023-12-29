@@ -7,7 +7,6 @@ The client expects three env variables to be set
 
 """
 
-import itertools
 import json
 import os.path
 import shutil
@@ -90,10 +89,24 @@ class SpotifyCollection:
 
 
 @dataclass
-class SpotifyTrackStats:
+class SpotifyTrackFeatures:
+
+    spotify_track_id: str
+    track_name: str
+    track_artists: List[Dict]
+
+    audio_features: Dict
+
+    version: str = "V0.0.1"
+
     @classmethod
-    def from_spotify_api(cls, audio_features: Dict):
-        return cls()
+    def from_spotify_api(cls, track: SpotifyTrack, audio_features: Dict):
+        return cls(
+            spotify_track_id=track.spotify_id,
+            track_name=track.name,
+            track_artists=track.artist,
+            audio_features=audio_features,
+        )
 
 
 @dataclass
@@ -162,18 +175,8 @@ class SpotifyClient:
             playlist_items = self.client.next(playlist_items)
         yield from gen_items(playlist_items["items"])
 
-    def get_track_stats(self, spotify_track_id: str):
-        """
-        Given spotify track id, returns the stats associated with the track
-        """
-        return self.client.audio_analysis(spotify_track_id)
-
-    def get_collection_features(self, collection: SpotifyCollection):
-        return self.client.audio_features(
-                tracks=[
-                    t.spotify_id for t in collection.tracks
-                ]
-            )
+    def audio_features(self, track_id: str):
+        return self.client.audio_features(track_id)[0]
 
 
 def get_created_at_date(items):
@@ -228,14 +231,22 @@ def get_remote_collections(client: SpotifyClient) -> Iterator[SpotifyCollection]
 
 def get_collection_stats(client: SpotifyClient, spotify_collection: SpotifyCollection) -> SpotifyCollectionStats:
     tracks_features = [
-        client.get_track_stats(tid)
-        for tid in spotify_collection.track_ids
+        SpotifyTrackFeatures.from_spotify_api(
+            track=track,
+            audio_features=client.audio_features(track.spotify_id),
+        )
+        for track in spotify_collection.tracks
     ]
-    collection_features = client.get_collection_features(spotify_collection)
-    return print()
-    # return SpotifyCollectionStats(
-    #     track_features=
-    # )
+
+    tracks_features = [
+        SpotifyTrackFeatures.from_spotify_api(
+            audio_features=client.audio_features(t.spotify_id),
+            track=t,
+        )
+        for t in spotify_collection.tracks
+    ]
+    print(tracks_features)
+
 
 
 def get_local_collections_ids(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Set[str]:
@@ -272,10 +283,8 @@ client = SpotifyClient.make_default(limit=20)
 #     collection_stats = get_collection_stats(client, col)
 #     break
 
-pi = client.playlists()
-for i, p in enumerate(pi):
-    print(p)
-    break
+cols = get_remote_collections(client)
+c = next(cols)
 
-for item in client.playlist_items(p):
-    print(item)
+
+a = get_collection_stats(client, c)

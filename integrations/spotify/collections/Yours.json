@@ -1,0 +1,494 @@
+{
+    "name": "Yours",
+    "spotify_id": "3NPh72b435PjHy3DtBHdD0",
+    "created_date": "2023-04-25",
+    "description": "",
+    "tracks": [
+        {
+            "name": "I Wanna Be Yours",
+            "spotify_id": "5XeFesFbtLpXzIVDNQP22n",
+            "duration_ms": 183956,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+                    "id": "7Ln80lUS6He07XvHI8qqHH",
+                    "name": "Arctic Monkeys",
+                    "type": "artist",
+                    "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+                }
+            ],
+            "album": {
+                "album_name": "AM",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-09-09",
+                "spotify_id": "78bpIziExqiI9qztvNFlQu"
+            }
+        },
+        {
+            "name": "The Mistery of Love",
+            "spotify_id": "631jwAiEhwJO3aXpzHQx6X",
+            "duration_ms": 231400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+                    "id": "7mlge4peaoNgzTsY6M32RB",
+                    "name": "Marianne Faithfull",
+                    "type": "artist",
+                    "uri": "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "Before the Poison",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-01-25",
+                "spotify_id": "2d6SyohTVmBFfAVkE4Bzyu"
+            }
+        },
+        {
+            "name": "I'll Take Care Of You",
+            "spotify_id": "5bqaFVXy7NES4MIuDWmPTr",
+            "duration_ms": 170213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+                    "id": "1fpXM23IoNckJ7NDAm8YJQ",
+                    "name": "Mark Lanegan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+                }
+            ],
+            "album": {
+                "album_name": "I'll Take Care of You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-09-21",
+                "spotify_id": "0NlNOxlL0jM5kKo0AJ7duq"
+            }
+        },
+        {
+            "name": "Spooky",
+            "spotify_id": "3MtP9T0WF4xbIo8vqHYeXM",
+            "duration_ms": 164173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5zaXYwewAXedKNCff45U5l",
+                    "id": "5zaXYwewAXedKNCff45U5l",
+                    "name": "Dusty Springfield",
+                    "type": "artist",
+                    "uri": "spotify:artist:5zaXYwewAXedKNCff45U5l"
+                }
+            ],
+            "album": {
+                "album_name": "Dusty... Definitely",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-11-22",
+                "spotify_id": "08W4d8uMIQvJg0nlwR1rBN"
+            }
+        },
+        {
+            "name": "Hit Or Miss",
+            "spotify_id": "4YJ1KDI6tUSapyD6XTAg8i",
+            "duration_ms": 234530,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wkz8hACugzAvF0voupg3H",
+                    "id": "2wkz8hACugzAvF0voupg3H",
+                    "name": "Odetta",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wkz8hACugzAvF0voupg3H"
+                }
+            ],
+            "album": {
+                "album_name": "Odetta Sings",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-12-01",
+                "spotify_id": "1dG9AMcbsyxRCJO6aXL5jp"
+            }
+        },
+        {
+            "name": "Come And Play In The Milky Night (Demo)",
+            "spotify_id": "5Aon86qtmerQqXTYyEx9Vh",
+            "duration_ms": 121933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt",
+                    "id": "3Rj0tDHoX7C5NFq5DKIpHt",
+                    "name": "Stereolab",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt"
+                }
+            ],
+            "album": {
+                "album_name": "Cobra And Phases Group Play Voltage In The Milky Night (Expanded Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999",
+                "spotify_id": "4Amgy7JIX58geZLD6Wrz2r"
+            }
+        },
+        {
+            "name": "Fralite",
+            "spotify_id": "4QusNGv0HmC5YYQtWhSS6C",
+            "duration_ms": 78386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UvhuGdFf75Cfan7lEU1J1",
+                    "id": "4UvhuGdFf75Cfan7lEU1J1",
+                    "name": "The Books",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UvhuGdFf75Cfan7lEU1J1"
+                }
+            ],
+            "album": {
+                "album_name": "Music For A French Elevator And Other Oddities",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-10-15",
+                "spotify_id": "4naPotuOdRMQga4C8ZAm2C"
+            }
+        },
+        {
+            "name": "I Go to Sleep - Demo Version",
+            "spotify_id": "76ta9aJq4kwhngTjpdsaU2",
+            "duration_ms": 162666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E",
+                    "id": "1SQRv42e4PjEYfPhS0Tk9E",
+                    "name": "The Kinks",
+                    "type": "artist",
+                    "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E"
+                }
+            ],
+            "album": {
+                "album_name": "Kinda Kinks (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1965-03-05",
+                "spotify_id": "73anEcke1iGiFLxWhXnco8"
+            }
+        },
+        {
+            "name": "Golden Hours - 2004 Remaster",
+            "spotify_id": "0ikLV7zMypPFyLH57cKpRO",
+            "duration_ms": 240160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+                    "id": "7MSUfLeTdDEoZiJPDSBXgi",
+                    "name": "Brian Eno",
+                    "type": "artist",
+                    "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+                }
+            ],
+            "album": {
+                "album_name": "Another Green World (2004 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1975-09-01",
+                "spotify_id": "6uoeezh45SYEb8lcT8gDTY"
+            }
+        },
+        {
+            "name": "Dying On The Vine - Fragments",
+            "spotify_id": "6jVrFbieZwoLXQnXwkNfM6",
+            "duration_ms": 231973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW",
+                    "id": "5MWBg16f5UYiaSlyVhzlIW",
+                    "name": "John Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW"
+                }
+            ],
+            "album": {
+                "album_name": "Fragments Of A Rainy Season",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-12-09",
+                "spotify_id": "6D0GHvzeVNRld4a8wZzf4a"
+            }
+        },
+        {
+            "name": "The Dark Side",
+            "spotify_id": "3VJSabQkSbRYoQHcDNWg1Y",
+            "duration_ms": 70666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0M6xcJTswOl2qvExCJhiS3",
+                    "id": "0M6xcJTswOl2qvExCJhiS3",
+                    "name": "Kronos Quartet",
+                    "type": "artist",
+                    "uri": "spotify:artist:0M6xcJTswOl2qvExCJhiS3"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5hqB3Fxgin9YGYa0mIGf1G",
+                    "id": "5hqB3Fxgin9YGYa0mIGf1G",
+                    "name": "Laurie Anderson",
+                    "type": "artist",
+                    "uri": "spotify:artist:5hqB3Fxgin9YGYa0mIGf1G"
+                }
+            ],
+            "album": {
+                "album_name": "Landfall",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-02-16",
+                "spotify_id": "0wlfDUha7eayPeX23rK65v"
+            }
+        },
+        {
+            "name": "A Time for Us",
+            "spotify_id": "5ALMF4Z6a9VUl66LHVHjBl",
+            "duration_ms": 195053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4DuZTASH5eSyd0K73W6fuZ",
+                    "id": "4DuZTASH5eSyd0K73W6fuZ",
+                    "name": "Joe Pass",
+                    "type": "artist",
+                    "uri": "spotify:artist:4DuZTASH5eSyd0K73W6fuZ"
+                }
+            ],
+            "album": {
+                "album_name": "Late Night Tales: Belle and Sebastian, Vol. 2",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-03-26",
+                "spotify_id": "4Is3XZYpVDmda45V81MO5b"
+            }
+        },
+        {
+            "name": "Strawberry Letter 23",
+            "spotify_id": "4W8IEREeLldaSQyGXcZQ2I",
+            "duration_ms": 239906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4YHtIE7FI8ITfekzzN5Jpl",
+                    "id": "4YHtIE7FI8ITfekzzN5Jpl",
+                    "name": "Shuggie Otis",
+                    "type": "artist",
+                    "uri": "spotify:artist:4YHtIE7FI8ITfekzzN5Jpl"
+                }
+            ],
+            "album": {
+                "album_name": "Freedom Flight",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971",
+                "spotify_id": "7suTZDEkiDpzkouw300noM"
+            }
+        },
+        {
+            "name": "The Highest Flood",
+            "spotify_id": "14iHJlb2lviBl9vAUeIlxA",
+            "duration_ms": 307373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2VarlUiM6Lw0SA7BvwVPRP",
+                    "id": "2VarlUiM6Lw0SA7BvwVPRP",
+                    "name": "Forest Swords",
+                    "type": "artist",
+                    "uri": "spotify:artist:2VarlUiM6Lw0SA7BvwVPRP"
+                }
+            ],
+            "album": {
+                "album_name": "Compassion",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-05-05",
+                "spotify_id": "3Mp0TZs7hlVdjUO0LVTlqh"
+            }
+        },
+        {
+            "name": "Every Person",
+            "spotify_id": "4SC7OI6f33yFMrrkGcyzeb",
+            "duration_ms": 156880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "album": {
+                "album_name": "Shadows Collide With People",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-02-24",
+                "spotify_id": "7BYMJZFCYuGKi2jblMhyxg"
+            }
+        },
+        {
+            "name": "Mumma Don't Tell",
+            "spotify_id": "65p97eP4CoW3rG7OIcBgoq",
+            "duration_ms": 308252,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2N1foZRamgP1sfiYXFID9O",
+                    "id": "2N1foZRamgP1sfiYXFID9O",
+                    "name": "Leifur James",
+                    "type": "artist",
+                    "uri": "spotify:artist:2N1foZRamgP1sfiYXFID9O"
+                }
+            ],
+            "album": {
+                "album_name": "A Louder Silence",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-10-05",
+                "spotify_id": "3tzXRcnAwVNJeIWxxvlGg2"
+            }
+        },
+        {
+            "name": "I'd Love to Change the World - 2004 Remaster",
+            "spotify_id": "19HjHUjCfDrEYhVSIKG6nK",
+            "duration_ms": 224133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7nkLRaWHImCvWGHdNGnhVE",
+                    "id": "7nkLRaWHImCvWGHdNGnhVE",
+                    "name": "Ten Years After",
+                    "type": "artist",
+                    "uri": "spotify:artist:7nkLRaWHImCvWGHdNGnhVE"
+                }
+            ],
+            "album": {
+                "album_name": "A Space in Time (Deluxe Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-08",
+                "spotify_id": "6C2AlxVFIfvLsuWOJB1UKo"
+            }
+        },
+        {
+            "name": "Keep On Calling",
+            "spotify_id": "35nfO92JtV6Nhv3CgHpS7P",
+            "duration_ms": 230310,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+                    "id": "09kXLeOXRyfNQMXRaDO4qA",
+                    "name": "Nil\u00fcfer Yanya",
+                    "type": "artist",
+                    "uri": "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+                }
+            ],
+            "album": {
+                "album_name": "Inside Out",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-09-29",
+                "spotify_id": "7yf6qu9oeomPuI8p3FHjCP"
+            }
+        },
+        {
+            "name": "Spinning Away",
+            "spotify_id": "1aMJTyCRfxfp8luej4rjAC",
+            "duration_ms": 327120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+                    "id": "7MSUfLeTdDEoZiJPDSBXgi",
+                    "name": "Brian Eno",
+                    "type": "artist",
+                    "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW",
+                    "id": "5MWBg16f5UYiaSlyVhzlIW",
+                    "name": "John Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW"
+                }
+            ],
+            "album": {
+                "album_name": "Wrong Way Up [Expanded Edition]",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990",
+                "spotify_id": "0oHoEmlhtwdFFWFJIoLNy0"
+            }
+        }
+    ]
+}

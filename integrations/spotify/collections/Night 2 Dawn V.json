@@ -1,0 +1,326 @@
+{
+    "name": "Night 2 Dawn V",
+    "spotify_id": "2H91Z35bPYAEcRt6x5cklX",
+    "created_date": "2021-10-23",
+    "description": "Chill up",
+    "tracks": [
+        {
+            "name": "Keep Me There",
+            "spotify_id": "54XrMtMjRcuFF2mUAHuwKF",
+            "duration_ms": 321790,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W",
+                    "id": "5a0etAzO5V26gvlbmHzT9W",
+                    "name": "Nicolas Jaar",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a0etAzO5V26gvlbmHzT9W"
+                }
+            ],
+            "album": {
+                "album_name": "Space Is Only Noise",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-01-31",
+                "spotify_id": "0tUJcqDuXHNkaPKLN0lQhT"
+            }
+        },
+        {
+            "name": "Two Thousand and Seventeen",
+            "spotify_id": "2ZIaH69kaz55RM4Pjx6KXl",
+            "duration_ms": 252255,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7Eu1txygG6nJttLHbZdQOh",
+                    "id": "7Eu1txygG6nJttLHbZdQOh",
+                    "name": "Four Tet",
+                    "type": "artist",
+                    "uri": "spotify:artist:7Eu1txygG6nJttLHbZdQOh"
+                }
+            ],
+            "album": {
+                "album_name": "New Energy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-29",
+                "spotify_id": "74r6JJ97ipO0CREXP9PMqZ"
+            }
+        },
+        {
+            "name": "Nude",
+            "spotify_id": "35YyxFpE0ZTOoqFx5bADW8",
+            "duration_ms": 255386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "In Rainbows",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-12-28",
+                "spotify_id": "5vkqYmiPBYLaalcmjujWxK"
+            }
+        },
+        {
+            "name": "It Was Willow",
+            "spotify_id": "3d2bVQERbjfOzoGTQ8BfIW",
+            "duration_ms": 121719,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qzzGu8qpbXYpzgV52wOFT",
+                    "id": "0qzzGu8qpbXYpzgV52wOFT",
+                    "name": "Bibio",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qzzGu8qpbXYpzgV52wOFT"
+                }
+            ],
+            "album": {
+                "album_name": "Late Night Tales: Nils Frahm",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-09-11",
+                "spotify_id": "0YxfRWyiFJfTizEbkSMcyB"
+            }
+        },
+        {
+            "name": "Between The Bars",
+            "spotify_id": "47oFJ0tLxQSCNGAbHUsCTO",
+            "duration_ms": 221973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+                    "id": "2ApaG60P4r0yhBoDCGD8YG",
+                    "name": "Elliott Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7nXyULtoL8k7wP9l6kg8Ef",
+                    "id": "7nXyULtoL8k7wP9l6kg8Ef",
+                    "name": "Madeleine Peyroux",
+                    "type": "artist",
+                    "uri": "spotify:artist:7nXyULtoL8k7wP9l6kg8Ef"
+                }
+            ],
+            "album": {
+                "album_name": "Careless Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-01-01",
+                "spotify_id": "5Abc3wXAy8U1f79eVn7AGd"
+            }
+        },
+        {
+            "name": "Billie Holiday",
+            "spotify_id": "3JCFw3L2g1NsSjbnjR869j",
+            "duration_ms": 405026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3AmgGrYHXqgbmZ2yKoIVzO",
+                    "id": "3AmgGrYHXqgbmZ2yKoIVzO",
+                    "name": "Warpaint",
+                    "type": "artist",
+                    "uri": "spotify:artist:3AmgGrYHXqgbmZ2yKoIVzO"
+                }
+            ],
+            "album": {
+                "album_name": "The Fool (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-09-26",
+                "spotify_id": "3vNQPnY0Dv8fyyN3gHBmBh"
+            }
+        },
+        {
+            "name": "Wingbeats Source III: Piano and Wings",
+            "spotify_id": "2fIGv43HCZ6tilfVfovu2e",
+            "duration_ms": 156000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Rj2COYs5hQsw8rYIxSviz",
+                    "id": "4Rj2COYs5hQsw8rYIxSviz",
+                    "name": "Hidden Orchestra",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Rj2COYs5hQsw8rYIxSviz"
+                }
+            ],
+            "album": {
+                "album_name": "Wingbeats",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-10-21",
+                "spotify_id": "2gOZAH0hCwU3Zl8Ohm9YCA"
+            }
+        },
+        {
+            "name": "Feel First Life",
+            "spotify_id": "4esxro8J1rbsalCPb0yrgC",
+            "duration_ms": 333400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "album": {
+                "album_name": "Singularity",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-04",
+                "spotify_id": "1nvzBC1M3dlCMIxfUCBhlO"
+            }
+        },
+        {
+            "name": "Untitled #3 - Samskeyti",
+            "spotify_id": "1QUiA9aecDOOnf32A9ZrtW",
+            "duration_ms": 393426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+                    "id": "6UUrUCIZtQeOf8tC0WuzRy",
+                    "name": "Sigur R\u00f3s",
+                    "type": "artist",
+                    "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+                }
+            ],
+            "album": {
+                "album_name": "( )",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "3FR8CV7OSyZDnxneavnh8t"
+            }
+        },
+        {
+            "name": "Variations",
+            "spotify_id": "3i8PWTx08WL1vjQYLaX3Fv",
+            "duration_ms": 201341,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W",
+                    "id": "5a0etAzO5V26gvlbmHzT9W",
+                    "name": "Nicolas Jaar",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a0etAzO5V26gvlbmHzT9W"
+                }
+            ],
+            "album": {
+                "album_name": "Space Is Only Noise",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-01-31",
+                "spotify_id": "0tUJcqDuXHNkaPKLN0lQhT"
+            }
+        },
+        {
+            "name": "Everybody\u00b4s Got To Learn Sometime",
+            "spotify_id": "0Tzdno0MqJtkCVOHjuIWna",
+            "duration_ms": 407480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/23MIhFHpoOuhtEHZDrrnCS",
+                    "id": "23MIhFHpoOuhtEHZDrrnCS",
+                    "name": "The Field",
+                    "type": "artist",
+                    "uri": "spotify:artist:23MIhFHpoOuhtEHZDrrnCS"
+                }
+            ],
+            "album": {
+                "album_name": "Yesterday and Today",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-05-18",
+                "spotify_id": "4ennvWXh9Ub9iHnLLYDFCD"
+            }
+        },
+        {
+            "name": "Looking for the Rain",
+            "spotify_id": "2lFqV6rW5cP8EDQatijXsn",
+            "duration_ms": 361870,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+                    "id": "2nszamLjZFgu3Yx77mKxuC",
+                    "name": "UNKLE",
+                    "type": "artist",
+                    "uri": "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+                    "id": "1fpXM23IoNckJ7NDAm8YJQ",
+                    "name": "Mark Lanegan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6pBfwu2Yt96wWprf96vhpg",
+                    "id": "6pBfwu2Yt96wWprf96vhpg",
+                    "name": "ESKA",
+                    "type": "artist",
+                    "uri": "spotify:artist:6pBfwu2Yt96wWprf96vhpg"
+                }
+            ],
+            "album": {
+                "album_name": "The Road, Pt. 1",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-08-18",
+                "spotify_id": "3smDqYFdgz4c67b1JHFl2u"
+            }
+        }
+    ]
+}

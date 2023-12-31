@@ -26,6 +26,17 @@ def get_all_collection_files():
     return COLLECTION_DICT.values()
 
 
+def get_all_collection_files_by_name():
+    collection_files = get_all_collection_files()
+    collection_contents = (
+        read_collection_file(f)
+        for f in collection_files
+    )
+    return {
+        content["name"]:content for content in collection_contents
+    }
+
+
 def resolve_collection_files(collection_numbers):
     # dedup the collection numbers while also keeping their order
     collection_numbers_dedup = OrderedDict([(cn, cn) for cn in collection_numbers]).keys()

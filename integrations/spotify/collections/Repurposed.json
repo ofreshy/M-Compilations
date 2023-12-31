@@ -1,0 +1,510 @@
+{
+    "name": "Repurposed",
+    "spotify_id": "7qRmZqCrHccisa34Q6I0tC",
+    "created_date": "2021-06-14",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "All for the Best",
+            "spotify_id": "7nrGPwcnDFzC8vadHo27IT",
+            "duration_ms": 329506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4CvTDPKA6W06DRfBnZKrau",
+                    "id": "4CvTDPKA6W06DRfBnZKrau",
+                    "name": "Thom Yorke",
+                    "type": "artist",
+                    "uri": "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+                }
+            ],
+            "album": {
+                "album_name": "Ciao My Shining Star - The Songs of Mark Mulcahy",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2017-02-07",
+                "spotify_id": "0jBeBfLh8nG9raHKRY6bQp"
+            }
+        },
+        {
+            "name": "Floor Of The Ocean",
+            "spotify_id": "2Ntcw6vgVrxHPJeZ5zhKwR",
+            "duration_ms": 292413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+                    "id": "1fpXM23IoNckJ7NDAm8YJQ",
+                    "name": "Mark Lanegan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+                }
+            ],
+            "album": {
+                "album_name": "Phantom Radio (Deluxe Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-10-20",
+                "spotify_id": "1vTGj6nPwe0Ac7XvN1IzC9"
+            }
+        },
+        {
+            "name": "Emerald Rush",
+            "spotify_id": "5S3F5GL8LASIjPg2PMiU1Q",
+            "duration_ms": 336706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "album": {
+                "album_name": "Singularity",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-04",
+                "spotify_id": "1nvzBC1M3dlCMIxfUCBhlO"
+            }
+        },
+        {
+            "name": "My Red Hot Car",
+            "spotify_id": "2wjbR0QM2uRIz8QacUE494",
+            "duration_ms": 282066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4mtHSXwIHihO6MWNq5Qoko",
+                    "id": "4mtHSXwIHihO6MWNq5Qoko",
+                    "name": "Squarepusher",
+                    "type": "artist",
+                    "uri": "spotify:artist:4mtHSXwIHihO6MWNq5Qoko"
+                }
+            ],
+            "album": {
+                "album_name": "Go Plastic",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-06-25",
+                "spotify_id": "14DV5JzgIRhtqMMjtO4QOj"
+            }
+        },
+        {
+            "name": "Melatonin (feat. Marsha Ambrosius & Yebba)",
+            "spotify_id": "366xKgsZ8bFjIhG7JjfCkj",
+            "duration_ms": 284693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/46VWDbmWmzvPBTmkSr25gM",
+                    "id": "46VWDbmWmzvPBTmkSr25gM",
+                    "name": "Marsha Ambrosius",
+                    "type": "artist",
+                    "uri": "spotify:artist:46VWDbmWmzvPBTmkSr25gM"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ooV8YZC1KbpEcrmI8WH0F",
+                    "id": "1ooV8YZC1KbpEcrmI8WH0F",
+                    "name": "Yebba",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ooV8YZC1KbpEcrmI8WH0F"
+                }
+            ],
+            "album": {
+                "album_name": "We got it from Here... Thank You 4 Your service",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-11-11",
+                "spotify_id": "3WvQpufOsPzkZvcSuynCf3"
+            }
+        },
+        {
+            "name": "Dang! (feat. Anderson .Paak)",
+            "spotify_id": "7L7KnCltNM8yXWs3ozuUY1",
+            "duration_ms": 305350,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+                    "id": "4LLpKhyESsyAXpc4laK94U",
+                    "name": "Mac Miller",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+                    "id": "3jK9MiCrA42lLAdMGUZpwa",
+                    "name": "Anderson .Paak",
+                    "type": "artist",
+                    "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+                }
+            ],
+            "album": {
+                "album_name": "Dang! (feat. Anderson .Paak)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2016-07-28",
+                "spotify_id": "0orriotaN8Aqny6hq1H2X7"
+            }
+        },
+        {
+            "name": "Betty",
+            "spotify_id": "5sICnSGfWkwVmIeD9WZ2Jk",
+            "duration_ms": 136626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/290nCNEce1y6rfoJiO2rK7",
+                    "id": "290nCNEce1y6rfoJiO2rK7",
+                    "name": "Pa Salieu",
+                    "type": "artist",
+                    "uri": "spotify:artist:290nCNEce1y6rfoJiO2rK7"
+                }
+            ],
+            "album": {
+                "album_name": "Betty / Bang Out",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-05-25",
+                "spotify_id": "147B0jeQbl6hdOVoeWL6xK"
+            }
+        },
+        {
+            "name": "Lean On (feat. M\u00d8 & DJ Snake)",
+            "spotify_id": "0BF6mdNROWgYo3O3mNGrBc",
+            "duration_ms": 176561,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp",
+                    "id": "738wLrAtLtCtFOLvQBXOXp",
+                    "name": "Major Lazer",
+                    "type": "artist",
+                    "uri": "spotify:artist:738wLrAtLtCtFOLvQBXOXp"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv",
+                    "id": "0bdfiayQAKewqEvaU6rXCv",
+                    "name": "M\u00d8",
+                    "type": "artist",
+                    "uri": "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4",
+                    "id": "540vIaP2JwjQb9dm3aArA4",
+                    "name": "DJ Snake",
+                    "type": "artist",
+                    "uri": "spotify:artist:540vIaP2JwjQb9dm3aArA4"
+                }
+            ],
+            "album": {
+                "album_name": "Lean On (feat. M\u00d8 & DJ Snake)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2015-03-02",
+                "spotify_id": "1SI0AMK6rb2J8S0Jazli9D"
+            }
+        },
+        {
+            "name": "Disparate Youth",
+            "spotify_id": "0t2QiRkpag0fAgs9zuCPlH",
+            "duration_ms": 284400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+                    "id": "6Jrxnp0JgqmeUX1veU591p",
+                    "name": "Santigold",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+                }
+            ],
+            "album": {
+                "album_name": "Master of My Make-Believe",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-04-21",
+                "spotify_id": "58ZjpgafuBeQ0JVxIt0hdr"
+            }
+        },
+        {
+            "name": "Cello Song",
+            "spotify_id": "5u9Mp7pmOYVH1cDdTXU2Nk",
+            "duration_ms": 233920,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UvhuGdFf75Cfan7lEU1J1",
+                    "id": "4UvhuGdFf75Cfan7lEU1J1",
+                    "name": "The Books",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UvhuGdFf75Cfan7lEU1J1"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+                    "id": "6xrCU6zdcSTsG2hLrojpmI",
+                    "name": "Jos\u00e9 Gonz\u00e1lez",
+                    "type": "artist",
+                    "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+                }
+            ],
+            "album": {
+                "album_name": "Dark Was The Night (Red Hot Compilation)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2009-02-16",
+                "spotify_id": "3mquSHAbafwIrdVpxLx8b9"
+            }
+        },
+        {
+            "name": "Empires",
+            "spotify_id": "5SejNdzsMP8OidHUwnlouo",
+            "duration_ms": 239413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+                    "id": "0TJB3EE2efClsYIDQ8V2Jk",
+                    "name": "Elbow",
+                    "type": "artist",
+                    "uri": "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+                }
+            ],
+            "album": {
+                "album_name": "Giants of All Sizes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-10-11",
+                "spotify_id": "4EqYFNisfHX1IPA0IoaKI2"
+            }
+        },
+        {
+            "name": "This Summer Night",
+            "spotify_id": "6AhjqDpf9QdKDOnjKnvWJX",
+            "duration_ms": 254626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2JzpIUoj6kZ8r11iE46yq7",
+                    "id": "2JzpIUoj6kZ8r11iE46yq7",
+                    "name": "Bertrand Burgalat",
+                    "type": "artist",
+                    "uri": "spotify:artist:2JzpIUoj6kZ8r11iE46yq7"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+                    "id": "5iksmHDN2qZQcgFfXqIXtT",
+                    "name": "Robert Wyatt",
+                    "type": "artist",
+                    "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+                }
+            ],
+            "album": {
+                "album_name": "Ch\u00e9ri B.B. (Bonus Track Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-09-11",
+                "spotify_id": "1UTub9D80nAll3TfKSpy49"
+            }
+        },
+        {
+            "name": "People Everywhere (Still Alive)",
+            "spotify_id": "2OQ1V0e2O56AeIo4ywuYKF",
+            "duration_ms": 159013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "The Universe Smiles Upon You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-11-06",
+                "spotify_id": "2OPcQNLP8DQVumD8kBRAH3"
+            }
+        },
+        {
+            "name": "Almalhfa",
+            "spotify_id": "47GHEpIzHLGeRUADQ8XlYe",
+            "duration_ms": 195363,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uDfHkEF9G0FoBa97NTr4O",
+                    "id": "6uDfHkEF9G0FoBa97NTr4O",
+                    "name": "Mariem Hassan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uDfHkEF9G0FoBa97NTr4O"
+                }
+            ],
+            "album": {
+                "album_name": "El Aaiun Egdat",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-03-20",
+                "spotify_id": "1M46BfgAnMu8p5P8DjUQ1p"
+            }
+        },
+        {
+            "name": "\u05d7\u05dc\u05d5\u05e6\u05d9 \u05d4\u05d7\u05dc\u05dc",
+            "spotify_id": "20c2XwCk0pZERoAhWsnEAT",
+            "duration_ms": 279366,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17E3cc4QB92cs0961xRv4S"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17E3cc4QB92cs0961xRv4S",
+                    "id": "17E3cc4QB92cs0961xRv4S",
+                    "name": "Sputnik Hi Fi",
+                    "type": "artist",
+                    "uri": "spotify:artist:17E3cc4QB92cs0961xRv4S"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d7\u05dc\u05d5\u05e6\u05d9 \u05d4\u05d7\u05dc\u05dc",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-04-04",
+                "spotify_id": "1Vl3ve3MU7hsw4LlR3IasW"
+            }
+        },
+        {
+            "name": "The Big Sleep In Search Of Hades (7\" Single Edit) - 2011 Remaster",
+            "spotify_id": "4OC0Qt3QyAP3prOpJMpW7q",
+            "duration_ms": 200867,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1BGN1IdyiSR0ZYrkoKNchl",
+                    "id": "1BGN1IdyiSR0ZYrkoKNchl",
+                    "name": "Tangerine Dream",
+                    "type": "artist",
+                    "uri": "spotify:artist:1BGN1IdyiSR0ZYrkoKNchl"
+                }
+            ],
+            "album": {
+                "album_name": "The Virgin Years: 1974-1978",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1978",
+                "spotify_id": "2vqzKJO8HeMffaSHxg74ln"
+            }
+        },
+        {
+            "name": "Cheap Day Return",
+            "spotify_id": "46ITAa2MkDCQQQbVJv1cTN",
+            "duration_ms": 80880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "name": "Jethro Tull",
+                    "type": "artist",
+                    "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R"
+                }
+            ],
+            "album": {
+                "album_name": "Aqualung (Special Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-03-19",
+                "spotify_id": "0NGM3Ftwjw0dLNpAowmz3x"
+            }
+        },
+        {
+            "name": "Hammers",
+            "spotify_id": "1fEOiB4ws605vsBEKW4w65",
+            "duration_ms": 228066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gqhueRUZEa7VDnQt4HODp",
+                    "id": "5gqhueRUZEa7VDnQt4HODp",
+                    "name": "Nils Frahm",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+                }
+            ],
+            "album": {
+                "album_name": "Spaces",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-11-18",
+                "spotify_id": "27lj323rr5ku9aEUwanp99"
+            }
+        }
+    ]
+}

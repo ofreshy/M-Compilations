@@ -1,0 +1,394 @@
+{
+    "name": "Zeitgeist 2020 V - Folk",
+    "spotify_id": "4mHRBZZcQJ6iOf2oXSFt4T",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Bow",
+            "spotify_id": "4USctl9W1eFMrowrYy5XoA",
+            "duration_ms": 245376,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uRxRKC7d9zwYGSRflTKDR",
+                    "id": "1uRxRKC7d9zwYGSRflTKDR",
+                    "name": "SAULT",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0bzfPKdbXL5ezYW2z3UGQj",
+                    "id": "0bzfPKdbXL5ezYW2z3UGQj",
+                    "name": "Michael Kiwanuka",
+                    "type": "artist",
+                    "uri": "spotify:artist:0bzfPKdbXL5ezYW2z3UGQj"
+                }
+            ],
+            "album": {
+                "album_name": "Untitled (Black Is)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-19",
+                "spotify_id": "0GPmuVuCdC5hCsiuy1wXle"
+            }
+        },
+        {
+            "name": "One More Second",
+            "spotify_id": "6T8pTLAnRiN4LZKhN5ZrKE",
+            "duration_ms": 322573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/27jRNjIvlUcGN7FBRDnqhp",
+                    "id": "27jRNjIvlUcGN7FBRDnqhp",
+                    "name": "Matt Berninger",
+                    "type": "artist",
+                    "uri": "spotify:artist:27jRNjIvlUcGN7FBRDnqhp"
+                }
+            ],
+            "album": {
+                "album_name": "One More Second",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-10",
+                "spotify_id": "11wtIwzSbBoVffQGIEWfIN"
+            }
+        },
+        {
+            "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+            "spotify_id": "6OmnOaeTaE6KGtsEaw6Lit",
+            "duration_ms": 222996,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4qKpLkR911SUlnd4HAtF79",
+                    "id": "4qKpLkR911SUlnd4HAtF79",
+                    "name": "Nathaniel Rateliff",
+                    "type": "artist",
+                    "uri": "spotify:artist:4qKpLkR911SUlnd4HAtF79"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6fxk3UXHTFYET8qCT9WlBF",
+                    "id": "6fxk3UXHTFYET8qCT9WlBF",
+                    "name": "Kevin Morby",
+                    "type": "artist",
+                    "uri": "spotify:artist:6fxk3UXHTFYET8qCT9WlBF"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4c2FMMHkUGurATiPhTKqHP",
+                    "id": "4c2FMMHkUGurATiPhTKqHP",
+                    "name": "Sam Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:4c2FMMHkUGurATiPhTKqHP"
+                }
+            ],
+            "album": {
+                "album_name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-10-30",
+                "spotify_id": "0lk3T7UZlCQBhVZeizAWbP"
+            }
+        },
+        {
+            "name": "Texas Sun",
+            "spotify_id": "3k5oLgungD1dSOGLqQdIQw",
+            "duration_ms": 252811,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3qnGvpP8Yth1AqSBMqON5x",
+                    "id": "3qnGvpP8Yth1AqSBMqON5x",
+                    "name": "Leon Bridges",
+                    "type": "artist",
+                    "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x"
+                }
+            ],
+            "album": {
+                "album_name": "Texas Sun",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-12-04",
+                "spotify_id": "3woYZI2bFXEh5nR8KfltJ1"
+            }
+        },
+        {
+            "name": "I Contain Multitudes",
+            "spotify_id": "7n68LuJzbmdxRRYiSq3gSf",
+            "duration_ms": 276600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+                    "id": "74ASZWbe4lXaubB36ztrGX",
+                    "name": "Bob Dylan",
+                    "type": "artist",
+                    "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+                }
+            ],
+            "album": {
+                "album_name": "I Contain Multitudes",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-04-17",
+                "spotify_id": "5QlsyfXfvtmm6MmFdlVOAV"
+            }
+        },
+        {
+            "name": "Lene",
+            "spotify_id": "4V4Dq1RDylias3RE2RoeXK",
+            "duration_ms": 132350,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54KCNI7URCrG6yjQK3Ukow",
+                    "id": "54KCNI7URCrG6yjQK3Ukow",
+                    "name": "Susanne Sundf\u00f8r",
+                    "type": "artist",
+                    "uri": "spotify:artist:54KCNI7URCrG6yjQK3Ukow"
+                }
+            ],
+            "album": {
+                "album_name": "Self Portrait Original Soundtrack",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-01-10",
+                "spotify_id": "4yj8xwJDSXPIHdAgTl9ihM"
+            }
+        },
+        {
+            "name": "anything",
+            "spotify_id": "4DtEcOoqORcOaiYl4HQGsS",
+            "duration_ms": 202047,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4aKWmkWAKviFlyvHYPTNQY",
+                    "id": "4aKWmkWAKviFlyvHYPTNQY",
+                    "name": "Adrianne Lenker",
+                    "type": "artist",
+                    "uri": "spotify:artist:4aKWmkWAKviFlyvHYPTNQY"
+                }
+            ],
+            "album": {
+                "album_name": "anything",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-02",
+                "spotify_id": "2e3TrMSoC2IdX6tksQwpls"
+            }
+        },
+        {
+            "name": "willow",
+            "spotify_id": "0lx2cLdOt3piJbcaXIV74f",
+            "duration_ms": 214706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "album": {
+                "album_name": "evermore",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-12-11",
+                "spotify_id": "2Xoteh7uEpea4TohMxjtaq"
+            }
+        },
+        {
+            "name": "Lockdown",
+            "spotify_id": "0izUjTuDrUy2FgQOSRALSU",
+            "duration_ms": 179737,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1gWjcmBsveEYMxOZ0VRi32",
+                    "id": "1gWjcmBsveEYMxOZ0VRi32",
+                    "name": "Koffee",
+                    "type": "artist",
+                    "uri": "spotify:artist:1gWjcmBsveEYMxOZ0VRi32"
+                }
+            ],
+            "album": {
+                "album_name": "Lockdown",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-07-17",
+                "spotify_id": "0tJs3Wig9YBdDG8jGKeLq6"
+            }
+        },
+        {
+            "name": "Jason",
+            "spotify_id": "4pCo0hx75daUKKkfi1XXOO",
+            "duration_ms": 185826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ueoLVCXQ948OfhVvAy3Nn",
+                    "id": "2ueoLVCXQ948OfhVvAy3Nn",
+                    "name": "Perfume Genius",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ueoLVCXQ948OfhVvAy3Nn"
+                }
+            ],
+            "album": {
+                "album_name": "Set My Heart On Fire Immediately",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-05-15",
+                "spotify_id": "6daEdTBi1hyFQgmsnR7oRr"
+            }
+        },
+        {
+            "name": "Sunblind",
+            "spotify_id": "308prODCCD0O660tIktbUi",
+            "duration_ms": 253613,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb",
+                    "id": "4EVpmkEwrLYEg6jIsiPMIb",
+                    "name": "Fleet Foxes",
+                    "type": "artist",
+                    "uri": "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+                }
+            ],
+            "album": {
+                "album_name": "Shore",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-22",
+                "spotify_id": "0lmjCPEcec2k6L7ysNIcd3"
+            }
+        },
+        {
+            "name": "Sunny's Time",
+            "spotify_id": "4tbxk33FalEb3SM3TppWjq",
+            "duration_ms": 169613,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4aEnNH9PuU1HF3TsZTru54",
+                    "id": "4aEnNH9PuU1HF3TsZTru54",
+                    "name": "Caribou",
+                    "type": "artist",
+                    "uri": "spotify:artist:4aEnNH9PuU1HF3TsZTru54"
+                }
+            ],
+            "album": {
+                "album_name": "Suddenly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-28",
+                "spotify_id": "2QLfkBom1eQZiMYgFJr23H"
+            }
+        },
+        {
+            "name": "The End Of The Affair",
+            "spotify_id": "58rAKJXkScai2unHFpFXIN",
+            "duration_ms": 204986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+                    "id": "7B2edU3Q7btJoNsoHCNohM",
+                    "name": "Laura Marling",
+                    "type": "artist",
+                    "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+                }
+            ],
+            "album": {
+                "album_name": "Song For Our Daughter",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-10",
+                "spotify_id": "0ubXthGSkZfe30Nuj91lcu"
+            }
+        },
+        {
+            "name": "White Line",
+            "spotify_id": "3EIPqW9yhVen3ueDify0rU",
+            "duration_ms": 193522,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+                    "id": "6v8FB84lnmJs434UJf2Mrm",
+                    "name": "Neil Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5R6GD31ZP8YPGIlt73Madf",
+                    "id": "5R6GD31ZP8YPGIlt73Madf",
+                    "name": "Robbie Robertson",
+                    "type": "artist",
+                    "uri": "spotify:artist:5R6GD31ZP8YPGIlt73Madf"
+                }
+            ],
+            "album": {
+                "album_name": "Homegrown",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-19",
+                "spotify_id": "08wQogg47jUetQkJjqjn6B"
+            }
+        }
+    ]
+}

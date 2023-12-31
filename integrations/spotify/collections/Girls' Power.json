@@ -1,0 +1,594 @@
+{
+    "name": "Girls' Power",
+    "spotify_id": "4ukuSeowjf6bBQd7Pp05Ob",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Girls Just Want to Have Fun",
+            "spotify_id": "2zjt2hHBbiv5SuxYg8Z7eP",
+            "duration_ms": 238120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+                    "id": "2BTZIqw0ntH9MvilQ3ewNY",
+                    "name": "Cyndi Lauper",
+                    "type": "artist",
+                    "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+                }
+            ],
+            "album": {
+                "album_name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-03-28",
+                "spotify_id": "4pox3k0CGuwwAknR9GtcoX"
+            }
+        },
+        {
+            "name": "Walk Like An Egyptian",
+            "spotify_id": "0Ypd9MlyFz5OLQiZDFWnpP",
+            "duration_ms": 204560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/51l0uqRxGaczYr4271pVIC",
+                    "id": "51l0uqRxGaczYr4271pVIC",
+                    "name": "The Bangles",
+                    "type": "artist",
+                    "uri": "spotify:artist:51l0uqRxGaczYr4271pVIC"
+                }
+            ],
+            "album": {
+                "album_name": "Hits Of The 80s (100 Songs)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2009-01-16",
+                "spotify_id": "5uJ3FfBJ9CdGcEcCZZxiCr"
+            }
+        },
+        {
+            "name": "One Way Or Another - Remastered 2001",
+            "spotify_id": "4cQJ27R11K634x5qCOwKW5",
+            "duration_ms": 215106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB",
+                    "id": "4tpUmLEVLCGFr93o8hFFIB",
+                    "name": "Blondie",
+                    "type": "artist",
+                    "uri": "spotify:artist:4tpUmLEVLCGFr93o8hFFIB"
+                }
+            ],
+            "album": {
+                "album_name": "Parallel Lines (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1978-09-01",
+                "spotify_id": "5wc12ZsmXNIlppTmNFZFLU"
+            }
+        },
+        {
+            "name": "Shake It Off",
+            "spotify_id": "5WfhXulggG0c6WoVeMPA8N",
+            "duration_ms": 219200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "album": {
+                "album_name": "1989",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-10-27",
+                "spotify_id": "6w36pmMA5bxECalu5rxQAw"
+            }
+        },
+        {
+            "name": "Hit",
+            "spotify_id": "08o1UvE9Jp18ZfGg5NiCnm",
+            "duration_ms": 236826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1G0Xwj8mza6b03iYkVdzDP",
+                    "id": "1G0Xwj8mza6b03iYkVdzDP",
+                    "name": "The Sugarcubes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1G0Xwj8mza6b03iYkVdzDP"
+                }
+            ],
+            "album": {
+                "album_name": "Stick Around for Joy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-02-18",
+                "spotify_id": "0NTy0CD75p42CXoxePyczo"
+            }
+        },
+        {
+            "name": "White Noise",
+            "spotify_id": "1aF1v458lj30Es512oRt2o",
+            "duration_ms": 213045,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/37qXWlhfRvpxmIeTKvfw8B",
+                    "id": "37qXWlhfRvpxmIeTKvfw8B",
+                    "name": "My Brightest Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:37qXWlhfRvpxmIeTKvfw8B"
+                }
+            ],
+            "album": {
+                "album_name": "A Million and One",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-11-23",
+                "spotify_id": "6TGUpuWsmmOpsv9tXVsWnP"
+            }
+        },
+        {
+            "name": "Got 2 Let U",
+            "spotify_id": "1bC7R0EErrlpe8XuxpbvEj",
+            "duration_ms": 238200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+                    "id": "7eQZTqEMozBcuSubfu52i4",
+                    "name": "The Knife",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+                }
+            ],
+            "album": {
+                "album_name": "Deep Cuts",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-01-17",
+                "spotify_id": "42OBbI3xgv2u2U4wMyXv7N"
+            }
+        },
+        {
+            "name": "bad guy",
+            "spotify_id": "2Fxmhks0bxGSBdJ92vM42m",
+            "duration_ms": 194087,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "album": {
+                "album_name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-03-29",
+                "spotify_id": "0S0KGZnfBGSIssfF54WSJh"
+            }
+        },
+        {
+            "name": "Soulmate",
+            "spotify_id": "003pNCocnkYPbl8V5pRYIW",
+            "duration_ms": 175234,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "album": {
+                "album_name": "Cuz I Love You (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-05-03",
+                "spotify_id": "74gSdSHe71q7urGWMMn3qB"
+            }
+        },
+        {
+            "name": "Juice",
+            "spotify_id": "0k664IuFwVP557Gnx7RhIl",
+            "duration_ms": 195144,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "album": {
+                "album_name": "Cuz I Love You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-04-19",
+                "spotify_id": "6dFFcYQ8VhifgdKgYY5LYL"
+            }
+        },
+        {
+            "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+            "spotify_id": "6nLvaCZFR1wEzW3sIKpsnr",
+            "duration_ms": 233733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Q192DXotxtaysaqNPy5yR",
+                    "id": "6Q192DXotxtaysaqNPy5yR",
+                    "name": "Amy Winehouse",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Q192DXotxtaysaqNPy5yR"
+                }
+            ],
+            "album": {
+                "album_name": "Back To Black (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006",
+                "spotify_id": "0E4xv5gPjykrwBgBZzI8XG"
+            }
+        },
+        {
+            "name": "Tom's Diner",
+            "spotify_id": "0oTV17gmA8QOVvvZaKL8Ok",
+            "duration_ms": 129106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw",
+                    "id": "3X0tJzVYoWlfjLYI0Ridsw",
+                    "name": "Suzanne Vega",
+                    "type": "artist",
+                    "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw"
+                }
+            ],
+            "album": {
+                "album_name": "Pizza Music",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2019-10-25",
+                "spotify_id": "7wn81JGEiuuFPkWpcY3Nkr"
+            }
+        },
+        {
+            "name": "everything i wanted",
+            "spotify_id": "3ZCTVFBt2Brf31RLEnCkWJ",
+            "duration_ms": 245425,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "album": {
+                "album_name": "everything i wanted",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-11-13",
+                "spotify_id": "4i3rAwPw7Ln2YrKDusaWyT"
+            }
+        },
+        {
+            "name": "Sorry",
+            "spotify_id": "55whbebR4olz2HHcRQa2kx",
+            "duration_ms": 281880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+                    "id": "6tbjWDEIzxoDsBA1FuhfPW",
+                    "name": "Madonna",
+                    "type": "artist",
+                    "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+                }
+            ],
+            "album": {
+                "album_name": "Confessions on a Dance Floor",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-11-11",
+                "spotify_id": "1hg0pQJLE9dzfT1kgZtDPr"
+            }
+        },
+        {
+            "name": "I Feel Love",
+            "spotify_id": "5wNzy4CBeR0CrFfYWdoFz5",
+            "duration_ms": 354480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2eogQKWWoohI3BSnoG7E2U",
+                    "id": "2eogQKWWoohI3BSnoG7E2U",
+                    "name": "Donna Summer",
+                    "type": "artist",
+                    "uri": "spotify:artist:2eogQKWWoohI3BSnoG7E2U"
+                }
+            ],
+            "album": {
+                "album_name": "I Feel Love: The Collection",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2013-01-01",
+                "spotify_id": "0P0beRvBbFaj1bWxa25QMc"
+            }
+        },
+        {
+            "name": "In For The Kill",
+            "spotify_id": "1inG2cgfeGVBsTCcmMIv0e",
+            "duration_ms": 248626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3K2zB87GZv1krx031en5VA",
+                    "id": "3K2zB87GZv1krx031en5VA",
+                    "name": "La Roux",
+                    "type": "artist",
+                    "uri": "spotify:artist:3K2zB87GZv1krx031en5VA"
+                }
+            ],
+            "album": {
+                "album_name": "La Roux",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009",
+                "spotify_id": "0jBkrUrXIxtaMrfAkHjXoZ"
+            }
+        },
+        {
+            "name": "Bulletproof",
+            "spotify_id": "3pU3mRumn5rWii1rKNu1eV",
+            "duration_ms": 205733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3K2zB87GZv1krx031en5VA",
+                    "id": "3K2zB87GZv1krx031en5VA",
+                    "name": "La Roux",
+                    "type": "artist",
+                    "uri": "spotify:artist:3K2zB87GZv1krx031en5VA"
+                }
+            ],
+            "album": {
+                "album_name": "La Roux",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009",
+                "spotify_id": "0jBkrUrXIxtaMrfAkHjXoZ"
+            }
+        },
+        {
+            "name": "Bad Girls",
+            "spotify_id": "1Rb9cQGK0TK9fG95CA91mg",
+            "duration_ms": 227573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU",
+                    "id": "0QJIPDAEDILuo8AIq3pMuU",
+                    "name": "M.I.A.",
+                    "type": "artist",
+                    "uri": "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+                }
+            ],
+            "album": {
+                "album_name": "Electro Shock",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2012-12-24",
+                "spotify_id": "5t1VEYOx2n0erxjMcs1TIU"
+            }
+        },
+        {
+            "name": "Marrakech",
+            "spotify_id": "4bIjPwR8rXvXrA4CR4lvFL",
+            "duration_ms": 215840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3yKO4z2CeXv9sxD1zSw0Sg",
+                    "id": "3yKO4z2CeXv9sxD1zSw0Sg",
+                    "name": "Riff Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3yKO4z2CeXv9sxD1zSw0Sg"
+                }
+            ],
+            "album": {
+                "album_name": "A La Menthe",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-02-09",
+                "spotify_id": "3ybaBnFL6bAuh8GcIPhjAj"
+            }
+        },
+        {
+            "name": "Hana Mash Hu Al Yaman",
+            "spotify_id": "31SocnpUpBkeybeT5UsY65",
+            "duration_ms": 251319,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1EK3SHXyGFZsuj4vrOLhAX",
+                    "id": "1EK3SHXyGFZsuj4vrOLhAX",
+                    "name": "A-WA",
+                    "type": "artist",
+                    "uri": "spotify:artist:1EK3SHXyGFZsuj4vrOLhAX"
+                }
+            ],
+            "album": {
+                "album_name": "Bayti Fi Rasi",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-05-31",
+                "spotify_id": "46reac1ZzkmCPcHpRMgniL"
+            }
+        },
+        {
+            "name": "Survivor",
+            "spotify_id": "2Mpj1Ul5OFPyyP4wB62Rvi",
+            "duration_ms": 254026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+                    "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+                    "name": "Destiny's Child",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+                }
+            ],
+            "album": {
+                "album_name": "Survivor",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-05-01",
+                "spotify_id": "2HcjLD0ButtKsQYqzoyOx9"
+            }
+        },
+        {
+            "name": "Be Careful",
+            "spotify_id": "2Yl4OmDby9iitgNWZPwxkd",
+            "duration_ms": 210787,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+                    "id": "4kYSro6naA4h99UJvo89HB",
+                    "name": "Cardi B",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+                }
+            ],
+            "album": {
+                "album_name": "Invasion of Privacy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-04-06",
+                "spotify_id": "4KdtEKjY3Gi0mKiSdy96ML"
+            }
+        },
+        {
+            "name": "La Bruja - Son Jarocho Tradicional",
+            "spotify_id": "2TWHaE81eQg65AGNlhHJfU",
+            "duration_ms": 117333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mKLeAa4vJqwWe73teVs4h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mKLeAa4vJqwWe73teVs4h",
+                    "id": "2mKLeAa4vJqwWe73teVs4h",
+                    "name": "Salma Hayek",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mKLeAa4vJqwWe73teVs4h"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rtoQWzN7JEpiVUmLvyNVe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rtoQWzN7JEpiVUmLvyNVe",
+                    "id": "2rtoQWzN7JEpiVUmLvyNVe",
+                    "name": "Los Vega",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rtoQWzN7JEpiVUmLvyNVe"
+                }
+            ],
+            "album": {
+                "album_name": "Frida (Original Motion Picture Soundtrack)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2002-01-01",
+                "spotify_id": "1HibLoJGOAnhtqR2KCPBBz"
+            }
+        },
+        {
+            "name": "Haiyu",
+            "spotify_id": "4s86JE28MM4q3xPmBGI6rn",
+            "duration_ms": 202253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uDfHkEF9G0FoBa97NTr4O",
+                    "id": "6uDfHkEF9G0FoBa97NTr4O",
+                    "name": "Mariem Hassan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uDfHkEF9G0FoBa97NTr4O"
+                }
+            ],
+            "album": {
+                "album_name": "Shouka",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-01-01",
+                "spotify_id": "1lrkLv77tMMSjoihcvDVK0"
+            }
+        }
+    ]
+}

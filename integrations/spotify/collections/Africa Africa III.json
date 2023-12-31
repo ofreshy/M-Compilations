@@ -1,0 +1,296 @@
+{
+    "name": "Africa Africa III",
+    "spotify_id": "4V5LSVZYperORO7YYESAGr",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Victory - Instrumental",
+            "spotify_id": "6O6t64nlfMu0QdwDt2X725",
+            "duration_ms": 204567,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2gR0iQTVBPHDKiNn1Kq8HI",
+                    "id": "2gR0iQTVBPHDKiNn1Kq8HI",
+                    "name": "Ebo Taylor",
+                    "type": "artist",
+                    "uri": "spotify:artist:2gR0iQTVBPHDKiNn1Kq8HI"
+                }
+            ],
+            "album": {
+                "album_name": "Love & Death",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-10-25",
+                "spotify_id": "6ez5Ts5kIvCagP0c6LLMJ7"
+            }
+        },
+        {
+            "name": "Brothers On The Slide",
+            "spotify_id": "6cBhKpoE1GNqEtwqGScyBy",
+            "duration_ms": 251400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4hfcSstwnyuBoek1dQwLkG",
+                    "id": "4hfcSstwnyuBoek1dQwLkG",
+                    "name": "Cymande",
+                    "type": "artist",
+                    "uri": "spotify:artist:4hfcSstwnyuBoek1dQwLkG"
+                }
+            ],
+            "album": {
+                "album_name": "Promised Heights",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-08-16",
+                "spotify_id": "0AN2SiaigFwvMG5L0JZCbj"
+            }
+        },
+        {
+            "name": "Isn't She Lovely",
+            "spotify_id": "6RANU8AS5ICU5PEHh8BYtH",
+            "duration_ms": 394266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                    "id": "7guDJrEfX3qb6FEbdPA5qi",
+                    "name": "Stevie Wonder",
+                    "type": "artist",
+                    "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                }
+            ],
+            "album": {
+                "album_name": "Songs In The Key Of Life",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-09-28",
+                "spotify_id": "6YUCc2RiXcEKS9ibuZxjt0"
+            }
+        },
+        {
+            "name": "It's Your World",
+            "spotify_id": "634SQnQm1cYLOOD8kddrn9",
+            "duration_ms": 239840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2OELvPolUUefy9oQNgs8rj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2OELvPolUUefy9oQNgs8rj",
+                    "id": "2OELvPolUUefy9oQNgs8rj",
+                    "name": "Gil Scott-Heron & Brian Jackson",
+                    "type": "artist",
+                    "uri": "spotify:artist:2OELvPolUUefy9oQNgs8rj"
+                }
+            ],
+            "album": {
+                "album_name": "Messages",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-03-16",
+                "spotify_id": "35sAACXEXnzsnibV4KwJs5"
+            }
+        },
+        {
+            "name": "Theme From Shaft",
+            "spotify_id": "2ufqVnWodyBMEtKPdE0lAo",
+            "duration_ms": 279073,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+                    "id": "3IKV7o6WPphDB7cCWXaG3E",
+                    "name": "Isaac Hayes",
+                    "type": "artist",
+                    "uri": "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+                }
+            ],
+            "album": {
+                "album_name": "Shaft (Music From The Soundtrack)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-01-01",
+                "spotify_id": "6RebvWkjRivaPoqxFAHxGF"
+            }
+        },
+        {
+            "name": "Hihache - Remastered",
+            "spotify_id": "4aZe6d2LBQcWZ1bbJsZDwS",
+            "duration_ms": 417040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5EgMMveFcSL3rq87Wkyw4s",
+                    "id": "5EgMMveFcSL3rq87Wkyw4s",
+                    "name": "Lafayette Afro Rock Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:5EgMMveFcSL3rq87Wkyw4s"
+                }
+            ],
+            "album": {
+                "album_name": "Soul Makossa",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1973-10-28",
+                "spotify_id": "1KZmADM7UnB6JlkoiHM6r4"
+            }
+        },
+        {
+            "name": "Black Magic Woman",
+            "spotify_id": "4nmne9J3YCEdhvjTzwiAgu",
+            "duration_ms": 195866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P",
+                    "id": "6GI52t8N5F02MxU0g5U69P",
+                    "name": "Santana",
+                    "type": "artist",
+                    "uri": "spotify:artist:6GI52t8N5F02MxU0g5U69P"
+                }
+            ],
+            "album": {
+                "album_name": "Ultimate Santana",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2007-09-25",
+                "spotify_id": "6FbFvnlSfEoNhwz5MdK0Dx"
+            }
+        },
+        {
+            "name": "Yaa Amponsah",
+            "spotify_id": "30z7fNqxW3oFCmFrBio9Yp",
+            "duration_ms": 267373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2gR0iQTVBPHDKiNn1Kq8HI",
+                    "id": "2gR0iQTVBPHDKiNn1Kq8HI",
+                    "name": "Ebo Taylor",
+                    "type": "artist",
+                    "uri": "spotify:artist:2gR0iQTVBPHDKiNn1Kq8HI"
+                }
+            ],
+            "album": {
+                "album_name": "Appia Kwa Bridge",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-04-16",
+                "spotify_id": "1vaRRg5EEDBCHyIsrN37eA"
+            }
+        },
+        {
+            "name": "Akissi la rebelle",
+            "spotify_id": "1frFZvBZWwgyZLSzPq6ymx",
+            "duration_ms": 192800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eHY5jLP9TgzxYhT19Sqyq",
+                    "id": "0eHY5jLP9TgzxYhT19Sqyq",
+                    "name": "Dobet Gnahor\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eHY5jLP9TgzxYhT19Sqyq"
+                }
+            ],
+            "album": {
+                "album_name": "Miziki",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-04",
+                "spotify_id": "77tSfFy4EC6bf89xQoIevE"
+            }
+        },
+        {
+            "name": "See-Line Woman",
+            "spotify_id": "41wQ1D3RSxdErKHMoUYokE",
+            "duration_ms": 156440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+                    "id": "7G1GBhoKtEPnP86X2PvEYO",
+                    "name": "Nina Simone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+                }
+            ],
+            "album": {
+                "album_name": "See-Line Woman: The Best Of",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2014-01-01",
+                "spotify_id": "5Qa4P0PlSpaw5tyAXYiTIP"
+            }
+        },
+        {
+            "name": "Bour\u00e9e",
+            "spotify_id": "72R9Dd3mEL7JRNpUAEEAN8",
+            "duration_ms": 226133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "name": "Jethro Tull",
+                    "type": "artist",
+                    "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R"
+                }
+            ],
+            "album": {
+                "album_name": "Stand Up",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-08-01",
+                "spotify_id": "7kHvpj74cgrJuJ2K6E0mUm"
+            }
+        },
+        {
+            "name": "I Got The... - 2006 Remaster",
+            "spotify_id": "20VuO95A8RxUPlShnfYArW",
+            "duration_ms": 395373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5CzlICF8GCY0pRC82MKrhX",
+                    "id": "5CzlICF8GCY0pRC82MKrhX",
+                    "name": "Labi Siffre",
+                    "type": "artist",
+                    "uri": "spotify:artist:5CzlICF8GCY0pRC82MKrhX"
+                }
+            ],
+            "album": {
+                "album_name": "Remember My Song",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1975",
+                "spotify_id": "1wTqD7FSQ8XgKPy8xBUaEV"
+            }
+        }
+    ]
+}

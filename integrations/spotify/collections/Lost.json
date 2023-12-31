@@ -1,0 +1,484 @@
+{
+    "name": "Lost",
+    "spotify_id": "2uDworzu0L8ymX6tRQrzL1",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Just As You Are",
+            "spotify_id": "3f5xD3jYhKIq0mzJLFGJgC",
+            "duration_ms": 262160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+                    "id": "5iksmHDN2qZQcgFfXqIXtT",
+                    "name": "Robert Wyatt",
+                    "type": "artist",
+                    "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+                }
+            ],
+            "album": {
+                "album_name": "Different Every Time",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-12-08",
+                "spotify_id": "1QBbSvkOmMxtVVzgZqUg95"
+            }
+        },
+        {
+            "name": "Time Moves Slow",
+            "spotify_id": "1I40L32fTSSkBkPeArX9Ul",
+            "duration_ms": 273864,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+                    "id": "65dGLGjkw3UbddUg2GKQoZ",
+                    "name": "BADBADNOTGOOD",
+                    "type": "artist",
+                    "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6K4I1MPd7m8IztUdtrF4YU",
+                    "id": "6K4I1MPd7m8IztUdtrF4YU",
+                    "name": "Samuel T. Herring",
+                    "type": "artist",
+                    "uri": "spotify:artist:6K4I1MPd7m8IztUdtrF4YU"
+                }
+            ],
+            "album": {
+                "album_name": "IV",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-07-08",
+                "spotify_id": "68HLpLmCtvFKUqwQpUCqwn"
+            }
+        },
+        {
+            "name": "Ana",
+            "spotify_id": "5g3IlBjBRVLmKrU1ZmWAPU",
+            "duration_ms": 129440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Bossanova",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990-08-13",
+                "spotify_id": "60cRh5MCFNOrFeQykKnDej"
+            }
+        },
+        {
+            "name": "Chamber Of Reflection",
+            "spotify_id": "1MJ5f5EYBC92ADD6xcz7nb",
+            "duration_ms": 231723,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+                    "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+                    "name": "Mac DeMarco",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+                }
+            ],
+            "album": {
+                "album_name": "Salad Days",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-04-01",
+                "spotify_id": "1l9d1Zj9Iv2eOcdObVhdMy"
+            }
+        },
+        {
+            "name": "Fade Into You",
+            "spotify_id": "1LzNfuep1bnAUR9skqdHCK",
+            "duration_ms": 295600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/37w38cCSGgKLdayTRjna4W",
+                    "id": "37w38cCSGgKLdayTRjna4W",
+                    "name": "Mazzy Star",
+                    "type": "artist",
+                    "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W"
+                }
+            ],
+            "album": {
+                "album_name": "So Tonight That I Might See",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993-10-05",
+                "spotify_id": "5K18gTgac0q6Jma5HkV1vA"
+            }
+        },
+        {
+            "name": "Sister",
+            "spotify_id": "3fgfNyhoOpmMmQURO5Ou0D",
+            "duration_ms": 465973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+                    "id": "6mKqFxGMS5TGDZI3XkT5Rt",
+                    "name": "Angel Olsen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+                }
+            ],
+            "album": {
+                "album_name": "MY WOMAN",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-09-02",
+                "spotify_id": "5M8xQaQZuW2LZGVXZ3mlKN"
+            }
+        },
+        {
+            "name": "Shipbuilding - Remastered in 1998",
+            "spotify_id": "7iG5yQkIIrd39mYWU2vT2b",
+            "duration_ms": 184293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+                    "id": "5iksmHDN2qZQcgFfXqIXtT",
+                    "name": "Robert Wyatt",
+                    "type": "artist",
+                    "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+                }
+            ],
+            "album": {
+                "album_name": "EPs",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999",
+                "spotify_id": "45INgK6JCxDg7iI2dagZAk"
+            }
+        },
+        {
+            "name": "Summer Wine",
+            "spotify_id": "7zmVAVcT1oho7iWJGpApkE",
+            "duration_ms": 256279,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3IZrrNonYELubLPJmqOci2",
+                    "id": "3IZrrNonYELubLPJmqOci2",
+                    "name": "Nancy Sinatra",
+                    "type": "artist",
+                    "uri": "spotify:artist:3IZrrNonYELubLPJmqOci2"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2aVHDjRHRM7dcFkGwahXLG",
+                    "id": "2aVHDjRHRM7dcFkGwahXLG",
+                    "name": "Lee Hazlewood",
+                    "type": "artist",
+                    "uri": "spotify:artist:2aVHDjRHRM7dcFkGwahXLG"
+                }
+            ],
+            "album": {
+                "album_name": "Nancy & Lee",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-01-01",
+                "spotify_id": "7I7z6Lfwyc1nghsFImEhYq"
+            }
+        },
+        {
+            "name": "Soul Love - 2012 Remaster",
+            "spotify_id": "1bo6xzrCrK7ocEirC5rrZk",
+            "duration_ms": 214198,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-06-06",
+                "spotify_id": "48D1hRORqJq52qsnUYZX56"
+            }
+        },
+        {
+            "name": "Little Wing",
+            "spotify_id": "1Eolhana7nKHYpcYpdVcT5",
+            "duration_ms": 145746,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album": {
+                "album_name": "Axis: Bold As Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-12-01",
+                "spotify_id": "3uFZf8rykoHo7XMIQVYW6r"
+            }
+        },
+        {
+            "name": "White Foxes",
+            "spotify_id": "2oIOcc0C2cuLrAmvTA3rQK",
+            "duration_ms": 256453,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54KCNI7URCrG6yjQK3Ukow",
+                    "id": "54KCNI7URCrG6yjQK3Ukow",
+                    "name": "Susanne Sundf\u00f8r",
+                    "type": "artist",
+                    "uri": "spotify:artist:54KCNI7URCrG6yjQK3Ukow"
+                }
+            ],
+            "album": {
+                "album_name": "The Silicone Veil (Bonus Track Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-10-14",
+                "spotify_id": "7qZBXmpXR2Cv4tYDx6SgiD"
+            }
+        },
+        {
+            "name": "Fitter Happier",
+            "spotify_id": "7LDu86qrJOS1395hFey7LI",
+            "duration_ms": 117333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "OK Computer",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-05-21",
+                "spotify_id": "2fGCAYUMssLKiUAoNdxGLx"
+            }
+        },
+        {
+            "name": "Une belle histoire",
+            "spotify_id": "1GdtMDRiaF1EnG2LJpELme",
+            "duration_ms": 195306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5KnLt0VENhwsfmQL3y2nsY",
+                    "id": "5KnLt0VENhwsfmQL3y2nsY",
+                    "name": "Michel Fugain & Le Big Bazar",
+                    "type": "artist",
+                    "uri": "spotify:artist:5KnLt0VENhwsfmQL3y2nsY"
+                }
+            ],
+            "album": {
+                "album_name": "Fais Comme L'Oiseau",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-07-20",
+                "spotify_id": "6u9tEKSghovMOBy9rwTMLn"
+            }
+        },
+        {
+            "name": "In My Life",
+            "spotify_id": "7Dprt8s1FohodJYtCNcM4a",
+            "duration_ms": 177000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+                    "id": "6kACVPfCOnqzgfEF5ryl0x",
+                    "name": "Johnny Cash",
+                    "type": "artist",
+                    "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+                }
+            ],
+            "album": {
+                "album_name": "American IV: The Man Comes Around",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "2BlL4Gv2DLPu8p58Wcmlm9"
+            }
+        },
+        {
+            "name": "Because - Remastered 2009",
+            "spotify_id": "1rxoyGj1QuPoVi8fOft1Kt",
+            "duration_ms": 165666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "album": {
+                "album_name": "Abbey Road (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-09-26",
+                "spotify_id": "0ETFjACtuP2ADo6LFhL6HN"
+            }
+        },
+        {
+            "name": "Let Down",
+            "spotify_id": "4aOAzvRdOsZSwZIgwcdeL0",
+            "duration_ms": 299560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "OK Computer",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-05-28",
+                "spotify_id": "7dxKtc08dYeRVHt3p9CZJn"
+            }
+        },
+        {
+            "name": "Candy Says",
+            "spotify_id": "512VNuJQQgCQQOTNP38lYD",
+            "duration_ms": 243666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+                    "id": "1nJvji2KIlWSseXRSlNYsC",
+                    "name": "The Velvet Underground",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+                }
+            ],
+            "album": {
+                "album_name": "The Velvet Underground",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-03",
+                "spotify_id": "7IbA4TYrsDIGa4414raKPm"
+            }
+        },
+        {
+            "name": "God Only Knows - Mono",
+            "spotify_id": "6iGU74CwXuT4XVepjc9Emf",
+            "duration_ms": 173040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV",
+                    "id": "3oDbviiivRWhXwIE8hxkVV",
+                    "name": "The Beach Boys",
+                    "type": "artist",
+                    "uri": "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
+                }
+            ],
+            "album": {
+                "album_name": "Pet Sounds (Original Mono & Stereo Mix)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1966-06-16",
+                "spotify_id": "6GphKx2QAPRoVGWE9D7ou8"
+            }
+        },
+        {
+            "name": "At Last I Am Free",
+            "spotify_id": "29a89Yl8KdDa0c2yDaDjja",
+            "duration_ms": 258333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5iksmHDN2qZQcgFfXqIXtT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5iksmHDN2qZQcgFfXqIXtT",
+                    "id": "5iksmHDN2qZQcgFfXqIXtT",
+                    "name": "Robert Wyatt",
+                    "type": "artist",
+                    "uri": "spotify:artist:5iksmHDN2qZQcgFfXqIXtT"
+                }
+            ],
+            "album": {
+                "album_name": "Nothing Can Stop Us",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1982-01-01",
+                "spotify_id": "3DUOEDSXAlvfYlDEPNHvBC"
+            }
+        }
+    ]
+}

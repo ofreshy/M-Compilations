@@ -1,0 +1,464 @@
+{
+    "name": "More",
+    "spotify_id": "5SDM8RtEmjZmlE05tFi41l",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Heaven Can Wait",
+            "spotify_id": "5f28wA3lYK3goqUUBHw8Xs",
+            "duration_ms": 160442,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+                    "id": "2rBcvLKWCZs9w1qIWv560v",
+                    "name": "Charlotte Gainsbourg",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+                }
+            ],
+            "album": {
+                "album_name": "IRM",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-11-27",
+                "spotify_id": "3x4MsB2NsVg1zUz23uwts6"
+            }
+        },
+        {
+            "name": "The Eraser",
+            "spotify_id": "0WxzsZHbXcny0WhexO2MCa",
+            "duration_ms": 295866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4CvTDPKA6W06DRfBnZKrau",
+                    "id": "4CvTDPKA6W06DRfBnZKrau",
+                    "name": "Thom Yorke",
+                    "type": "artist",
+                    "uri": "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+                }
+            ],
+            "album": {
+                "album_name": "The Eraser",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-07-10",
+                "spotify_id": "4QSIeDnAnGag2YZ5DjB2eB"
+            }
+        },
+        {
+            "name": "Where Is My Mind?",
+            "spotify_id": "5BP0oaQ1VhuaznT77CBXQp",
+            "duration_ms": 231666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Death To The Pixies",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-10-06",
+                "spotify_id": "718KJ6VFOdcqCFCWykJKoG"
+            }
+        },
+        {
+            "name": "Everything's Coming Undone",
+            "spotify_id": "6bMNUUxJfZ2EUa0ekMbvkU",
+            "duration_ms": 229653,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2G1Lyk7bWbBBrtwyl3obNB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2G1Lyk7bWbBBrtwyl3obNB",
+                    "id": "2G1Lyk7bWbBBrtwyl3obNB",
+                    "name": "Michael Stipe",
+                    "type": "artist",
+                    "uri": "spotify:artist:2G1Lyk7bWbBBrtwyl3obNB"
+                }
+            ],
+            "album": {
+                "album_name": "Ciao My Shining Star - The Songs of Mark Mulcahy",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2017-02-07",
+                "spotify_id": "0jBeBfLh8nG9raHKRY6bQp"
+            }
+        },
+        {
+            "name": "Everything's Coming Undone",
+            "spotify_id": "0ZPoZglWYMDVlJZs6UtPho",
+            "duration_ms": 183973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5GIfMirlXQh4saiInbfRwm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5GIfMirlXQh4saiInbfRwm",
+                    "id": "5GIfMirlXQh4saiInbfRwm",
+                    "name": "Mark Mulcahy",
+                    "type": "artist",
+                    "uri": "spotify:artist:5GIfMirlXQh4saiInbfRwm"
+                }
+            ],
+            "album": {
+                "album_name": "in pursuit of your happiness",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-08-03",
+                "spotify_id": "3wFRBTpvLCrqUy7KVi3VKp"
+            }
+        },
+        {
+            "name": "Dear Darkness",
+            "spotify_id": "5fQF8KSTJKpC11LnaidIxe",
+            "duration_ms": 189053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "White Chalk",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-01-01",
+                "spotify_id": "2CEb0oDMSohPUxE7rMgwMY"
+            }
+        },
+        {
+            "name": "Kansas - 6/12/75",
+            "spotify_id": "53LUAyEKfxHMYasqad6jAW",
+            "duration_ms": 131745,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+                    "id": "6v8FB84lnmJs434UJf2Mrm",
+                    "name": "Neil Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+                }
+            ],
+            "album": {
+                "album_name": "Homegrown",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-19",
+                "spotify_id": "08wQogg47jUetQkJjqjn6B"
+            }
+        },
+        {
+            "name": "We Don't Smoke It No More",
+            "spotify_id": "1YDDAf3HKBXLQZjqgfAyfb",
+            "duration_ms": 291299,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+                    "id": "6v8FB84lnmJs434UJf2Mrm",
+                    "name": "Neil Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+                }
+            ],
+            "album": {
+                "album_name": "Homegrown",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-19",
+                "spotify_id": "08wQogg47jUetQkJjqjn6B"
+            }
+        },
+        {
+            "name": "Hey Joe",
+            "spotify_id": "0NWPxcsf5vdjdiFUI8NgkP",
+            "duration_ms": 210160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album": {
+                "album_name": "Are You Experienced",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-05-12",
+                "spotify_id": "7rSZXXHHvIhF4yUFdaOCy9"
+            }
+        },
+        {
+            "name": "Pissing In a River",
+            "spotify_id": "6vZxQMgZwUobpDKVdwDk3w",
+            "duration_ms": 283293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+                    "id": "0vYkHhJ48Bs3jWcvZXvOrP",
+                    "name": "Patti Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+                }
+            ],
+            "album": {
+                "album_name": "Outside Society",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2011-08-23",
+                "spotify_id": "00tuL4qPxBs3w8S1BaG3Zv"
+            }
+        },
+        {
+            "name": "Far from Me",
+            "spotify_id": "6ZzUJOQ7uc6HjINNOPE2GO",
+            "duration_ms": 333826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UXJsSlnKd7ltsrHebV79Q",
+                    "id": "4UXJsSlnKd7ltsrHebV79Q",
+                    "name": "Nick Cave & The Bad Seeds",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UXJsSlnKd7ltsrHebV79Q"
+                }
+            ],
+            "album": {
+                "album_name": "The Boatman's Call (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-03-03",
+                "spotify_id": "4ij84pOJd9kY2uNdT2dOH1"
+            }
+        },
+        {
+            "name": "Ashamed of the Story I Told",
+            "spotify_id": "5SeAygUbUtdeVcYOxrBj7r",
+            "duration_ms": 269933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ZOKm4ZfrMPjTynDt99aCp",
+                    "id": "1ZOKm4ZfrMPjTynDt99aCp",
+                    "name": "Polaris",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ZOKm4ZfrMPjTynDt99aCp"
+                }
+            ],
+            "album": {
+                "album_name": "Music From The Adventures Of Pete & Pete",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "1cqCEa8ldM7nwcEINzz8MA"
+            }
+        },
+        {
+            "name": "Drop Out",
+            "spotify_id": "2eU2YgaDrpNVRI9DSDiYoU",
+            "duration_ms": 313506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3wrtQM9ICPPeHwoc1GWiyV",
+                    "id": "3wrtQM9ICPPeHwoc1GWiyV",
+                    "name": "Teleman",
+                    "type": "artist",
+                    "uri": "spotify:artist:3wrtQM9ICPPeHwoc1GWiyV"
+                }
+            ],
+            "album": {
+                "album_name": "Brilliant Sanity",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-04-08",
+                "spotify_id": "6ejYQw87MGGhuw3oJpX0ZO"
+            }
+        },
+        {
+            "name": "Queen",
+            "spotify_id": "52WTLETEHs5jwCr7LCq0VW",
+            "duration_ms": 230719,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ueoLVCXQ948OfhVvAy3Nn",
+                    "id": "2ueoLVCXQ948OfhVvAy3Nn",
+                    "name": "Perfume Genius",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ueoLVCXQ948OfhVvAy3Nn"
+                }
+            ],
+            "album": {
+                "album_name": "Too Bright",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-09-22",
+                "spotify_id": "28FxHb9OJRzAch4DwUUsaT"
+            }
+        },
+        {
+            "name": "Hide and Seek - Radio Edit",
+            "spotify_id": "0TiUG5aktjzuZ9QdMMTNja",
+            "duration_ms": 177853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+                    "id": "6Xb4ezwoAQC4516kI89nWz",
+                    "name": "Imogen Heap",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+                }
+            ],
+            "album": {
+                "album_name": "Keep Calm and Relax",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2012-03-02",
+                "spotify_id": "59uuaFxRzqAS7oU87lolZs"
+            }
+        },
+        {
+            "name": "Reflektor",
+            "spotify_id": "2LWMF10STZqYY9a3YqBiOG",
+            "duration_ms": 453949,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+                    "id": "3kjuyTCjPG1WMFCiyc5IuB",
+                    "name": "Arcade Fire",
+                    "type": "artist",
+                    "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+                }
+            ],
+            "album": {
+                "album_name": "Reflektor",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-01-01",
+                "spotify_id": "4E0m7AIVc2d2QZMrMNXdMZ"
+            }
+        },
+        {
+            "name": "Organ Donor",
+            "spotify_id": "6TdnvxC5E146AXv1doDshO",
+            "duration_ms": 117240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI",
+                    "id": "5CE2IfdYZEQGIDsfiRm8SI",
+                    "name": "DJ Shadow",
+                    "type": "artist",
+                    "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI"
+                }
+            ],
+            "album": {
+                "album_name": "Endtroducing.....",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-09-16",
+                "spotify_id": "4wvqGLk1HThPA0b5lzRK2l"
+            }
+        },
+        {
+            "name": "Everybody Loves The Sunshine",
+            "spotify_id": "5le4sn0iMcnKU56bdmNzso",
+            "duration_ms": 239666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WbeZvDk1COiO2dEokZqn7",
+                    "id": "3WbeZvDk1COiO2dEokZqn7",
+                    "name": "Roy Ayers Ubiquity",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WbeZvDk1COiO2dEokZqn7"
+                }
+            ],
+            "album": {
+                "album_name": "Everybody Loves The Sunshine (Reissue)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-05-12",
+                "spotify_id": "5JehGpTedBPXzhUcwXoIlf"
+            }
+        },
+        {
+            "name": "You'd Be so Nice to Come Home To - Live at Newport Jazz Festival; 2004 Remaster",
+            "spotify_id": "3bWcsvqpeSSxmNOdjmV9wD",
+            "duration_ms": 325493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+                    "id": "7G1GBhoKtEPnP86X2PvEYO",
+                    "name": "Nina Simone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+                }
+            ],
+            "album": {
+                "album_name": "Nina Simone at Newport",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1960",
+                "spotify_id": "4Ds7zZYzM5rtaemaVOfFOs"
+            }
+        }
+    ]
+}

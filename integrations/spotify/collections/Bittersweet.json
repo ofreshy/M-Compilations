@@ -1,0 +1,354 @@
+{
+    "name": "Bittersweet",
+    "spotify_id": "4DmAQjnYOss50yd1HHkOaF",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Space Golf",
+            "spotify_id": "3phtWNZEYBtiNvlJefa0Uq",
+            "duration_ms": 297626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nw6dQQptzvEQ5GtC6HGe4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nw6dQQptzvEQ5GtC6HGe4",
+                    "id": "1nw6dQQptzvEQ5GtC6HGe4",
+                    "name": "Hen Ogledd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nw6dQQptzvEQ5GtC6HGe4"
+                }
+            ],
+            "album": {
+                "album_name": "Free Humans",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-25",
+                "spotify_id": "7oIXolIsJGvF7QI4FZAekK"
+            }
+        },
+        {
+            "name": "Lovesong - Remastered",
+            "spotify_id": "2mIrfke7vosXAEWfz6ucyo",
+            "duration_ms": 208266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                    "id": "7bu3H8JO7d0UbMoVzbo70s",
+                    "name": "The Cure",
+                    "type": "artist",
+                    "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+                }
+            ],
+            "album": {
+                "album_name": "Disintegration (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-05-02",
+                "spotify_id": "0H6TddUF2M63ZSHGvhk5yy"
+            }
+        },
+        {
+            "name": "The Look",
+            "spotify_id": "6zfczP87XO2SxWlQtnjFNa",
+            "duration_ms": 277653,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54QMjE4toDfiCryzYWCpXX",
+                    "id": "54QMjE4toDfiCryzYWCpXX",
+                    "name": "Metronomy",
+                    "type": "artist",
+                    "uri": "spotify:artist:54QMjE4toDfiCryzYWCpXX"
+                }
+            ],
+            "album": {
+                "album_name": "The English Riviera",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-04-11",
+                "spotify_id": "716fnrS2qXChPC3J2X73pK"
+            }
+        },
+        {
+            "name": "Suedehead",
+            "spotify_id": "4BtK63vvaeI9DaIuUlOg5c",
+            "duration_ms": 234880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3iTsJGG39nMg9YiolUgLMQ",
+                    "id": "3iTsJGG39nMg9YiolUgLMQ",
+                    "name": "Morrissey",
+                    "type": "artist",
+                    "uri": "spotify:artist:3iTsJGG39nMg9YiolUgLMQ"
+                }
+            ],
+            "album": {
+                "album_name": "The Best of Morrissey - Suedehead",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1997-09-08",
+                "spotify_id": "0YidZM0OXOX4KxyLqyF9hs"
+            }
+        },
+        {
+            "name": "Pale Shelter - 2nd Single Version",
+            "spotify_id": "0Xam0zVac3hKWWN4OQ5Gdr",
+            "duration_ms": 273893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+                    "id": "4bthk9UfsYUYdcFyqxmSUU",
+                    "name": "Tears For Fears",
+                    "type": "artist",
+                    "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+                }
+            ],
+            "album": {
+                "album_name": "The Hurting",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1983-03-07",
+                "spotify_id": "3sIFpEctox1XOs3FEkqrgr"
+            }
+        },
+        {
+            "name": "Brick England",
+            "spotify_id": "45VG6m5fYU3rIMT7dnBq9h",
+            "duration_ms": 241013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT",
+                    "id": "5MhLmv7GgyjbxGqiIGasvT",
+                    "name": "Jean-Michel Jarre",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+                    "id": "2ycnb8Er79LoH2AsR5ldjh",
+                    "name": "Pet Shop Boys",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+                }
+            ],
+            "album": {
+                "album_name": "Electronica 2: The Heart of Noise",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-05-06",
+                "spotify_id": "2Q5Mrul369ojL9N8DWkWQZ"
+            }
+        },
+        {
+            "name": "Rent",
+            "spotify_id": "6dmcYfXsRnedky3yqWzrLg",
+            "duration_ms": 213266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+                    "id": "2ycnb8Er79LoH2AsR5ldjh",
+                    "name": "Pet Shop Boys",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+                }
+            ],
+            "album": {
+                "album_name": "Discography - Complete Singles Collection",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-03-31",
+                "spotify_id": "0Jt2LzWgtGxy3GZH5i2Kcy"
+            }
+        },
+        {
+            "name": "The Delayed 3:15",
+            "spotify_id": "0Er3YHnMhHvjSyHusJpvpB",
+            "duration_ms": 204920,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+                    "id": "0TJB3EE2efClsYIDQ8V2Jk",
+                    "name": "Elbow",
+                    "type": "artist",
+                    "uri": "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+                }
+            ],
+            "album": {
+                "album_name": "Giants of All Sizes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-10-11",
+                "spotify_id": "4EqYFNisfHX1IPA0IoaKI2"
+            }
+        },
+        {
+            "name": "New Skin",
+            "spotify_id": "0SgPmRVgrhctqz6ym10C3X",
+            "duration_ms": 287693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4MOV18YgNAGUBCJi0MIrHw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4MOV18YgNAGUBCJi0MIrHw",
+                    "id": "4MOV18YgNAGUBCJi0MIrHw",
+                    "name": "The Wave Pictures",
+                    "type": "artist",
+                    "uri": "spotify:artist:4MOV18YgNAGUBCJi0MIrHw"
+                }
+            ],
+            "album": {
+                "album_name": "City Forgiveness",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-10-21",
+                "spotify_id": "3pAIfjpiCorI0EQa70AqMS"
+            }
+        },
+        {
+            "name": "Don't Panic",
+            "spotify_id": "2QhURnm7mQDxBb5jWkbDug",
+            "duration_ms": 136866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+                    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+                    "name": "Coldplay",
+                    "type": "artist",
+                    "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+                }
+            ],
+            "album": {
+                "album_name": "Parachutes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-07-10",
+                "spotify_id": "6ZG5lRT77aJ3btmArcykra"
+            }
+        },
+        {
+            "name": "Hope",
+            "spotify_id": "6m5g6mY0EqyPW6Snc6n749",
+            "duration_ms": 270066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kIwETcbpuFgRukE8o7Opx",
+                    "id": "4kIwETcbpuFgRukE8o7Opx",
+                    "name": "Arlo Parks",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kIwETcbpuFgRukE8o7Opx"
+                }
+            ],
+            "album": {
+                "album_name": "Hope",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-01-27",
+                "spotify_id": "2cqVLSrisNHPR6Q1Q4HsBp"
+            }
+        },
+        {
+            "name": "It's All Over Now Baby Blue",
+            "spotify_id": "7hoWkhuHv9b3jiCbxX1kMm",
+            "duration_ms": 229960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+                    "id": "7mlge4peaoNgzTsY6M32RB",
+                    "name": "Marianne Faithfull",
+                    "type": "artist",
+                    "uri": "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+                }
+            ],
+            "album": {
+                "album_name": "Rich Kid Blues",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1985",
+                "spotify_id": "7m06IfHTHIxJHPlOrCybrk"
+            }
+        },
+        {
+            "name": "Sonnet",
+            "spotify_id": "6OgWHP8rRXiq7VMaryVaVo",
+            "duration_ms": 261360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84",
+                    "id": "2cGwlqi3k18jFpUyTrsR84",
+                    "name": "The Verve",
+                    "type": "artist",
+                    "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84"
+                }
+            ],
+            "album": {
+                "album_name": "Urban Hymns (Remastered 2016)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-09-29",
+                "spotify_id": "52AeC4gwbxDfFlLHgK1ByD"
+            }
+        },
+        {
+            "name": "Bitter Sweet Symphony - Remastered 2016",
+            "spotify_id": "57iDDD9N9tTWe75x6qhStw",
+            "duration_ms": 357266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2cGwlqi3k18jFpUyTrsR84",
+                    "id": "2cGwlqi3k18jFpUyTrsR84",
+                    "name": "The Verve",
+                    "type": "artist",
+                    "uri": "spotify:artist:2cGwlqi3k18jFpUyTrsR84"
+                }
+            ],
+            "album": {
+                "album_name": "Urban Hymns (Remastered 2016)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-09-29",
+                "spotify_id": "52AeC4gwbxDfFlLHgK1ByD"
+            }
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "name": "Night 2 Dawn I",
+    "spotify_id": "7i3bac2FnTMZxvVyJZOmiO",
+    "created_date": "2021-06-29",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Tunnel Vision",
+            "spotify_id": "3lpCx8dxX38g0Toi8SCbXg",
+            "duration_ms": 315280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YcprGtF13BYCZQK9jYPEw",
+                    "id": "1YcprGtF13BYCZQK9jYPEw",
+                    "name": "Kae Tempest",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YcprGtF13BYCZQK9jYPEw"
+                }
+            ],
+            "album": {
+                "album_name": "Let Them Eat Chaos",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-10-07",
+                "spotify_id": "20IHNtzCY3uYpWolidiIDb"
+            }
+        },
+        {
+            "name": "Night",
+            "spotify_id": "78VsADFpDBlYmedBgISJ2R",
+            "duration_ms": 310466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5eitAUlYmlha3LLWg7aBn5",
+                    "id": "5eitAUlYmlha3LLWg7aBn5",
+                    "name": "Kelly Lee Owens",
+                    "type": "artist",
+                    "uri": "spotify:artist:5eitAUlYmlha3LLWg7aBn5"
+                }
+            ],
+            "album": {
+                "album_name": "Inner Song",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-08-28",
+                "spotify_id": "3DzlkHEQtb0ABoxze4Zxi7"
+            }
+        },
+        {
+            "name": "Fifty On Our Foreheads",
+            "spotify_id": "2r6ZXfWrE23eUVP7w2H7cy",
+            "duration_ms": 261680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6ssXMmc5EOUrauZxirM910",
+                    "id": "6ssXMmc5EOUrauZxirM910",
+                    "name": "White Lies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6ssXMmc5EOUrauZxirM910"
+                }
+            ],
+            "album": {
+                "album_name": "To Lose My Life ...",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009",
+                "spotify_id": "1ySdrRPZa9ZRvlcUoGv8UE"
+            }
+        },
+        {
+            "name": "Pills I Swallow",
+            "spotify_id": "2yDuyNN2SSrSXFdHndATpF",
+            "duration_ms": 241313,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6e6GkaF6uiSEFuTrlvDJUF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6e6GkaF6uiSEFuTrlvDJUF",
+                    "id": "6e6GkaF6uiSEFuTrlvDJUF",
+                    "name": "The Twilight Sad",
+                    "type": "artist",
+                    "uri": "spotify:artist:6e6GkaF6uiSEFuTrlvDJUF"
+                }
+            ],
+            "album": {
+                "album_name": "Nobody Wants to Be Here and Nobody Wants to Leave",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-10-28",
+                "spotify_id": "27nqejWecQjuqdqxjJjwN9"
+            }
+        },
+        {
+            "name": "The Turning of Our Bones",
+            "spotify_id": "2SOTZlpxx6ed2qt8GbC2MG",
+            "duration_ms": 305365,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6g8Jqb5JMfv92eB2r0awTN",
+                    "id": "6g8Jqb5JMfv92eB2r0awTN",
+                    "name": "Arab Strap",
+                    "type": "artist",
+                    "uri": "spotify:artist:6g8Jqb5JMfv92eB2r0awTN"
+                }
+            ],
+            "album": {
+                "album_name": "The Turning of Our Bones",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-02",
+                "spotify_id": "6dm9voFx7hnT12zeiT0fMj"
+            }
+        },
+        {
+            "name": "All the Colours of the Dark",
+            "spotify_id": "5aTaLGDv8kJqdcP2jErOGB",
+            "duration_ms": 232680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6KdkzNXhRBjPQxCSYgRxpH",
+                    "id": "6KdkzNXhRBjPQxCSYgRxpH",
+                    "name": "Federale",
+                    "type": "artist",
+                    "uri": "spotify:artist:6KdkzNXhRBjPQxCSYgRxpH"
+                }
+            ],
+            "album": {
+                "album_name": "All the Colours of the Dark",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-09-28",
+                "spotify_id": "2hVAvRTLpa4eNPgxvWrMTV"
+            }
+        },
+        {
+            "name": "The Rip",
+            "spotify_id": "4kOy7M6eT5kYJCZxh0c6Lh",
+            "duration_ms": 270960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y",
+                    "id": "6liAMWkVf5LH7YR9yfFy1Y",
+                    "name": "Portishead",
+                    "type": "artist",
+                    "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+                }
+            ],
+            "album": {
+                "album_name": "Third",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-01-01",
+                "spotify_id": "18JyZd2XLdT2rmekw6EwoS"
+            }
+        },
+        {
+            "name": "Are You Sure",
+            "spotify_id": "65cwdd7ZjjGZSQaTcCNpbM",
+            "duration_ms": 226147,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Gu6Q05ExIGwHTF43kqLBI",
+                    "id": "2Gu6Q05ExIGwHTF43kqLBI",
+                    "name": "David Lynch",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Gu6Q05ExIGwHTF43kqLBI"
+                }
+            ],
+            "album": {
+                "album_name": "The Big Dream",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-07-15",
+                "spotify_id": "2wqnTkuSs2sATiuFxSnX47"
+            }
+        },
+        {
+            "name": "Night Scented Stock - 2018 Remaster",
+            "spotify_id": "6ZYjCeL9704rdBdDI59gRY",
+            "duration_ms": 52186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+                    "id": "1aSxMhuvixZ8h9dK9jIDwL",
+                    "name": "Kate Bush",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+                }
+            ],
+            "album": {
+                "album_name": "Never for Ever (2018 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980-09-07",
+                "spotify_id": "0KBFDO8qcY0zhybIESEQUt"
+            }
+        },
+        {
+            "name": "Army Dreamers - 2018 Remaster",
+            "spotify_id": "135ArLV1euyyeegU9D8HVR",
+            "duration_ms": 179160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+                    "id": "1aSxMhuvixZ8h9dK9jIDwL",
+                    "name": "Kate Bush",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+                }
+            ],
+            "album": {
+                "album_name": "Never for Ever (2018 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980-09-07",
+                "spotify_id": "0KBFDO8qcY0zhybIESEQUt"
+            }
+        }
+    ]
+}

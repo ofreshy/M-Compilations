@@ -1,0 +1,422 @@
+{
+    "name": "HomeComing IV",
+    "spotify_id": "69t5xkS972RRrNK6dfHz2r",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "\u05e2\u05d5\u05d3 \u05d7\u05d5\u05d6\u05e8 \u05d4\u05e0\u05d9\u05d2\u05d5\u05df",
+            "spotify_id": "0RhDiJYjH4Z5HHbPcFFVji",
+            "duration_ms": 233506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05d1\u05d5\u05d3\u05d4 \u05e2\u05d1\u05e8\u05d9\u05ea - \u05de\u05d7\u05d5\u05d5\u05d4 \u05dc-50 \u05e9\u05e0\u05d5\u05ea \u05d9\u05e6\u05d9\u05e8\u05d4 \u05de\u05e7\u05d5\u05e8\u05d9\u05ea",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-03-01",
+                "spotify_id": "6wZWChkjTrdGKtIOwVlrN4"
+            }
+        },
+        {
+            "name": "Black Star",
+            "spotify_id": "4Av6wixYwxLop6Lr5iEF3p",
+            "duration_ms": 247040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "The Bends (Collector's Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1995-03-28",
+                "spotify_id": "1P1LYaTMV1LnDiHA3LOows"
+            }
+        },
+        {
+            "name": "\u05e7\u05e0\u05d4 \u05de\u05d4 \u05e9\u05d0\u05d9\u05df",
+            "spotify_id": "4ONoezekDeBDUTQa6Cd7Vl",
+            "duration_ms": 125146,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5RZFWlNXqk7VGQFEt4ArnF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5RZFWlNXqk7VGQFEt4ArnF",
+                    "id": "5RZFWlNXqk7VGQFEt4ArnF",
+                    "name": "The Friends of Natasha",
+                    "type": "artist",
+                    "uri": "spotify:artist:5RZFWlNXqk7VGQFEt4ArnF"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e8\u05d3\u05d9\u05d5 \u05d1\u05dc\u05d4 \u05d1\u05dc\u05d4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-03-06",
+                "spotify_id": "3plAsF9XFWnbXOsnWBepU4"
+            }
+        },
+        {
+            "name": "\u05d1\u05d3\u05e8\u05da",
+            "spotify_id": "3OBiDk3XPh6zj8KVuzAOpB",
+            "duration_ms": 162600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e7\u05dc\u05e8\u05d4 \u05d4\u05e7\u05d3\u05d5\u05e9\u05d4 (\u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05e1\u05e8\u05d8)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-01-01",
+                "spotify_id": "3KH6y4VPx8tYng5hnzi8p2"
+            }
+        },
+        {
+            "name": "The Well - 2019 Version",
+            "spotify_id": "5ShBdYBZ0HKTDW7ai3N77h",
+            "duration_ms": 214640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6a2HcrBBLrhSq57wzuoXYr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6a2HcrBBLrhSq57wzuoXYr",
+                    "id": "6a2HcrBBLrhSq57wzuoXYr",
+                    "name": "Minimal Compact",
+                    "type": "artist",
+                    "uri": "spotify:artist:6a2HcrBBLrhSq57wzuoXYr"
+                }
+            ],
+            "album": {
+                "album_name": "Creation Is Perfect",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-10-25",
+                "spotify_id": "5gX9xXyRmy6KQ2GgjBN98H"
+            }
+        },
+        {
+            "name": "\u05e1\u05d3\u05e8 \u05d9\u05d5\u05dd",
+            "spotify_id": "4iYY6ORen1oEYE7VAvuzof",
+            "duration_ms": 230017,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65HMrTs3P1NWDoXBbgRI3r"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65HMrTs3P1NWDoXBbgRI3r",
+                    "id": "65HMrTs3P1NWDoXBbgRI3r",
+                    "name": "Lahaka Rhetorit",
+                    "type": "artist",
+                    "uri": "spotify:artist:65HMrTs3P1NWDoXBbgRI3r"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3umMDCJhXpEwLj3kn8Zml1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3umMDCJhXpEwLj3kn8Zml1",
+                    "id": "3umMDCJhXpEwLj3kn8Zml1",
+                    "name": "Yossi Elephant",
+                    "type": "artist",
+                    "uri": "spotify:artist:3umMDCJhXpEwLj3kn8Zml1"
+                }
+            ],
+            "album": {
+                "album_name": "\u05dc\u05d4\u05e7\u05d4 \u05e8\u05d8\u05d5\u05e8\u05d9\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-09-06",
+                "spotify_id": "4C4fykGGuXeICycY2Xl7q2"
+            }
+        },
+        {
+            "name": "\u05ea\u05de\u05d5\u05e0\u05d4 \u05d0\u05d9\u05de\u05e4\u05e8\u05e1\u05d9\u05d5\u05e0\u05d9\u05e1\u05d8\u05d9\u05ea",
+            "spotify_id": "6wUq2YM9Bb2pQKm4bC3UC7",
+            "duration_ms": 196000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Jek5TilNLhv1n7lyOrSCj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Jek5TilNLhv1n7lyOrSCj",
+                    "id": "3Jek5TilNLhv1n7lyOrSCj",
+                    "name": "Carmella Gross & Wagner",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Jek5TilNLhv1n7lyOrSCj"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/55Jd6KSpdVaT4A7cMQXdYY",
+                    "id": "55Jd6KSpdVaT4A7cMQXdYY",
+                    "name": "Eran Tzur",
+                    "type": "artist",
+                    "uri": "spotify:artist:55Jd6KSpdVaT4A7cMQXdYY"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e4\u05e8\u05d7 \u05e9\u05d7\u05d5\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-08-02",
+                "spotify_id": "4DSycnoNdM59Xl8Z42nZ53"
+            }
+        },
+        {
+            "name": "Naftali Hadag (Naftali the Fish)",
+            "spotify_id": "0ZacxzZP91TWwDWcgBudsM",
+            "duration_ms": 275461,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3cPFiAwdwlzCq7gBVIlBfa",
+                    "id": "3cPFiAwdwlzCq7gBVIlBfa",
+                    "name": "Yali Sobol",
+                    "type": "artist",
+                    "uri": "spotify:artist:3cPFiAwdwlzCq7gBVIlBfa"
+                }
+            ],
+            "album": {
+                "album_name": "Avoda Ivrit 60 (Celebrating Israel\u2019s 60th Anniversary)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2008-04-29",
+                "spotify_id": "2OOFuHB50jzqPMe7LijCJw"
+            }
+        },
+        {
+            "name": "\u05d0\u05d9\u05e9 \u05d1\u05dc\u05d9 \u05e0\u05e6\u05d7",
+            "spotify_id": "6xvnXMj5fNnEQbaFuSQnwQ",
+            "duration_ms": 229000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5RZFWlNXqk7VGQFEt4ArnF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5RZFWlNXqk7VGQFEt4ArnF",
+                    "id": "5RZFWlNXqk7VGQFEt4ArnF",
+                    "name": "The Friends of Natasha",
+                    "type": "artist",
+                    "uri": "spotify:artist:5RZFWlNXqk7VGQFEt4ArnF"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e9\u05d9\u05e0\u05d5\u05d9\u05d9\u05dd \u05d1\u05d4\u05e8\u05d2\u05dc\u05d9 \u05d4\u05e6\u05e8\u05d9\u05d7\u05d4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-03-05",
+                "spotify_id": "38t9uADYDpCdIHvB7WdlEH"
+            }
+        },
+        {
+            "name": "A Forest",
+            "spotify_id": "0o4S13NJiEdnzy67ZKoyFZ",
+            "duration_ms": 282786,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                    "id": "7bu3H8JO7d0UbMoVzbo70s",
+                    "name": "The Cure",
+                    "type": "artist",
+                    "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+                }
+            ],
+            "album": {
+                "album_name": "Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2001-01-01",
+                "spotify_id": "093amtf9s8VkIdUtvd2Tap"
+            }
+        },
+        {
+            "name": "\u05e8\u05d1\u05d9\u05dd \u05d4\u05d9\u05de\u05d9\u05dd",
+            "spotify_id": "1KnnhUsjAvcLTJ9e9dF0VQ",
+            "duration_ms": 372333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7ncSeJV3xl2Q2HnWvllj4B",
+                    "id": "7ncSeJV3xl2Q2HnWvllj4B",
+                    "name": "Assaf Amdursky",
+                    "type": "artist",
+                    "uri": "spotify:artist:7ncSeJV3xl2Q2HnWvllj4B"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d0\u05e1\u05e3 \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "0mk0BtW3zLWxdFz9MfrC9A"
+            }
+        },
+        {
+            "name": "\u05d0\u05d9\u05e0\u05ea\u05d9 \u05e2\u05d5\u05de\u05e8\u05d9",
+            "spotify_id": "08PbajqRHdE0uDtC8N5v0T",
+            "duration_ms": 251280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/37uemCgxNePP1I8e9U9J4W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/37uemCgxNePP1I8e9U9J4W",
+                    "id": "37uemCgxNePP1I8e9U9J4W",
+                    "name": "Micha Shitrit",
+                    "type": "artist",
+                    "uri": "spotify:artist:37uemCgxNePP1I8e9U9J4W"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05e1\u05de\u05e8\u05d9\u05dd \u05d5\u05e0\u05d5\u05e6\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-03-06",
+                "spotify_id": "3ArArdlPyEPz7rWs9uGHnc"
+            }
+        },
+        {
+            "name": "\u05d0\u05d3\u05d5\u05df \u05d4\u05e1\u05dc\u05d9\u05d7\u05d5\u05ea",
+            "spotify_id": "1ZCiiMv6ThCHmJPtxjCZup",
+            "duration_ms": 255000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0BE8bfpIikRRl6MuxPMTPR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0BE8bfpIikRRl6MuxPMTPR",
+                    "id": "0BE8bfpIikRRl6MuxPMTPR",
+                    "name": "Tractor's Revenge",
+                    "type": "artist",
+                    "uri": "spotify:artist:0BE8bfpIikRRl6MuxPMTPR"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e0\u05e7\u05de\u05ea \u05d4\u05d8\u05e8\u05e7\u05d8\u05d5\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990-05-03",
+                "spotify_id": "3UEwzkfEgQ9Gnf6F1CjEaE"
+            }
+        },
+        {
+            "name": "\u05de\u05d5\u05e0\u05e1\u05d5\u05df",
+            "spotify_id": "2FTXo33901P30TkUkKNcdX",
+            "duration_ms": 279280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d0\u05d7\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-12-27",
+                "spotify_id": "385mjC5ByL9fKXbrlfId78"
+            }
+        },
+        {
+            "name": "\u05e0\u05e2\u05d9\u05de\u05ea \u05d0\u05d4\u05d5\u05d1\u05d4 \u05e2\u05d5\u05d6\u05e8\u05d9",
+            "spotify_id": "5EhwsWTRPsorg94XKxLJfo",
+            "duration_ms": 181466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3VlKzixXtnWl9vsFc3w6ka"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3VlKzixXtnWl9vsFc3w6ka",
+                    "id": "3VlKzixXtnWl9vsFc3w6ka",
+                    "name": "Ahuva Ozeri",
+                    "type": "artist",
+                    "uri": "spotify:artist:3VlKzixXtnWl9vsFc3w6ka"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d7\u05dc\u05d5\u05de\u05d5\u05ea \u05d2\u05df \u05e2\u05d3\u05df",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-01-01",
+                "spotify_id": "7Kj56bCK5iVI6nEyiBmBIh"
+            }
+        },
+        {
+            "name": "\u05e2\u05d5\u05d3 \u05d7\u05d5\u05d6\u05e8 \u05d4\u05e0\u05d9\u05d2\u05d5\u05df",
+            "spotify_id": "7qj3gFKEaKHbhHDsfrFug6",
+            "duration_ms": 91893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qyW8XnyYBblpgc9FpEaNh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qyW8XnyYBblpgc9FpEaNh",
+                    "id": "0qyW8XnyYBblpgc9FpEaNh",
+                    "name": "Yossi Banai",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qyW8XnyYBblpgc9FpEaNh"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ITNRviRvjqafqp2LzJp5s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ITNRviRvjqafqp2LzJp5s",
+                    "id": "1ITNRviRvjqafqp2LzJp5s",
+                    "name": "Nathan Alterman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ITNRviRvjqafqp2LzJp5s"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e4\u05d2\u05d9\u05e9\u05d4 \u05dc\u05d0\u05d9\u05df \u05e7\u05e5 - \u05d9\u05d5\u05e1\u05d9 \u05d1\u05e0\u05d0\u05d9 \u05de\u05d2\u05d9\u05e9 \u05e0\u05ea\u05df \u05d0\u05dc\u05ea\u05e8\u05de\u05df",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000",
+                "spotify_id": "1y8iSVeHLLy0VuVV2yr08e"
+            }
+        }
+    ]
+}

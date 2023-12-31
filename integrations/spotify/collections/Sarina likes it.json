@@ -1,0 +1,416 @@
+{
+    "name": "Sarina likes it",
+    "spotify_id": "4dqXA6sLPw4Ugx2OlPsadN",
+    "created_date": "2023-05-29",
+    "description": "",
+    "tracks": [
+        {
+            "name": "The Passenger",
+            "spotify_id": "6EZDbjz2X5XzgIZCtbsrXh",
+            "duration_ms": 309306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+                    "id": "1n65zfwYIj5kKEtNgxUlWb",
+                    "name": "Siouxsie and the Banshees",
+                    "type": "artist",
+                    "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+                }
+            ],
+            "album": {
+                "album_name": "Through The Looking Glass (Remastered And Expanded)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1987-03-02",
+                "spotify_id": "7kEqVGkLoruahp34YW16oe"
+            }
+        },
+        {
+            "name": "Lola",
+            "spotify_id": "17GMg1ZyQJtm3HkXQFZ31f",
+            "duration_ms": 243506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4t7bXPFEPe0pu1ozhdDLOp",
+                    "id": "4t7bXPFEPe0pu1ozhdDLOp",
+                    "name": "The Raincoats",
+                    "type": "artist",
+                    "uri": "spotify:artist:4t7bXPFEPe0pu1ozhdDLOp"
+                }
+            ],
+            "album": {
+                "album_name": "The Raincoats",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979",
+                "spotify_id": "190Tx9jPHndq0qUlq79BJJ"
+            }
+        },
+        {
+            "name": "I Fought the Law",
+            "spotify_id": "5dAxeuDkIkpa6wZpMOuG9i",
+            "duration_ms": 163240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+                    "id": "3RGLhK1IP9jnYFH4BRFJBS",
+                    "name": "The Clash",
+                    "type": "artist",
+                    "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+                }
+            ],
+            "album": {
+                "album_name": "The Cost of Living - EP",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2013",
+                "spotify_id": "26zldGZFvob9Lj0kXZ6v7u"
+            }
+        },
+        {
+            "name": "Brass in Pocket - 2006 Remaster",
+            "spotify_id": "2hvOsGJc6qll4WzW8Ljqc3",
+            "duration_ms": 185960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0GByy3DcfbQwDvXGCWmzv9",
+                    "id": "0GByy3DcfbQwDvXGCWmzv9",
+                    "name": "Pretenders",
+                    "type": "artist",
+                    "uri": "spotify:artist:0GByy3DcfbQwDvXGCWmzv9"
+                }
+            ],
+            "album": {
+                "album_name": "Pretenders (Expanded & Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980-01-11",
+                "spotify_id": "4oDYsMBe7KtOu12VNMO75k"
+            }
+        },
+        {
+            "name": "Sweet Jane",
+            "spotify_id": "2LAZn3ygMkecVRmyXvGjHO",
+            "duration_ms": 197826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+                    "id": "1nJvji2KIlWSseXRSlNYsC",
+                    "name": "The Velvet Underground",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+                }
+            ],
+            "album": {
+                "album_name": "Loaded: Re-Loaded 45th Anniversary Edition",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970",
+                "spotify_id": "1jYzTZV1cQXE89zA9ZSUpE"
+            }
+        },
+        {
+            "name": "Free Money",
+            "spotify_id": "1wP1qnWy0cZWxnbWkzf9La",
+            "duration_ms": 232040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+                    "id": "0vYkHhJ48Bs3jWcvZXvOrP",
+                    "name": "Patti Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+                }
+            ],
+            "album": {
+                "album_name": "Horses (Legacy Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1975",
+                "spotify_id": "7xg7u99lilTCPbaRfnYuy6"
+            }
+        },
+        {
+            "name": "I Wanna Be Yours",
+            "spotify_id": "2r8rfQL6X43isLNNBTMGxB",
+            "duration_ms": 122746,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0EOkMBYWbDnVqwfHA4zq32",
+                    "id": "0EOkMBYWbDnVqwfHA4zq32",
+                    "name": "John Cooper Clarke",
+                    "type": "artist",
+                    "uri": "spotify:artist:0EOkMBYWbDnVqwfHA4zq32"
+                }
+            ],
+            "album": {
+                "album_name": "The Very Best Of",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2002-05-31",
+                "spotify_id": "0GbJSduK8qUuLpG91duF0C"
+            }
+        },
+        {
+            "name": "Dear Prudence",
+            "spotify_id": "34tFidHrETMAjsiK87WVVW",
+            "duration_ms": 228200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+                    "id": "1n65zfwYIj5kKEtNgxUlWb",
+                    "name": "Siouxsie and the Banshees",
+                    "type": "artist",
+                    "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+                }
+            ],
+            "album": {
+                "album_name": "Hyaena (Remastered And Expanded)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984-06-08",
+                "spotify_id": "0PF97T9K2E95PV4AbICNjr"
+            }
+        },
+        {
+            "name": "Train in Vain (Stand by Me) - Remastered",
+            "spotify_id": "6ITuEsxEy2qPhqMowdDAeI",
+            "duration_ms": 194666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+                    "id": "3RGLhK1IP9jnYFH4BRFJBS",
+                    "name": "The Clash",
+                    "type": "artist",
+                    "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+                }
+            ],
+            "album": {
+                "album_name": "London Calling (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979",
+                "spotify_id": "6FCzvataOZh68j8OKzOt9a"
+            }
+        },
+        {
+            "name": "Road to Nowhere - Early Version",
+            "spotify_id": "59aLTd7j7H4kcANUyEisZI",
+            "duration_ms": 279346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC",
+                    "id": "2x9SpqnPi8rlE9pjHBwmSC",
+                    "name": "Talking Heads",
+                    "type": "artist",
+                    "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+                }
+            ],
+            "album": {
+                "album_name": "Little Creatures",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1985-07-10",
+                "spotify_id": "5Dja2ASXd7MOM628iwYdtA"
+            }
+        },
+        {
+            "name": "Rebel Rebel",
+            "spotify_id": "3rymykc7sICuNweZMsI76O",
+            "duration_ms": 190666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "Reality",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-09-16",
+                "spotify_id": "04bKxe1Y7WFw4yrDPlmswG"
+            }
+        },
+        {
+            "name": "Making Plans For Nigel",
+            "spotify_id": "1XT5kxg6Tk0ukCO2vBQN4v",
+            "duration_ms": 253800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qT62DYO8Ajb276vUJmvhz",
+                    "id": "2qT62DYO8Ajb276vUJmvhz",
+                    "name": "XTC",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qT62DYO8Ajb276vUJmvhz"
+                }
+            ],
+            "album": {
+                "album_name": "Drums And Wires",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979-08-17",
+                "spotify_id": "4S6y2iTYbGONSlNJHYyrVl"
+            }
+        },
+        {
+            "name": "Three Imaginary Boys",
+            "spotify_id": "2rgYH8S363FAP3vunkUHnB",
+            "duration_ms": 195693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                    "id": "7bu3H8JO7d0UbMoVzbo70s",
+                    "name": "The Cure",
+                    "type": "artist",
+                    "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+                }
+            ],
+            "album": {
+                "album_name": "Three Imaginary Boys",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979-05-11",
+                "spotify_id": "0jYmAPQezr1aG75KerJCdG"
+            }
+        },
+        {
+            "name": "I Go to Sleep - 2018 Remaster",
+            "spotify_id": "6nIJU23VH8pHw8xPEqFHX7",
+            "duration_ms": 176501,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0GByy3DcfbQwDvXGCWmzv9",
+                    "id": "0GByy3DcfbQwDvXGCWmzv9",
+                    "name": "Pretenders",
+                    "type": "artist",
+                    "uri": "spotify:artist:0GByy3DcfbQwDvXGCWmzv9"
+                }
+            ],
+            "album": {
+                "album_name": "Pretenders II (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1981-01-11",
+                "spotify_id": "6eTHa4zNxrrykO2J3jFxpB"
+            }
+        },
+        {
+            "name": "Roam",
+            "spotify_id": "5fqcIHU6DhQtFKVO5XSdQs",
+            "duration_ms": 295133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3gdbcIdNypBsYNu3iiCjtN",
+                    "id": "3gdbcIdNypBsYNu3iiCjtN",
+                    "name": "The B-52's",
+                    "type": "artist",
+                    "uri": "spotify:artist:3gdbcIdNypBsYNu3iiCjtN"
+                }
+            ],
+            "album": {
+                "album_name": "Cosmic Thing",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-06-23",
+                "spotify_id": "5BAzAODqIwttjj7wxmlNMS"
+            }
+        },
+        {
+            "name": "Rock the Casbah - Remastered",
+            "spotify_id": "56KqaFSGTb7ifpt16t5Y1N",
+            "duration_ms": 222426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+                    "id": "3RGLhK1IP9jnYFH4BRFJBS",
+                    "name": "The Clash",
+                    "type": "artist",
+                    "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+                }
+            ],
+            "album": {
+                "album_name": "Combat Rock (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1982",
+                "spotify_id": "1ZH5g1RDq3GY1OvyD0w0s2"
+            }
+        },
+        {
+            "name": "\u05d0\u05ea \u05ea\u05dc\u05db\u05d9 \u05d1\u05e9\u05d3\u05d4",
+            "spotify_id": "0BMZYvnEbg61sqXDpzbpip",
+            "duration_ms": 208906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5UbgVjyCkpIMOzQuOI4DOW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5UbgVjyCkpIMOzQuOI4DOW",
+                    "id": "5UbgVjyCkpIMOzQuOI4DOW",
+                    "name": "Chava Alberstein",
+                    "type": "artist",
+                    "uri": "spotify:artist:5UbgVjyCkpIMOzQuOI4DOW"
+                }
+            ],
+            "album": {
+                "album_name": "\u05db\u05de\u05d5 \u05e6\u05de\u05d7 \u05d1\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1975-01-01",
+                "spotify_id": "24ol8JnxFStSkq8Qluad8s"
+            }
+        }
+    ]
+}

@@ -1,0 +1,418 @@
+{
+    "name": "Africa Africa II",
+    "spotify_id": "00XXaGn4Clo3T8c18RQ1js",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Y\u00e8k\u00e8rmo S\u00e8w (A Man of Experience and Wisdom)",
+            "spotify_id": "6eNOgE9gdpOx8Tztf4tbCF",
+            "duration_ms": 255560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HGFXtBhRq3g1Ma3nH4Rgv",
+                    "id": "7HGFXtBhRq3g1Ma3nH4Rgv",
+                    "name": "Mulatu Astatke",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HGFXtBhRq3g1Ma3nH4Rgv"
+                }
+            ],
+            "album": {
+                "album_name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-10-06",
+                "spotify_id": "5VKvVk4gaPAJyXjof8NnzX"
+            }
+        },
+        {
+            "name": "Shakara",
+            "spotify_id": "5CEyBtMq03mmwYbRIxHciI",
+            "duration_ms": 317360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W",
+                    "id": "5BRAUN0yN8557PLRZIr02W",
+                    "name": "Ezra Collective",
+                    "type": "artist",
+                    "uri": "spotify:artist:5BRAUN0yN8557PLRZIr02W"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3u9rbdcmA6CxjxOAkjaeFr",
+                    "id": "3u9rbdcmA6CxjxOAkjaeFr",
+                    "name": "Kokoroko",
+                    "type": "artist",
+                    "uri": "spotify:artist:3u9rbdcmA6CxjxOAkjaeFr"
+                }
+            ],
+            "album": {
+                "album_name": "You Can't Steal My Joy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-04-26",
+                "spotify_id": "1eY0OQek6FHZWiPgJaXAzl"
+            }
+        },
+        {
+            "name": "Lady Day and John Coltrane",
+            "spotify_id": "6yz7M1DItRFo8ATGeLoM9y",
+            "duration_ms": 216333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+                    "id": "0kEfub5RzlZOB2zGomqVSU",
+                    "name": "Gil Scott-Heron",
+                    "type": "artist",
+                    "uri": "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+                }
+            ],
+            "album": {
+                "album_name": "Pieces Of A Man",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971",
+                "spotify_id": "3HsWjdL2LBJfgHlDFJthHL"
+            }
+        },
+        {
+            "name": "This Must Be the Place (Naive Melody) - 2003 Remaster",
+            "spotify_id": "3pDEtP8fRPi7t7GrDdpmaf",
+            "duration_ms": 296133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC",
+                    "id": "2x9SpqnPi8rlE9pjHBwmSC",
+                    "name": "Talking Heads",
+                    "type": "artist",
+                    "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+                }
+            ],
+            "album": {
+                "album_name": "The Best of Talking Heads",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2004-08-17",
+                "spotify_id": "1UIoS9WbxcNNmvUGkWlfzU"
+            }
+        },
+        {
+            "name": "Griot Village",
+            "spotify_id": "35i4vu0WyG0oq73QVT7xJl",
+            "duration_ms": 72026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4enlUH42adijJsJemKLIrz",
+                    "id": "4enlUH42adijJsJemKLIrz",
+                    "name": "Malian Musicians",
+                    "type": "artist",
+                    "uri": "spotify:artist:4enlUH42adijJsJemKLIrz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+                    "id": "0O98jlCaPzvsoei6U5jfEL",
+                    "name": "Damon Albarn",
+                    "type": "artist",
+                    "uri": "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+                }
+            ],
+            "album": {
+                "album_name": "Mali Music",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-04-15",
+                "spotify_id": "40ncJvz2FvF1Z4EvpE3vU9"
+            }
+        },
+        {
+            "name": "Ha Po Zamani - Stereo Version",
+            "spotify_id": "2NLdUY8QqltK9gNevTFfaV",
+            "duration_ms": 175859,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+                    "id": "18RkLKfeoUgZflWv9os25W",
+                    "name": "Miriam Makeba",
+                    "type": "artist",
+                    "uri": "spotify:artist:18RkLKfeoUgZflWv9os25W"
+                }
+            ],
+            "album": {
+                "album_name": "Pata Pata",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017",
+                "spotify_id": "1y0oTN8oxJPyY06ypQBDFv"
+            }
+        },
+        {
+            "name": "De Camino a La Vereda",
+            "spotify_id": "6rIKdzOQjc2Pv7p0GJYA5c",
+            "duration_ms": 303226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/11kBu957KTYoAltZHDm8gW",
+                    "id": "11kBu957KTYoAltZHDm8gW",
+                    "name": "Buena Vista Social Club",
+                    "type": "artist",
+                    "uri": "spotify:artist:11kBu957KTYoAltZHDm8gW"
+                }
+            ],
+            "album": {
+                "album_name": "Buena Vista Social Club",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-09-16",
+                "spotify_id": "6qeYhdDR0FH7IvvArQlMuW"
+            }
+        },
+        {
+            "name": "Adwa",
+            "spotify_id": "2fgjZEZ0NlwoPvUMfvVzUP",
+            "duration_ms": 356760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3u9rbdcmA6CxjxOAkjaeFr",
+                    "id": "3u9rbdcmA6CxjxOAkjaeFr",
+                    "name": "Kokoroko",
+                    "type": "artist",
+                    "uri": "spotify:artist:3u9rbdcmA6CxjxOAkjaeFr"
+                }
+            ],
+            "album": {
+                "album_name": "KOKOROKO",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-03-08",
+                "spotify_id": "7MeDqREJNAU5D80vI2xCol"
+            }
+        },
+        {
+            "name": "(Sittin' On) the Dock of the Bay",
+            "spotify_id": "50uGbeaQIxKiSc7jvRTjWx",
+            "duration_ms": 166826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/60df5JBRRPcnSpsIMxxwQm",
+                    "id": "60df5JBRRPcnSpsIMxxwQm",
+                    "name": "Otis Redding",
+                    "type": "artist",
+                    "uri": "spotify:artist:60df5JBRRPcnSpsIMxxwQm"
+                }
+            ],
+            "album": {
+                "album_name": "Atlantic 60th: Soul, Sweat And Strut",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2007-10-30",
+                "spotify_id": "1LBWNRMsbEWb17KmDD4jfD"
+            }
+        },
+        {
+            "name": "The Click Song",
+            "spotify_id": "5NfJhl5jE1yyv2WOp9dp06",
+            "duration_ms": 153663,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+                    "id": "18RkLKfeoUgZflWv9os25W",
+                    "name": "Miriam Makeba",
+                    "type": "artist",
+                    "uri": "spotify:artist:18RkLKfeoUgZflWv9os25W"
+                }
+            ],
+            "album": {
+                "album_name": "Pata Pata",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-06-07",
+                "spotify_id": "39QegkMQDBFnzontZ3no1m"
+            }
+        },
+        {
+            "name": "Me Voy",
+            "spotify_id": "14kYrMqdlj4xA02NZSrsMl",
+            "duration_ms": 187400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Q8NEHGX70m1kkojbtm8wa",
+                    "id": "5Q8NEHGX70m1kkojbtm8wa",
+                    "name": "Ibeyi",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Q8NEHGX70m1kkojbtm8wa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Ces1OJeGOVGcUB0wPaPXJ",
+                    "id": "3Ces1OJeGOVGcUB0wPaPXJ",
+                    "name": "Mala Rodr\u00edguez",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Ces1OJeGOVGcUB0wPaPXJ"
+                }
+            ],
+            "album": {
+                "album_name": "Ash",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-29",
+                "spotify_id": "3AfBuChwSzSSufGjTAafzt"
+            }
+        },
+        {
+            "name": "All The Stars (with SZA)",
+            "spotify_id": "3GCdLUSnKSMJhs4Tj6CV3s",
+            "duration_ms": 232186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+                    "id": "7tYKF4w9nC0nq9CsPZTHyP",
+                    "name": "SZA",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+                }
+            ],
+            "album": {
+                "album_name": "Black Panther The Album Music From And Inspired By",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-02-09",
+                "spotify_id": "3pLdWdkj83EYfDN6H2N8MR"
+            }
+        },
+        {
+            "name": "Parking Lot",
+            "spotify_id": "5hLAvGak6o4xLKNbTmh2fp",
+            "duration_ms": 234333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+                    "id": "3jK9MiCrA42lLAdMGUZpwa",
+                    "name": "Anderson .Paak",
+                    "type": "artist",
+                    "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+                }
+            ],
+            "album": {
+                "album_name": "Malibu",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-01-15",
+                "spotify_id": "6xNFuLOko8gjxi5kUAyGyM"
+            }
+        },
+        {
+            "name": "Le Hogon",
+            "spotify_id": "2roPBwMJJLTQlPP4314Mfg",
+            "duration_ms": 231906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4enlUH42adijJsJemKLIrz",
+                    "id": "4enlUH42adijJsJemKLIrz",
+                    "name": "Malian Musicians",
+                    "type": "artist",
+                    "uri": "spotify:artist:4enlUH42adijJsJemKLIrz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+                    "id": "0O98jlCaPzvsoei6U5jfEL",
+                    "name": "Damon Albarn",
+                    "type": "artist",
+                    "uri": "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+                }
+            ],
+            "album": {
+                "album_name": "Mali Music",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-04-15",
+                "spotify_id": "40ncJvz2FvF1Z4EvpE3vU9"
+            }
+        },
+        {
+            "name": "Shaking The Tree",
+            "spotify_id": "3ZyL0IRRuUdDthICoWD6x7",
+            "duration_ms": 384493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7C4sUpWGlTy7IANjruj02I",
+                    "id": "7C4sUpWGlTy7IANjruj02I",
+                    "name": "Peter Gabriel",
+                    "type": "artist",
+                    "uri": "spotify:artist:7C4sUpWGlTy7IANjruj02I"
+                }
+            ],
+            "album": {
+                "album_name": "Shaking The Tree - 16 Golden Greats (Remastered)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1990-11-20",
+                "spotify_id": "2b1SlEf60cYBEhCLrtFQqn"
+            }
+        }
+    ]
+}

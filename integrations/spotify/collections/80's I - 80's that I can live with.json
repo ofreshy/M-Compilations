@@ -1,0 +1,398 @@
+{
+    "name": "80's I - 80's that I can live with",
+    "spotify_id": "2ISfeMSyPNZYkBrgo9WsNY",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Touch Me (I Want Your Body)",
+            "spotify_id": "13s6dCsNpSZflwVu2uzzPi",
+            "duration_ms": 222133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ym94xKp2PIOJtTZKpxbAa",
+                    "id": "0ym94xKp2PIOJtTZKpxbAa",
+                    "name": "Samantha Fox",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ym94xKp2PIOJtTZKpxbAa"
+                }
+            ],
+            "album": {
+                "album_name": "Samantha Fox Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2004-12-27",
+                "spotify_id": "2MLEz0a0JzhNpbqXn2UxgG"
+            }
+        },
+        {
+            "name": "She Drives Me Crazy",
+            "spotify_id": "2BPfKiV9U0CR1dpUgeUwuH",
+            "duration_ms": 215773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/20p5D2KrE8CGuOjHtxsyTp",
+                    "id": "20p5D2KrE8CGuOjHtxsyTp",
+                    "name": "Fine Young Cannibals",
+                    "type": "artist",
+                    "uri": "spotify:artist:20p5D2KrE8CGuOjHtxsyTp"
+                }
+            ],
+            "album": {
+                "album_name": "The Raw And The Cooked",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988",
+                "spotify_id": "59R6wpHlRk6Ui19e7qAgo1"
+            }
+        },
+        {
+            "name": "Hungry Like the Wolf",
+            "spotify_id": "2qeESyQyH7MRHCBotCQsNq",
+            "duration_ms": 209546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+                    "id": "0lZoBs4Pzo7R89JM9lxwoT",
+                    "name": "Duran Duran",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+                }
+            ],
+            "album": {
+                "album_name": "Greatest",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-11-09",
+                "spotify_id": "7xbWtTByfdMWFfxXmeFFl0"
+            }
+        },
+        {
+            "name": "Gold",
+            "spotify_id": "0UYit2SshaoGD45cp21LEI",
+            "duration_ms": 231480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2urZrEdsq72kx0UzfYN8Yv",
+                    "id": "2urZrEdsq72kx0UzfYN8Yv",
+                    "name": "Spandau Ballet",
+                    "type": "artist",
+                    "uri": "spotify:artist:2urZrEdsq72kx0UzfYN8Yv"
+                }
+            ],
+            "album": {
+                "album_name": "Spandau Ballet ''The Story'' The Very Best of (Deluxe)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2014-10-10",
+                "spotify_id": "08X2lSUAtVIoWTpG1G8Niu"
+            }
+        },
+        {
+            "name": "Papa Don't Preach",
+            "spotify_id": "7u4YYDqgqEu7etjfwWy3u8",
+            "duration_ms": 249426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+                    "id": "6tbjWDEIzxoDsBA1FuhfPW",
+                    "name": "Madonna",
+                    "type": "artist",
+                    "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+                }
+            ],
+            "album": {
+                "album_name": "The Immaculate Collection",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1990-11-09",
+                "spotify_id": "5MzwGwnO9gkh0z6Nl4FF8h"
+            }
+        },
+        {
+            "name": "Love of the Common People",
+            "spotify_id": "6cARFkZxx2JR3JlvDzeLZc",
+            "duration_ms": 220733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6rqU9HQ57NYGBnBzbrY3a4",
+                    "id": "6rqU9HQ57NYGBnBzbrY3a4",
+                    "name": "Paul Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6rqU9HQ57NYGBnBzbrY3a4"
+                }
+            ],
+            "album": {
+                "album_name": "From Time To Time - The Singles Collection",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1991-09-07",
+                "spotify_id": "6bDQgC4mNcwz46wHKI6h2y"
+            }
+        },
+        {
+            "name": "Father Figure",
+            "spotify_id": "0SCk8WpBKSvK6QkSyixRAY",
+            "duration_ms": 340360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+                    "id": "19ra5tSw0tWufvUp8GotLo",
+                    "name": "George Michael",
+                    "type": "artist",
+                    "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+                }
+            ],
+            "album": {
+                "album_name": "Ladies And Gentlemen... The Best Of George Michael",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-11-09",
+                "spotify_id": "3coLNlyStg9h7f8CZ103Rl"
+            }
+        },
+        {
+            "name": "Smalltown Boy",
+            "spotify_id": "2UTR6JWSBZL30fgLtF7rPc",
+            "duration_ms": 298373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wpWOzQE5TpA0dVnh5YD08",
+                    "id": "2wpWOzQE5TpA0dVnh5YD08",
+                    "name": "Bronski Beat",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wpWOzQE5TpA0dVnh5YD08"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Rlzg94RzWFqvdxEdfTi3v"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Rlzg94RzWFqvdxEdfTi3v",
+                    "id": "4Rlzg94RzWFqvdxEdfTi3v",
+                    "name": "Mixed By: Harvey Goldberg",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Rlzg94RzWFqvdxEdfTi3v"
+                }
+            ],
+            "album": {
+                "album_name": "The Very Best Of Jimmy Somerville, Bronski Beat And The Communards",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2001-09-03",
+                "spotify_id": "6WiIzEOMOeXuQIExBXcxKz"
+            }
+        },
+        {
+            "name": "There Must Be an Angel (Playing with My Heart)",
+            "spotify_id": "2hbA72TFulrNGTEBUMAnzG",
+            "duration_ms": 281040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0NKDgy9j66h3DLnN8qu1bB",
+                    "id": "0NKDgy9j66h3DLnN8qu1bB",
+                    "name": "Eurythmics",
+                    "type": "artist",
+                    "uri": "spotify:artist:0NKDgy9j66h3DLnN8qu1bB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MspMQqdVbdwP6ax3GXqum",
+                    "id": "5MspMQqdVbdwP6ax3GXqum",
+                    "name": "Annie Lennox",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MspMQqdVbdwP6ax3GXqum"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7gcCQIlkkfbul5Mt0jBQkg",
+                    "id": "7gcCQIlkkfbul5Mt0jBQkg",
+                    "name": "Dave Stewart",
+                    "type": "artist",
+                    "uri": "spotify:artist:7gcCQIlkkfbul5Mt0jBQkg"
+                }
+            ],
+            "album": {
+                "album_name": "Ultimate Collection",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2005-11-04",
+                "spotify_id": "2TKsB0j63p4cM14CBqPEtq"
+            }
+        },
+        {
+            "name": "Karma Chameleon",
+            "spotify_id": "5n2o8ct7efuy6J2jlZ2t3u",
+            "duration_ms": 241933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6kz53iCdBSqhQCZ21CoLcc",
+                    "id": "6kz53iCdBSqhQCZ21CoLcc",
+                    "name": "Culture Club",
+                    "type": "artist",
+                    "uri": "spotify:artist:6kz53iCdBSqhQCZ21CoLcc"
+                }
+            ],
+            "album": {
+                "album_name": "This Time",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1987-01-01",
+                "spotify_id": "3KlMmQJwwFDLAUop4AOycd"
+            }
+        },
+        {
+            "name": "Little Lies",
+            "spotify_id": "5uw9UIOXj6R8pOwXte8F5h",
+            "duration_ms": 218040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+                    "id": "08GQAI4eElDnROBrJRGE0X",
+                    "name": "Fleetwood Mac",
+                    "type": "artist",
+                    "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+                }
+            ],
+            "album": {
+                "album_name": "Tango In The Night",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1987-04-13",
+                "spotify_id": "1W5YP0TlKjFtb2UZJThLpV"
+            }
+        },
+        {
+            "name": "Always the Sun",
+            "spotify_id": "6q2lHtQwscJJn2gGuv6wdo",
+            "duration_ms": 244706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0RUEHcBiENFEqxgicqS2ig",
+                    "id": "0RUEHcBiENFEqxgicqS2ig",
+                    "name": "The Stranglers",
+                    "type": "artist",
+                    "uri": "spotify:artist:0RUEHcBiENFEqxgicqS2ig"
+                }
+            ],
+            "album": {
+                "album_name": "Greatest Hits 1977-1990",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1990-11-16",
+                "spotify_id": "1czXkVzstJU0OZFwEPTQci"
+            }
+        },
+        {
+            "name": "Don't You (Forget About Me) - Remastered",
+            "spotify_id": "0A4PZuepTcIQVvA5m7R0M1",
+            "duration_ms": 263973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6hN9F0iuULZYWXppob22Aj",
+                    "id": "6hN9F0iuULZYWXppob22Aj",
+                    "name": "Simple Minds",
+                    "type": "artist",
+                    "uri": "spotify:artist:6hN9F0iuULZYWXppob22Aj"
+                }
+            ],
+            "album": {
+                "album_name": "Celebrate (Greatest Hits)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2013-03-25",
+                "spotify_id": "7dKQCCQnnkqgRQFxKRDqkJ"
+            }
+        },
+        {
+            "name": "Tainted Love",
+            "spotify_id": "5AUNgRzr93Mv1r8Q2mntku",
+            "duration_ms": 162773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6aq8T2RcspxVOGgMrTzjWc",
+                    "id": "6aq8T2RcspxVOGgMrTzjWc",
+                    "name": "Soft Cell",
+                    "type": "artist",
+                    "uri": "spotify:artist:6aq8T2RcspxVOGgMrTzjWc"
+                }
+            ],
+            "album": {
+                "album_name": "The Very Best of Soft Cell",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2017-05-31",
+                "spotify_id": "5jn7vTg2Zl34UGMNaQdC38"
+            }
+        },
+        {
+            "name": "Just Can't Get Enough",
+            "spotify_id": "2X3II0KJv8wgL6EYsWB9um",
+            "duration_ms": 220880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+                    "id": "762310PdDnwsDxAQxzQkfX",
+                    "name": "Depeche Mode",
+                    "type": "artist",
+                    "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX"
+                }
+            ],
+            "album": {
+                "album_name": "The Best of Depeche Mode, Vol. 1 (Deluxe)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006-11-08",
+                "spotify_id": "0h1RmJe86n74nWpNWWb2dj"
+            }
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "name": "Night 2 Dawn II",
+    "spotify_id": "3VejWDn5g7fMNBzWZ6HVDe",
+    "created_date": "2021-08-19",
+    "description": "Nice that I can have it here",
+    "tracks": [
+        {
+            "name": "By This River - 2004 Digital Remaster",
+            "spotify_id": "13b87C9TNBFKJAi9YB4Rr8",
+            "duration_ms": 183493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+                    "id": "7MSUfLeTdDEoZiJPDSBXgi",
+                    "name": "Brian Eno",
+                    "type": "artist",
+                    "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+                }
+            ],
+            "album": {
+                "album_name": "Before And After Science",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-11-01",
+                "spotify_id": "6lU1MDxi3TqhKnYNQm555u"
+            }
+        },
+        {
+            "name": "Lady Grinning Soul - Strange Weather EP",
+            "spotify_id": "0WLRYRgjZtjs3FahKVsC01",
+            "duration_ms": 236046,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/50sSN9E5i4DJzYDclAXlSo",
+                    "id": "50sSN9E5i4DJzYDclAXlSo",
+                    "name": "Anna Calvi",
+                    "type": "artist",
+                    "uri": "spotify:artist:50sSN9E5i4DJzYDclAXlSo"
+                }
+            ],
+            "album": {
+                "album_name": "Strange Weather",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2014-07-14",
+                "spotify_id": "79sbowzBvsOoBAS4GhskrQ"
+            }
+        },
+        {
+            "name": "03:06",
+            "spotify_id": "3uMBy1ISGfUEhlhawYpVAK",
+            "duration_ms": 302246,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7E3BRXV9ZbCt5lQTCXMTia",
+                    "id": "7E3BRXV9ZbCt5lQTCXMTia",
+                    "name": "\u00d3lafur Arnalds",
+                    "type": "artist",
+                    "uri": "spotify:artist:7E3BRXV9ZbCt5lQTCXMTia"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gqhueRUZEa7VDnQt4HODp",
+                    "id": "5gqhueRUZEa7VDnQt4HODp",
+                    "name": "Nils Frahm",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+                }
+            ],
+            "album": {
+                "album_name": "Trance Frendz",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-03-04",
+                "spotify_id": "5yulSZK48ArdLPXWur0qik"
+            }
+        },
+        {
+            "name": "Underneath The Weeping Willow",
+            "spotify_id": "4LpyDbheNviyA1nL84Dx8O",
+            "duration_ms": 160466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3W4xM5XYtUp4ifYYPVKVdk",
+                    "id": "3W4xM5XYtUp4ifYYPVKVdk",
+                    "name": "Grandaddy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3W4xM5XYtUp4ifYYPVKVdk"
+                }
+            ],
+            "album": {
+                "album_name": "The Sophtware Slump (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-05-29",
+                "spotify_id": "7N1yocvn7Q0qge0tbUSDAy"
+            }
+        },
+        {
+            "name": "Piazzolla: Milonga del Angel",
+            "spotify_id": "67UeQe6ockC1ypX1CiwvQH",
+            "duration_ms": 404133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0DoZqqpgn3kYZ0iSfWEgF0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0DoZqqpgn3kYZ0iSfWEgF0",
+                    "id": "0DoZqqpgn3kYZ0iSfWEgF0",
+                    "name": "Tango for Four",
+                    "type": "artist",
+                    "uri": "spotify:artist:0DoZqqpgn3kYZ0iSfWEgF0"
+                }
+            ],
+            "album": {
+                "album_name": "Tango for Four No. 2",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-10-08",
+                "spotify_id": "1yMNtgp3u7y1upVzQQzzNd"
+            }
+        },
+        {
+            "name": "Avalanche",
+            "spotify_id": "2OXmMU1rITVtthEIh4A015",
+            "duration_ms": 302013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "album": {
+                "album_name": "Songs Of Love And Hate",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-03-19",
+                "spotify_id": "2Om4oR7plGGub1aYe5uB7B"
+            }
+        },
+        {
+            "name": "Bleu Nuit",
+            "spotify_id": "6FfRBa2ZDsENMazt1QeTPA",
+            "duration_ms": 245986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+                    "id": "7HeVXdOdMhLslVputGTZFQ",
+                    "name": "Timber Timbre",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+                }
+            ],
+            "album": {
+                "album_name": "Sincerely, Future Pollution",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-04-07",
+                "spotify_id": "709cMaebhJIkNpHbwjrfYP"
+            }
+        },
+        {
+            "name": "The Light 3000",
+            "spotify_id": "4WaeeMOeSnyd9zE4kCagZZ",
+            "duration_ms": 243853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3z9ViU2XA9UggOyGCkuCuW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3z9ViU2XA9UggOyGCkuCuW",
+                    "id": "3z9ViU2XA9UggOyGCkuCuW",
+                    "name": "Schneider TM",
+                    "type": "artist",
+                    "uri": "spotify:artist:3z9ViU2XA9UggOyGCkuCuW"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6EIsAG4viEsi5qt666ITIu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6EIsAG4viEsi5qt666ITIu",
+                    "id": "6EIsAG4viEsi5qt666ITIu",
+                    "name": "KPT.Michi.Gan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6EIsAG4viEsi5qt666ITIu"
+                }
+            ],
+            "album": {
+                "album_name": "Binokular EP",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2000-10-30",
+                "spotify_id": "7H8g2vmYT3Dho6LxQscDL3"
+            }
+        },
+        {
+            "name": "The Heart of Noise (The Origin)",
+            "spotify_id": "0z3T88c6YwZFX5Vqgf53D1",
+            "duration_ms": 156480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MhLmv7GgyjbxGqiIGasvT",
+                    "id": "5MhLmv7GgyjbxGqiIGasvT",
+                    "name": "Jean-Michel Jarre",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MhLmv7GgyjbxGqiIGasvT"
+                }
+            ],
+            "album": {
+                "album_name": "Planet Jarre (Deluxe-Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-09-14",
+                "spotify_id": "2r1JyHCVfb1ZUxwb5CzSns"
+            }
+        },
+        {
+            "name": "Dying on the Vine",
+            "spotify_id": "3kIJym55OkLvKHw1VToWSt",
+            "duration_ms": 320960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW",
+                    "id": "5MWBg16f5UYiaSlyVhzlIW",
+                    "name": "John Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW"
+                }
+            ],
+            "album": {
+                "album_name": "Artificial Intelligence",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1985",
+                "spotify_id": "65S9Kzdn8e8faqkbuyu99l"
+            }
+        }
+    ]
+}

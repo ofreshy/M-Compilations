@@ -1,0 +1,418 @@
+{
+    "name": "Chill Part II",
+    "spotify_id": "5ofqAK8wp8qPo0iuMlOSJH",
+    "created_date": "2021-10-03",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Hell Is Round The Corner",
+            "spotify_id": "2wC0qK8JN6gblb0ZJzE2d9",
+            "duration_ms": 227066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+                    "id": "6hhA8TKRNryM8FNzqCqdDO",
+                    "name": "Tricky",
+                    "type": "artist",
+                    "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6sKLLGj7SqbP2qDBdEOoZ6",
+                    "id": "6sKLLGj7SqbP2qDBdEOoZ6",
+                    "name": "Martina Topley-Bird",
+                    "type": "artist",
+                    "uri": "spotify:artist:6sKLLGj7SqbP2qDBdEOoZ6"
+                }
+            ],
+            "album": {
+                "album_name": "Maxinquaye (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1995",
+                "spotify_id": "4pWLQ312KAN43yhm3omkZo"
+            }
+        },
+        {
+            "name": "It Could Be Sweet",
+            "spotify_id": "7xiXaJlz5cTKL168OBVzun",
+            "duration_ms": 259959,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y",
+                    "id": "6liAMWkVf5LH7YR9yfFy1Y",
+                    "name": "Portishead",
+                    "type": "artist",
+                    "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+                }
+            ],
+            "album": {
+                "album_name": "Dummy (Non UK Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "3gxOtUSRzweDWBKlpj7cG6"
+            }
+        },
+        {
+            "name": "Danube Incident",
+            "spotify_id": "2QqouLGFYMynquwDMYUGk1",
+            "duration_ms": 117733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/39iHRO9MH9To3gjW7wqaW1",
+                    "id": "39iHRO9MH9To3gjW7wqaW1",
+                    "name": "Lalo Schifrin",
+                    "type": "artist",
+                    "uri": "spotify:artist:39iHRO9MH9To3gjW7wqaW1"
+                }
+            ],
+            "album": {
+                "album_name": "More Mission: Impossible",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-01-01",
+                "spotify_id": "5VLp8zGXQAeQQPwJ2lWb74"
+            }
+        },
+        {
+            "name": "Hyssop of Love",
+            "spotify_id": "6p55IyL3J4at7aXW0vnTBs",
+            "duration_ms": 195643,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+                    "id": "65dGLGjkw3UbddUg2GKQoZ",
+                    "name": "BADBADNOTGOOD",
+                    "type": "artist",
+                    "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+                    "id": "1FvjvACFvko2Z91IvDljrx",
+                    "name": "Mick Jenkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+                }
+            ],
+            "album": {
+                "album_name": "IV",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016",
+                "spotify_id": "39IeM8NH0lUHRw3HgeF5b7"
+            }
+        },
+        {
+            "name": "Cry Mississippi",
+            "spotify_id": "3jxyeLlIXmTR0aM3d7uazZ",
+            "duration_ms": 250893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eVUmHkceS1EX9NJkv1khK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eVUmHkceS1EX9NJkv1khK",
+                    "id": "6eVUmHkceS1EX9NJkv1khK",
+                    "name": "Helicopter Girl",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eVUmHkceS1EX9NJkv1khK"
+                }
+            ],
+            "album": {
+                "album_name": "How to Steal the World",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000",
+                "spotify_id": "1urWT2gLdIX45g66TOJd6v"
+            }
+        },
+        {
+            "name": "Risingson",
+            "spotify_id": "6ggJ6MceyHGWtUg1KLp3M1",
+            "duration_ms": 298826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+                    "id": "6FXMGgJwohJLUSr5nVlf9X",
+                    "name": "Massive Attack",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+                }
+            ],
+            "album": {
+                "album_name": "Mezzanine",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-01-01",
+                "spotify_id": "49MNmJhZQewjt06rpwp6QR"
+            }
+        },
+        {
+            "name": "Shelter",
+            "spotify_id": "4FfdmvdBN0LnLENhgJrpdQ",
+            "duration_ms": 270240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+                    "id": "3iOvXCl6edW5Um0fXEBRXy",
+                    "name": "The xx",
+                    "type": "artist",
+                    "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+                }
+            ],
+            "album": {
+                "album_name": "xx",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-08-16",
+                "spotify_id": "2nXJkqkS1tIKIyhBcFMmwz"
+            }
+        },
+        {
+            "name": "Kaes On Aeg",
+            "spotify_id": "2Rt87txGAEFKxZCfdwhka7",
+            "duration_ms": 172304,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1WoU8lOx3E5zywST7ov4NL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1WoU8lOx3E5zywST7ov4NL",
+                    "id": "1WoU8lOx3E5zywST7ov4NL",
+                    "name": "Velly Joonas",
+                    "type": "artist",
+                    "uri": "spotify:artist:1WoU8lOx3E5zywST7ov4NL"
+                }
+            ],
+            "album": {
+                "album_name": "Late Night Tales: Badbadnotgood",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-07-28",
+                "spotify_id": "1J3enVyckc2vOR0xOK1jZX"
+            }
+        },
+        {
+            "name": "Je t'aime moi non plus",
+            "spotify_id": "0la075AtuMGjnVtbHSBYUA",
+            "duration_ms": 260026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/01C9OoXDvCKkGcf735Tcfo",
+                    "id": "01C9OoXDvCKkGcf735Tcfo",
+                    "name": "Serge Gainsbourg",
+                    "type": "artist",
+                    "uri": "spotify:artist:01C9OoXDvCKkGcf735Tcfo"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4XYH5Be5pn1qkxhfaID3J5",
+                    "id": "4XYH5Be5pn1qkxhfaID3J5",
+                    "name": "Jane Birkin",
+                    "type": "artist",
+                    "uri": "spotify:artist:4XYH5Be5pn1qkxhfaID3J5"
+                }
+            ],
+            "album": {
+                "album_name": "Double Best Of - Comme Un Boomerang",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2011-01-01",
+                "spotify_id": "3ikheuf2MSfLP17Gd3wjfu"
+            }
+        },
+        {
+            "name": "On Our Knees (feat. R.O)",
+            "spotify_id": "2HCgcgN4PA0xr2ZqtsBpPb",
+            "duration_ms": 277493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/33B8YdHEKqpNbbKVkQueoF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/33B8YdHEKqpNbbKVkQueoF",
+                    "id": "33B8YdHEKqpNbbKVkQueoF",
+                    "name": "Konoba",
+                    "type": "artist",
+                    "uri": "spotify:artist:33B8YdHEKqpNbbKVkQueoF"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HjjdBLZHCZEIjlLbGVLi0",
+                    "id": "7HjjdBLZHCZEIjlLbGVLi0",
+                    "name": "R.O",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HjjdBLZHCZEIjlLbGVLi0"
+                }
+            ],
+            "album": {
+                "album_name": "Smoke & Mirrors",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-01-20",
+                "spotify_id": "533rmCMCv6X3SuQAPj6ZdA"
+            }
+        },
+        {
+            "name": "The Wilhelm Scream",
+            "spotify_id": "688DZF6e1MH5Uf409dwaHm",
+            "duration_ms": 273840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+                    "id": "53KwLdlmrlCelAZMaLVZqU",
+                    "name": "James Blake",
+                    "type": "artist",
+                    "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+                }
+            ],
+            "album": {
+                "album_name": "James Blake",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-01-01",
+                "spotify_id": "0qY6lBQSi8IMJjHYDPdAqX"
+            }
+        },
+        {
+            "name": "Why Don't You Call Me",
+            "spotify_id": "1EUQSbpPc57BS7VFQC8vR7",
+            "duration_ms": 92853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+                    "id": "53KwLdlmrlCelAZMaLVZqU",
+                    "name": "James Blake",
+                    "type": "artist",
+                    "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+                }
+            ],
+            "album": {
+                "album_name": "James Blake",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-01-01",
+                "spotify_id": "5InSs4GSvxTAsLIIzZ3otl"
+            }
+        },
+        {
+            "name": "We",
+            "spotify_id": "2AXnVe4VcEli1z8B9P1Elk",
+            "duration_ms": 142880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+                    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                    "name": "Bon Iver",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                }
+            ],
+            "album": {
+                "album_name": "i,i",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-08-09",
+                "spotify_id": "54DU59anGQsdrFP7utpshG"
+            }
+        },
+        {
+            "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+            "spotify_id": "3YYKrn3iGOAel605Znt3ai",
+            "duration_ms": 140733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/00sazWvoTLOqg5MFwC68Um",
+                    "id": "00sazWvoTLOqg5MFwC68Um",
+                    "name": "Yann Tiersen",
+                    "type": "artist",
+                    "uri": "spotify:artist:00sazWvoTLOqg5MFwC68Um"
+                }
+            ],
+            "album": {
+                "album_name": "Amelie from Montmartre (Original SoundTrack)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-04-23",
+                "spotify_id": "3QMOVTfwazGKLvyLq41pyV"
+            }
+        },
+        {
+            "name": "Funny Time Of Year",
+            "spotify_id": "5W8RYsdkI9wmfsezBJtyCy",
+            "duration_ms": 408426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Lt6KFXX3P0v6vfrynQAMo",
+                    "id": "6Lt6KFXX3P0v6vfrynQAMo",
+                    "name": "Beth Gibbons",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Lt6KFXX3P0v6vfrynQAMo"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62NNHMoDbLSbR3THDaFNO7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62NNHMoDbLSbR3THDaFNO7",
+                    "id": "62NNHMoDbLSbR3THDaFNO7",
+                    "name": "Rustin Man",
+                    "type": "artist",
+                    "uri": "spotify:artist:62NNHMoDbLSbR3THDaFNO7"
+                }
+            ],
+            "album": {
+                "album_name": "Out Of Season",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "2dYgKYwB0dW2yxlCIHWGcj"
+            }
+        }
+    ]
+}

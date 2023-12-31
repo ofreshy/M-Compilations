@@ -22,7 +22,7 @@
             ],
             "album": {
                 "album_name": "Electric Ladyland",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1968-10-25",
                 "spotify_id": "5z090LQztiqh13wYspQvKQ"
@@ -46,7 +46,7 @@
             ],
             "album": {
                 "album_name": "Wheels Of Fire",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1968-07-01",
                 "spotify_id": "0zrtTZC7yY2TOEhnbJzSb9"
@@ -70,7 +70,7 @@
             ],
             "album": {
                 "album_name": "Sunshine Superman",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1966-08-26",
                 "spotify_id": "5c5vLO5TJ4jsZvfOJTDfCm"
@@ -94,7 +94,7 @@
             ],
             "album": {
                 "album_name": "L.A. Woman (50th Anniversary Deluxe Edition)",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "2021-12-03",
                 "spotify_id": "5zJ5Hz4a5OACoowuL3x86m"
@@ -118,7 +118,7 @@
             ],
             "album": {
                 "album_name": "Fly Like An Eagle",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1976-01-01",
                 "spotify_id": "0fjJOLqG3v7vXRYhz2wxPC"
@@ -142,7 +142,7 @@
             ],
             "album": {
                 "album_name": "The Complete Atco Singles",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "2014",
                 "spotify_id": "1c0ZllsJKYA7N8v10OdVLP"
@@ -166,7 +166,7 @@
             ],
             "album": {
                 "album_name": "Presenting Link Wray",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1962-11-26",
                 "spotify_id": "3JpDdfAJKA9UW7SEPXyQvU"
@@ -190,7 +190,7 @@
             ],
             "album": {
                 "album_name": "Low (2017 Remaster)",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1977",
                 "spotify_id": "2de6LD7eOW8zrlorbS28na"
@@ -214,7 +214,7 @@
             ],
             "album": {
                 "album_name": "Disraeli Gears (Deluxe Edition)",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1967-11",
                 "spotify_id": "3W6CI0Lw7lElAPID2Fd3B4"
@@ -238,7 +238,7 @@
             ],
             "album": {
                 "album_name": "Mama Said",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1991-04-02",
                 "spotify_id": "7A3LlV59lh4KljWa7I6Tks"
@@ -262,7 +262,7 @@
             ],
             "album": {
                 "album_name": "Electric Ladyland",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1968-10-25",
                 "spotify_id": "5z090LQztiqh13wYspQvKQ"
@@ -286,7 +286,7 @@
             ],
             "album": {
                 "album_name": "Gentle Spirit",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "2011-08-15",
                 "spotify_id": "2mT3Q0vH9JX6qPzzNHq0Hm"
@@ -310,7 +310,7 @@
             ],
             "album": {
                 "album_name": "Surrealistic Pillow",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1967",
                 "spotify_id": "6lPb7Eoon6QPbscWbMsk6a"
@@ -334,7 +334,7 @@
             ],
             "album": {
                 "album_name": "Forever Changes (2015 Remaster)",
-                "album_group": "album",
+                "album_group": null,
                 "album_type": "album",
                 "released": "1967",
                 "spotify_id": "2amHBpP8C0EUy6yBNy6nN6"
@@ -358,7 +358,7 @@
             ],
             "album": {
                 "album_name": "Feelin' Groovy: The Best Of Harpers Bizarre Featuring The 59th Street Bridge Song",
-                "album_group": "compilation",
+                "album_group": null,
                 "album_type": "compilation",
                 "released": "1997",
                 "spotify_id": "0WFOut8tJA8aVkzAA5DiAZ"

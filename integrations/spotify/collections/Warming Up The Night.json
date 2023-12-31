@@ -1,0 +1,278 @@
+{
+    "name": "Warming Up The Night",
+    "spotify_id": "7GCvhgsmTEVPYk3ZnVoN9k",
+    "created_date": "2021-11-03",
+    "description": "Yoga 4.  Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Harvest Moon",
+            "spotify_id": "0qL7PaeKBGi3tLYdxwYO50",
+            "duration_ms": 368773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5szdY7KaSi7epwyffrbV8c",
+                    "id": "5szdY7KaSi7epwyffrbV8c",
+                    "name": "Poolside",
+                    "type": "artist",
+                    "uri": "spotify:artist:5szdY7KaSi7epwyffrbV8c"
+                }
+            ],
+            "album": {
+                "album_name": "Ultimate Poolside Chill: The Best Chillout Tracks For A Hot Day",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2018-02-09",
+                "spotify_id": "6RIi5JusEIbQB7xLYZHcrw"
+            }
+        },
+        {
+            "name": "Daydream",
+            "spotify_id": "1cP9oQ8xg1TVwZAWPpLOPg",
+            "duration_ms": 319626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Z2KInfSmPOzAIYyiaXeti",
+                    "id": "1Z2KInfSmPOzAIYyiaXeti",
+                    "name": "Youth Lagoon",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Z2KInfSmPOzAIYyiaXeti"
+                }
+            ],
+            "album": {
+                "album_name": "The Year of Hibernation",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-09-27",
+                "spotify_id": "0mcvDycoex7ANLZOmVVRoD"
+            }
+        },
+        {
+            "name": "Getting There From Here (Instrumental)",
+            "spotify_id": "0rSi9DIWLUoM4OUDsq1nGE",
+            "duration_ms": 245250,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5szdY7KaSi7epwyffrbV8c",
+                    "id": "5szdY7KaSi7epwyffrbV8c",
+                    "name": "Poolside",
+                    "type": "artist",
+                    "uri": "spotify:artist:5szdY7KaSi7epwyffrbV8c"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6MFopqejpmTUUZlcRmGzgg",
+                    "id": "6MFopqejpmTUUZlcRmGzgg",
+                    "name": "Todd Edwards",
+                    "type": "artist",
+                    "uri": "spotify:artist:6MFopqejpmTUUZlcRmGzgg"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7KDd0UFR6IpSRnZmvu1CM5",
+                    "id": "7KDd0UFR6IpSRnZmvu1CM5",
+                    "name": "Turbotito",
+                    "type": "artist",
+                    "uri": "spotify:artist:7KDd0UFR6IpSRnZmvu1CM5"
+                }
+            ],
+            "album": {
+                "album_name": "Getting There From Here (with Todd Edwards) (Miami Horror & Lazywax Remix)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-17",
+                "spotify_id": "2kkcK9Aq2gqEBS0gv7CKc8"
+            }
+        },
+        {
+            "name": "Migration",
+            "spotify_id": "61g7oQKm8DFEL7r2g9LS8x",
+            "duration_ms": 327400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+                    "id": "0cmWgDlu9CwTgxPhf403hb",
+                    "name": "Bonobo",
+                    "type": "artist",
+                    "uri": "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+                }
+            ],
+            "album": {
+                "album_name": "Migration",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-01-13",
+                "spotify_id": "2T64N96AVfsrRFJCUXQEoZ"
+            }
+        },
+        {
+            "name": "Outlier",
+            "spotify_id": "6BbFwwHnzY74a8GOsDg8Sn",
+            "duration_ms": 475480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+                    "id": "0cmWgDlu9CwTgxPhf403hb",
+                    "name": "Bonobo",
+                    "type": "artist",
+                    "uri": "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+                }
+            ],
+            "album": {
+                "album_name": "Migration",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-01-13",
+                "spotify_id": "2T64N96AVfsrRFJCUXQEoZ"
+            }
+        },
+        {
+            "name": "Baby",
+            "spotify_id": "62wdQ5CInFr7cjISqrr46f",
+            "duration_ms": 250533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7KGqvFukcZRbQ7YFsYrgPa",
+                    "id": "7KGqvFukcZRbQ7YFsYrgPa",
+                    "name": "Donnie & Joe Emerson",
+                    "type": "artist",
+                    "uri": "spotify:artist:7KGqvFukcZRbQ7YFsYrgPa"
+                }
+            ],
+            "album": {
+                "album_name": "Dreamin' Wild",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979",
+                "spotify_id": "4v9R5sk4HQ0X1krbEis34P"
+            }
+        },
+        {
+            "name": "oh baby",
+            "spotify_id": "53PkA8aXiwH4ppa0V0iO7o",
+            "duration_ms": 349693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "american dream",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-01",
+                "spotify_id": "4AF1M7bGCFL3LHCtXUUXw5"
+            }
+        },
+        {
+            "name": "Mi Mujer",
+            "spotify_id": "4QHKR48C18rwlpSYW6rH7p",
+            "duration_ms": 411124,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W",
+                    "id": "5a0etAzO5V26gvlbmHzT9W",
+                    "name": "Nicolas Jaar",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a0etAzO5V26gvlbmHzT9W"
+                }
+            ],
+            "album": {
+                "album_name": "Time for Us",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2010-01-25",
+                "spotify_id": "1b6TEbqt3BVA43BtMnL7Yk"
+            }
+        },
+        {
+            "name": "Hands of Time",
+            "spotify_id": "4rMIxgdnLmKhvs4OoX6V6o",
+            "duration_ms": 344360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7c5qu1gNlg8jWDzzmlp89O",
+                    "id": "7c5qu1gNlg8jWDzzmlp89O",
+                    "name": "Kraak & Smaak",
+                    "type": "artist",
+                    "uri": "spotify:artist:7c5qu1gNlg8jWDzzmlp89O"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6ofPJGFZsNAUlzAYBVJB11"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6ofPJGFZsNAUlzAYBVJB11",
+                    "id": "6ofPJGFZsNAUlzAYBVJB11",
+                    "name": "Alxndr London",
+                    "type": "artist",
+                    "uri": "spotify:artist:6ofPJGFZsNAUlzAYBVJB11"
+                }
+            ],
+            "album": {
+                "album_name": "Juicy Fruit",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-06-10",
+                "spotify_id": "7Ih98kmIPJCsXcgrikcmoq"
+            }
+        },
+        {
+            "name": "Isobel - Deodata Mix",
+            "spotify_id": "5IONlCnPvfS1PlJfuhhdN2",
+            "duration_ms": 371533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+                    "id": "7w29UYBi0qsHi5RTcv3lmA",
+                    "name": "Bj\u00f6rk",
+                    "type": "artist",
+                    "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+                }
+            ],
+            "album": {
+                "album_name": "Telegram",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1996-11-25",
+                "spotify_id": "3CuScwa0MgpfXc3z7U3mJe"
+            }
+        }
+    ]
+}

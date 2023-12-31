@@ -1,0 +1,368 @@
+{
+    "name": "Accenture I - Classics",
+    "spotify_id": "0N3jZ0SbLs6S9a1kRt8qrX",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Moonage Daydream - 2012 Remaster",
+            "spotify_id": "6mib3N4E8PZHAGQ3xy7bho",
+            "duration_ms": 279693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-06-06",
+                "spotify_id": "48D1hRORqJq52qsnUYZX56"
+            }
+        },
+        {
+            "name": "Tomorrow Never Knows - Remastered 2009",
+            "spotify_id": "00oZhqZIQfL9P5CjOP6JsO",
+            "duration_ms": 179546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "album": {
+                "album_name": "Revolver (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1966-08-05",
+                "spotify_id": "3PRoXYsngSwjEQWR5PsHWR"
+            }
+        },
+        {
+            "name": "She's A Rainbow - Full Version / With Intro",
+            "spotify_id": "6GhUL2yQWlYMrNWzeMTjWU",
+            "duration_ms": 251600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+                    "id": "22bE4uQ6baNwSHPVcDxLCe",
+                    "name": "The Rolling Stones",
+                    "type": "artist",
+                    "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+                }
+            ],
+            "album": {
+                "album_name": "Forty Licks",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2002-09-30",
+                "spotify_id": "46pzm7u9iA14icC3NDEMte"
+            }
+        },
+        {
+            "name": "See Emily Play - 2010 Remaster",
+            "spotify_id": "6SjOd6GiBo0ra5WdPrhGLG",
+            "duration_ms": 172063,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+                    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+                    "name": "Pink Floyd",
+                    "type": "artist",
+                    "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+                }
+            ],
+            "album": {
+                "album_name": "An Introduction to Syd Barrett",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2010-10-11",
+                "spotify_id": "38HiBYp6tdWLn0nVffohmt"
+            }
+        },
+        {
+            "name": "Killer Queen - Remastered 2011",
+            "spotify_id": "7GqWnsKhMtEW0nzki5o0d8",
+            "duration_ms": 179600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+                    "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                    "name": "Queen",
+                    "type": "artist",
+                    "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+                }
+            ],
+            "album": {
+                "album_name": "Sheer Heart Attack (Deluxe Remastered Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1974-11-08",
+                "spotify_id": "6RJyYMIrOtx3VnNIoq31kj"
+            }
+        },
+        {
+            "name": "The Battle of Evermore - Remaster",
+            "spotify_id": "6KCjY5kHvgWaWcAV6BBzxO",
+            "duration_ms": 351677,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+                    "id": "36QJpDe2go2KgaRleHCDTp",
+                    "name": "Led Zeppelin",
+                    "type": "artist",
+                    "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+                }
+            ],
+            "album": {
+                "album_name": "Led Zeppelin IV (Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-11-08",
+                "spotify_id": "5EyIDBAqhnlkAHqvPRwdbX"
+            }
+        },
+        {
+            "name": "L'Amour Looks Something Like You",
+            "spotify_id": "5R2Y1z0PEWOYn4FBa01MJd",
+            "duration_ms": 148640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+                    "id": "1aSxMhuvixZ8h9dK9jIDwL",
+                    "name": "Kate Bush",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+                }
+            ],
+            "album": {
+                "album_name": "The Kick Inside",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1978-02-17",
+                "spotify_id": "5NKTuBLCYhN0OwqFiGdXd1"
+            }
+        },
+        {
+            "name": "Lalena - 2000 Remaster",
+            "spotify_id": "4mBXB13NhpYnPqP7TepGsl",
+            "duration_ms": 305773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+                    "id": "568ZhdwyaiCyOGJRtNYhWf",
+                    "name": "Deep Purple",
+                    "type": "artist",
+                    "uri": "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+                }
+            ],
+            "album": {
+                "album_name": "Deep Purple",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-06-21",
+                "spotify_id": "4vjBkjJeJByK2swq4DnuPc"
+            }
+        },
+        {
+            "name": "Forever Autumn",
+            "spotify_id": "7KidwgOePesPDO3T2dPWWq",
+            "duration_ms": 271826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1C4kZs9XyNnm9HWFng6ZFH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1C4kZs9XyNnm9HWFng6ZFH",
+                    "id": "1C4kZs9XyNnm9HWFng6ZFH",
+                    "name": "Justin Hayward",
+                    "type": "artist",
+                    "uri": "spotify:artist:1C4kZs9XyNnm9HWFng6ZFH"
+                }
+            ],
+            "album": {
+                "album_name": "The Very Best Of The Moody Blues",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2014-01-01",
+                "spotify_id": "10ilfLRzXiF7M4ZTVvPyob"
+            }
+        },
+        {
+            "name": "Northern Sky",
+            "spotify_id": "7dGgCgyGJW0KUcRnxpq1Z8",
+            "duration_ms": 223866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "album": {
+                "album_name": "Bryter Layter",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-03-06",
+                "spotify_id": "7w9Og10Tdkh3nqrVD1D5IW"
+            }
+        },
+        {
+            "name": "Davey",
+            "spotify_id": "7ckeGPYjXziKNRZOn5lwzj",
+            "duration_ms": 92190,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/424ZDRAZzCKKUXvzvv52ox"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/424ZDRAZzCKKUXvzvv52ox",
+                    "id": "424ZDRAZzCKKUXvzvv52ox",
+                    "name": "Roy Harper",
+                    "type": "artist",
+                    "uri": "spotify:artist:424ZDRAZzCKKUXvzvv52ox"
+                }
+            ],
+            "album": {
+                "album_name": "Flat Baroque and Berserk (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-01-01",
+                "spotify_id": "0g8IEyri5tCl5o136TZTM8"
+            }
+        },
+        {
+            "name": "Antarctica Starts Here",
+            "spotify_id": "1OlnvjzlslavBvkXQfHVUG",
+            "duration_ms": 166893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5MWBg16f5UYiaSlyVhzlIW",
+                    "id": "5MWBg16f5UYiaSlyVhzlIW",
+                    "name": "John Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW"
+                }
+            ],
+            "album": {
+                "album_name": "Paris 1919",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1973",
+                "spotify_id": "4KdEMeJZeYMVDoEvJSnwuj"
+            }
+        },
+        {
+            "name": "Goodbye Yellow Brick Road - Remastered 2014",
+            "spotify_id": "4IRHwIZHzlHT1FQpRa5RdE",
+            "duration_ms": 192826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+                    "id": "3PhoLpVuITZKcymswpck5b",
+                    "name": "Elton John",
+                    "type": "artist",
+                    "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+                }
+            ],
+            "album": {
+                "album_name": "Goodbye Yellow Brick Road (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1973-10-05",
+                "spotify_id": "5WupqgR68HfuHt3BMJtgun"
+            }
+        },
+        {
+            "name": "I Am The Walrus - Remastered",
+            "spotify_id": "4qmvOVUt7U8szKXspAoLVy",
+            "duration_ms": 275866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "album": {
+                "album_name": "Magical Mystery Tour (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-11-27",
+                "spotify_id": "6P9yO0ukhOx3dvmhGKeYoC"
+            }
+        },
+        {
+            "name": "The Gnome",
+            "spotify_id": "1GqRmuG89ILDLcuAdcli6r",
+            "duration_ms": 133910,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+                    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+                    "name": "Pink Floyd",
+                    "type": "artist",
+                    "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+                }
+            ],
+            "album": {
+                "album_name": "The Piper at the Gates of Dawn",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-08-05",
+                "spotify_id": "2Se4ZylF9NkFGD92yv1aZC"
+            }
+        }
+    ]
+}

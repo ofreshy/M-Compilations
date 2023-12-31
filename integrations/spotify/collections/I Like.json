@@ -1,0 +1,846 @@
+{
+    "name": "I Like",
+    "spotify_id": "7G2oQZExlEIkwzv7IltE5J",
+    "created_date": "2023-08-05",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Sweet Thing - Reprise; 2016 Remaster",
+            "spotify_id": "7IIBAaeduv0ChewTIUZjZo",
+            "duration_ms": 152640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "Diamond Dogs (2016 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1974-05-24",
+                "spotify_id": "72mfhbEsMtXR6s7v9UhKe3"
+            }
+        },
+        {
+            "name": "Indian Summer",
+            "spotify_id": "2hdeaGl9nT3UoQIgSqctHj",
+            "duration_ms": 154066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+                    "id": "22WZ7M8sxp5THdruNY3gXt",
+                    "name": "The Doors",
+                    "type": "artist",
+                    "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+                }
+            ],
+            "album": {
+                "album_name": "Morrison Hotel",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-02-09",
+                "spotify_id": "6AFLOkpJjFF652jevcSOZX"
+            }
+        },
+        {
+            "name": "To The Floor",
+            "spotify_id": "7cZR9UwVtBQR3zwyDYMK9p",
+            "duration_ms": 189422,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Kv0ApBohrL213X9avMrEn",
+                    "id": "2Kv0ApBohrL213X9avMrEn",
+                    "name": "Lil Silva",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Kv0ApBohrL213X9avMrEn"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+                    "id": "65dGLGjkw3UbddUg2GKQoZ",
+                    "name": "BADBADNOTGOOD",
+                    "type": "artist",
+                    "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+                }
+            ],
+            "album": {
+                "album_name": "Yesterday Is Heavy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2022-07-15",
+                "spotify_id": "4RRWbTmBBpmf43GbLEtlTR"
+            }
+        },
+        {
+            "name": "The End Theme",
+            "spotify_id": "7utkKpWOHnYsjK5zMqJSq6",
+            "duration_ms": 73033,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+                    "id": "3IKV7o6WPphDB7cCWXaG3E",
+                    "name": "Isaac Hayes",
+                    "type": "artist",
+                    "uri": "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+                }
+            ],
+            "album": {
+                "album_name": "Tough Guys",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-04-15",
+                "spotify_id": "5QPYYcI8rmWC47nNAtOYj8"
+            }
+        },
+        {
+            "name": "Heavy Games II (feat. Jeff Bhasker)",
+            "spotify_id": "6KXVQ7dLo9UE0BFdGOixuQ",
+            "duration_ms": 63299,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T",
+                    "id": "4kI8Ie27vjvonwaB2ePh8T",
+                    "name": "Portugal. The Man",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5phOCTS0ZqbZGVXdpG6rLu",
+                    "id": "5phOCTS0ZqbZGVXdpG6rLu",
+                    "name": "Jeff Bhasker",
+                    "type": "artist",
+                    "uri": "spotify:artist:5phOCTS0ZqbZGVXdpG6rLu"
+                }
+            ],
+            "album": {
+                "album_name": "Chris Black Changed My Life",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-06-23",
+                "spotify_id": "6A7Q0GFiU2ckojqk5QsXWX"
+            }
+        },
+        {
+            "name": "Come to Me",
+            "spotify_id": "7xDeTALyFeNz7241qj3aJS",
+            "duration_ms": 225466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+                    "id": "1fpXM23IoNckJ7NDAm8YJQ",
+                    "name": "Mark Lanegan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "Bubblegum",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-08-02",
+                "spotify_id": "4tK7Hlb92sbC6OEKQG7QiJ"
+            }
+        },
+        {
+            "name": "The Traitor",
+            "spotify_id": "4hVGW01fTaqMbYXJyA8YWn",
+            "duration_ms": 162266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1PryMSya1JnSAlcwYawCxp",
+                    "id": "1PryMSya1JnSAlcwYawCxp",
+                    "name": "Menahan Street Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:1PryMSya1JnSAlcwYawCxp"
+                }
+            ],
+            "album": {
+                "album_name": "Make the Road By Walking",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-10-14",
+                "spotify_id": "6YN8jfCZLngnYeAoaWy4RC"
+            }
+        },
+        {
+            "name": "A Well Respected Man",
+            "spotify_id": "5e3isD5st7PGYzSJuoRSIV",
+            "duration_ms": 161586,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1SQRv42e4PjEYfPhS0Tk9E",
+                    "id": "1SQRv42e4PjEYfPhS0Tk9E",
+                    "name": "The Kinks",
+                    "type": "artist",
+                    "uri": "spotify:artist:1SQRv42e4PjEYfPhS0Tk9E"
+                }
+            ],
+            "album": {
+                "album_name": "Kinda Kinks (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1965-03-05",
+                "spotify_id": "73anEcke1iGiFLxWhXnco8"
+            }
+        },
+        {
+            "name": "F\u00fcr Hildegard von Bingen",
+            "spotify_id": "2CG6feguaKMR3C4zCMjDNR",
+            "duration_ms": 155066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YZEoYFXx4AxVv13OiOPvZ",
+                    "id": "1YZEoYFXx4AxVv13OiOPvZ",
+                    "name": "Devendra Banhart",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YZEoYFXx4AxVv13OiOPvZ"
+                }
+            ],
+            "album": {
+                "album_name": "Mala",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-03-08",
+                "spotify_id": "1Z69PSnbIBojgF9NBJbKca"
+            }
+        },
+        {
+            "name": "Hey",
+            "spotify_id": "5TpgvBMHTLlAj7gzQcfUJ7",
+            "duration_ms": 162321,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09kXLeOXRyfNQMXRaDO4qA",
+                    "id": "09kXLeOXRyfNQMXRaDO4qA",
+                    "name": "Nil\u00fcfer Yanya",
+                    "type": "artist",
+                    "uri": "spotify:artist:09kXLeOXRyfNQMXRaDO4qA"
+                }
+            ],
+            "album": {
+                "album_name": "Extraordinary Renditions",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2016-05-27",
+                "spotify_id": "6zfq5hds4mCkAPcrkSG0Oo"
+            }
+        },
+        {
+            "name": "Strange Powers",
+            "spotify_id": "1Ccfb1xzwLDjQHLfAa2TxQ",
+            "duration_ms": 161613,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6RWjTQqILL7a1tQ0VapyLK",
+                    "id": "6RWjTQqILL7a1tQ0VapyLK",
+                    "name": "The Magnetic Fields",
+                    "type": "artist",
+                    "uri": "spotify:artist:6RWjTQqILL7a1tQ0VapyLK"
+                }
+            ],
+            "album": {
+                "album_name": "Holiday",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-01-12",
+                "spotify_id": "2wBQbthVmSbVkEwP7jmv3o"
+            }
+        },
+        {
+            "name": "Tea For The Tillerman",
+            "spotify_id": "26uDUal1TkjwwOaQQt1Uwy",
+            "duration_ms": 65946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8",
+                    "id": "08F3Y3SctIlsOEmKd6dnH8",
+                    "name": "Yusuf / Cat Stevens",
+                    "type": "artist",
+                    "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8"
+                }
+            ],
+            "album": {
+                "album_name": "Tea For The Tillerman (Remastered 2020)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-11-23",
+                "spotify_id": "44VxbAytHpVi3Rq8hRhild"
+            }
+        },
+        {
+            "name": "The Man in Me",
+            "spotify_id": "7xRemq7GLu0Tbqe9OckG87",
+            "duration_ms": 186213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+                    "id": "74ASZWbe4lXaubB36ztrGX",
+                    "name": "Bob Dylan",
+                    "type": "artist",
+                    "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+                }
+            ],
+            "album": {
+                "album_name": "New Morning",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-10-21",
+                "spotify_id": "48efaobqOTbvnlxbETstey"
+            }
+        },
+        {
+            "name": "Ride Into The Sun - \"1969\" / 2014 Mix",
+            "spotify_id": "7qJreNMHmeV7Ezs4y9eddQ",
+            "duration_ms": 213573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+                    "id": "1nJvji2KIlWSseXRSlNYsC",
+                    "name": "The Velvet Underground",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+                }
+            ],
+            "album": {
+                "album_name": "The Velvet Underground (45th Anniversary / Super Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-11-24",
+                "spotify_id": "2rc2iWwiLaYqw2v9LACPu0"
+            }
+        },
+        {
+            "name": "Hey Joe",
+            "spotify_id": "0bqKOk2BCDzDB6N8kCu9gt",
+            "duration_ms": 292290,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+                    "id": "2rBcvLKWCZs9w1qIWv560v",
+                    "name": "Charlotte Gainsbourg",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+                }
+            ],
+            "album": {
+                "album_name": "Hey Joe",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2014-05-05",
+                "spotify_id": "2jFmJZkH036x4Nzx5ozXoG"
+            }
+        },
+        {
+            "name": "Absentee",
+            "spotify_id": "23fEZLdzHoZlNZZu4E1pSp",
+            "duration_ms": 168736,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2iUVQjheBnvOt8vaBrxXJz",
+                    "id": "2iUVQjheBnvOt8vaBrxXJz",
+                    "name": "Cass McCombs",
+                    "type": "artist",
+                    "uri": "spotify:artist:2iUVQjheBnvOt8vaBrxXJz"
+                }
+            ],
+            "album": {
+                "album_name": "Tip of the Sphere",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-02-08",
+                "spotify_id": "7A9lD57JDmqxshUGkvTdiG"
+            }
+        },
+        {
+            "name": "Frozen Laughter",
+            "spotify_id": "6vfIzEy2CxslHi7L2llIfx",
+            "duration_ms": 188333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54skrHw57l27U6kIoGlCmG",
+                    "id": "54skrHw57l27U6kIoGlCmG",
+                    "name": "The Rising Storm",
+                    "type": "artist",
+                    "uri": "spotify:artist:54skrHw57l27U6kIoGlCmG"
+                }
+            ],
+            "album": {
+                "album_name": "Calm Before...",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-01-12",
+                "spotify_id": "6EcOxSOp6lf79mo5uCt45h"
+            }
+        },
+        {
+            "name": "Beneath the Underdog",
+            "spotify_id": "7f1331RouD0VKQMMzPpr7J",
+            "duration_ms": 251200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0EgHhNmWcjusA7F2heSD0O",
+                    "id": "0EgHhNmWcjusA7F2heSD0O",
+                    "name": "Baxter Dury",
+                    "type": "artist",
+                    "uri": "spotify:artist:0EgHhNmWcjusA7F2heSD0O"
+                }
+            ],
+            "album": {
+                "album_name": "Len Parrot's Memorial Lift",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-07-29",
+                "spotify_id": "7o3jY11C7XJWxOoSnQIrgB"
+            }
+        },
+        {
+            "name": "Only Love Can Break Your Heart",
+            "spotify_id": "3IUzbuO59zVZ1FCrpNRMzC",
+            "duration_ms": 188600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+                    "id": "6v8FB84lnmJs434UJf2Mrm",
+                    "name": "Neil Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+                }
+            ],
+            "album": {
+                "album_name": "100 Greatest Sad Songs",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2019-03-08",
+                "spotify_id": "3iMjk15PNBjloo3WLFbQdW"
+            }
+        },
+        {
+            "name": "Lonely Sea - Stereo/Remastered 2001",
+            "spotify_id": "3W6PtLXWvEhULymfP3JuXI",
+            "duration_ms": 143840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV",
+                    "id": "3oDbviiivRWhXwIE8hxkVV",
+                    "name": "The Beach Boys",
+                    "type": "artist",
+                    "uri": "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
+                }
+            ],
+            "album": {
+                "album_name": "Surfin' USA (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1963-03-25",
+                "spotify_id": "6u5tGarzvESDsQiIpC4SlI"
+            }
+        },
+        {
+            "name": "Place To Be",
+            "spotify_id": "5QUeSXjTMHbq1fW5da2waF",
+            "duration_ms": 160925,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "album": {
+                "album_name": "Pink Moon",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-02-25",
+                "spotify_id": "5mwOo1zikswhmfHvtqVSXg"
+            }
+        },
+        {
+            "name": "Little Weaver Bird",
+            "spotify_id": "2bOXDXxC6yMdXklBWpWPAB",
+            "duration_ms": 111653,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1789Un2gEvELbBTnHoS9Rl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1789Un2gEvELbBTnHoS9Rl",
+                    "id": "1789Un2gEvELbBTnHoS9Rl",
+                    "name": "Molly Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:1789Un2gEvELbBTnHoS9Rl"
+                }
+            ],
+            "album": {
+                "album_name": "The Tide's Magnificence: Songs and Poems of Molly Drake",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-02-23",
+                "spotify_id": "2wVWNEcMJwa1RPLs9MtmWn"
+            }
+        },
+        {
+            "name": "Carnival of the Animals, XIII. Le Cygne (the Swan): Le carnaval des animaux: No. 12, Le cygne [arr. For theremin and piano]",
+            "spotify_id": "711N5UifKDb37inhUFJFtE",
+            "duration_ms": 182733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/436sYg6CZhNefQJogaXeK0",
+                    "id": "436sYg6CZhNefQJogaXeK0",
+                    "name": "Camille Saint-Sa\u00ebns",
+                    "type": "artist",
+                    "uri": "spotify:artist:436sYg6CZhNefQJogaXeK0"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/68fVdoSpVmeUUnSirEif4Q",
+                    "id": "68fVdoSpVmeUUnSirEif4Q",
+                    "name": "Clara Rockmore",
+                    "type": "artist",
+                    "uri": "spotify:artist:68fVdoSpVmeUUnSirEif4Q"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5WKWtfP2aDQAOwAvhxquPR",
+                    "id": "5WKWtfP2aDQAOwAvhxquPR",
+                    "name": "Nadia Reisenberg",
+                    "type": "artist",
+                    "uri": "spotify:artist:5WKWtfP2aDQAOwAvhxquPR"
+                }
+            ],
+            "album": {
+                "album_name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1987-01-01",
+                "spotify_id": "4m0wpnl7Db40DawENitc78"
+            }
+        },
+        {
+            "name": "Bluer Than Midnight",
+            "spotify_id": "0xCsMQizWnPMkyoxre0WOt",
+            "duration_ms": 223226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7cKtqv9cYVlOwnuCFH95ce",
+                    "id": "7cKtqv9cYVlOwnuCFH95ce",
+                    "name": "The The",
+                    "type": "artist",
+                    "uri": "spotify:artist:7cKtqv9cYVlOwnuCFH95ce"
+                }
+            ],
+            "album": {
+                "album_name": "Dusk",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993",
+                "spotify_id": "2l787tSnzSfpfvgPNsR5O2"
+            }
+        },
+        {
+            "name": "Heart of Gold (with Bon Iver)",
+            "spotify_id": "7zh9Phpu0GVQ6bCbPHiZAf",
+            "duration_ms": 172190,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ZKzqJz3pPfWKVRgz9b39j",
+                    "id": "2ZKzqJz3pPfWKVRgz9b39j",
+                    "name": "Ilsey",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ZKzqJz3pPfWKVRgz9b39j"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+                    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                    "name": "Bon Iver",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                }
+            ],
+            "album": {
+                "album_name": "Heart of Gold (with Bon Iver)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-06-02",
+                "spotify_id": "2dwZS75dB000xVnvUDBHYH"
+            }
+        },
+        {
+            "name": "Go To Sleep",
+            "spotify_id": "42BeMThJuzIQe1oQvhDwgl",
+            "duration_ms": 201506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "Hail To the Thief",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-06-09",
+                "spotify_id": "5mzoI3VH0ZWk1pLFR6RoYy"
+            }
+        },
+        {
+            "name": "Kiss & Thrills - Remastered Version",
+            "spotify_id": "3ZV67NJp2zvc1qHW2I1arS",
+            "duration_ms": 231160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6QncudMSOiKxYRIKRDks6S",
+                    "id": "6QncudMSOiKxYRIKRDks6S",
+                    "name": "Hindi Zahra",
+                    "type": "artist",
+                    "uri": "spotify:artist:6QncudMSOiKxYRIKRDks6S"
+                }
+            ],
+            "album": {
+                "album_name": "Handmade",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009",
+                "spotify_id": "7q12ksUpGeI7Pe1LRfKsfL"
+            }
+        },
+        {
+            "name": "For You",
+            "spotify_id": "3fZUSiSY60HxvwF5p8et1X",
+            "duration_ms": 151906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wJ4vsxWd7df7dRU4KcoDe",
+                    "id": "2wJ4vsxWd7df7dRU4KcoDe",
+                    "name": "Sharon Van Etten",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+                }
+            ],
+            "album": {
+                "album_name": "Because I Was In Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-05-20",
+                "spotify_id": "3r8mKxg4RO934B6fksLCqN"
+            }
+        },
+        {
+            "name": "Oscar Brown",
+            "spotify_id": "2hkUAvQ1ZTISJsOtRUACyF",
+            "duration_ms": 335560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0EgHhNmWcjusA7F2heSD0O",
+                    "id": "0EgHhNmWcjusA7F2heSD0O",
+                    "name": "Baxter Dury",
+                    "type": "artist",
+                    "uri": "spotify:artist:0EgHhNmWcjusA7F2heSD0O"
+                }
+            ],
+            "album": {
+                "album_name": "Len Parrot's Memorial Lift",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-07-29",
+                "spotify_id": "7o3jY11C7XJWxOoSnQIrgB"
+            }
+        },
+        {
+            "name": "Be Someone",
+            "spotify_id": "4esEsg9IxiTAGMBQLe9XOu",
+            "duration_ms": 204567,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/240wlM8vDrf6S4zCyzGj2W",
+                    "id": "240wlM8vDrf6S4zCyzGj2W",
+                    "name": "CamelPhat",
+                    "type": "artist",
+                    "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4hf3caW9H8uFwwbv5pFjcg",
+                    "id": "4hf3caW9H8uFwwbv5pFjcg",
+                    "name": "Jake Bugg",
+                    "type": "artist",
+                    "uri": "spotify:artist:4hf3caW9H8uFwwbv5pFjcg"
+                }
+            ],
+            "album": {
+                "album_name": "Be Someone",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-06-04",
+                "spotify_id": "7x3X4EQy3RgIS4AGopCyEH"
+            }
+        },
+        {
+            "name": "Odyssey",
+            "spotify_id": "3pAlKMwng8S0zlKL71glZD",
+            "duration_ms": 281980,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/05lIUgmmsmTX2N9dCKc8rC",
+                    "id": "05lIUgmmsmTX2N9dCKc8rC",
+                    "name": "Rival Consoles",
+                    "type": "artist",
+                    "uri": "spotify:artist:05lIUgmmsmTX2N9dCKc8rC"
+                }
+            ],
+            "album": {
+                "album_name": "Odyssey / Sonne",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-05-04",
+                "spotify_id": "474YduzMbDFNBzYBJNXdQp"
+            }
+        },
+        {
+            "name": "High School Poem",
+            "spotify_id": "63G3uQTWb27yN9KpGD1HCx",
+            "duration_ms": 83707,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+                    "id": "7eQZTqEMozBcuSubfu52i4",
+                    "name": "The Knife",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+                }
+            ],
+            "album": {
+                "album_name": "The Knife",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-02-05",
+                "spotify_id": "62OBIIZmKxHJw7RLwjipqJ"
+            }
+        }
+    ]
+}

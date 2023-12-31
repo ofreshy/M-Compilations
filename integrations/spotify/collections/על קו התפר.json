@@ -1,0 +1,520 @@
+{
+    "name": "\u05e2\u05dc \u05e7\u05d5 \u05d4\u05ea\u05e4\u05e8",
+    "spotify_id": "5gq1wHO9lW93XHF9a0pRqj",
+    "created_date": "2023-08-04",
+    "description": "",
+    "tracks": [
+        {
+            "name": "\u05db\u05d5\u05dc\u05dd \u05d9\u05d5\u05d3\u05e2\u05d9\u05dd",
+            "spotify_id": "2cSeYzlFv1IfmhxSG5vrHy",
+            "duration_ms": 216000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qdbc8V1HlLub2jB2UJCPk",
+                    "id": "0qdbc8V1HlLub2jB2UJCPk",
+                    "name": "Ehud Banai",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qdbc8V1HlLub2jB2UJCPk"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e7\u05e8\u05d5\u05d1",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-09-01",
+                "spotify_id": "30JyzbkwQYUG705179pU1J"
+            }
+        },
+        {
+            "name": "\u05dc\u05d5\u05d5\u05d9 \u05d0\u05d5\u05ea\u05d9",
+            "spotify_id": "59io27AzTSDrL7hWzD8QXp",
+            "duration_ms": 176990,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0T0COcAFHD9oZ704HbZr2A",
+                    "id": "0T0COcAFHD9oZ704HbZr2A",
+                    "name": "Shai Tsabari",
+                    "type": "artist",
+                    "uri": "spotify:artist:0T0COcAFHD9oZ704HbZr2A"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e9\u05d7\u05e8\u05d9\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-02-04",
+                "spotify_id": "3PHEiAUQZxw2Og61ZZwcya"
+            }
+        },
+        {
+            "name": "Dhub Utfatar",
+            "spotify_id": "7iPDdSV1AdQCIXj9wPe00s",
+            "duration_ms": 212760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3AoetF4LFZLRJjfuy071mz",
+                    "id": "3AoetF4LFZLRJjfuy071mz",
+                    "name": "Dudu Tassa",
+                    "type": "artist",
+                    "uri": "spotify:artist:3AoetF4LFZLRJjfuy071mz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ddNnvZweLiRO64besTRXA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ddNnvZweLiRO64besTRXA",
+                    "id": "2ddNnvZweLiRO64besTRXA",
+                    "name": "The Kuwaitis",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ddNnvZweLiRO64besTRXA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4oEhVAb4wkpqQbOqVMroI4",
+                    "id": "4oEhVAb4wkpqQbOqVMroI4",
+                    "name": "Ninet Tayeb",
+                    "type": "artist",
+                    "uri": "spotify:artist:4oEhVAb4wkpqQbOqVMroI4"
+                }
+            ],
+            "album": {
+                "album_name": "Ala Shawati",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-11-01",
+                "spotify_id": "31xaKXaonkJHKZr0vgXV3v"
+            }
+        },
+        {
+            "name": "\u05dc\u05d1 \u05e9\u05dc\u05dd",
+            "spotify_id": "25A6rbw1y8oCmLbGEvyPtl",
+            "duration_ms": 267600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e0\u05d2\u05d9\u05e2\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-12-03",
+                "spotify_id": "7E62UhXUz7SWXYwP5TFtbj"
+            }
+        },
+        {
+            "name": "\u05de\u05d5\u05dc \u05d4\u05d9\u05dd \u05e2\u05dd \u05ea\u05e4\u05d9\u05dc\u05d9\u05df",
+            "spotify_id": "7stENgweSGZbqH39jLABvT",
+            "duration_ms": 139640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6N3y3BpDziBANHhoIMM1N4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6N3y3BpDziBANHhoIMM1N4",
+                    "id": "6N3y3BpDziBANHhoIMM1N4",
+                    "name": "Algeir",
+                    "type": "artist",
+                    "uri": "spotify:artist:6N3y3BpDziBANHhoIMM1N4"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05e0\u05d5\u05e2\u05d9\u05dd \u05e7\u05d3\u05d9\u05de\u05d4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-06-12",
+                "spotify_id": "3hzRdOH2plzT3W6Aztui28"
+            }
+        },
+        {
+            "name": "\u05d4\u05e1\u05d9\u05e8\u05e0\u05d4",
+            "spotify_id": "2jZsuy8y48iKwcXO8M0FRK",
+            "duration_ms": 298751,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qdbc8V1HlLub2jB2UJCPk",
+                    "id": "0qdbc8V1HlLub2jB2UJCPk",
+                    "name": "Ehud Banai",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qdbc8V1HlLub2jB2UJCPk"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d9\u05d0 \u05d4\u05d5\u05e4\u05d9\u05e2\u05d4 \u05db\u05de\u05d5 \u05d4\u05e8\u05d5\u05d7",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-01-08",
+                "spotify_id": "3wApZLQ7N3HzcWwQNEOaQe"
+            }
+        },
+        {
+            "name": "\u05d0\u05e0\u05d0, \u05d0\u05e0\u05d0, \u05d0\u05e0\u05d0",
+            "spotify_id": "7jjY0GAhZAlHypCIY4viSp",
+            "duration_ms": 223344,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0T0COcAFHD9oZ704HbZr2A",
+                    "id": "0T0COcAFHD9oZ704HbZr2A",
+                    "name": "Shai Tsabari",
+                    "type": "artist",
+                    "uri": "spotify:artist:0T0COcAFHD9oZ704HbZr2A"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d0\u05e0\u05d0, \u05d0\u05e0\u05d0, \u05d0\u05e0\u05d0",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-02-15",
+                "spotify_id": "13MAu4ti8HagRPAoOHsZVF"
+            }
+        },
+        {
+            "name": "\u05db\u05e0\u05e4\u05d9\u05d9\u05dd - Live",
+            "spotify_id": "7Jeh9SPQdyULPmdIqTNo3y",
+            "duration_ms": 291000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17pbOSPIn3lmY0vHhOlKGL",
+                    "id": "17pbOSPIn3lmY0vHhOlKGL",
+                    "name": "Tuna",
+                    "type": "artist",
+                    "uri": "spotify:artist:17pbOSPIn3lmY0vHhOlKGL"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2l6M7GaS9x3rZOX6nDX3CM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2l6M7GaS9x3rZOX6nDX3CM",
+                    "id": "2l6M7GaS9x3rZOX6nDX3CM",
+                    "name": "Margalit Tzan'ani",
+                    "type": "artist",
+                    "uri": "spotify:artist:2l6M7GaS9x3rZOX6nDX3CM"
+                }
+            ],
+            "album": {
+                "album_name": "\u05db\u05e0\u05e4\u05d9\u05d9\u05dd (Live)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-01-18",
+                "spotify_id": "6vgPw2cHGHc0Eu9Pff5Jj4"
+            }
+        },
+        {
+            "name": "\u05e8\u05d5\u05e7\u05e0'\u05e8\u05d5\u05dc \u05d1\u05e6\u05d4\u05e8\u05d9\u05d9\u05dd",
+            "spotify_id": "7tk0JqiCAdrpvAAxoesVLM",
+            "duration_ms": 183178,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3lDTgudSVNR05wyiJ1RptF",
+                    "id": "3lDTgudSVNR05wyiJ1RptF",
+                    "name": "Bar Tzabary",
+                    "type": "artist",
+                    "uri": "spotify:artist:3lDTgudSVNR05wyiJ1RptF"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e8\u05d5\u05e7\u05e0'\u05e8\u05d5\u05dc \u05d1\u05e6\u05d4\u05e8\u05d9\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-07-02",
+                "spotify_id": "1fnDzSxgDoljOduLNKgAlw"
+            }
+        },
+        {
+            "name": "\u05e1\u05d5\u05d3 \u05d4\u05de\u05d6\u05dc\u05d5\u05ea",
+            "spotify_id": "0VYcVLz1BQnK9C4Xq8ue4d",
+            "duration_ms": 319164,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5xqxZ4K1g4xotclsCpeylz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5xqxZ4K1g4xotclsCpeylz",
+                    "id": "5xqxZ4K1g4xotclsCpeylz",
+                    "name": "Tzliley Hakerem",
+                    "type": "artist",
+                    "uri": "spotify:artist:5xqxZ4K1g4xotclsCpeylz"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d1\u05d6\u05db\u05e8\u05d9 \u05d9\u05de\u05d9\u05dd \u05d9\u05de\u05d9\u05de\u05d4 \u05d5\u05e6\u05dc\u05d9\u05dc\u05d9 \u05d4\u05db\u05e8\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-12-12",
+                "spotify_id": "6Jjzys7Jn4aPbP6JoFJ7T9"
+            }
+        },
+        {
+            "name": "Dam Dam",
+            "spotify_id": "0HbXK1840TFQDp1VXPwD1M",
+            "duration_ms": 345986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6nSwMSz1vsa5qaCjHsEd96"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6nSwMSz1vsa5qaCjHsEd96",
+                    "id": "6nSwMSz1vsa5qaCjHsEd96",
+                    "name": "Aris San",
+                    "type": "artist",
+                    "uri": "spotify:artist:6nSwMSz1vsa5qaCjHsEd96"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d3\u05dd \u05d3\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-01-01",
+                "spotify_id": "0syIKwFdsgcPttq7H1wMEJ"
+            }
+        },
+        {
+            "name": "\u05db\u05d5\u05db\u05d1",
+            "spotify_id": "0kjXHMxpLMt7Hvu4KJYBGQ",
+            "duration_ms": 292380,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3ObnkOSF8KZ9405ZPJtwbB",
+                    "id": "3ObnkOSF8KZ9405ZPJtwbB",
+                    "name": "Eviatar Banai",
+                    "type": "artist",
+                    "uri": "spotify:artist:3ObnkOSF8KZ9405ZPJtwbB"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05de\u05ea\u05d7\u05d9\u05dc\u05d9\u05dd \u05dc\u05e0\u05d2\u05df",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-06-08",
+                "spotify_id": "4raA1KvUsg1hyE2p8PqYs6"
+            }
+        },
+        {
+            "name": "Taq ou-Dub (feat. Nour Freteikh)",
+            "spotify_id": "3VMwlV1WCP3seMqWITjnjw",
+            "duration_ms": 217933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3AoetF4LFZLRJjfuy071mz",
+                    "id": "3AoetF4LFZLRJjfuy071mz",
+                    "name": "Dudu Tassa",
+                    "type": "artist",
+                    "uri": "spotify:artist:3AoetF4LFZLRJjfuy071mz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0z9s3P5vCzKcUBSxgBDyLU",
+                    "id": "0z9s3P5vCzKcUBSxgBDyLU",
+                    "name": "Jonny Greenwood",
+                    "type": "artist",
+                    "uri": "spotify:artist:0z9s3P5vCzKcUBSxgBDyLU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aYYpewoSEqQJI8MDXiCOO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aYYpewoSEqQJI8MDXiCOO",
+                    "id": "7aYYpewoSEqQJI8MDXiCOO",
+                    "name": "Nour Fretiekh",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aYYpewoSEqQJI8MDXiCOO"
+                }
+            ],
+            "album": {
+                "album_name": "Jarak Qaribak",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-06-09",
+                "spotify_id": "4VZ3ydTxuI2WRIbo3yNLzb"
+            }
+        },
+        {
+            "name": "\u05e9\u05e0\u05d9 \u05e9\u05d5\u05e9\u05e0\u05d9\u05dd",
+            "spotify_id": "1l4WBNwCUKpX0oVO9VAdxH",
+            "duration_ms": 169373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74d511JBN1RXijrUZtCqlq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74d511JBN1RXijrUZtCqlq",
+                    "id": "74d511JBN1RXijrUZtCqlq",
+                    "name": "Shoshana Damari",
+                    "type": "artist",
+                    "uri": "spotify:artist:74d511JBN1RXijrUZtCqlq"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05de\u05d9\u05d8\u05d1",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-06-09",
+                "spotify_id": "3yoz5GB9pMWYT76JGhP9fk"
+            }
+        },
+        {
+            "name": "Happiness",
+            "spotify_id": "1oCdffPI2c8RWimxnCiEoF",
+            "duration_ms": 215093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1h40NvcAHSbG4O2r3932kB",
+                    "id": "1h40NvcAHSbG4O2r3932kB",
+                    "name": "Karolina",
+                    "type": "artist",
+                    "uri": "spotify:artist:1h40NvcAHSbG4O2r3932kB"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d4 \u05d0\u05e2\u05e9\u05d4 \u05e2\u05db\u05e9\u05d9\u05d5",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-01-01",
+                "spotify_id": "7nhhh3uCGe4dbbnFZpS0Tg"
+            }
+        },
+        {
+            "name": "\u05d1\u05e1\u05d5\u05e3 \u05e9\u05dc \u05d9\u05d5\u05dd",
+            "spotify_id": "4gA6WqqWBMZHHoGaGkhy2J",
+            "duration_ms": 218266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0RKyXoXuD0EdJmFJ6hsmnW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0RKyXoXuD0EdJmFJ6hsmnW",
+                    "id": "0RKyXoXuD0EdJmFJ6hsmnW",
+                    "name": "Fortisakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:0RKyXoXuD0EdJmFJ6hsmnW"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2PkcEZnrJ3i1f5iJN834mn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2PkcEZnrJ3i1f5iJN834mn",
+                    "id": "2PkcEZnrJ3i1f5iJN834mn",
+                    "name": "Rami Fortis",
+                    "type": "artist",
+                    "uri": "spotify:artist:2PkcEZnrJ3i1f5iJN834mn"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05dc \u05d4\u05de\u05e9\u05de\u05e8\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-03-09",
+                "spotify_id": "07Z6rxPPQrflmHDGQsbJbR"
+            }
+        },
+        {
+            "name": "\u05d4\u05d9\u05d1\u05e8\u05d5\u05de\u05df",
+            "spotify_id": "0gcJGMQzVjPnoZq7bkW4cA",
+            "duration_ms": 285853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qdbc8V1HlLub2jB2UJCPk",
+                    "id": "0qdbc8V1HlLub2jB2UJCPk",
+                    "name": "Ehud Banai",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qdbc8V1HlLub2jB2UJCPk"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05e0\u05d4 \u05dc\u05d9",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-01-18",
+                "spotify_id": "3YwTZfzEI7rsHS5pWupQSI"
+            }
+        },
+        {
+            "name": "\u05d2'\u05d5\u05e0\u05d9",
+            "spotify_id": "4hsCjKX3DOQobfRV1qJhWK",
+            "duration_ms": 184356,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3lDTgudSVNR05wyiJ1RptF",
+                    "id": "3lDTgudSVNR05wyiJ1RptF",
+                    "name": "Bar Tzabary",
+                    "type": "artist",
+                    "uri": "spotify:artist:3lDTgudSVNR05wyiJ1RptF"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d2'\u05d5\u05e0\u05d9",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-07-03",
+                "spotify_id": "6f7i1uWvaYJ5P3anTPPIWP"
+            }
+        }
+    ]
+}

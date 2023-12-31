@@ -1,0 +1,528 @@
+{
+    "name": "Friday Night",
+    "spotify_id": "2sV7GWNR2UKfuRefHtMVAQ",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Tribulations",
+            "spotify_id": "5JOO8UMaEpOfhhatQQsAqm",
+            "duration_ms": 299000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "LCD Soundsystem",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-01-24",
+                "spotify_id": "6aSk2vxoY3xtz7cXKuY9EL"
+            }
+        },
+        {
+            "name": "House Of Jealous Lovers",
+            "spotify_id": "2aVwz8rBJVdlYXWN9sH7JA",
+            "duration_ms": 304786,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+                    "id": "166Dz1GX3xonSQ3Z6CQW26",
+                    "name": "The Rapture",
+                    "type": "artist",
+                    "uri": "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+                }
+            ],
+            "album": {
+                "album_name": "Echoes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-01-01",
+                "spotify_id": "5WHeIhuLvRJqfnYcLsHle4"
+            }
+        },
+        {
+            "name": "Screamager",
+            "spotify_id": "3kEzlYsAb0Is3FJQ7DNDDj",
+            "duration_ms": 156874,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3MomZRiJwdZmYnysgtF4Ey",
+                    "id": "3MomZRiJwdZmYnysgtF4Ey",
+                    "name": "Therapy?",
+                    "type": "artist",
+                    "uri": "spotify:artist:3MomZRiJwdZmYnysgtF4Ey"
+                }
+            ],
+            "album": {
+                "album_name": "Troublegum",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "4z3ZBMZyLD5ONDDLapihtz"
+            }
+        },
+        {
+            "name": "Hit the City",
+            "spotify_id": "7bzhHKleT7c5EYB83sJhRj",
+            "duration_ms": 168533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+                    "id": "1fpXM23IoNckJ7NDAm8YJQ",
+                    "name": "Mark Lanegan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "Bubblegum",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-08-02",
+                "spotify_id": "3VBmyOQghXw8akRgkiH3Qx"
+            }
+        },
+        {
+            "name": "4 DEGREES",
+            "spotify_id": "5ji7wOTLlcJ9uOM4hHcIOw",
+            "duration_ms": 231583,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6VJZYivuYJGCrPuOAnI7Qo",
+                    "id": "6VJZYivuYJGCrPuOAnI7Qo",
+                    "name": "ANOHNI",
+                    "type": "artist",
+                    "uri": "spotify:artist:6VJZYivuYJGCrPuOAnI7Qo"
+                }
+            ],
+            "album": {
+                "album_name": "HOPELESSNESS",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-05-06",
+                "spotify_id": "1S3OY2V2ZwFh4xU7gQG6IZ"
+            }
+        },
+        {
+            "name": "Kings Fall",
+            "spotify_id": "1y4rtpeAOmyLHrca8rJYzd",
+            "duration_ms": 166666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6g0Wah2YFtb1rFgKhUktlo",
+                    "id": "6g0Wah2YFtb1rFgKhUktlo",
+                    "name": "Raphael Saadiq",
+                    "type": "artist",
+                    "uri": "spotify:artist:6g0Wah2YFtb1rFgKhUktlo"
+                }
+            ],
+            "album": {
+                "album_name": "Jimmy Lee",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-08-23",
+                "spotify_id": "42qt8FhWtmal27Gasz3r4v"
+            }
+        },
+        {
+            "name": "Don't You Want Me",
+            "spotify_id": "3L7RtEcu1Hw3OXrpnthngx",
+            "duration_ms": 236920,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aX2dmV8XoHYCOQRxjPESG",
+                    "id": "1aX2dmV8XoHYCOQRxjPESG",
+                    "name": "The Human League",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aX2dmV8XoHYCOQRxjPESG"
+                }
+            ],
+            "album": {
+                "album_name": "Dare!",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1981",
+                "spotify_id": "3ls7tE9D2SIvjTmRuEtsQY"
+            }
+        },
+        {
+            "name": "Psycho Killer - Live",
+            "spotify_id": "2t8GBp5kQEXVamVq4Odwe2",
+            "duration_ms": 264933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC",
+                    "id": "2x9SpqnPi8rlE9pjHBwmSC",
+                    "name": "Talking Heads",
+                    "type": "artist",
+                    "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+                }
+            ],
+            "album": {
+                "album_name": "Stop Making Sense (Live)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984",
+                "spotify_id": "4FR8Z6TvIsC56NLyNomNRE"
+            }
+        },
+        {
+            "name": "Around (Solomun Vox) [Moodymann Edit] - Mixed",
+            "spotify_id": "3D4ye4jul39kOoubzM0wVW",
+            "duration_ms": 200146,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rHW9XpYMGsHj7BmAOSmr9",
+                    "id": "2rHW9XpYMGsHj7BmAOSmr9",
+                    "name": "Noir",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rHW9XpYMGsHj7BmAOSmr9"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3KtSWjt8eZtwHjUYPB5OSb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3KtSWjt8eZtwHjUYPB5OSb",
+                    "id": "3KtSWjt8eZtwHjUYPB5OSb",
+                    "name": "Haze",
+                    "type": "artist",
+                    "uri": "spotify:artist:3KtSWjt8eZtwHjUYPB5OSb"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5wJK4kQAkVGjqM9x46KQOC",
+                    "id": "5wJK4kQAkVGjqM9x46KQOC",
+                    "name": "Solomun",
+                    "type": "artist",
+                    "uri": "spotify:artist:5wJK4kQAkVGjqM9x46KQOC"
+                }
+            ],
+            "album": {
+                "album_name": "DJ-Kicks (Moodymann) [DJ Mix]",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-02-19",
+                "spotify_id": "2x7qZE2WccELB40xcBY88x"
+            }
+        },
+        {
+            "name": "Sea Sick",
+            "spotify_id": "3jLHo30ucbkYY9P7v8leKh",
+            "duration_ms": 130714,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2jbd7OqeJJd1hz81vOXwwW",
+                    "id": "2jbd7OqeJJd1hz81vOXwwW",
+                    "name": "binki",
+                    "type": "artist",
+                    "uri": "spotify:artist:2jbd7OqeJJd1hz81vOXwwW"
+                }
+            ],
+            "album": {
+                "album_name": "Sea Sick",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-09-05",
+                "spotify_id": "2rW8WOaJP6R7rIFFaJEhoZ"
+            }
+        },
+        {
+            "name": "Therefore I Am",
+            "spotify_id": "54bFM56PmE4YLRnqpW6Tha",
+            "duration_ms": 174321,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "album": {
+                "album_name": "Therefore I Am",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-11-12",
+                "spotify_id": "5G58VVE9ub1KE01Mvbd8XM"
+            }
+        },
+        {
+            "name": "Cars",
+            "spotify_id": "6HZ67VImxqr8aMBEEhblzf",
+            "duration_ms": 238906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5KQMtyPE8DCQNUzoNqlEsE",
+                    "id": "5KQMtyPE8DCQNUzoNqlEsE",
+                    "name": "Gary Numan",
+                    "type": "artist",
+                    "uri": "spotify:artist:5KQMtyPE8DCQNUzoNqlEsE"
+                }
+            ],
+            "album": {
+                "album_name": "The Pleasure Principle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979",
+                "spotify_id": "6wHjdKs7VVPVcqaHRzwqJt"
+            }
+        },
+        {
+            "name": "The Model - 2009 Remaster",
+            "spotify_id": "1FL9DHDSED6lxNMDJUJQvB",
+            "duration_ms": 220533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0dmPX6ovclgOy8WWJaFEUU",
+                    "id": "0dmPX6ovclgOy8WWJaFEUU",
+                    "name": "Kraftwerk",
+                    "type": "artist",
+                    "uri": "spotify:artist:0dmPX6ovclgOy8WWJaFEUU"
+                }
+            ],
+            "album": {
+                "album_name": "The Man-Machine (2009 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1978",
+                "spotify_id": "3eyz60xEK5dGEeZF1JJSi9"
+            }
+        },
+        {
+            "name": "Hamem Oti",
+            "spotify_id": "2UnHdCOsEjB1e5yMe6YyvB",
+            "duration_ms": 263990,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Owm9QgL9BSCRQKTX6T08G",
+                    "id": "5Owm9QgL9BSCRQKTX6T08G",
+                    "name": "Red Axes",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Owm9QgL9BSCRQKTX6T08G"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1CpLH8A3xibzzmyKZ1VtH7",
+                    "id": "1CpLH8A3xibzzmyKZ1VtH7",
+                    "name": "The White Screen",
+                    "type": "artist",
+                    "uri": "spotify:artist:1CpLH8A3xibzzmyKZ1VtH7"
+                }
+            ],
+            "album": {
+                "album_name": "Ahuzat Bait",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2015-10-31",
+                "spotify_id": "5BnAYncLcV49rQ7EjN4Uss"
+            }
+        },
+        {
+            "name": "\u05dc\u05d0 \u05e2\u05db\u05e9\u05d9\u05d5",
+            "spotify_id": "2iJInym3xlkPTy3WeuHuON",
+            "duration_ms": 168706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2XZnPAkPK6rixWRfRUC0Y2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2XZnPAkPK6rixWRfRUC0Y2",
+                    "id": "2XZnPAkPK6rixWRfRUC0Y2",
+                    "name": "Inbal Perlmutter",
+                    "type": "artist",
+                    "uri": "spotify:artist:2XZnPAkPK6rixWRfRUC0Y2"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05e7\u05dc\u05d8\u05d5\u05ea \u05d4\u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-02-01",
+                "spotify_id": "4nCHRofpIdbfA4UKpe1Rwz"
+            }
+        },
+        {
+            "name": "Creep",
+            "spotify_id": "0elH6ukMGLyCHJavHutEza",
+            "duration_ms": 332626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2UazAtjfzqBF0Nho2awK4z",
+                    "id": "2UazAtjfzqBF0Nho2awK4z",
+                    "name": "Stone Temple Pilots",
+                    "type": "artist",
+                    "uri": "spotify:artist:2UazAtjfzqBF0Nho2awK4z"
+                }
+            ],
+            "album": {
+                "album_name": "Core",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1992-09-29",
+                "spotify_id": "7k1YOwYf369EX0aHeXApWp"
+            }
+        },
+        {
+            "name": "Nearly Lost You",
+            "spotify_id": "7qzFXUvBk7lELXuxVREypV",
+            "duration_ms": 247093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Ukr3Ufjg8ygRJv7Ww887f",
+                    "id": "3Ukr3Ufjg8ygRJv7Ww887f",
+                    "name": "Screaming Trees",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Ukr3Ufjg8ygRJv7Ww887f"
+                }
+            ],
+            "album": {
+                "album_name": "Sweet Oblivion",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1992",
+                "spotify_id": "3SOcm48I0DOX1KEHF2IEVY"
+            }
+        },
+        {
+            "name": "Cocaine",
+            "spotify_id": "6G3NoUqDpqD3Rgfel2pD6s",
+            "duration_ms": 169133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06nsZ3qSOYZ2hPVIMcr1IN",
+                    "id": "06nsZ3qSOYZ2hPVIMcr1IN",
+                    "name": "J.J. Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:06nsZ3qSOYZ2hPVIMcr1IN"
+                }
+            ],
+            "album": {
+                "album_name": "Troubadour",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-09",
+                "spotify_id": "4GIeoRcpLeLwgxQK8jo183"
+            }
+        },
+        {
+            "name": "Walk on the Wild Side",
+            "spotify_id": "0EFEkt29P7Icr7dO4vN6yk",
+            "duration_ms": 253960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL",
+                    "id": "42TFhl7WlMRXiNqzSrnzPL",
+                    "name": "Lou Reed",
+                    "type": "artist",
+                    "uri": "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+                }
+            ],
+            "album": {
+                "album_name": "Transformer",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-12-01",
+                "spotify_id": "3JKDzf9F11y9kjWnehKna1"
+            }
+        },
+        {
+            "name": "I'll Keep It With Mine",
+            "spotify_id": "25ALtWAFTsyTa1phFSKYWw",
+            "duration_ms": 201653,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+                    "id": "0IwlY33zbBXN7zlS9DP2Cj",
+                    "name": "Nico",
+                    "type": "artist",
+                    "uri": "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+                }
+            ],
+            "album": {
+                "album_name": "The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-03-12",
+                "spotify_id": "1b27KQt4bBP2hlgrHbQMIw"
+            }
+        }
+    ]
+}

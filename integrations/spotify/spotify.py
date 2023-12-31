@@ -47,7 +47,7 @@ class SpotifyTrack:
             artist=data["artists"],
             album={
                 "album_name": data["album"]["name"],
-                "album_group": data["album"]["album_group"],
+                "album_group": data["album"].get("album_group"),
                 "album_type": data["album"]["album_type"],
                 "released": data["album"]["release_date"],
                 "spotify_id": data["album"]["id"],
@@ -200,6 +200,7 @@ def is_final_playlist(playlist: Dict, user_name: Optional[str] = None) -> bool:
     playlist_name = playlist.get("name", "").upper()
     if playlist_name.startswith("ZZZ") \
             or playlist_name.startswith("KIDS") \
+            or playlist_name.startswith("XXX") \
             or playlist_name.startswith("0"):
         return False
 
@@ -223,10 +224,14 @@ def get_remote_collections(client: SpotifyClient) -> Iterator[SpotifyCollection]
     user_name = client.me().get("user_name")
     filtered_playlists = (p for p in client.playlists() if is_final_playlist(p, user_name))
     for playlist in filtered_playlists:
-        yield SpotifyCollection.from_spotify_api(
-            playlist=playlist,
-            playlist_items=list(client.playlist_items(playlist)),
-        )
+        playlist_items = list(client.playlist_items(playlist))
+        try:
+            yield SpotifyCollection.from_spotify_api(
+                playlist=playlist,
+                playlist_items=playlist_items,
+            )
+        except (KeyError, ValueError) as e:
+            print(f"Error {e} in importing playlist : {playlist}")
 
 
 def get_collection_stats(client: SpotifyClient, spotify_collection: SpotifyCollection) -> SpotifyCollectionStats:
@@ -248,22 +253,37 @@ def get_collection_stats(client: SpotifyClient, spotify_collection: SpotifyColle
     print(tracks_features)
 
 
-
 def get_local_collections_ids(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Set[str]:
     """
     Returns the collection ids that exists on collection_path
     """
-    def get_collection_id(path: str):
-        with open(path, "r") as f:
-            collection = json.loads(f.read())
-        return collection["spotify_id"]
-
     return {
-        get_collection_id(
-            path=os.path.join(collection_path, name)
-        )
+        content["spotify_id"]
+        for content
+        in get_local_collections_content(collection_path)
+    }
+
+
+def get_local_collections_content(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Iterator[dict]:
+    def load_content(path: str):
+        with open(path, "r") as f:
+            return json.loads(f.read())
+
+    return (
+        load_content(os.path.join(collection_path, name))
         for name in os.listdir(collection_path)
         if name.endswith(".json")
+    )
+
+
+def get_local_collections_by_name(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Dict[str, Dict]:
+    """
+    Returns all local collection content by their name
+    """
+    return {
+        content["name"]: content
+        for content
+        in get_local_collections_content(collection_path)
     }
 
 
@@ -277,14 +297,14 @@ def clear_local_collections(path=SPOTIFY_COLLECTIONS_PATH):
 
 
 
-client = SpotifyClient.make_default(limit=20)
-# collections = get_remote_collections(client)
-# for col in collections:
-#     collection_stats = get_collection_stats(client, col)
-#     break
-
-cols = get_remote_collections(client)
-c = next(cols)
-
-
-a = get_collection_stats(client, c)
+# client = SpotifyClient.make_default(limit=20)
+# # collections = get_remote_collections(client)
+# # for col in collections:
+# #     collection_stats = get_collection_stats(client, col)
+# #     break
+#
+# cols = get_remote_collections(client)
+# c = next(cols)
+#
+#
+# a = get_collection_stats(client, c)

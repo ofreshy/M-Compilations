@@ -1,0 +1,458 @@
+{
+    "name": "HomeComing IX",
+    "spotify_id": "11At2Mei1iLhHZPBK358uV",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "\u05d6\u05de\u05e0\u05da \u05e2\u05d1\u05e8",
+            "spotify_id": "2kTdmCpTEBOE1dXhJuOV1C",
+            "duration_ms": 291974,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1S1oypdDHoyYCgyOqi7RHt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1S1oypdDHoyYCgyOqi7RHt",
+                    "id": "1S1oypdDHoyYCgyOqi7RHt",
+                    "name": "Rea Mochiach",
+                    "type": "artist",
+                    "uri": "spotify:artist:1S1oypdDHoyYCgyOqi7RHt"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Od941Y0gLSSHTDtOtS1RS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Od941Y0gLSSHTDtOtS1RS",
+                    "id": "3Od941Y0gLSSHTDtOtS1RS",
+                    "name": "\u05d0\u05d6. \u05e2\u05db\u05e9\u05d9\u05d5.",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Od941Y0gLSSHTDtOtS1RS"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3IF20nS3xzinWeuc1PZHW7",
+                    "id": "3IF20nS3xzinWeuc1PZHW7",
+                    "name": "Korin Allal",
+                    "type": "artist",
+                    "uri": "spotify:artist:3IF20nS3xzinWeuc1PZHW7"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05d2\u05dc \u05d4\u05d6\u05d4\u05d1 (\u05d2\u05e8\u05e1\u05ea \u05e8\u05e2 \u05de\u05d5\u05db\u05d9\u05d7 \u05dc\u05d0\u05d4\u05d5\u05d3 \u05d1\u05e0\u05d0\u05d9 \u05d5\u05d4\u05e4\u05dc\u05d9\u05d8\u05d9\u05dd)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-02-01",
+                "spotify_id": "3B0Basik0okHB7SDlLWrSq"
+            }
+        },
+        {
+            "name": "Rakevet Latzafon - Avishag Cohen Rodrigues Remix",
+            "spotify_id": "3rUTw7P9c5TBSz2shyIlh9",
+            "duration_ms": 292853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7ncSeJV3xl2Q2HnWvllj4B",
+                    "id": "7ncSeJV3xl2Q2HnWvllj4B",
+                    "name": "Assaf Amdursky",
+                    "type": "artist",
+                    "uri": "spotify:artist:7ncSeJV3xl2Q2HnWvllj4B"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7La1HxVoPdeY27u44eTgNX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7La1HxVoPdeY27u44eTgNX",
+                    "id": "7La1HxVoPdeY27u44eTgNX",
+                    "name": "Avishag Cohen Rodrigues",
+                    "type": "artist",
+                    "uri": "spotify:artist:7La1HxVoPdeY27u44eTgNX"
+                }
+            ],
+            "album": {
+                "album_name": "Meforak: Remixes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-01-29",
+                "spotify_id": "2Dgw8LMnwinemlwBcns4ie"
+            }
+        },
+        {
+            "name": "\u05d4\u05d9\u05d9\u05e0\u05d5 \u05de\u05e1\u05d8\u05d5\u05dc\u05d9\u05dd",
+            "spotify_id": "6YcyRHtJrCdGKNzEsVq4CL",
+            "duration_ms": 301475,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Fez3trTs4X7YXtw9fWOQj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Fez3trTs4X7YXtw9fWOQj",
+                    "id": "0Fez3trTs4X7YXtw9fWOQj",
+                    "name": "WC",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Fez3trTs4X7YXtw9fWOQj"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d9\u05d9\u05e0\u05d5 \u05de\u05e1\u05d8\u05d5\u05dc\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-03-19",
+                "spotify_id": "7t0k2amC46hER3zxpKRcdt"
+            }
+        },
+        {
+            "name": "\u05de\u05d5\u05dc\u05d9\u05db\u05d5\u05ea \u05d4\u05db\u05dc\u05d1\u05d9\u05dd",
+            "spotify_id": "5xVSWDSGl9McqLnl4DkWKm",
+            "duration_ms": 163953,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YI2KYx69I28t10C2C95EE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YI2KYx69I28t10C2C95EE",
+                    "id": "1YI2KYx69I28t10C2C95EE",
+                    "name": "Mouth and Foot",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YI2KYx69I28t10C2C95EE"
+                }
+            ],
+            "album": {
+                "album_name": "\u05ea\u05d7\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-02-06",
+                "spotify_id": "2pfG9R0T7WarW7OYfMAFHs"
+            }
+        },
+        {
+            "name": "\u05e7\u05d5\u05dc\u05e0\u05d5\u05e2",
+            "spotify_id": "2FnkAID9LVmj3D0LB1YWGT",
+            "duration_ms": 256234,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0QRKWNU8pxIapKWMqgX72s",
+                    "id": "0QRKWNU8pxIapKWMqgX72s",
+                    "name": "Omer Moskovich",
+                    "type": "artist",
+                    "uri": "spotify:artist:0QRKWNU8pxIapKWMqgX72s"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e7\u05d5\u05dc\u05e0\u05d5\u05e2",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-02",
+                "spotify_id": "0SLb2JENm35xnwiQabAocv"
+            }
+        },
+        {
+            "name": "\u05e0\u05e8\u05d0\u05d4 \u05dc\u05d9",
+            "spotify_id": "2dCvVrigcACli9Ame6DGgn",
+            "duration_ms": 209169,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3cDi1D2FHMVgljfdB1QVgr",
+                    "id": "3cDi1D2FHMVgljfdB1QVgr",
+                    "name": "Jasmin Moallem",
+                    "type": "artist",
+                    "uri": "spotify:artist:3cDi1D2FHMVgljfdB1QVgr"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d0\u05e8\u05d9\u05d4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-27",
+                "spotify_id": "0605dh7Wm1z9kZuTwnurMJ"
+            }
+        },
+        {
+            "name": "Leftovers",
+            "spotify_id": "1VThhpVvEkOitWuqywUazS",
+            "duration_ms": 182211,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3cDi1D2FHMVgljfdB1QVgr",
+                    "id": "3cDi1D2FHMVgljfdB1QVgr",
+                    "name": "Jasmin Moallem",
+                    "type": "artist",
+                    "uri": "spotify:artist:3cDi1D2FHMVgljfdB1QVgr"
+                }
+            ],
+            "album": {
+                "album_name": "Leftovers",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-12-27",
+                "spotify_id": "7gIuw234ulOFg37xDIUcJn"
+            }
+        },
+        {
+            "name": "Shine Again - Taso VIP Remix",
+            "spotify_id": "2xDh4VstKDa62Hap0YZB9z",
+            "duration_ms": 179215,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0sDJfnuudhMaEmFPvALK2e",
+                    "id": "0sDJfnuudhMaEmFPvALK2e",
+                    "name": "Kutiman",
+                    "type": "artist",
+                    "uri": "spotify:artist:0sDJfnuudhMaEmFPvALK2e"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4mYf44fxwi3Kgnbj1qoCuv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4mYf44fxwi3Kgnbj1qoCuv",
+                    "id": "4mYf44fxwi3Kgnbj1qoCuv",
+                    "name": "Adam Scheflan",
+                    "type": "artist",
+                    "uri": "spotify:artist:4mYf44fxwi3Kgnbj1qoCuv"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3XEN2CV4ZGWC08cmrKPpuc"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3XEN2CV4ZGWC08cmrKPpuc",
+                    "id": "3XEN2CV4ZGWC08cmrKPpuc",
+                    "name": "Taso VIP",
+                    "type": "artist",
+                    "uri": "spotify:artist:3XEN2CV4ZGWC08cmrKPpuc"
+                }
+            ],
+            "album": {
+                "album_name": "Shine Again (Remixes)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2016-08-12",
+                "spotify_id": "3mZhanmj77DvXQM60TO2eU"
+            }
+        },
+        {
+            "name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05ea\u05d5 \u05e1\u05d9\u05e4\u05d5\u05e8",
+            "spotify_id": "2eHtpZaGQPCKqIzOAW12rZ",
+            "duration_ms": 226500,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ytNoXYE3P3AAZ8vRjBQzQ",
+                    "id": "0ytNoXYE3P3AAZ8vRjBQzQ",
+                    "name": "Liron Amram",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ytNoXYE3P3AAZ8vRjBQzQ"
+                }
+            ],
+            "album": {
+                "album_name": "\u05ea\u05de\u05d9\u05d3 \u05d0\u05d5\u05ea\u05d5 \u05e1\u05d9\u05e4\u05d5\u05e8",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-07-09",
+                "spotify_id": "3uo3luAidBEAeb4cgyWRVu"
+            }
+        },
+        {
+            "name": "Pa'amonim",
+            "spotify_id": "6nwWOBlg88oxXMTlJtKCMg",
+            "duration_ms": 274857,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qnD30FBRPes7ZFDvsEBAv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qnD30FBRPes7ZFDvsEBAv",
+                    "id": "0qnD30FBRPes7ZFDvsEBAv",
+                    "name": "Omri Smadar",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qnD30FBRPes7ZFDvsEBAv"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zAtjfoXnqbsmc9urtpOtA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zAtjfoXnqbsmc9urtpOtA",
+                    "id": "6zAtjfoXnqbsmc9urtpOtA",
+                    "name": "Roy Shpilman",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zAtjfoXnqbsmc9urtpOtA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3VlKzixXtnWl9vsFc3w6ka"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3VlKzixXtnWl9vsFc3w6ka",
+                    "id": "3VlKzixXtnWl9vsFc3w6ka",
+                    "name": "Ahuva Ozeri",
+                    "type": "artist",
+                    "uri": "spotify:artist:3VlKzixXtnWl9vsFc3w6ka"
+                }
+            ],
+            "album": {
+                "album_name": "Pa'amonim",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-07-09",
+                "spotify_id": "2LdSA5Jzre4CraBaJIb570"
+            }
+        },
+        {
+            "name": "\u05e2\u05e0\u05df - Vooz Brothers Remix",
+            "spotify_id": "5I8qjgvKV6O0ACqkH9bGye",
+            "duration_ms": 364268,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1h40NvcAHSbG4O2r3932kB",
+                    "id": "1h40NvcAHSbG4O2r3932kB",
+                    "name": "Karolina",
+                    "type": "artist",
+                    "uri": "spotify:artist:1h40NvcAHSbG4O2r3932kB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ZVFzdJ1a8GkLpIbzPC0cR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ZVFzdJ1a8GkLpIbzPC0cR",
+                    "id": "2ZVFzdJ1a8GkLpIbzPC0cR",
+                    "name": "Vooz Brothers",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ZVFzdJ1a8GkLpIbzPC0cR"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05e0\u05df - \u05d4\u05e8\u05de\u05d9\u05e7\u05e1\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2013-03-03",
+                "spotify_id": "6gjB01QiuDJ8F0ra8t5fvD"
+            }
+        },
+        {
+            "name": "\u05d4\u05d6\u05d5\u05d2 \u05d4\u05d6\u05d4",
+            "spotify_id": "4wsc8OzliQP9P2ZiuevaBn",
+            "duration_ms": 193859,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6grXi1oBW9ayoP4FTt4r2Z",
+                    "id": "6grXi1oBW9ayoP4FTt4r2Z",
+                    "name": "Mergui",
+                    "type": "artist",
+                    "uri": "spotify:artist:6grXi1oBW9ayoP4FTt4r2Z"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d6\u05d5\u05d2 \u05d4\u05d6\u05d4",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-01-06",
+                "spotify_id": "4oieW9CKiiDFAhhYsTkLa2"
+            }
+        },
+        {
+            "name": "End of the Road",
+            "spotify_id": "3BfRjAclEFihCqLguT8Ch7",
+            "duration_ms": 159985,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VwCIS8jdx9ZHjApLFNrTZ",
+                    "id": "5VwCIS8jdx9ZHjApLFNrTZ",
+                    "name": "Noga Erez",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VwCIS8jdx9ZHjApLFNrTZ"
+                }
+            ],
+            "album": {
+                "album_name": "End of the Road",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-01-13",
+                "spotify_id": "77eNqATHOvAle5qBQqBHtM"
+            }
+        },
+        {
+            "name": "\u05e9\u05dc\u05d7 \u05dc\u05d9 \u05de\u05dc\u05d0\u05da",
+            "spotify_id": "6rzfEb4W6gUjItLG7GVAtb",
+            "duration_ms": 237600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3ObnkOSF8KZ9405ZPJtwbB",
+                    "id": "3ObnkOSF8KZ9405ZPJtwbB",
+                    "name": "Eviatar Banai",
+                    "type": "artist",
+                    "uri": "spotify:artist:3ObnkOSF8KZ9405ZPJtwbB"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e6\u05d5 \u05d4\u05e9\u05e2\u05d4 - \u05e6\u05d5 \u05e8\u05d0\u05e9\u05d5\u05df",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2020-09-09",
+                "spotify_id": "26iBmUKditIzac7w6Obdty"
+            }
+        },
+        {
+            "name": "\u05d1\u05dc\u05d3\u05d4 \u05d1\u05d9\u05df \u05db\u05d5\u05db\u05d1\u05d9\u05dd",
+            "spotify_id": "4Hc9uWnpcJBEPuYNs5eKUF",
+            "duration_ms": 332086,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2d9UgZFb4N4JSmq1B3D42P"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2d9UgZFb4N4JSmq1B3D42P",
+                    "id": "2d9UgZFb4N4JSmq1B3D42P",
+                    "name": "B\u0118\u00c3TF\u00d3\u00d8T",
+                    "type": "artist",
+                    "uri": "spotify:artist:2d9UgZFb4N4JSmq1B3D42P"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qW1bC427fa4AoAWpzxFft"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qW1bC427fa4AoAWpzxFft",
+                    "id": "6qW1bC427fa4AoAWpzxFft",
+                    "name": "Adi Bronicki",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qW1bC427fa4AoAWpzxFft"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d5\u05e6\u05d0\u05d5 \u05de\u05d4\u05e7\u05e9\u05e8\u05dd - \u05e9\u05e8\u05d9\u05dd \u05e8\u05d5\u05d8\u05d1\u05dc\u05d9\u05d8",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2021-02-02",
+                "spotify_id": "7etDy5OpKtJLX7sJm8T3no"
+            }
+        }
+    ]
+}

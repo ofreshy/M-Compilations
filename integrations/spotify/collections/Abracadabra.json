@@ -1,0 +1,344 @@
+{
+    "name": "Abracadabra",
+    "spotify_id": "47awwQA0qtABYmhEkttfpd",
+    "created_date": "2022-07-10",
+    "description": "80&#x27;s mostly upbeat and not so stable",
+    "tracks": [
+        {
+            "name": "Abracadabra",
+            "spotify_id": "2E2ZVy2fxslpAUgbb4zu84",
+            "duration_ms": 308373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk",
+                    "id": "6QtGlUje9TIkLrgPZrESuk",
+                    "name": "Steve Miller Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+                }
+            ],
+            "album": {
+                "album_name": "Abracadabra",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1982-01-01",
+                "spotify_id": "0afS7TjKOoq8LzTx9CgOnu"
+            }
+        },
+        {
+            "name": "Sugar on My Tongue - 2005 Remaster",
+            "spotify_id": "1w3IeWPxVHuw0gyXcGV2pN",
+            "duration_ms": 156480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2x9SpqnPi8rlE9pjHBwmSC",
+                    "id": "2x9SpqnPi8rlE9pjHBwmSC",
+                    "name": "Talking Heads",
+                    "type": "artist",
+                    "uri": "spotify:artist:2x9SpqnPi8rlE9pjHBwmSC"
+                }
+            ],
+            "album": {
+                "album_name": "Talking Heads '77 (Deluxe Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-09-16",
+                "spotify_id": "5eqcF7pWzHgWpGdEmHgeSN"
+            }
+        },
+        {
+            "name": "I Think We're Alone Now - Japanese Version",
+            "spotify_id": "3XF0IGsHlYFDjUq9SAcKWK",
+            "duration_ms": 166133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1yFJnlNMiBUBplMaOP5CMX",
+                    "id": "1yFJnlNMiBUBplMaOP5CMX",
+                    "name": "Lene Lovich",
+                    "type": "artist",
+                    "uri": "spotify:artist:1yFJnlNMiBUBplMaOP5CMX"
+                }
+            ],
+            "album": {
+                "album_name": "Stateless",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-01-02",
+                "spotify_id": "5qz97wcq8cv3LRLpJr9noR"
+            }
+        },
+        {
+            "name": "Hard To Explain",
+            "spotify_id": "2LMloFiV7DHpBhITOaBSam",
+            "duration_ms": 224426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+                    "id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "name": "The Strokes",
+                    "type": "artist",
+                    "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+                }
+            ],
+            "album": {
+                "album_name": "Is This It",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-07-30",
+                "spotify_id": "2yNaksHgeMQM9Quse463b5"
+            }
+        },
+        {
+            "name": "Atomic",
+            "spotify_id": "1PAKcvZUMSgEqRhmhZDeGk",
+            "duration_ms": 282240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4tpUmLEVLCGFr93o8hFFIB",
+                    "id": "4tpUmLEVLCGFr93o8hFFIB",
+                    "name": "Blondie",
+                    "type": "artist",
+                    "uri": "spotify:artist:4tpUmLEVLCGFr93o8hFFIB"
+                }
+            ],
+            "album": {
+                "album_name": "Best Of Blondie",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1981-10-31",
+                "spotify_id": "7mEjsBlRmfP63cH1gdPT6A"
+            }
+        },
+        {
+            "name": "Can't Get Blue Monday out of My Head",
+            "spotify_id": "3DBErzKR7FVxLJvdzGlCLx",
+            "duration_ms": 241466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4RVnAU35WRWra6OZ3CbbMA",
+                    "id": "4RVnAU35WRWra6OZ3CbbMA",
+                    "name": "Kylie Minogue",
+                    "type": "artist",
+                    "uri": "spotify:artist:4RVnAU35WRWra6OZ3CbbMA"
+                }
+            ],
+            "album": {
+                "album_name": "Fever",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-10-01",
+                "spotify_id": "4WzTXHp8bVKkKNu3UQ2Fqu"
+            }
+        },
+        {
+            "name": "West End Girls - 2001 Remaster",
+            "spotify_id": "7FlwylpJSe3ea6m1IrkizS",
+            "duration_ms": 245360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ycnb8Er79LoH2AsR5ldjh",
+                    "id": "2ycnb8Er79LoH2AsR5ldjh",
+                    "name": "Pet Shop Boys",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ycnb8Er79LoH2AsR5ldjh"
+                }
+            ],
+            "album": {
+                "album_name": "Please: Further Listening 1984-1986",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1986-03-24",
+                "spotify_id": "3rnhCB65fDQFokoeKHmM0F"
+            }
+        },
+        {
+            "name": "Murder On The Dancefloor",
+            "spotify_id": "2Za2mUwmQoSxWPscaY2vxl",
+            "duration_ms": 230013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2cBh5lVMg222FFuRU7EfDE",
+                    "id": "2cBh5lVMg222FFuRU7EfDE",
+                    "name": "Sophie Ellis-Bextor",
+                    "type": "artist",
+                    "uri": "spotify:artist:2cBh5lVMg222FFuRU7EfDE"
+                }
+            ],
+            "album": {
+                "album_name": "Read My Lips",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "0Mf0uNttnZvaQOKiECOBSn"
+            }
+        },
+        {
+            "name": "Acceptable in the 80's",
+            "spotify_id": "00cxhG668jV6gU6VK2FUVI",
+            "duration_ms": 333680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY",
+                    "id": "7CajNmpbOovFoOoasH2HaY",
+                    "name": "Calvin Harris",
+                    "type": "artist",
+                    "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+                }
+            ],
+            "album": {
+                "album_name": "I Created Disco",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-06-18",
+                "spotify_id": "5gDkjyJBK8VLZjKqqUd79K"
+            }
+        },
+        {
+            "name": "I Belong To You",
+            "spotify_id": "02UjN28wB5uyeqUhZTiuZ2",
+            "duration_ms": 257733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+                    "id": "5gznATMVO85ZcLTkE9ULU7",
+                    "name": "Lenny Kravitz",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+                }
+            ],
+            "album": {
+                "album_name": "5",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-05-12",
+                "spotify_id": "3YcbqIhwAiHy3w2vWy2orI"
+            }
+        },
+        {
+            "name": "I Touch Myself",
+            "spotify_id": "6oNvmplQGUkmAh441Teows",
+            "duration_ms": 227640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5t06MTkDD3yr5LVs3YFLQC",
+                    "id": "5t06MTkDD3yr5LVs3YFLQC",
+                    "name": "Divinyls",
+                    "type": "artist",
+                    "uri": "spotify:artist:5t06MTkDD3yr5LVs3YFLQC"
+                }
+            ],
+            "album": {
+                "album_name": "Divinyls",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-01-01",
+                "spotify_id": "50bQGJWB4VoD1GY3c4vYbv"
+            }
+        },
+        {
+            "name": "Middle of the Road - 2007 Remaster",
+            "spotify_id": "1YhyOTcVjHe73cm6tYrHkA",
+            "duration_ms": 254293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0GByy3DcfbQwDvXGCWmzv9",
+                    "id": "0GByy3DcfbQwDvXGCWmzv9",
+                    "name": "Pretenders",
+                    "type": "artist",
+                    "uri": "spotify:artist:0GByy3DcfbQwDvXGCWmzv9"
+                }
+            ],
+            "album": {
+                "album_name": "Learning to Crawl (Expanded & Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984",
+                "spotify_id": "48NYXFdasUBuSeO3RAolt3"
+            }
+        },
+        {
+            "name": "Suicide Blonde",
+            "spotify_id": "3dISHe66tFlOKqmom5Qr2n",
+            "duration_ms": 232626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1eClJfHLoDI4rZe5HxzBFv",
+                    "id": "1eClJfHLoDI4rZe5HxzBFv",
+                    "name": "INXS",
+                    "type": "artist",
+                    "uri": "spotify:artist:1eClJfHLoDI4rZe5HxzBFv"
+                }
+            ],
+            "album": {
+                "album_name": "X (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990",
+                "spotify_id": "6Ct05XZNu2QpqDpjaxY7Xu"
+            }
+        },
+        {
+            "name": "By My Side",
+            "spotify_id": "1vmOWok3n7VAWh08KpEB4y",
+            "duration_ms": 185840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1eClJfHLoDI4rZe5HxzBFv",
+                    "id": "1eClJfHLoDI4rZe5HxzBFv",
+                    "name": "INXS",
+                    "type": "artist",
+                    "uri": "spotify:artist:1eClJfHLoDI4rZe5HxzBFv"
+                }
+            ],
+            "album": {
+                "album_name": "X (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990",
+                "spotify_id": "6Ct05XZNu2QpqDpjaxY7Xu"
+            }
+        }
+    ]
+}

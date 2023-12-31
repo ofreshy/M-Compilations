@@ -1,0 +1,344 @@
+{
+    "name": "80's III",
+    "spotify_id": "4DAX40TXZOKhdT3SxLE4XW",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Mad World",
+            "spotify_id": "0fW13W2PZe6zq87vqUBR66",
+            "duration_ms": 215400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4bthk9UfsYUYdcFyqxmSUU",
+                    "id": "4bthk9UfsYUYdcFyqxmSUU",
+                    "name": "Tears For Fears",
+                    "type": "artist",
+                    "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
+                }
+            ],
+            "album": {
+                "album_name": "The Hurting",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1983-03-07",
+                "spotify_id": "3lP0Pu6a0jUWGPM83XYPip"
+            }
+        },
+        {
+            "name": "Save A Prayer - 2001 Remaster",
+            "spotify_id": "3cDlKgNf1iG3V9PngkVCGv",
+            "duration_ms": 333786,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+                    "id": "0lZoBs4Pzo7R89JM9lxwoT",
+                    "name": "Duran Duran",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+                }
+            ],
+            "album": {
+                "album_name": "12\"/80's Chilled",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2014-01-01",
+                "spotify_id": "3VY6Z4xvsUuXiZYbmONw6X"
+            }
+        },
+        {
+            "name": "All Through the Night",
+            "spotify_id": "2CIDqYfIYfl9vx02wIyCG9",
+            "duration_ms": 272840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+                    "id": "2BTZIqw0ntH9MvilQ3ewNY",
+                    "name": "Cyndi Lauper",
+                    "type": "artist",
+                    "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+                }
+            ],
+            "album": {
+                "album_name": "She's So Unusual",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1983-10-14",
+                "spotify_id": "1FvdZ1oizXwF9bxogujoF0"
+            }
+        },
+        {
+            "name": "Running Up That Hill (A Deal With God)",
+            "spotify_id": "1TOme860eWLYhQCkSPpXmE",
+            "duration_ms": 298933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aSxMhuvixZ8h9dK9jIDwL",
+                    "id": "1aSxMhuvixZ8h9dK9jIDwL",
+                    "name": "Kate Bush",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aSxMhuvixZ8h9dK9jIDwL"
+                }
+            ],
+            "album": {
+                "album_name": "The Whole Story",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1986-11-10",
+                "spotify_id": "0o7IgUEAoOGzsolQgLpnTK"
+            }
+        },
+        {
+            "name": "The Killing Moon",
+            "spotify_id": "0cOf4csnt4DeXSkFmBjULw",
+            "duration_ms": 348293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z",
+                    "id": "0fgYKF9Avljex0L9Wt5b8Z",
+                    "name": "Echo & the Bunnymen",
+                    "type": "artist",
+                    "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z"
+                }
+            ],
+            "album": {
+                "album_name": "Ocean Rain",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984-05-04",
+                "spotify_id": "43jEYhOEU6eWL51lk4l3M7"
+            }
+        },
+        {
+            "name": "Bigmouth Strikes Again - 2011 Remaster",
+            "spotify_id": "2OErSh4oVVAUll0vHxdr6p",
+            "duration_ms": 193320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+                    "id": "3yY2gUcIsjMr8hjo51PoJ8",
+                    "name": "The Smiths",
+                    "type": "artist",
+                    "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+                }
+            ],
+            "album": {
+                "album_name": "The Queen Is Dead",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1986-06-16",
+                "spotify_id": "5Y0p2XCgRRIjna91aQE8q7"
+            }
+        },
+        {
+            "name": "Fools Gold - Remastered Edit",
+            "spotify_id": "4PGMAUQjvNNSyEjf81EwTz",
+            "duration_ms": 256333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d",
+                    "id": "1lYT0A0LV5DUfxr6doRP3d",
+                    "name": "The Stone Roses",
+                    "type": "artist",
+                    "uri": "spotify:artist:1lYT0A0LV5DUfxr6doRP3d"
+                }
+            ],
+            "album": {
+                "album_name": "Fools Gold",
+                "album_group": null,
+                "album_type": "single",
+                "released": "1989-11-13",
+                "spotify_id": "44KVMoEZd2LSNKBBHvtpVY"
+            }
+        },
+        {
+            "name": "I'm Not the Man I Used to Be",
+            "spotify_id": "0ce4Ru8pHOZKijojglD4JS",
+            "duration_ms": 258866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/20p5D2KrE8CGuOjHtxsyTp",
+                    "id": "20p5D2KrE8CGuOjHtxsyTp",
+                    "name": "Fine Young Cannibals",
+                    "type": "artist",
+                    "uri": "spotify:artist:20p5D2KrE8CGuOjHtxsyTp"
+                }
+            ],
+            "album": {
+                "album_name": "The Raw & The Cooked",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-01-01",
+                "spotify_id": "6CoeDRu0SmpFtLZMcRTO2F"
+            }
+        },
+        {
+            "name": "Red Red Wine",
+            "spotify_id": "4uOKFydzAejjSFqYbv1XPt",
+            "duration_ms": 183733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/69MEO1AADKg1IZrq2XLzo5",
+                    "id": "69MEO1AADKg1IZrq2XLzo5",
+                    "name": "UB40",
+                    "type": "artist",
+                    "uri": "spotify:artist:69MEO1AADKg1IZrq2XLzo5"
+                }
+            ],
+            "album": {
+                "album_name": "The Very Best Of",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2000",
+                "spotify_id": "05owfigVGpgPe7RKJG1hum"
+            }
+        },
+        {
+            "name": "Down Under",
+            "spotify_id": "3ZZq9396zv8pcn5GYVhxUi",
+            "duration_ms": 222320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+                    "id": "0f3EsoviYnRKTkmayI3cux",
+                    "name": "Men At Work",
+                    "type": "artist",
+                    "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+                }
+            ],
+            "album": {
+                "album_name": "Business As Usual",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1981-11-09",
+                "spotify_id": "4HDJMKkwAMVFewqfZcmf84"
+            }
+        },
+        {
+            "name": "Private Dancer - Single Edit",
+            "spotify_id": "4tgt2klDz01ErxbvBmJocT",
+            "duration_ms": 243413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1zuJe6b1roixEKMOtyrEak",
+                    "id": "1zuJe6b1roixEKMOtyrEak",
+                    "name": "Tina Turner",
+                    "type": "artist",
+                    "uri": "spotify:artist:1zuJe6b1roixEKMOtyrEak"
+                }
+            ],
+            "album": {
+                "album_name": "All The Best",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2004-11-01",
+                "spotify_id": "64PNGg3YLgOkJ2ySlbrmPZ"
+            }
+        },
+        {
+            "name": "Without You - 2018 Remaster",
+            "spotify_id": "316nCXXZsSSc5fGk1bsS1x",
+            "duration_ms": 189394,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "Let's Dance (2018 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1983-04-14",
+                "spotify_id": "4NwG11AsDJluT732lSjMrV"
+            }
+        },
+        {
+            "name": "Sometimes It Snows in April",
+            "spotify_id": "1Az0fhiWi0EVS4cZ3FF20X",
+            "duration_ms": 409000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+                    "id": "5a2EaR3hamoenG9rDuVn8j",
+                    "name": "Prince",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+                }
+            ],
+            "album": {
+                "album_name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1986-03-31",
+                "spotify_id": "54DjkEN3wdCQgfCTZ9WjdB"
+            }
+        },
+        {
+            "name": "Time After Time",
+            "spotify_id": "6G41H0Zd0kQ1WXWDoEotoJ",
+            "duration_ms": 241160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+                    "id": "2BTZIqw0ntH9MvilQ3ewNY",
+                    "name": "Cyndi Lauper",
+                    "type": "artist",
+                    "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+                }
+            ],
+            "album": {
+                "album_name": "The Essential Cyndi Lauper",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1983",
+                "spotify_id": "5BXCm3N0Uv0IU2uIUAshr2"
+            }
+        }
+    ]
+}

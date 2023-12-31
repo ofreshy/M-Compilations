@@ -1,0 +1,502 @@
+{
+    "name": "HomeComing VI",
+    "spotify_id": "4LHUYHRbQirjHHmEpHyMYb",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "\u05e1\u05dc\u05d9\u05e7",
+            "spotify_id": "4ADnrHHvxhfZIDPBjPAYFU",
+            "duration_ms": 335156,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Fez3trTs4X7YXtw9fWOQj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Fez3trTs4X7YXtw9fWOQj",
+                    "id": "0Fez3trTs4X7YXtw9fWOQj",
+                    "name": "WC",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Fez3trTs4X7YXtw9fWOQj"
+                }
+            ],
+            "album": {
+                "album_name": "We Are Not War Criminals",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-11-26",
+                "spotify_id": "3lOpDACSjvuZrvlNZ0qtij"
+            }
+        },
+        {
+            "name": "\u05d0\u05e0\u05d7\u05e0\u05d5 \u05d1\u05d0\u05d9\u05dd",
+            "spotify_id": "2GNAipOlQtwL5WSZfXJJSY",
+            "duration_ms": 80485,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2HEhIxqZm5YtnCJjB8VGP8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2HEhIxqZm5YtnCJjB8VGP8",
+                    "id": "2HEhIxqZm5YtnCJjB8VGP8",
+                    "name": "\u05d7\u05e0\u05d4 \u05d0\u05d4\u05e8\u05d5\u05e0\u05d9",
+                    "type": "artist",
+                    "uri": "spotify:artist:2HEhIxqZm5YtnCJjB8VGP8"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d7\u05e0\u05d4 \u05d0\u05d4\u05e8\u05d5\u05e0\u05d9 \u05e9\u05e8\u05d4 40 \u05e9\u05d9\u05e8\u05d9 \u05d9\u05dc\u05d3\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1973-09-02",
+                "spotify_id": "1u9cyvMJZ37W8y1XS6mOAL"
+            }
+        },
+        {
+            "name": "\u05de\u05ea\u05ea\u05d9\u05d4\u05d5 \u05d1\u05e0\u05d3 - \u05d4\u05de\u05e6\u05d1",
+            "spotify_id": "4XnzPoWQeg1JEPA81uz6qP",
+            "duration_ms": 206465,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ajdVOiWyy0zKeMX8lfL8m"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ajdVOiWyy0zKeMX8lfL8m",
+                    "id": "4ajdVOiWyy0zKeMX8lfL8m",
+                    "name": "Matityahu Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ajdVOiWyy0zKeMX8lfL8m"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05ea\u05ea\u05d9\u05d4\u05d5 \u05d1\u05e0\u05d3 - \u05d4\u05de\u05e6\u05d1",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2015-11-26",
+                "spotify_id": "6dAgPyg8uLvKcD2N5a2EsM"
+            }
+        },
+        {
+            "name": "\u05d4\u05e4\u05e1\u05d9\u05e7\u05d5 \u05d0\u05ea \u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+            "spotify_id": "7a2WUP5h5EjPDvka46isbd",
+            "duration_ms": 232763,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/52m4avwDcrat4zSI2UljXB",
+                    "id": "52m4avwDcrat4zSI2UljXB",
+                    "name": "The Backyard",
+                    "type": "artist",
+                    "uri": "spotify:artist:52m4avwDcrat4zSI2UljXB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oslLqFFiQGt023MVrPyhd",
+                    "id": "0oslLqFFiQGt023MVrPyhd",
+                    "name": "Tomer Yosef",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oslLqFFiQGt023MVrPyhd"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sN0HNOVlxGnhPqgSIkcIC",
+                    "id": "4sN0HNOVlxGnhPqgSIkcIC",
+                    "name": "\u05d9\u05e2\u05e0\u05e7\u05dc'\u05d4 \u05e8\u05d5\u05d8\u05d1\u05dc\u05d9\u05d8",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sN0HNOVlxGnhPqgSIkcIC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/124b64p4uSTDhwVSgxSGWV",
+                    "id": "124b64p4uSTDhwVSgxSGWV",
+                    "name": "Itamar Ziegler",
+                    "type": "artist",
+                    "uri": "spotify:artist:124b64p4uSTDhwVSgxSGWV"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0KSJMQoxfV5nRqoCqb8535",
+                    "id": "0KSJMQoxfV5nRqoCqb8535",
+                    "name": "Gedy Ronen",
+                    "type": "artist",
+                    "uri": "spotify:artist:0KSJMQoxfV5nRqoCqb8535"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05e4\u05e1\u05d9\u05e7\u05d5 \u05d0\u05ea \u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-08-26",
+                "spotify_id": "4b0gst05NPZ3RTrXZmUhzO"
+            }
+        },
+        {
+            "name": "\u05d6\u05d9\u05e6\u05df \u05d1\u05d9\u05d9 \u05d3\u05d9 \u05dc\u05e2\u05db\u05d8",
+            "spotify_id": "12rb1AZuaPpzIpbNbHa4Jh",
+            "duration_ms": 24579,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4hHHITGSm2B3WyEeHhPg3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4hHHITGSm2B3WyEeHhPg3V",
+                    "id": "4hHHITGSm2B3WyEeHhPg3V",
+                    "name": "\u05d4\u05e8\u05d1 \u05d9\u05d5\u05d0\u05dc \u05e7\u05dc\u05d9\u05d9\u05df",
+                    "type": "artist",
+                    "uri": "spotify:artist:4hHHITGSm2B3WyEeHhPg3V"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d0\u05d9\u05da \u05d4\u05d0\u05d1 \u05dc\u05d9\u05d1 \u05d3\u05d9 \u05d4\u05d9\u05d9\u05dc\u05d9\u05d2\u05e2 \u05d9\u05d5\u05dd \u05d8\u05d5\u05d1 \u05d7\u05e0\u05d5\u05db\u05d4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-12-12",
+                "spotify_id": "2d2gWlb0YjE71PHon7ToYf"
+            }
+        },
+        {
+            "name": "\u05d0\u05de\u05ea \u05d0\u05d5 \u05d7\u05d5\u05d1\u05d4",
+            "spotify_id": "0K6aagIC9tgGJw2JYhXNfI",
+            "duration_ms": 185619,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/28bKmmWuQrRaaiK8BlvNYc"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/28bKmmWuQrRaaiK8BlvNYc",
+                    "id": "28bKmmWuQrRaaiK8BlvNYc",
+                    "name": "Michael Gottlieb",
+                    "type": "artist",
+                    "uri": "spotify:artist:28bKmmWuQrRaaiK8BlvNYc"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2CrVKhuBcQRwvvAzfRtpA2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2CrVKhuBcQRwvvAzfRtpA2",
+                    "id": "2CrVKhuBcQRwvvAzfRtpA2",
+                    "name": "\u05d9\u05d5\u05e1\u05d9 \u05e6\u05d1\u05e8\u05d9",
+                    "type": "artist",
+                    "uri": "spotify:artist:2CrVKhuBcQRwvvAzfRtpA2"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d0\u05dc\u05d9\u05d1\u05d9 - \u05de\u05d9\u05db\u05d0\u05dc \u05d2\u05d5\u05d8\u05dc\u05d9\u05d1 \u05d5\u05d0\u05d5\u05e8\u05d7\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-03-04",
+                "spotify_id": "3QazgzlwWWsgnh46wLm9aR"
+            }
+        },
+        {
+            "name": "\u05d6\u05de\u05df \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+            "spotify_id": "2v5npkWTopGSuglaSfSiWK",
+            "duration_ms": 228133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/78u2puZeKJRYIfNHkx2Jdh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/78u2puZeKJRYIfNHkx2Jdh",
+                    "id": "78u2puZeKJRYIfNHkx2Jdh",
+                    "name": "Hadag Nahash",
+                    "type": "artist",
+                    "uri": "spotify:artist:78u2puZeKJRYIfNHkx2Jdh"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d6\u05de\u05df \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-03-21",
+                "spotify_id": "6uR4Om90N4dLxCyqOwi91S"
+            }
+        },
+        {
+            "name": "\u05e9\u05d9\u05e8\u05ea \u05d4\u05e1\u05d8\u05d9\u05e7\u05e8 2019",
+            "spotify_id": "5OWnUdGNG9la9xKK45O0WX",
+            "duration_ms": 234238,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/78u2puZeKJRYIfNHkx2Jdh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/78u2puZeKJRYIfNHkx2Jdh",
+                    "id": "78u2puZeKJRYIfNHkx2Jdh",
+                    "name": "Hadag Nahash",
+                    "type": "artist",
+                    "uri": "spotify:artist:78u2puZeKJRYIfNHkx2Jdh"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e9\u05d9\u05e8\u05ea \u05d4\u05e1\u05d8\u05d9\u05e7\u05e8 2019",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-05-20",
+                "spotify_id": "7CGRDDhobnq9k9qszRjuaV"
+            }
+        },
+        {
+            "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e2\u05e9\u05d9\u05e8\u05d4",
+            "spotify_id": "47UMnafTXSl6TQMYHhNUko",
+            "duration_ms": 136053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2DMdTMjbXXHnlhsnJ9UJyz",
+                    "id": "2DMdTMjbXXHnlhsnJ9UJyz",
+                    "name": "Sima Noon",
+                    "type": "artist",
+                    "uri": "spotify:artist:2DMdTMjbXXHnlhsnJ9UJyz"
+                }
+            ],
+            "album": {
+                "album_name": "\u05ea\u05d3\u05d1\u05e8\u05d9 \u05db\u05d1\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-13",
+                "spotify_id": "6Crmzlf2yUkeomvVibhy6L"
+            }
+        },
+        {
+            "name": "\u05db\u05d4\u05e8\u05e3 \u05e2\u05d9\u05df",
+            "spotify_id": "0eIhFjba4V57JdeHtOHm60",
+            "duration_ms": 262972,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5SAu9SeFrSvwAfdQe5FxMd"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5SAu9SeFrSvwAfdQe5FxMd",
+                    "id": "5SAu9SeFrSvwAfdQe5FxMd",
+                    "name": "Sagol 59",
+                    "type": "artist",
+                    "uri": "spotify:artist:5SAu9SeFrSvwAfdQe5FxMd"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1SOCXWLgBvXDqNobiSnGM7",
+                    "id": "1SOCXWLgBvXDqNobiSnGM7",
+                    "name": "Teddy Neguse",
+                    "type": "artist",
+                    "uri": "spotify:artist:1SOCXWLgBvXDqNobiSnGM7"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2JQK9mzxqKz16lSgICHDTx",
+                    "id": "2JQK9mzxqKz16lSgICHDTx",
+                    "name": "Ravid Plotnik",
+                    "type": "artist",
+                    "uri": "spotify:artist:2JQK9mzxqKz16lSgICHDTx"
+                }
+            ],
+            "album": {
+                "album_name": "\u05db\u05d4\u05e8\u05e3 \u05e2\u05d9\u05df",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-05-12",
+                "spotify_id": "1AbulXkCKjUrZKaFizGECm"
+            }
+        },
+        {
+            "name": "\u05de\u05d8\u05e2\u05df \u05d7\u05d1\u05dc\u05d4",
+            "spotify_id": "7HwhxpTALbYf6e3x2h6xrM",
+            "duration_ms": 146356,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2DMdTMjbXXHnlhsnJ9UJyz",
+                    "id": "2DMdTMjbXXHnlhsnJ9UJyz",
+                    "name": "Sima Noon",
+                    "type": "artist",
+                    "uri": "spotify:artist:2DMdTMjbXXHnlhsnJ9UJyz"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d8\u05e2\u05df \u05d7\u05d1\u05dc\u05d4",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-12-03",
+                "spotify_id": "79GHHogzqMhtLwGvjdbsmV"
+            }
+        },
+        {
+            "name": "\u05d0\u05d6\u05d9\u05e7\u05d9\u05dd \u05e2\u05dc \u05d4\u05d9\u05d3\u05d9\u05d9\u05dd",
+            "spotify_id": "6o8Q5yobYswZEFSjpBNpbG",
+            "duration_ms": 206093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1SOCXWLgBvXDqNobiSnGM7",
+                    "id": "1SOCXWLgBvXDqNobiSnGM7",
+                    "name": "Teddy Neguse",
+                    "type": "artist",
+                    "uri": "spotify:artist:1SOCXWLgBvXDqNobiSnGM7"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d8.\u05d3.\u05d9",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-13",
+                "spotify_id": "4rkB2jprjsE2P62MAMPvZJ"
+            }
+        },
+        {
+            "name": "\u05e1\u05d8\u05d9\u05e8\u05d9\u05e7\u05e0\u05d9\u05dd",
+            "spotify_id": "2iuD0qvVEFYqJqrCno4NJ3",
+            "duration_ms": 228052,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Fez3trTs4X7YXtw9fWOQj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Fez3trTs4X7YXtw9fWOQj",
+                    "id": "0Fez3trTs4X7YXtw9fWOQj",
+                    "name": "WC",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Fez3trTs4X7YXtw9fWOQj"
+                }
+            ],
+            "album": {
+                "album_name": "We Are Not War Criminals",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-11-26",
+                "spotify_id": "3lOpDACSjvuZrvlNZ0qtij"
+            }
+        },
+        {
+            "name": "\u05de\u05d4\u05e4\u05db\u05d4",
+            "spotify_id": "3jyjGsW3tZJdRvBLzjmYlf",
+            "duration_ms": 145600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wp6i8BxLF3UrF1J3LY4WC",
+                    "id": "2wp6i8BxLF3UrF1J3LY4WC",
+                    "name": "Berry Sakharof",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wp6i8BxLF3UrF1J3LY4WC"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e7\u05dc\u05e8\u05d4 \u05d4\u05e7\u05d3\u05d5\u05e9\u05d4 (\u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05e1\u05e8\u05d8)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-01-01",
+                "spotify_id": "3KH6y4VPx8tYng5hnzi8p2"
+            }
+        },
+        {
+            "name": "\u05d4\u05e8\u05d9\u05e0\u05d9",
+            "spotify_id": "2kjDclr5vMb9gIXJ4RGuuF",
+            "duration_ms": 240946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2JQK9mzxqKz16lSgICHDTx",
+                    "id": "2JQK9mzxqKz16lSgICHDTx",
+                    "name": "Ravid Plotnik",
+                    "type": "artist",
+                    "uri": "spotify:artist:2JQK9mzxqKz16lSgICHDTx"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e9\u05e4\u05dc \u05d5\u05d2\u05d0\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-06-21",
+                "spotify_id": "51RQ0jNZDRzGtBUP8SGw3G"
+            }
+        },
+        {
+            "name": "\u05d4\u05d0\u05d5\u05e8 \u05d4\u05d7\u05d3\u05e9",
+            "spotify_id": "7CH4kh5v6mkMg02WvEh1Qv",
+            "duration_ms": 236774,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/52m4avwDcrat4zSI2UljXB",
+                    "id": "52m4avwDcrat4zSI2UljXB",
+                    "name": "The Backyard",
+                    "type": "artist",
+                    "uri": "spotify:artist:52m4avwDcrat4zSI2UljXB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0KSJMQoxfV5nRqoCqb8535",
+                    "id": "0KSJMQoxfV5nRqoCqb8535",
+                    "name": "Gedy Ronen",
+                    "type": "artist",
+                    "uri": "spotify:artist:0KSJMQoxfV5nRqoCqb8535"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sN0HNOVlxGnhPqgSIkcIC",
+                    "id": "4sN0HNOVlxGnhPqgSIkcIC",
+                    "name": "\u05d9\u05e2\u05e0\u05e7\u05dc'\u05d4 \u05e8\u05d5\u05d8\u05d1\u05dc\u05d9\u05d8",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sN0HNOVlxGnhPqgSIkcIC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/124b64p4uSTDhwVSgxSGWV",
+                    "id": "124b64p4uSTDhwVSgxSGWV",
+                    "name": "Itamar Ziegler",
+                    "type": "artist",
+                    "uri": "spotify:artist:124b64p4uSTDhwVSgxSGWV"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oslLqFFiQGt023MVrPyhd",
+                    "id": "0oslLqFFiQGt023MVrPyhd",
+                    "name": "Tomer Yosef",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oslLqFFiQGt023MVrPyhd"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d0\u05d5\u05e8 \u05d4\u05d7\u05d3\u05e9",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-03-25",
+                "spotify_id": "0Nzy8DlM82ScgBrsz639BJ"
+            }
+        }
+    ]
+}

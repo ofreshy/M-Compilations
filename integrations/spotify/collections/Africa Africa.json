@@ -1,0 +1,340 @@
+{
+    "name": "Africa Africa",
+    "spotify_id": "4LSQeKN2yqCTfD39xkVBcW",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Y\u00e8gell\u00e9 Tezeta (My Own Memory)",
+            "spotify_id": "0nIfIiTrlOeiFEYpVCJZtY",
+            "duration_ms": 198120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HGFXtBhRq3g1Ma3nH4Rgv",
+                    "id": "7HGFXtBhRq3g1Ma3nH4Rgv",
+                    "name": "Mulatu Astatke",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HGFXtBhRq3g1Ma3nH4Rgv"
+                }
+            ],
+            "album": {
+                "album_name": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-10-06",
+                "spotify_id": "5VKvVk4gaPAJyXjof8NnzX"
+            }
+        },
+        {
+            "name": "Me and Julio Down by the Schoolyard",
+            "spotify_id": "6vxHp3CDNo0afgKGp2yi1E",
+            "duration_ms": 164813,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2CvCyf1gEVhI0mX6aFXmVI",
+                    "id": "2CvCyf1gEVhI0mX6aFXmVI",
+                    "name": "Paul Simon",
+                    "type": "artist",
+                    "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                }
+            ],
+            "album": {
+                "album_name": "Paul Simon",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-01-14",
+                "spotify_id": "7npBPiCHjPj8PVIGPuHXep"
+            }
+        },
+        {
+            "name": "Kela Village",
+            "spotify_id": "2qWnIKCZCgPSl4ysBIUSbg",
+            "duration_ms": 190533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4enlUH42adijJsJemKLIrz",
+                    "id": "4enlUH42adijJsJemKLIrz",
+                    "name": "Malian Musicians",
+                    "type": "artist",
+                    "uri": "spotify:artist:4enlUH42adijJsJemKLIrz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+                    "id": "0O98jlCaPzvsoei6U5jfEL",
+                    "name": "Damon Albarn",
+                    "type": "artist",
+                    "uri": "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+                }
+            ],
+            "album": {
+                "album_name": "Mali Music",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-04-15",
+                "spotify_id": "40ncJvz2FvF1Z4EvpE3vU9"
+            }
+        },
+        {
+            "name": "Megumi The Milkyway Above",
+            "spotify_id": "1a8vp72nRMmjotrgBNf7xU",
+            "duration_ms": 148506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/247AfC9pLuqwgpH8Mo96oA",
+                    "id": "247AfC9pLuqwgpH8Mo96oA",
+                    "name": "Connan Mockasin",
+                    "type": "artist",
+                    "uri": "spotify:artist:247AfC9pLuqwgpH8Mo96oA"
+                }
+            ],
+            "album": {
+                "album_name": "Forever Dolphin Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-03-28",
+                "spotify_id": "4PAuhsr5CFi58lJWf9QJMi"
+            }
+        },
+        {
+            "name": "Fireflys Before Tomorrow",
+            "spotify_id": "0WFEVyUaxRgJ2VSa2r26BK",
+            "duration_ms": 171603,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0sDJfnuudhMaEmFPvALK2e",
+                    "id": "0sDJfnuudhMaEmFPvALK2e",
+                    "name": "Kutiman",
+                    "type": "artist",
+                    "uri": "spotify:artist:0sDJfnuudhMaEmFPvALK2e"
+                }
+            ],
+            "album": {
+                "album_name": "Wachaga",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-07-17",
+                "spotify_id": "4s0YEC14PE6xlH7FjclCrW"
+            }
+        },
+        {
+            "name": "Jelefne Bi Salam",
+            "spotify_id": "4YWk05izFNqsgc6YfbLBiI",
+            "duration_ms": 239173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uDfHkEF9G0FoBa97NTr4O",
+                    "id": "6uDfHkEF9G0FoBa97NTr4O",
+                    "name": "Mariem Hassan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uDfHkEF9G0FoBa97NTr4O"
+                }
+            ],
+            "album": {
+                "album_name": "Deseos",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-01-01",
+                "spotify_id": "704dRQCfv6O7WzRp82IIW3"
+            }
+        },
+        {
+            "name": "Mimizan",
+            "spotify_id": "7rYPVAqWk5Oi8XexmAdQJt",
+            "duration_ms": 162666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6pmxr66tMAePxzOLfjGNcX",
+                    "id": "6pmxr66tMAePxzOLfjGNcX",
+                    "name": "Beirut",
+                    "type": "artist",
+                    "uri": "spotify:artist:6pmxr66tMAePxzOLfjGNcX"
+                }
+            ],
+            "album": {
+                "album_name": "Dark Was The Night (Red Hot Compilation)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2009-02-16",
+                "spotify_id": "3mquSHAbafwIrdVpxLx8b9"
+            }
+        },
+        {
+            "name": "Grazing In The Grass",
+            "spotify_id": "2P6Buc8kWRgShx7aHIadqu",
+            "duration_ms": 157773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1b3F5FI7TX4IWTNA4P1kWp",
+                    "id": "1b3F5FI7TX4IWTNA4P1kWp",
+                    "name": "Hugh Masekela",
+                    "type": "artist",
+                    "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp"
+                }
+            ],
+            "album": {
+                "album_name": "The Promise Of A Future",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-01-01",
+                "spotify_id": "21YlyIf7r7nQGypMvogt2D"
+            }
+        },
+        {
+            "name": "Pata Pata - Stereo Version",
+            "spotify_id": "7d3cKDG22Ig9kZOS1qsq3S",
+            "duration_ms": 180174,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+                    "id": "18RkLKfeoUgZflWv9os25W",
+                    "name": "Miriam Makeba",
+                    "type": "artist",
+                    "uri": "spotify:artist:18RkLKfeoUgZflWv9os25W"
+                }
+            ],
+            "album": {
+                "album_name": "Pata Pata",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017",
+                "spotify_id": "1y0oTN8oxJPyY06ypQBDFv"
+            }
+        },
+        {
+            "name": "I'm Not the Man I Used to Be",
+            "spotify_id": "0ce4Ru8pHOZKijojglD4JS",
+            "duration_ms": 258866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/20p5D2KrE8CGuOjHtxsyTp",
+                    "id": "20p5D2KrE8CGuOjHtxsyTp",
+                    "name": "Fine Young Cannibals",
+                    "type": "artist",
+                    "uri": "spotify:artist:20p5D2KrE8CGuOjHtxsyTp"
+                }
+            ],
+            "album": {
+                "album_name": "The Raw & The Cooked",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-01-01",
+                "spotify_id": "6CoeDRu0SmpFtLZMcRTO2F"
+            }
+        },
+        {
+            "name": "\u05d1\u05d9\u05df \u05db\u05dc \u05d4\u05d1\u05dc\u05d5\u05e3",
+            "spotify_id": "2D6cp3MJWb3N7rp9CRIsM6",
+            "duration_ms": 221340,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/26z8F9xJMac82Ts6qMAHyb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/26z8F9xJMac82Ts6qMAHyb",
+                    "id": "26z8F9xJMac82Ts6qMAHyb",
+                    "name": "KGC",
+                    "type": "artist",
+                    "uri": "spotify:artist:26z8F9xJMac82Ts6qMAHyb"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d1\u05d9\u05df \u05db\u05dc \u05d4\u05d1\u05dc\u05d5\u05e3",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-11-14",
+                "spotify_id": "4ruhBD6nYGT62Jf1iBlvem"
+            }
+        },
+        {
+            "name": "Big Shot (with Travis Scott)",
+            "spotify_id": "5A4anUcHrgnqH9UorW9XbG",
+            "duration_ms": 221826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+                    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                    "name": "Travis Scott",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+                }
+            ],
+            "album": {
+                "album_name": "Black Panther The Album Music From And Inspired By",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-02-09",
+                "spotify_id": "5f8pMn2A5d5lKMDapYbCmp"
+            }
+        },
+        {
+            "name": "Abusey Junction",
+            "spotify_id": "6Mvb8vVYbBlYn7lkTciTd6",
+            "duration_ms": 429093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3u9rbdcmA6CxjxOAkjaeFr",
+                    "id": "3u9rbdcmA6CxjxOAkjaeFr",
+                    "name": "Kokoroko",
+                    "type": "artist",
+                    "uri": "spotify:artist:3u9rbdcmA6CxjxOAkjaeFr"
+                }
+            ],
+            "album": {
+                "album_name": "We out Here",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2018-02-09",
+                "spotify_id": "02RrqvEv45gBBqOOtBX78p"
+            }
+        }
+    ]
+}

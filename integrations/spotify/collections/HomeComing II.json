@@ -1,0 +1,394 @@
+{
+    "name": "HomeComing II",
+    "spotify_id": "4Okj0mnbw8cwOSubmwAyQq",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Mona Lisa",
+            "spotify_id": "5fDCjvNAhxhyyiZzkwQuWh",
+            "duration_ms": 199693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/71eKk097AIMUOng7PAhqK8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/71eKk097AIMUOng7PAhqK8",
+                    "id": "71eKk097AIMUOng7PAhqK8",
+                    "name": "theAngelcy",
+                    "type": "artist",
+                    "uri": "spotify:artist:71eKk097AIMUOng7PAhqK8"
+                }
+            ],
+            "album": {
+                "album_name": "Mona Lisa",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-09-12",
+                "spotify_id": "4xZAk1qIAHnPxnQEMJLk0o"
+            }
+        },
+        {
+            "name": "She's So Young",
+            "spotify_id": "5p94b8ygLUaVUYZjWGHB3N",
+            "duration_ms": 146782,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3lTo1RLFeLDQeytnn94IUm",
+                    "id": "3lTo1RLFeLDQeytnn94IUm",
+                    "name": "Uzi Ramirez",
+                    "type": "artist",
+                    "uri": "spotify:artist:3lTo1RLFeLDQeytnn94IUm"
+                }
+            ],
+            "album": {
+                "album_name": "Lick My Heart",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-10-27",
+                "spotify_id": "374ahHodeCuae15RZTzjSo"
+            }
+        },
+        {
+            "name": "Reckoning Song (One Day)",
+            "spotify_id": "6C2WXdMMndPrnhSJJolPu8",
+            "duration_ms": 166813,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2TwepUY7feaTuipStcyzLZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2TwepUY7feaTuipStcyzLZ",
+                    "id": "2TwepUY7feaTuipStcyzLZ",
+                    "name": "Asaf Avidan & the Mojos",
+                    "type": "artist",
+                    "uri": "spotify:artist:2TwepUY7feaTuipStcyzLZ"
+                }
+            ],
+            "album": {
+                "album_name": "The Reckoning",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-04-03",
+                "spotify_id": "4KWNqJMnq6lpI47qv1sHTJ"
+            }
+        },
+        {
+            "name": "I Can't Go to Sleep (feat. Ghostface Killah, RZA & Issac Hayes)",
+            "spotify_id": "1VUZYA1krvrh7QO2Rpc1JV",
+            "duration_ms": 215226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/34EP7KEpOjXcM2TCat1ISk",
+                    "id": "34EP7KEpOjXcM2TCat1ISk",
+                    "name": "Wu-Tang Clan",
+                    "type": "artist",
+                    "uri": "spotify:artist:34EP7KEpOjXcM2TCat1ISk"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+                    "id": "6FD0unjzGQhX3b6eMccMJe",
+                    "name": "Ghostface Killah",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4iCwCMnqsNZ6atvRiADgtn",
+                    "id": "4iCwCMnqsNZ6atvRiADgtn",
+                    "name": "RZA",
+                    "type": "artist",
+                    "uri": "spotify:artist:4iCwCMnqsNZ6atvRiADgtn"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3IKV7o6WPphDB7cCWXaG3E",
+                    "id": "3IKV7o6WPphDB7cCWXaG3E",
+                    "name": "Isaac Hayes",
+                    "type": "artist",
+                    "uri": "spotify:artist:3IKV7o6WPphDB7cCWXaG3E"
+                }
+            ],
+            "album": {
+                "album_name": "The W",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-11-20",
+                "spotify_id": "2WU4hhnp2kjPckmjqdL1RT"
+            }
+        },
+        {
+            "name": "\u05d0\u05d1\u05d5\u05d3\u05d9\u05dd \u05d1\u05d7\u05dc\u05dc",
+            "spotify_id": "6TSK5f1MEzajrowxJeIXVH",
+            "duration_ms": 292173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17pbOSPIn3lmY0vHhOlKGL",
+                    "id": "17pbOSPIn3lmY0vHhOlKGL",
+                    "name": "Tuna",
+                    "type": "artist",
+                    "uri": "spotify:artist:17pbOSPIn3lmY0vHhOlKGL"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1EK3SHXyGFZsuj4vrOLhAX",
+                    "id": "1EK3SHXyGFZsuj4vrOLhAX",
+                    "name": "A-WA",
+                    "type": "artist",
+                    "uri": "spotify:artist:1EK3SHXyGFZsuj4vrOLhAX"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d8\u05d5\u05e0\u05d4\u05e4\u05d0\u05e8\u05e7",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-07",
+                "spotify_id": "3yXLuyV0G2op91XliCCRWv"
+            }
+        },
+        {
+            "name": "\u05d2\u05dc\u05d1\u05d9",
+            "spotify_id": "5TXGcGMpXU50hBvgRqCLd4",
+            "duration_ms": 166306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ytNoXYE3P3AAZ8vRjBQzQ",
+                    "id": "0ytNoXYE3P3AAZ8vRjBQzQ",
+                    "name": "Liron Amram",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ytNoXYE3P3AAZ8vRjBQzQ"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e7\u05d5\u05dc \u05d4\u05e0\u05e9\u05de\u05d4 - \u05e9\u05e8\u05d9\u05dd \u05e2\u05e4\u05e8\u05d4 \u05d7\u05d6\u05d4",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2018-11-19",
+                "spotify_id": "3s13Y7aat0C0sIyvp5Lec3"
+            }
+        },
+        {
+            "name": "Bayti Fi Rasi",
+            "spotify_id": "120fpgrWkimY8vCZdOz9Rr",
+            "duration_ms": 218069,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1EK3SHXyGFZsuj4vrOLhAX",
+                    "id": "1EK3SHXyGFZsuj4vrOLhAX",
+                    "name": "A-WA",
+                    "type": "artist",
+                    "uri": "spotify:artist:1EK3SHXyGFZsuj4vrOLhAX"
+                }
+            ],
+            "album": {
+                "album_name": "Bayti Fi Rasi",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-05-31",
+                "spotify_id": "46reac1ZzkmCPcHpRMgniL"
+            }
+        },
+        {
+            "name": "Cry Me a River",
+            "spotify_id": "7Lf7oSEVdzZqTA0kEDSlS5",
+            "duration_ms": 288333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+                    "id": "31TPClRtHm23RisEBtV3X7",
+                    "name": "Justin Timberlake",
+                    "type": "artist",
+                    "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+                }
+            ],
+            "album": {
+                "album_name": "Justified",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-11-04",
+                "spotify_id": "6QPkyl04rXwTGlGlcYaRoW"
+            }
+        },
+        {
+            "name": "bury a friend",
+            "spotify_id": "4SSnFejRGlZikf02HLewEF",
+            "duration_ms": 193143,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "album": {
+                "album_name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-03-29",
+                "spotify_id": "0S0KGZnfBGSIssfF54WSJh"
+            }
+        },
+        {
+            "name": "Sipoor",
+            "spotify_id": "1NT5FGy1EqbJSit5A2z5Jq",
+            "duration_ms": 380143,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Owm9QgL9BSCRQKTX6T08G",
+                    "id": "5Owm9QgL9BSCRQKTX6T08G",
+                    "name": "Red Axes",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Owm9QgL9BSCRQKTX6T08G"
+                }
+            ],
+            "album": {
+                "album_name": "Sipoor EP",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-07-06",
+                "spotify_id": "3FS2sW653vdRTIflrLyvQs"
+            }
+        },
+        {
+            "name": "Jesus - Eyal Samson Remix",
+            "spotify_id": "4TNlSMCJbcA8ZxCpUKqwi1",
+            "duration_ms": 330240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/24Rzfui4UwLMlhZcWYYk7P",
+                    "id": "24Rzfui4UwLMlhZcWYYk7P",
+                    "name": "Hila Ruach",
+                    "type": "artist",
+                    "uri": "spotify:artist:24Rzfui4UwLMlhZcWYYk7P"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TbYTU9cU7gLbAI7PPNyXx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TbYTU9cU7gLbAI7PPNyXx",
+                    "id": "3TbYTU9cU7gLbAI7PPNyXx",
+                    "name": "Eyal Samson",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TbYTU9cU7gLbAI7PPNyXx"
+                }
+            ],
+            "album": {
+                "album_name": "Music By Laptops",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-01-31",
+                "spotify_id": "3iAaP1RuHaYWJLS49UwG0L"
+            }
+        },
+        {
+            "name": "tonite - electric lady sessions",
+            "spotify_id": "3Yt2xWPhfXkrGLXs06WExO",
+            "duration_ms": 344520,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "Electric Lady Sessions",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-02-08",
+                "spotify_id": "6iVbNJBKV53qgNPKPpcBLt"
+            }
+        },
+        {
+            "name": "home - electric lady sessions",
+            "spotify_id": "6sz3dQGvEbgDK4Om1RAqR8",
+            "duration_ms": 363253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "Electric Lady Sessions",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-02-08",
+                "spotify_id": "6iVbNJBKV53qgNPKPpcBLt"
+            }
+        },
+        {
+            "name": "I Want Your Love - electric lady sessions",
+            "spotify_id": "6aqzFwI8IHlAzRxbqMDAqP",
+            "duration_ms": 256213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "Electric Lady Sessions",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-02-08",
+                "spotify_id": "6iVbNJBKV53qgNPKPpcBLt"
+            }
+        }
+    ]
+}

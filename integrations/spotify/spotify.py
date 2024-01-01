@@ -275,50 +275,6 @@ def get_collection_stats(client: SpotifyClient, spotify_collection: SpotifyColle
     print(tracks_features)
 
 
-def get_local_collections_ids(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Set[str]:
-    """
-    Returns the collection ids that exists on collection_path
-    """
-    return {
-        content["spotify_id"]
-        for content
-        in get_local_collections_content(collection_path)
-    }
-
-
-def get_local_collections_content(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Iterator[dict]:
-    def load_content(path: str):
-        with open(path, "r") as f:
-            return json.loads(f.read())
-
-    return (
-        load_content(os.path.join(collection_path, name))
-        for name in os.listdir(collection_path)
-        if name.endswith(".json")
-    )
-
-
-def get_local_collections_by_name(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Dict[str, Dict]:
-    """
-    Returns all local collection content by their name
-    """
-    return {
-        content["name"]: content
-        for content
-        in get_local_collections_content(collection_path)
-    }
-
-
-def clear_local_collections(path=SPOTIFY_COLLECTIONS_PATH):
-    try:
-        shutil.rmtree(path)
-    except:
-        pass
-    else:
-        os.makedirs(path)
-
-
-
 # client = SpotifyClient.make_default(limit=20)
 # # collections = get_remote_collections(client)
 # # for col in collections:

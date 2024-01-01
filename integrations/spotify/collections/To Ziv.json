@@ -1,0 +1,394 @@
+{
+    "name": "To Ziv",
+    "spotify_id": "75OrFrdFCaqp3Y3oZtG6nG",
+    "created_date": "2021-06-12",
+    "description": "41 Bday Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Heaven Can Wait (Chris Taylor Remix) - Bonus Track",
+            "spotify_id": "1nqCNNOBbpLvAe7yKxOdFN",
+            "duration_ms": 135173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rBcvLKWCZs9w1qIWv560v",
+                    "id": "2rBcvLKWCZs9w1qIWv560v",
+                    "name": "Charlotte Gainsbourg",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rBcvLKWCZs9w1qIWv560v"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+                    "id": "3vbKDsSS70ZX9D2OcvbZmS",
+                    "name": "Beck",
+                    "type": "artist",
+                    "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+                }
+            ],
+            "album": {
+                "album_name": "IRM (Version Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-12-07",
+                "spotify_id": "3yskvqosKohzIMFeEAHAFt"
+            }
+        },
+        {
+            "name": "Balls and Pins",
+            "spotify_id": "5tHaybkNtRzS7ixs5xCRPo",
+            "duration_ms": 208653,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "The Universe Smiles Upon You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-11-06",
+                "spotify_id": "6xJnGoWQGMJcEUcAyyvvhj"
+            }
+        },
+        {
+            "name": "Keep Your Name",
+            "spotify_id": "41IcdEHjwDp65pVjOxODCf",
+            "duration_ms": 270172,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+                    "id": "5VF0YkVLeVD4ytyiyVSIiF",
+                    "name": "Dirty Projectors",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+                }
+            ],
+            "album": {
+                "album_name": "Dirty Projectors",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-02-21",
+                "spotify_id": "6HA2YKWabsGi6XWkhWoZuA"
+            }
+        },
+        {
+            "name": "Beautiful Mother",
+            "spotify_id": "7BoLalyJ47IYeGzo0OG7Uu",
+            "duration_ms": 136360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VF0YkVLeVD4ytyiyVSIiF",
+                    "id": "5VF0YkVLeVD4ytyiyVSIiF",
+                    "name": "Dirty Projectors",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VF0YkVLeVD4ytyiyVSIiF"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+                    "id": "7w29UYBi0qsHi5RTcv3lmA",
+                    "name": "Bj\u00f6rk",
+                    "type": "artist",
+                    "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+                }
+            ],
+            "album": {
+                "album_name": "Mount Wittenberg Orca",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-10-31",
+                "spotify_id": "0zm40o2MnYmpxcKKProN8U"
+            }
+        },
+        {
+            "name": "Dogs Got a Bone",
+            "spotify_id": "5BSowbsLE5aFla0Gykgfm8",
+            "duration_ms": 358906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2LMR8u7DOMF0FBseDpTsRa",
+                    "id": "2LMR8u7DOMF0FBseDpTsRa",
+                    "name": "The Beta Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:2LMR8u7DOMF0FBseDpTsRa"
+                }
+            ],
+            "album": {
+                "album_name": "The Three EP's",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-09-28",
+                "spotify_id": "5GBPnIYc6qMXwp6n1cW5TT"
+            }
+        },
+        {
+            "name": "Games Without Frontiers",
+            "spotify_id": "1SXSLvVq87U2DctZDXU5Id",
+            "duration_ms": 246666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7C4sUpWGlTy7IANjruj02I",
+                    "id": "7C4sUpWGlTy7IANjruj02I",
+                    "name": "Peter Gabriel",
+                    "type": "artist",
+                    "uri": "spotify:artist:7C4sUpWGlTy7IANjruj02I"
+                }
+            ],
+            "album": {
+                "album_name": "Peter Gabriel 3: Melt (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980-05-23",
+                "spotify_id": "0KLyPao7XpXHSAMmbkxCoz"
+            }
+        },
+        {
+            "name": "Heartbeats",
+            "spotify_id": "0PpusydO6yo5UgYCFUylnv",
+            "duration_ms": 233600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+                    "id": "7eQZTqEMozBcuSubfu52i4",
+                    "name": "The Knife",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+                }
+            ],
+            "album": {
+                "album_name": "Heartbeats",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2004",
+                "spotify_id": "3cqG28mUzDdArMwNQ7uQoS"
+            }
+        },
+        {
+            "name": "Old Man",
+            "spotify_id": "4rWbao8Vde6ioqH2jZI4ee",
+            "duration_ms": 202693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+                    "id": "6v8FB84lnmJs434UJf2Mrm",
+                    "name": "Neil Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+                }
+            ],
+            "album": {
+                "album_name": "Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2004-11-15",
+                "spotify_id": "2hNa7oWGatOqnKw9cmS4ao"
+            }
+        },
+        {
+            "name": "Says",
+            "spotify_id": "1KGSPAeX3UIhhjIhB7AKnF",
+            "duration_ms": 498000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gqhueRUZEa7VDnQt4HODp",
+                    "id": "5gqhueRUZEa7VDnQt4HODp",
+                    "name": "Nils Frahm",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+                }
+            ],
+            "album": {
+                "album_name": "Spaces",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-11-18",
+                "spotify_id": "27lj323rr5ku9aEUwanp99"
+            }
+        },
+        {
+            "name": "O Children",
+            "spotify_id": "29FQEJUtBAnxWEkux39d7I",
+            "duration_ms": 411386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UXJsSlnKd7ltsrHebV79Q",
+                    "id": "4UXJsSlnKd7ltsrHebV79Q",
+                    "name": "Nick Cave & The Bad Seeds",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UXJsSlnKd7ltsrHebV79Q"
+                }
+            ],
+            "album": {
+                "album_name": "Abattoir Blues / The Lyre of Orpheus",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-09-20",
+                "spotify_id": "4OrbNhWLOrWi6lb40T0IHM"
+            }
+        },
+        {
+            "name": "Bela Lugosi's Dead",
+            "spotify_id": "0Fl0nllf1fRAM18s5y6mJo",
+            "duration_ms": 240226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4h7NLIlg1oYdEtfQJfyto0",
+                    "id": "4h7NLIlg1oYdEtfQJfyto0",
+                    "name": "Nouvelle Vague",
+                    "type": "artist",
+                    "uri": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/318VpIRUWele6jD0k3ldkT",
+                    "id": "318VpIRUWele6jD0k3ldkT",
+                    "name": "Phoebe Killdeer",
+                    "type": "artist",
+                    "uri": "spotify:artist:318VpIRUWele6jD0k3ldkT"
+                }
+            ],
+            "album": {
+                "album_name": "Bande \u00e0 Part",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-06-26",
+                "spotify_id": "04VmLM7OUYvIIwtSryQ7nm"
+            }
+        },
+        {
+            "name": "Off The Rail",
+            "spotify_id": "1n5MIKLvqfPiOVsp7mI0xQ",
+            "duration_ms": 207973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+                    "id": "1o4xLcugkCtDDOw7POAMha",
+                    "name": "The Notwist",
+                    "type": "artist",
+                    "uri": "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+                }
+            ],
+            "album": {
+                "album_name": "Neon Golden",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "7vudPatSILg90CBWmxkrSI"
+            }
+        },
+        {
+            "name": "Consequence",
+            "spotify_id": "7z7LK04ofhX3NX9G9fUAov",
+            "duration_ms": 313346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1o4xLcugkCtDDOw7POAMha",
+                    "id": "1o4xLcugkCtDDOw7POAMha",
+                    "name": "The Notwist",
+                    "type": "artist",
+                    "uri": "spotify:artist:1o4xLcugkCtDDOw7POAMha"
+                }
+            ],
+            "album": {
+                "album_name": "Neon Golden",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-14",
+                "spotify_id": "14RFc5znGuxYpKDzOxgbcn"
+            }
+        },
+        {
+            "name": "Why We Build the Wall",
+            "spotify_id": "68oU2YXg4kwPpertTUFrC6",
+            "duration_ms": 240193,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Dk7zvn9NdF4TESEa8Bbbj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Dk7zvn9NdF4TESEa8Bbbj",
+                    "id": "4Dk7zvn9NdF4TESEa8Bbbj",
+                    "name": "Patrick Page",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Dk7zvn9NdF4TESEa8Bbbj"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3brvz8iY9RVIbbM8KDb3hH",
+                    "id": "3brvz8iY9RVIbbM8KDb3hH",
+                    "name": "Hadestown Original Broadway Company",
+                    "type": "artist",
+                    "uri": "spotify:artist:3brvz8iY9RVIbbM8KDb3hH"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7K5Lm5dxoEwEpOS0Fc3l3s",
+                    "id": "7K5Lm5dxoEwEpOS0Fc3l3s",
+                    "name": "Ana\u00efs Mitchell",
+                    "type": "artist",
+                    "uri": "spotify:artist:7K5Lm5dxoEwEpOS0Fc3l3s"
+                }
+            ],
+            "album": {
+                "album_name": "Hadestown (Original Broadway Cast Recording)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-07-26",
+                "spotify_id": "1J1yxODbNlqKbwRqJxYJUP"
+            }
+        }
+    ]
+}

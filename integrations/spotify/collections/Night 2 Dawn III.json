@@ -1,0 +1,306 @@
+{
+    "name": "Night 2 Dawn III",
+    "spotify_id": "5pR9smYFmqueFWJmPoXQTp",
+    "created_date": "2021-09-03",
+    "description": "",
+    "tracks": [
+        {
+            "name": "As Tears Go By",
+            "spotify_id": "5X2RZjBGUFzePdOa0pJ7Af",
+            "duration_ms": 158093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7mlge4peaoNgzTsY6M32RB",
+                    "id": "7mlge4peaoNgzTsY6M32RB",
+                    "name": "Marianne Faithfull",
+                    "type": "artist",
+                    "uri": "spotify:artist:7mlge4peaoNgzTsY6M32RB"
+                }
+            ],
+            "album": {
+                "album_name": "Marianne Faithfull's Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1987",
+                "spotify_id": "1RNDMROPFPIzWtRgmGaTkN"
+            }
+        },
+        {
+            "name": "True Love Will Find You in the End",
+            "spotify_id": "6fEjOPaZoxQl3oha9GDJAN",
+            "duration_ms": 111170,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1jeYbk5eqo6wgsQPjLeU5w",
+                    "id": "1jeYbk5eqo6wgsQPjLeU5w",
+                    "name": "Daniel Johnston",
+                    "type": "artist",
+                    "uri": "spotify:artist:1jeYbk5eqo6wgsQPjLeU5w"
+                }
+            ],
+            "album": {
+                "album_name": "1990",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990-01-01",
+                "spotify_id": "3puh4gwTuQFlPTZaEezmqa"
+            }
+        },
+        {
+            "name": "I Am Coming to Paris (To Kill You)",
+            "spotify_id": "6lZVBrnX35AHCl37Mzh3qi",
+            "duration_ms": 199265,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+                    "id": "7HeVXdOdMhLslVputGTZFQ",
+                    "name": "Timber Timbre",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+                }
+            ],
+            "album": {
+                "album_name": "I Am Coming to Paris",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-04-30",
+                "spotify_id": "28j0TH6MEYyGJX4SfsL8EV"
+            }
+        },
+        {
+            "name": "These Days",
+            "spotify_id": "17euxWBhHT86yFjGuP9tSw",
+            "duration_ms": 199320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7bcbShaqKdcyjnmv4Ix8j6",
+                    "id": "7bcbShaqKdcyjnmv4Ix8j6",
+                    "name": "St. Vincent",
+                    "type": "artist",
+                    "uri": "spotify:artist:7bcbShaqKdcyjnmv4Ix8j6"
+                }
+            ],
+            "album": {
+                "album_name": "Jesus Saves, I Spend",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2007-11-26",
+                "spotify_id": "05JkgPTxUIXWkiZf96VAYa"
+            }
+        },
+        {
+            "name": "Those Were the Days",
+            "spotify_id": "5l9xuuB3FyPOTBsyCWwt3V",
+            "duration_ms": 259506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+                    "id": "6mKqFxGMS5TGDZI3XkT5Rt",
+                    "name": "Angel Olsen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+                }
+            ],
+            "album": {
+                "album_name": "MY WOMAN",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-09-02",
+                "spotify_id": "5M8xQaQZuW2LZGVXZ3mlKN"
+            }
+        },
+        {
+            "name": "Baby\u2019s Arms",
+            "spotify_id": "1eTZQmiMtnoRrqwrjZE0Hy",
+            "duration_ms": 236306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+                    "id": "5gspAQIAH8nJUrMYgXjCJ2",
+                    "name": "Kurt Vile",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+                }
+            ],
+            "album": {
+                "album_name": "Smoke Ring For My Halo",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011",
+                "spotify_id": "32a7BrNNTAu7BVb6DcsMLP"
+            }
+        },
+        {
+            "name": "Just Like Heaven",
+            "spotify_id": "58qeN1OusvLhFmygjsdFB8",
+            "duration_ms": 206496,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5B7NeaqVrmXPyF05C9tnZ3",
+                    "id": "5B7NeaqVrmXPyF05C9tnZ3",
+                    "name": "Christian Lee Hutson",
+                    "type": "artist",
+                    "uri": "spotify:artist:5B7NeaqVrmXPyF05C9tnZ3"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7JgXEHI1oEiQICAMeCsKTj",
+                    "id": "7JgXEHI1oEiQICAMeCsKTj",
+                    "name": "Shamir",
+                    "type": "artist",
+                    "uri": "spotify:artist:7JgXEHI1oEiQICAMeCsKTj"
+                }
+            ],
+            "album": {
+                "album_name": "The Version Suicides, Vol. 2",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-03-12",
+                "spotify_id": "1aRcn8SmEQOrEqzp4xbbJz"
+            }
+        },
+        {
+            "name": "Angeles",
+            "spotify_id": "0Ziohm1Ku8E2yUDYoclfhO",
+            "duration_ms": 177200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+                    "id": "2ApaG60P4r0yhBoDCGD8YG",
+                    "name": "Elliott Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+                }
+            ],
+            "album": {
+                "album_name": "Either/Or",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-02-25",
+                "spotify_id": "5hryhrT7wEdLnZCbJX9F6L"
+            }
+        },
+        {
+            "name": "Them",
+            "spotify_id": "2tr4oclswJ6v3dfDlI01HD",
+            "duration_ms": 239769,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gqhueRUZEa7VDnQt4HODp",
+                    "id": "5gqhueRUZEa7VDnQt4HODp",
+                    "name": "Nils Frahm",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+                }
+            ],
+            "album": {
+                "album_name": "Music for the Motion Picture Victoria",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-06-15",
+                "spotify_id": "5Bd46K8hcylV7O7xz2YqEX"
+            }
+        },
+        {
+            "name": "Don't Pass Me By",
+            "spotify_id": "61SaRW2jSi7MV6wHvbcgM9",
+            "duration_ms": 309255,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+                    "id": "7B2edU3Q7btJoNsoHCNohM",
+                    "name": "Laura Marling",
+                    "type": "artist",
+                    "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+                }
+            ],
+            "album": {
+                "album_name": "Semper Femina",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-03-10",
+                "spotify_id": "3Z4NNeh0gf4oGquXZEU1NT"
+            }
+        },
+        {
+            "name": "True Love Will Find You in the End",
+            "spotify_id": "0UXngwOq5t4Lazgxg96ryr",
+            "duration_ms": 230933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+                    "id": "2QoU3awHVdcHS8LrZEKvSM",
+                    "name": "Wilco",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+                }
+            ],
+            "album": {
+                "album_name": "Alpha Mike Foxtrot: Rare Tracks 1994 - 2014",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2014-11-17",
+                "spotify_id": "71CIpjzqwqHxnUxL1FDS0M"
+            }
+        },
+        {
+            "name": "To Love Somebody",
+            "spotify_id": "0mbS3VwRbO6HVBMPXnzOGA",
+            "duration_ms": 182000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
+                    "id": "1LZEQNv7sE11VDY3SdxQeN",
+                    "name": "Bee Gees",
+                    "type": "artist",
+                    "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+                }
+            ],
+            "album": {
+                "album_name": "Bee Gees' 1st",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-07-14",
+                "spotify_id": "2ESenDgBlvBFn6G1SfVZIw"
+            }
+        }
+    ]
+}

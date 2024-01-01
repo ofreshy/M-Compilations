@@ -1,0 +1,176 @@
+{
+    "name": "Decades III",
+    "spotify_id": "4KjiwuKM7aP3OkzbqBFToH",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Epitaph",
+            "spotify_id": "6rZBDNkkwkSMurPA2uE6Hg",
+            "duration_ms": 535000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7M1FPw29m5FbicYzS2xdpi",
+                    "id": "7M1FPw29m5FbicYzS2xdpi",
+                    "name": "King Crimson",
+                    "type": "artist",
+                    "uri": "spotify:artist:7M1FPw29m5FbicYzS2xdpi"
+                }
+            ],
+            "album": {
+                "album_name": "The Condensed 21st Century Guide To King Crimson (1969 - 2003)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-10-16",
+                "spotify_id": "4jfFma9AGLuMb8rrBzD54z"
+            }
+        },
+        {
+            "name": "My God",
+            "spotify_id": "1pkoB8ZiZymyyIvaZmKElJ",
+            "duration_ms": 431053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "name": "Jethro Tull",
+                    "type": "artist",
+                    "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R"
+                }
+            ],
+            "album": {
+                "album_name": "Aqualung (Special Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-03-19",
+                "spotify_id": "0NGM3Ftwjw0dLNpAowmz3x"
+            }
+        },
+        {
+            "name": "Telegraph Road",
+            "spotify_id": "0yOONE736p1U95gjtnPRPP",
+            "duration_ms": 860333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+                    "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+                    "name": "Dire Straits",
+                    "type": "artist",
+                    "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+                }
+            ],
+            "album": {
+                "album_name": "The Best Of Dire Straits & Mark Knopfler - Private Investigations",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2005-01-01",
+                "spotify_id": "5RUE91DSu0BdsiEn4vOrNY"
+            }
+        },
+        {
+            "name": "Soma - Remastered",
+            "spotify_id": "6fTrXxtQMAw579Lvx0DbE8",
+            "duration_ms": 398240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+                    "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+                    "name": "The Smashing Pumpkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+                }
+            ],
+            "album": {
+                "album_name": "Siamese Dream (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993-07-27",
+                "spotify_id": "2JZBdv0DJpNGmlDDqZPxgd"
+            }
+        },
+        {
+            "name": "I Am Trying to Break Your Heart",
+            "spotify_id": "3HWxpLKnTlz6jE3Vi5dTF2",
+            "duration_ms": 418200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+                    "id": "2QoU3awHVdcHS8LrZEKvSM",
+                    "name": "Wilco",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+                }
+            ],
+            "album": {
+                "album_name": "Yankee Hotel Foxtrot",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-04-16",
+                "spotify_id": "0rPtXOMN42nsLDiShvGamv"
+            }
+        },
+        {
+            "name": "Under The Pressure",
+            "spotify_id": "45D0ixQWzXQOoU1S9aSnKk",
+            "duration_ms": 532306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6g0mn3tzAds6aVeUYRsryU",
+                    "id": "6g0mn3tzAds6aVeUYRsryU",
+                    "name": "The War On Drugs",
+                    "type": "artist",
+                    "uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU"
+                }
+            ],
+            "album": {
+                "album_name": "Lost In The Dream",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-03-18",
+                "spotify_id": "14xxjLlbGy8ACm4MorBjD5"
+            }
+        },
+        {
+            "name": "Comes Then Goes",
+            "spotify_id": "1Rjk4jlqDbMhIPFTXfP7ud",
+            "duration_ms": 362466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+                    "id": "1w5Kfo2jwwIPruYS2UWh56",
+                    "name": "Pearl Jam",
+                    "type": "artist",
+                    "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+                }
+            ],
+            "album": {
+                "album_name": "Gigaton",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-03-27",
+                "spotify_id": "5bTixyz2GHx1YUqNUdzfut"
+            }
+        }
+    ]
+}

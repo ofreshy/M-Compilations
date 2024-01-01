@@ -16,7 +16,7 @@ class IndexView(generic.ListView):
 
 def lib_stat(request):
     context = {
-        "lib_stat": LibraryStat.load(),
+        "stats": LibraryStat.load(),
     }
     return render(request, 'musik_lib/lib_stat.html', context)
 

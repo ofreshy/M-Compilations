@@ -1,0 +1,340 @@
+{
+    "name": "Floating in Time",
+    "spotify_id": "6v7d0RVXo5tPR8M0ep4DmG",
+    "created_date": "2022-01-29",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Merry Christmas Mr. Lawrence",
+            "spotify_id": "5VuwAhMCz9EMg3RHL1KUEr",
+            "duration_ms": 286466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+                    "id": "1tcgfoMTT1szjUeaikxRjA",
+                    "name": "Ryuichi Sakamoto",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5QdS83aNvQzKgj43VTdY8d",
+                    "id": "5QdS83aNvQzKgj43VTdY8d",
+                    "name": "Jaques Morelenbaum",
+                    "type": "artist",
+                    "uri": "spotify:artist:5QdS83aNvQzKgj43VTdY8d"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3uirG8XMhBhvbdb9adqYMf",
+                    "id": "3uirG8XMhBhvbdb9adqYMf",
+                    "name": "Everton Nelson",
+                    "type": "artist",
+                    "uri": "spotify:artist:3uirG8XMhBhvbdb9adqYMf"
+                }
+            ],
+            "album": {
+                "album_name": "1996",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-06-04",
+                "spotify_id": "39iOsfOrW1UpE3dbdFPl0F"
+            }
+        },
+        {
+            "name": "These Chains",
+            "spotify_id": "4eFkPKdkAbyLjHneGQQNPe",
+            "duration_ms": 307700,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0zGRuj0aQ3mM6i2dQoO8h0",
+                    "id": "0zGRuj0aQ3mM6i2dQoO8h0",
+                    "name": "Mid-Air Thief",
+                    "type": "artist",
+                    "uri": "spotify:artist:0zGRuj0aQ3mM6i2dQoO8h0"
+                }
+            ],
+            "album": {
+                "album_name": "Crumbling",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-07-31",
+                "spotify_id": "4iLo2HykYzbHw6MWSTg4vp"
+            }
+        },
+        {
+            "name": "In Our Sleep",
+            "spotify_id": "7fcOuaNybAtqB1lO7aMfJw",
+            "duration_ms": 151240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5hqB3Fxgin9YGYa0mIGf1G",
+                    "id": "5hqB3Fxgin9YGYa0mIGf1G",
+                    "name": "Laurie Anderson",
+                    "type": "artist",
+                    "uri": "spotify:artist:5hqB3Fxgin9YGYa0mIGf1G"
+                }
+            ],
+            "album": {
+                "album_name": "Bright Red",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994",
+                "spotify_id": "6b3Ik5hjGBbhR8myjstjOt"
+            }
+        },
+        {
+            "name": "Sketch for Summer",
+            "spotify_id": "2oeLt7N1amHZiev27FvKE2",
+            "duration_ms": 178280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7fh7bwX9qV60tLxxsp9bTe",
+                    "id": "7fh7bwX9qV60tLxxsp9bTe",
+                    "name": "The Durutti Column",
+                    "type": "artist",
+                    "uri": "spotify:artist:7fh7bwX9qV60tLxxsp9bTe"
+                }
+            ],
+            "album": {
+                "album_name": "The Return of The Durutti Column",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979-01-01",
+                "spotify_id": "6ANCHHVpcvjCqQFUDUvDOW"
+            }
+        },
+        {
+            "name": "You And Your Sister - Remastered",
+            "spotify_id": "6y234mJkt0DEh39NxZ4uZ6",
+            "duration_ms": 194226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5OK8j1JnhoBlivN32G7yOO",
+                    "id": "5OK8j1JnhoBlivN32G7yOO",
+                    "name": "This Mortal Coil",
+                    "type": "artist",
+                    "uri": "spotify:artist:5OK8j1JnhoBlivN32G7yOO"
+                }
+            ],
+            "album": {
+                "album_name": "Blood (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-04-22",
+                "spotify_id": "1wHBJPXwl19a4xNgPaCDq9"
+            }
+        },
+        {
+            "name": "Murderers",
+            "spotify_id": "2Lt6XpDCo3xETDwWgvZJIY",
+            "duration_ms": 160480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "album": {
+                "album_name": "To Record Only Water For Ten Days (U.S. Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-02-12",
+                "spotify_id": "3a9g6ueh2eVIYGTfmSoKkb"
+            }
+        },
+        {
+            "name": "Stay Alive",
+            "spotify_id": "0ZNYGrmcehorhh9JOeg5Iv",
+            "duration_ms": 266906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+                    "id": "6xrCU6zdcSTsG2hLrojpmI",
+                    "name": "Jos\u00e9 Gonz\u00e1lez",
+                    "type": "artist",
+                    "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+                }
+            ],
+            "album": {
+                "album_name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2013-01-01",
+                "spotify_id": "1bOzvOad5Oirmr1ewGlnKs"
+            }
+        },
+        {
+            "name": "Bird's Lament",
+            "spotify_id": "1EuFHPoVGfyfEZBaYExK7v",
+            "duration_ms": 123893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HvQfRNJCvPXTVirKKB0Nn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HvQfRNJCvPXTVirKKB0Nn",
+                    "id": "7HvQfRNJCvPXTVirKKB0Nn",
+                    "name": "Moondog",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HvQfRNJCvPXTVirKKB0Nn"
+                }
+            ],
+            "album": {
+                "album_name": "Sax Pax For A Sax",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-11-28",
+                "spotify_id": "4A9NpSjSaA2cJss3ksEFVE"
+            }
+        },
+        {
+            "name": "Them Changes",
+            "spotify_id": "7CH99b2i1TXS5P8UUyWtnM",
+            "duration_ms": 188453,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw",
+                    "id": "4frXpPxQQZwbCu3eTGnZEw",
+                    "name": "Thundercat",
+                    "type": "artist",
+                    "uri": "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+                }
+            ],
+            "album": {
+                "album_name": "Drunk",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-02-24",
+                "spotify_id": "7vHBQDqwzB7uDvoE5bncMM"
+            }
+        },
+        {
+            "name": "\u304a\u306f\u3088\u3046\u307e\u3060\u3084\u308d\u3046",
+            "spotify_id": "7oR0c42u3h1Z0PqCJesJrm",
+            "duration_ms": 326080,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0WoqihsJ9xW2FpCvLvye2v"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0WoqihsJ9xW2FpCvLvye2v",
+                    "id": "0WoqihsJ9xW2FpCvLvye2v",
+                    "name": "Yura Yura Teikoku",
+                    "type": "artist",
+                    "uri": "spotify:artist:0WoqihsJ9xW2FpCvLvye2v"
+                }
+            ],
+            "album": {
+                "album_name": "\u7a7a\u6d1e\u3067\u3059",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007",
+                "spotify_id": "0OkPlJ2CMRLjGGJ0zGLVCV"
+            }
+        },
+        {
+            "name": "Brazil",
+            "spotify_id": "7BCxQEDnH77jd8FTVTW2yO",
+            "duration_ms": 241480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vJObElaIZWYDLpiXiJMo9",
+                    "id": "2vJObElaIZWYDLpiXiJMo9",
+                    "name": "Cornelius",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vJObElaIZWYDLpiXiJMo9"
+                }
+            ],
+            "album": {
+                "album_name": "Point",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-22",
+                "spotify_id": "4mZgIoGyI813KAjmv7Dbo1"
+            }
+        },
+        {
+            "name": "O Superman",
+            "spotify_id": "421Gp1eSmOIcD6alTWowFR",
+            "duration_ms": 505146,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5hqB3Fxgin9YGYa0mIGf1G",
+                    "id": "5hqB3Fxgin9YGYa0mIGf1G",
+                    "name": "Laurie Anderson",
+                    "type": "artist",
+                    "uri": "spotify:artist:5hqB3Fxgin9YGYa0mIGf1G"
+                }
+            ],
+            "album": {
+                "album_name": "Big Science",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1982",
+                "spotify_id": "5nfdstl6JxGrDQtm1B2LnZ"
+            }
+        },
+        {
+            "name": "Les Fleurs",
+            "spotify_id": "4XCGfHpGVq8xw800o5cwWs",
+            "duration_ms": 199293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2i1IdHG5w0wiSmJGoqAGlj",
+                    "id": "2i1IdHG5w0wiSmJGoqAGlj",
+                    "name": "Minnie Riperton",
+                    "type": "artist",
+                    "uri": "spotify:artist:2i1IdHG5w0wiSmJGoqAGlj"
+                }
+            ],
+            "album": {
+                "album_name": "Come To My Garden",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-11-01",
+                "spotify_id": "3FuJjgDLCnwRgnRLfjjGPV"
+            }
+        }
+    ]
+}

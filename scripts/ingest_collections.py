@@ -10,7 +10,7 @@ from scripts import utility
 import argparse
 
 
-def setup_parser():
+def read_args():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         'collection_numbers',
@@ -27,13 +27,12 @@ def setup_parser():
         action='store_true',
         help='when true, the db will be cleaned before ingesting the files. default is false'
     )
-    return parser
+    return parser.parse_args()
 
 
 def main():
     print("Start DB ingest script")
-    parser = setup_parser()
-    args = parser.parse_args()
+    args = read_args()
 
     if args.clear:
         print("Clearing DB")

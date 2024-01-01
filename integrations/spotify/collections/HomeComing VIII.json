@@ -1,0 +1,350 @@
+{
+    "name": "HomeComing VIII",
+    "spotify_id": "6PT71CAa70dZ9sI8uT6nC8",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Berechov Haneshamot Hatehorot (At the Pure Soul Street)",
+            "spotify_id": "1AgFP4gd2onciBYcygtueO",
+            "duration_ms": 214177,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4v1YZL83eLyemlt32wWAoA",
+                    "id": "4v1YZL83eLyemlt32wWAoA",
+                    "name": "Keren Ann",
+                    "type": "artist",
+                    "uri": "spotify:artist:4v1YZL83eLyemlt32wWAoA"
+                }
+            ],
+            "album": {
+                "album_name": "Avoda Ivrit 60 (Celebrating Israel\u2019s 60th Anniversary)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2008-04-29",
+                "spotify_id": "2OOFuHB50jzqPMe7LijCJw"
+            }
+        },
+        {
+            "name": "I Follow Rivers",
+            "spotify_id": "4a2MIdV2CBdA9mUOgi0RWR",
+            "duration_ms": 206354,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QZYh3YAFWqpJHf01j0DbN",
+                    "id": "2QZYh3YAFWqpJHf01j0DbN",
+                    "name": "Roni Alter",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QZYh3YAFWqpJHf01j0DbN"
+                }
+            ],
+            "album": {
+                "album_name": "I Follow Rivers",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2016-01-13",
+                "spotify_id": "6MQAYeuufKt54UNcyJCOr3"
+            }
+        },
+        {
+            "name": "\u05e9\u05d1\u05dc\u05d5\u05dc",
+            "spotify_id": "1EJb0ePoWk90Zt5PX04kIA",
+            "duration_ms": 165982,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/16XberediOtO5CaMrx85cR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/16XberediOtO5CaMrx85cR",
+                    "id": "16XberediOtO5CaMrx85cR",
+                    "name": "Arik Einstein",
+                    "type": "artist",
+                    "uri": "spotify:artist:16XberediOtO5CaMrx85cR"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Eks6sKVw6yepoeTbWv0YD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Eks6sKVw6yepoeTbWv0YD",
+                    "id": "1Eks6sKVw6yepoeTbWv0YD",
+                    "name": "Shalom Hanoch",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Eks6sKVw6yepoeTbWv0YD"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e9\u05d1\u05dc\u05d5\u05dc",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970",
+                "spotify_id": "1E6H3rZmZEyZNpjHEcM5KJ"
+            }
+        },
+        {
+            "name": "\u05d6\u05d4 \u05de\u05db\u05d1\u05e8",
+            "spotify_id": "7qlfdHCmoCwmPlHV7ui9ln",
+            "duration_ms": 196240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7ncSeJV3xl2Q2HnWvllj4B",
+                    "id": "7ncSeJV3xl2Q2HnWvllj4B",
+                    "name": "Assaf Amdursky",
+                    "type": "artist",
+                    "uri": "spotify:artist:7ncSeJV3xl2Q2HnWvllj4B"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05d1\u05d5\u05d3\u05d4 \u05e2\u05d1\u05e8\u05d9\u05ea - \u05de\u05d7\u05d5\u05d5\u05d4 \u05dc-50 \u05e9\u05e0\u05d5\u05ea \u05d9\u05e6\u05d9\u05e8\u05d4 \u05de\u05e7\u05d5\u05e8\u05d9\u05ea",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1998-03-01",
+                "spotify_id": "6wZWChkjTrdGKtIOwVlrN4"
+            }
+        },
+        {
+            "name": "Erev Shel Shoshanim",
+            "spotify_id": "5bHF4aLdksOMoNzB5micYf",
+            "duration_ms": 139640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+                    "id": "18RkLKfeoUgZflWv9os25W",
+                    "name": "Miriam Makeba",
+                    "type": "artist",
+                    "uri": "spotify:artist:18RkLKfeoUgZflWv9os25W"
+                }
+            ],
+            "album": {
+                "album_name": "The Magic Of Makeba",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1965",
+                "spotify_id": "3tSc0xHT9dlq12Ca78J6Lf"
+            }
+        },
+        {
+            "name": "\u05e9\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea",
+            "spotify_id": "3OgV12CilkOcjTVIP7nMuc",
+            "duration_ms": 183797,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FwA6DqR1vCj3wz2CPSE6e"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FwA6DqR1vCj3wz2CPSE6e",
+                    "id": "6FwA6DqR1vCj3wz2CPSE6e",
+                    "name": "OFARIM",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FwA6DqR1vCj3wz2CPSE6e"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e8\u05e7 \u05e2\u05d1\u05e8\u05d9\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972",
+                "spotify_id": "2rPoXdi86YypuS2625IpNL"
+            }
+        },
+        {
+            "name": "\u05d7\u05d5\u05d6\u05d4 \u05dc\u05da \u05d1\u05e8\u05d7",
+            "spotify_id": "77t03cXqE0usaE9xqmScgb",
+            "duration_ms": 207880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3tjoGZmGJVn69uCacptnWh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3tjoGZmGJVn69uCacptnWh",
+                    "id": "3tjoGZmGJVn69uCacptnWh",
+                    "name": "Oshik Levy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3tjoGZmGJVn69uCacptnWh"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d0\u05dc\u05d1\u05d5\u05de\u05d9\u05dd \u05d4\u05de\u05e7\u05d5\u05e8\u05d9\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-03-03",
+                "spotify_id": "1Zh3saeKTQ8U5P2MPMqX87"
+            }
+        },
+        {
+            "name": "\u05e2\u05e8\u05d1 \u05d1' \u05db\u05e1\u05dc\u05d5",
+            "spotify_id": "2i9yLUiHNW5SsoIwX6czfw",
+            "duration_ms": 257068,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/55Jd6KSpdVaT4A7cMQXdYY",
+                    "id": "55Jd6KSpdVaT4A7cMQXdYY",
+                    "name": "Eran Tzur",
+                    "type": "artist",
+                    "uri": "spotify:artist:55Jd6KSpdVaT4A7cMQXdYY"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05e8\u05df \u05e6\u05d5\u05e8 \u05d5\u05d0\u05e0\u05e1\u05de\u05d1\u05dc \u05de\u05d9\u05ea\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-01-30",
+                "spotify_id": "6CNjtZtav4SWhKWiMSjxX1"
+            }
+        },
+        {
+            "name": "Shir Hafreicha",
+            "spotify_id": "2KFOUFc73iXD53vRzivVwL",
+            "duration_ms": 148349,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6tOL5L1TlmBLdFMeEoXgae",
+                    "id": "6tOL5L1TlmBLdFMeEoXgae",
+                    "name": "Ofra Haza",
+                    "type": "artist",
+                    "uri": "spotify:artist:6tOL5L1TlmBLdFMeEoXgae"
+                }
+            ],
+            "album": {
+                "album_name": "Al Ahavot Shelanu",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980",
+                "spotify_id": "7saCTuXTKmD8Z4uGBZMp2f"
+            }
+        },
+        {
+            "name": "\u05d0\u05e9\u05dc\u05d9\u05d5\u05ea",
+            "spotify_id": "2pwcEm82lNMr9hP17LOcVl",
+            "duration_ms": 253800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0AFmDqxHrdu99B1W19oPhj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0AFmDqxHrdu99B1W19oPhj",
+                    "id": "0AFmDqxHrdu99B1W19oPhj",
+                    "name": "\u05e0\u05e1\u05d9\u05dd \u05e1\u05e8\u05d5\u05e1\u05d9",
+                    "type": "artist",
+                    "uri": "spotify:artist:0AFmDqxHrdu99B1W19oPhj"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e0\u05e1\u05d9\u05dd \u05e1\u05e8\u05d5\u05e1\u05d9 - \u05dc\u05d4\u05d9\u05d8\u05d9 \u05d6\u05d4\u05d1 (\u05d4\u05d4\u05e7\u05dc\u05d8\u05d5\u05ea \u05d4\u05de\u05e7\u05d5\u05e8\u05d9\u05d5\u05ea)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-09-10",
+                "spotify_id": "1NZREnphxkcWFvGcNoMT2u"
+            }
+        },
+        {
+            "name": "She's a Revolution",
+            "spotify_id": "04GM7GU7v1RTgpopxFBu18",
+            "duration_ms": 227470,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0sDJfnuudhMaEmFPvALK2e",
+                    "id": "0sDJfnuudhMaEmFPvALK2e",
+                    "name": "Kutiman",
+                    "type": "artist",
+                    "uri": "spotify:artist:0sDJfnuudhMaEmFPvALK2e"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4mYf44fxwi3Kgnbj1qoCuv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4mYf44fxwi3Kgnbj1qoCuv",
+                    "id": "4mYf44fxwi3Kgnbj1qoCuv",
+                    "name": "Adam Scheflan",
+                    "type": "artist",
+                    "uri": "spotify:artist:4mYf44fxwi3Kgnbj1qoCuv"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1h40NvcAHSbG4O2r3932kB",
+                    "id": "1h40NvcAHSbG4O2r3932kB",
+                    "name": "Karolina",
+                    "type": "artist",
+                    "uri": "spotify:artist:1h40NvcAHSbG4O2r3932kB"
+                }
+            ],
+            "album": {
+                "album_name": "6 A.M.",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-06-17",
+                "spotify_id": "1L6Lx3xEDkUsW6OwXbxzeu"
+            }
+        },
+        {
+            "name": "\u05e4\u05e0\u05e7\u05e1 \u05d4\u05e7\u05d8\u05df",
+            "spotify_id": "2Kn1gQDMkWRrcosIGJIvjH",
+            "duration_ms": 389560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0mRZBJzO69F835eotg9sJK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0mRZBJzO69F835eotg9sJK",
+                    "id": "0mRZBJzO69F835eotg9sJK",
+                    "name": "Sassi Keshet",
+                    "type": "artist",
+                    "uri": "spotify:artist:0mRZBJzO69F835eotg9sJK"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d9 \u05d9\u05d3\u05e2 \u05e9\u05db\u05da \u05d9\u05d4\u05d9\u05d4 - \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05e9\u05e0\u05d5\u05ea \u05d4-70 \u05d7\u05dc\u05e7 \u05d0'",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2010-01-01",
+                "spotify_id": "4esElVLsqCol96k1Cl0tGp"
+            }
+        },
+        {
+            "name": "\u05de\u05e8\u05d9 \u05dc\u05d5",
+            "spotify_id": "5JJWuHt1aie6be7MagfLIl",
+            "duration_ms": 355492,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7hMpCrQFkZm9Sy1S9ZwBFe",
+                    "id": "7hMpCrQFkZm9Sy1S9ZwBFe",
+                    "name": "Svika Pick",
+                    "type": "artist",
+                    "uri": "spotify:artist:7hMpCrQFkZm9Sy1S9ZwBFe"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-13",
+                "spotify_id": "5yZ8E5Wv0CxcqTBnBmDXKU"
+            }
+        }
+    ]
+}

@@ -1,0 +1,378 @@
+{
+    "name": "Good Morning",
+    "spotify_id": "0bbqcJo1raJgRbkNsCXAsy",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Sunday",
+            "spotify_id": "0wQPwZhvz0pAq7ezuYYYkS",
+            "duration_ms": 223080,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "album": {
+                "album_name": "Bryter Layter",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-03-06",
+                "spotify_id": "04FfqGvZJ9oUBGRVrq2FE5"
+            }
+        },
+        {
+            "name": "Is It Wicked Not to Care?",
+            "spotify_id": "2I5Tkmn4xACR7JGFug9hVQ",
+            "duration_ms": 202466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+                    "id": "4I2BJf80C0skQpp1sQmA0h",
+                    "name": "Belle and Sebastian",
+                    "type": "artist",
+                    "uri": "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+                }
+            ],
+            "album": {
+                "album_name": "The Boy With the Arab Strap",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-09-07",
+                "spotify_id": "0PnuQg8OK4KoOPrwhgyKRQ"
+            }
+        },
+        {
+            "name": "Sunday Morning",
+            "spotify_id": "5WTIv7Htu3D4ZbWBMi0whh",
+            "duration_ms": 175813,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+                    "id": "1nJvji2KIlWSseXRSlNYsC",
+                    "name": "The Velvet Underground",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+                    "id": "0IwlY33zbBXN7zlS9DP2Cj",
+                    "name": "Nico",
+                    "type": "artist",
+                    "uri": "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+                }
+            ],
+            "album": {
+                "album_name": "The Velvet Underground & Nico 45th Anniversary (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-03-12",
+                "spotify_id": "2z1nix8wW4fspJSjZTcGF2"
+            }
+        },
+        {
+            "name": "Bryter Layter",
+            "spotify_id": "0DWDUyJCJOPhVmq8Rcfclo",
+            "duration_ms": 200280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "album": {
+                "album_name": "Bryter Layter",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-03-06",
+                "spotify_id": "7w9Og10Tdkh3nqrVD1D5IW"
+            }
+        },
+        {
+            "name": "So Long, Marianne",
+            "spotify_id": "4fX7XDzjBafCWEjp2sciVh",
+            "duration_ms": 336560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "album": {
+                "album_name": "The Essential Leonard Cohen",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2002-10-22",
+                "spotify_id": "2t2sAWQl1NwwHy793LyEfR"
+            }
+        },
+        {
+            "name": "The Call",
+            "spotify_id": "0juoeUVTEJw0kiM9e36KrY",
+            "duration_ms": 206346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/71eKk097AIMUOng7PAhqK8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/71eKk097AIMUOng7PAhqK8",
+                    "id": "71eKk097AIMUOng7PAhqK8",
+                    "name": "theAngelcy",
+                    "type": "artist",
+                    "uri": "spotify:artist:71eKk097AIMUOng7PAhqK8"
+                }
+            ],
+            "album": {
+                "album_name": "Exit Inside",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-05-16",
+                "spotify_id": "6OStxWYOPZoHf9S4t6e7w9"
+            }
+        },
+        {
+            "name": "Near Wild Heaven 2 - Demo",
+            "spotify_id": "0TRtRnA5AxBCvTZ5VLw4ot",
+            "duration_ms": 216964,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+                    "id": "4KWTAlx2RvbpseOGMEmROg",
+                    "name": "R.E.M.",
+                    "type": "artist",
+                    "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+                }
+            ],
+            "album": {
+                "album_name": "Out Of Time (25th Anniversary Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-03-12",
+                "spotify_id": "6yEuIwTQpciH1qtj7mP5GK"
+            }
+        },
+        {
+            "name": "Embryonic Journey",
+            "spotify_id": "2zbGXr2XCcRR40R7ymEENc",
+            "duration_ms": 112093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF",
+                    "id": "2qFr8w5sWUITRlzZ9kZotF",
+                    "name": "Jefferson Airplane",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
+                }
+            ],
+            "album": {
+                "album_name": "Surrealistic Pillow",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967",
+                "spotify_id": "6lPb7Eoon6QPbscWbMsk6a"
+            }
+        },
+        {
+            "name": "Heart of Gold",
+            "spotify_id": "6xhEQmrVvtpEdw5mfySgJw",
+            "duration_ms": 187280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6v8FB84lnmJs434UJf2Mrm",
+                    "id": "6v8FB84lnmJs434UJf2Mrm",
+                    "name": "Neil Young",
+                    "type": "artist",
+                    "uri": "spotify:artist:6v8FB84lnmJs434UJf2Mrm"
+                }
+            ],
+            "album": {
+                "album_name": "Harvest",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-02-14",
+                "spotify_id": "1pHo7X82cTObgZll65R1rW"
+            }
+        },
+        {
+            "name": "Pretty Pimpin",
+            "spotify_id": "3l9eg9RtisizG12a1D6nZl",
+            "duration_ms": 298760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+                    "id": "5gspAQIAH8nJUrMYgXjCJ2",
+                    "name": "Kurt Vile",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+                }
+            ],
+            "album": {
+                "album_name": "b'lieve i'm goin down...",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-09-25",
+                "spotify_id": "2uRTsStAmo7Z2UwCIvuwMv"
+            }
+        },
+        {
+            "name": "Mozambique",
+            "spotify_id": "1gpQMd0R3blMSn8vhXU0Uu",
+            "duration_ms": 180800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+                    "id": "74ASZWbe4lXaubB36ztrGX",
+                    "name": "Bob Dylan",
+                    "type": "artist",
+                    "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+                }
+            ],
+            "album": {
+                "album_name": "Desire",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-01-16",
+                "spotify_id": "1T8usYsiGEMPMQOLFgJEbE"
+            }
+        },
+        {
+            "name": "Mama Don't",
+            "spotify_id": "1ccvd3gXIEOOkCQGZZq2W3",
+            "duration_ms": 229573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06nsZ3qSOYZ2hPVIMcr1IN",
+                    "id": "06nsZ3qSOYZ2hPVIMcr1IN",
+                    "name": "J.J. Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:06nsZ3qSOYZ2hPVIMcr1IN"
+                }
+            ],
+            "album": {
+                "album_name": "The Definitive Collection",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1997-01-01",
+                "spotify_id": "0SNxW2btAb8QBETOF43oqA"
+            }
+        },
+        {
+            "name": "Short People",
+            "spotify_id": "53yBKCc5S7u8zzutqepkiT",
+            "duration_ms": 176933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3HQyFCFFfJO3KKBlUfZsyW",
+                    "id": "3HQyFCFFfJO3KKBlUfZsyW",
+                    "name": "Randy Newman",
+                    "type": "artist",
+                    "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW"
+                }
+            ],
+            "album": {
+                "album_name": "Little Criminals",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-09-23",
+                "spotify_id": "3Dz7wlDnf5GT8l0xg5r91q"
+            }
+        },
+        {
+            "name": "Good Day Sunshine - Remastered",
+            "spotify_id": "4F3AOkGrVXF70PBEaRxm3u",
+            "duration_ms": 129293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "album": {
+                "album_name": "Revolver (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1966-08-05",
+                "spotify_id": "0PYyrqs9NXtxPhf0CZkq2L"
+            }
+        },
+        {
+            "name": "Another Star",
+            "spotify_id": "0XEbJGu1fYvY6JXSRQY08G",
+            "duration_ms": 508226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                    "id": "7guDJrEfX3qb6FEbdPA5qi",
+                    "name": "Stevie Wonder",
+                    "type": "artist",
+                    "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                }
+            ],
+            "album": {
+                "album_name": "Songs In The Key Of Life",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-09-28",
+                "spotify_id": "2HVx2tiZnLX8xeaUthed1e"
+            }
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "name": "70s Guitars",
+    "spotify_id": "0Dzj4JsxE0XvC5UVhVTHt3",
+    "created_date": "2022-04-09",
+    "description": "",
+    "tracks": [
+        {
+            "name": "All Along the Watchtower",
+            "spotify_id": "2aoo2jlRnM3A0NyLQqMN2f",
+            "duration_ms": 240800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album": {
+                "album_name": "Electric Ladyland",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-10-25",
+                "spotify_id": "5z090LQztiqh13wYspQvKQ"
+            }
+        },
+        {
+            "name": "White Room",
+            "spotify_id": "3Xls4cNOwy01dtrNXb1inG",
+            "duration_ms": 298333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74oJ4qxwOZvX6oSsu1DGnw",
+                    "id": "74oJ4qxwOZvX6oSsu1DGnw",
+                    "name": "Cream",
+                    "type": "artist",
+                    "uri": "spotify:artist:74oJ4qxwOZvX6oSsu1DGnw"
+                }
+            ],
+            "album": {
+                "album_name": "Wheels Of Fire",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-07-01",
+                "spotify_id": "0zrtTZC7yY2TOEhnbJzSb9"
+            }
+        },
+        {
+            "name": "Season of the Witch (2005 Remastered Version) [Mono]",
+            "spotify_id": "4cvlph4w9RGpSH8tf1c885",
+            "duration_ms": 298266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6vLlQYujOujIrm7zAKzEdG",
+                    "id": "6vLlQYujOujIrm7zAKzEdG",
+                    "name": "Donovan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6vLlQYujOujIrm7zAKzEdG"
+                }
+            ],
+            "album": {
+                "album_name": "Sunshine Superman",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1966-08-26",
+                "spotify_id": "5c5vLO5TJ4jsZvfOJTDfCm"
+            }
+        },
+        {
+            "name": "Love Her Madly - 2021 Remaster",
+            "spotify_id": "73JMWeGOiTpJvqmHQU8qnN",
+            "duration_ms": 201344,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+                    "id": "22WZ7M8sxp5THdruNY3gXt",
+                    "name": "The Doors",
+                    "type": "artist",
+                    "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+                }
+            ],
+            "album": {
+                "album_name": "L.A. Woman (50th Anniversary Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-12-03",
+                "spotify_id": "5zJ5Hz4a5OACoowuL3x86m"
+            }
+        },
+        {
+            "name": "Serenade",
+            "spotify_id": "47dR6QIu5KfWhedEwnYhfE",
+            "duration_ms": 191066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6QtGlUje9TIkLrgPZrESuk",
+                    "id": "6QtGlUje9TIkLrgPZrESuk",
+                    "name": "Steve Miller Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+                }
+            ],
+            "album": {
+                "album_name": "Fly Like An Eagle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-01-01",
+                "spotify_id": "0fjJOLqG3v7vXRYhz2wxPC"
+            }
+        },
+        {
+            "name": "You Keep Me Hangin' On",
+            "spotify_id": "7rkjOQTeK5G63G4dpWdc6A",
+            "duration_ms": 175600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0vIMq3W8V63uR4Ymgm2pF1",
+                    "id": "0vIMq3W8V63uR4Ymgm2pF1",
+                    "name": "Vanilla Fudge",
+                    "type": "artist",
+                    "uri": "spotify:artist:0vIMq3W8V63uR4Ymgm2pF1"
+                }
+            ],
+            "album": {
+                "album_name": "The Complete Atco Singles",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014",
+                "spotify_id": "1c0ZllsJKYA7N8v10OdVLP"
+            }
+        },
+        {
+            "name": "Rumble",
+            "spotify_id": "5DwcKHWuKpR3BIDTqe9hkn",
+            "duration_ms": 145920,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vQavlZtDA660mnZotYIto",
+                    "id": "2vQavlZtDA660mnZotYIto",
+                    "name": "Link Wray",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vQavlZtDA660mnZotYIto"
+                }
+            ],
+            "album": {
+                "album_name": "Presenting Link Wray",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1962-11-26",
+                "spotify_id": "3JpDdfAJKA9UW7SEPXyQvU"
+            }
+        },
+        {
+            "name": "Be My Wife - 2017 Remaster",
+            "spotify_id": "5hh5gq0u54rTP0iBYgZ2xW",
+            "duration_ms": 176840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "Low (2017 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977",
+                "spotify_id": "2de6LD7eOW8zrlorbS28na"
+            }
+        },
+        {
+            "name": "Strange Brew",
+            "spotify_id": "47bXIv24jthL4vzZy3j7CY",
+            "duration_ms": 166280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74oJ4qxwOZvX6oSsu1DGnw",
+                    "id": "74oJ4qxwOZvX6oSsu1DGnw",
+                    "name": "Cream",
+                    "type": "artist",
+                    "uri": "spotify:artist:74oJ4qxwOZvX6oSsu1DGnw"
+                }
+            ],
+            "album": {
+                "album_name": "Disraeli Gears (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-11",
+                "spotify_id": "3W6CI0Lw7lElAPID2Fd3B4"
+            }
+        },
+        {
+            "name": "Always On The Run",
+            "spotify_id": "3xxBAMUVusDLjLFwwL9qoY",
+            "duration_ms": 233066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+                    "id": "5gznATMVO85ZcLTkE9ULU7",
+                    "name": "Lenny Kravitz",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+                }
+            ],
+            "album": {
+                "album_name": "Mama Said",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-04-02",
+                "spotify_id": "7A3LlV59lh4KljWa7I6Tks"
+            }
+        },
+        {
+            "name": "Crosstown Traffic",
+            "spotify_id": "1ntxpzIUbSsizvuAy6lTYY",
+            "duration_ms": 146573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album": {
+                "album_name": "Electric Ladyland",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-10-25",
+                "spotify_id": "5z090LQztiqh13wYspQvKQ"
+            }
+        },
+        {
+            "name": "Desert Raven",
+            "spotify_id": "0QhRc9zvsoJ08eqGiRSu38",
+            "duration_ms": 478413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6KJIIOCWsWtNc7ICINtPEw",
+                    "id": "6KJIIOCWsWtNc7ICINtPEw",
+                    "name": "Jonathan Wilson",
+                    "type": "artist",
+                    "uri": "spotify:artist:6KJIIOCWsWtNc7ICINtPEw"
+                }
+            ],
+            "album": {
+                "album_name": "Gentle Spirit",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-08-15",
+                "spotify_id": "2mT3Q0vH9JX6qPzzNHq0Hm"
+            }
+        },
+        {
+            "name": "Today",
+            "spotify_id": "0yLfXULLuRtVj2L4DIrwO7",
+            "duration_ms": 177546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF",
+                    "id": "2qFr8w5sWUITRlzZ9kZotF",
+                    "name": "Jefferson Airplane",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
+                }
+            ],
+            "album": {
+                "album_name": "Surrealistic Pillow",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967",
+                "spotify_id": "6lPb7Eoon6QPbscWbMsk6a"
+            }
+        },
+        {
+            "name": "Andmoreagain - 2015 Remaster",
+            "spotify_id": "7GWTupZ43FbwCXB0sDCmBh",
+            "duration_ms": 201145,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Q6OOkfssqoMSTtl11J5Uk",
+                    "id": "3Q6OOkfssqoMSTtl11J5Uk",
+                    "name": "Love",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Q6OOkfssqoMSTtl11J5Uk"
+                }
+            ],
+            "album": {
+                "album_name": "Forever Changes (2015 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967",
+                "spotify_id": "2amHBpP8C0EUy6yBNy6nN6"
+            }
+        },
+        {
+            "name": "Witchi Tai To",
+            "spotify_id": "4mrvI4b7P0wsQ2DMJRb1Ub",
+            "duration_ms": 164240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2bW1mPOielsoT3HuQtyydG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2bW1mPOielsoT3HuQtyydG",
+                    "id": "2bW1mPOielsoT3HuQtyydG",
+                    "name": "Harpers Bizarre",
+                    "type": "artist",
+                    "uri": "spotify:artist:2bW1mPOielsoT3HuQtyydG"
+                }
+            ],
+            "album": {
+                "album_name": "Feelin' Groovy: The Best Of Harpers Bizarre Featuring The 59th Street Bridge Song",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1997",
+                "spotify_id": "0WFOut8tJA8aVkzAA5DiAZ"
+            }
+        }
+    ]
+}

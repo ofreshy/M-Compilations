@@ -1,0 +1,436 @@
+{
+    "name": "HomeComing III",
+    "spotify_id": "2mF3dXhcVU6WiBVxHS6DJr",
+    "created_date": "2023-07-27",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "\u05e7\u05e8\u05df \u05e9\u05de\u05e9 \u05e8\u05d0\u05e9\u05d5\u05e0\u05d4",
+            "spotify_id": "5GwWML57GN2fDjNiyLdzoD",
+            "duration_ms": 34546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7ncSeJV3xl2Q2HnWvllj4B",
+                    "id": "7ncSeJV3xl2Q2HnWvllj4B",
+                    "name": "Assaf Amdursky",
+                    "type": "artist",
+                    "uri": "spotify:artist:7ncSeJV3xl2Q2HnWvllj4B"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05e8\u05d9 \u05d0\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-01-01",
+                "spotify_id": "1HUnGbyNpnJhujScn4vAzO"
+            }
+        },
+        {
+            "name": "Strange Weather",
+            "spotify_id": "2CwHFaG0rLOGpYDm9ShLME",
+            "duration_ms": 334173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/50sSN9E5i4DJzYDclAXlSo",
+                    "id": "50sSN9E5i4DJzYDclAXlSo",
+                    "name": "Anna Calvi",
+                    "type": "artist",
+                    "uri": "spotify:artist:50sSN9E5i4DJzYDclAXlSo"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/20vuBdFblWUo2FCOvUzusB",
+                    "id": "20vuBdFblWUo2FCOvUzusB",
+                    "name": "David Byrne",
+                    "type": "artist",
+                    "uri": "spotify:artist:20vuBdFblWUo2FCOvUzusB"
+                }
+            ],
+            "album": {
+                "album_name": "One Breath (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-10-27",
+                "spotify_id": "5ixmOG2s5O1SKh8E2KSECL"
+            }
+        },
+        {
+            "name": "For Today I Am A Boy",
+            "spotify_id": "7q7YdWzKy5d03MlQ8yFc90",
+            "duration_ms": 156173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+                    "id": "4fxp616ALtFWnXfwxnjLzW",
+                    "name": "Antony and the Johnsons",
+                    "type": "artist",
+                    "uri": "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+                }
+            ],
+            "album": {
+                "album_name": "I Am A Bird Now",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-02-01",
+                "spotify_id": "4yYa6DGzkYsAIpoE8ael1V"
+            }
+        },
+        {
+            "name": "\u05d4\u05e9\u05de\u05d9\u05d9\u05dd \u05d4\u05db\u05d7\u05d5\u05dc\u05d9\u05dd",
+            "spotify_id": "0SVUjdPiMOvW5MNPu4ictF",
+            "duration_ms": 242080,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7ncSeJV3xl2Q2HnWvllj4B",
+                    "id": "7ncSeJV3xl2Q2HnWvllj4B",
+                    "name": "Assaf Amdursky",
+                    "type": "artist",
+                    "uri": "spotify:artist:7ncSeJV3xl2Q2HnWvllj4B"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d0\u05e1\u05e3 \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-01-01",
+                "spotify_id": "4dwoMOsfRsrK7Dvm5s5bXI"
+            }
+        },
+        {
+            "name": "\u05d1\u05ea\u05d5\u05da \u05d4\u05e6\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
+            "spotify_id": "76iU2lveGJHtkOPJ3ndYwO",
+            "duration_ms": 348760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6N3y3BpDziBANHhoIMM1N4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6N3y3BpDziBANHhoIMM1N4",
+                    "id": "6N3y3BpDziBANHhoIMM1N4",
+                    "name": "Algeir",
+                    "type": "artist",
+                    "uri": "spotify:artist:6N3y3BpDziBANHhoIMM1N4"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05e0\u05d5\u05e2\u05d9\u05dd \u05e7\u05d3\u05d9\u05de\u05d4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-06-12",
+                "spotify_id": "3hzRdOH2plzT3W6Aztui28"
+            }
+        },
+        {
+            "name": "\u05d1\u05d0\u05d1\u05d9\u05d1",
+            "spotify_id": "20oHo79AMx12z1yQyRosGD",
+            "duration_ms": 244066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/37uemCgxNePP1I8e9U9J4W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/37uemCgxNePP1I8e9U9J4W",
+                    "id": "37uemCgxNePP1I8e9U9J4W",
+                    "name": "Micha Shitrit",
+                    "type": "artist",
+                    "uri": "spotify:artist:37uemCgxNePP1I8e9U9J4W"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05e1\u05de\u05e8\u05d9\u05dd \u05d5\u05e0\u05d5\u05e6\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-03-06",
+                "spotify_id": "3ArArdlPyEPz7rWs9uGHnc"
+            }
+        },
+        {
+            "name": "Service Bell",
+            "spotify_id": "6RfbsXPGL9ueQ2PUrzDUBt",
+            "duration_ms": 143440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
+                    "id": "2Jv5eshHtLycR6R8KQCdc4",
+                    "name": "Grizzly Bear",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6CWTBjOJK75cTE8Xv8u1kj",
+                    "id": "6CWTBjOJK75cTE8Xv8u1kj",
+                    "name": "Feist",
+                    "type": "artist",
+                    "uri": "spotify:artist:6CWTBjOJK75cTE8Xv8u1kj"
+                }
+            ],
+            "album": {
+                "album_name": "Dark Was The Night (Red Hot Compilation)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2009-02-16",
+                "spotify_id": "3mquSHAbafwIrdVpxLx8b9"
+            }
+        },
+        {
+            "name": "\u05e8\u05e7 \u05dc\u05e2\u05d5\u05d3 \u05db\u05de\u05d4 \u05e9\u05e2\u05d5\u05ea",
+            "spotify_id": "3JmekoJcYMDQSMIOUOLBDV",
+            "duration_ms": 302720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3A3pTUGdoVl3W1tgW4WeQN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3A3pTUGdoVl3W1tgW4WeQN",
+                    "id": "3A3pTUGdoVl3W1tgW4WeQN",
+                    "name": "Gabriel Balachsan",
+                    "type": "artist",
+                    "uri": "spotify:artist:3A3pTUGdoVl3W1tgW4WeQN"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e2\u05ea\u05d9\u05d3",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-09-01",
+                "spotify_id": "7lJubK8LWKTobWG1lEeNAw"
+            }
+        },
+        {
+            "name": "\u05db\u05dc \u05d4\u05e0\u05e9\u05de\u05d4",
+            "spotify_id": "6w8XZcNYZvT2kddrvfWUUc",
+            "duration_ms": 51533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6tOL5L1TlmBLdFMeEoXgae",
+                    "id": "6tOL5L1TlmBLdFMeEoXgae",
+                    "name": "Ofra Haza",
+                    "type": "artist",
+                    "uri": "spotify:artist:6tOL5L1TlmBLdFMeEoXgae"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e7\u05d5\u05dc \u05d4\u05e0\u05e9\u05de\u05d4 - \u05e9\u05e8\u05d9\u05dd \u05e2\u05e4\u05e8\u05d4 \u05d7\u05d6\u05d4",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2018-11-19",
+                "spotify_id": "3s13Y7aat0C0sIyvp5Lec3"
+            }
+        },
+        {
+            "name": "\u05d7\u05dc\u05d5\u05dd \u05d9\u05e9\u05df",
+            "spotify_id": "5aqyNj7x33E8dloPZ05onC",
+            "duration_ms": 212000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ytNoXYE3P3AAZ8vRjBQzQ",
+                    "id": "0ytNoXYE3P3AAZ8vRjBQzQ",
+                    "name": "Liron Amram",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ytNoXYE3P3AAZ8vRjBQzQ"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d7\u05dc\u05d5\u05dd \u05d9\u05e9\u05df",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2016-09-24",
+                "spotify_id": "2H1VNOgSrJ4eeIGGJDF2cW"
+            }
+        },
+        {
+            "name": "\u05d1\u05d5\u05d1\u05d4 \u05d6\u05d4\u05d1\u05d4",
+            "spotify_id": "2az4TpnFPE1kAkn8501LRh",
+            "duration_ms": 219450,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4iWsyISSQEYGxdqBNVwqtA",
+                    "id": "4iWsyISSQEYGxdqBNVwqtA",
+                    "name": "Yuval Dayan",
+                    "type": "artist",
+                    "uri": "spotify:artist:4iWsyISSQEYGxdqBNVwqtA"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05ea\u05e9\u05de\u05e2 \u05e7\u05d5\u05dc\u05d9 - \u05d2\u05dc\u05d2\u05dc\u05e6 \u05d1\u05de\u05d7\u05d5\u05d5\u05d4 \u05dc\u05d0\u05dc\u05d1\u05d5\u05dd \"\u05d4\u05d7\u05dc\u05d5\u05e0\u05d5\u05ea \u05d4\u05d2\u05d1\u05d5\u05d4\u05d9\u05dd\"",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2017-07-13",
+                "spotify_id": "1pCpRwNbM0Gs7mu1ZvRjCG"
+            }
+        },
+        {
+            "name": "\u05e6\u05dc\u05e6\u05d5\u05dc\u05d9 \u05e4\u05e2\u05de\u05d5\u05e0\u05d9\u05dd",
+            "spotify_id": "37DrhomAqDdPXHN5BBXVbX",
+            "duration_ms": 302160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3VlKzixXtnWl9vsFc3w6ka"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3VlKzixXtnWl9vsFc3w6ka",
+                    "id": "3VlKzixXtnWl9vsFc3w6ka",
+                    "name": "Ahuva Ozeri",
+                    "type": "artist",
+                    "uri": "spotify:artist:3VlKzixXtnWl9vsFc3w6ka"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e6\u05dc\u05e6\u05d5\u05dc\u05d9 \u05e4\u05e2\u05de\u05d5\u05e0\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-01-01",
+                "spotify_id": "2HH5DfZ4pOYRlpkZzNJG86"
+            }
+        },
+        {
+            "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea",
+            "spotify_id": "5CCxCzPB3HMh595Y1MNIm5",
+            "duration_ms": 253853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17pbOSPIn3lmY0vHhOlKGL",
+                    "id": "17pbOSPIn3lmY0vHhOlKGL",
+                    "name": "Tuna",
+                    "type": "artist",
+                    "uri": "spotify:artist:17pbOSPIn3lmY0vHhOlKGL"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d8\u05d5\u05e0\u05d4\u05e4\u05d0\u05e8\u05e7",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-07",
+                "spotify_id": "3yXLuyV0G2op91XliCCRWv"
+            }
+        },
+        {
+            "name": "Fallin'",
+            "spotify_id": "0KQx6HOpJueiSkztcS0r7D",
+            "duration_ms": 210200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+                    "id": "3DiDSECUqqY1AuBP8qtaIa",
+                    "name": "Alicia Keys",
+                    "type": "artist",
+                    "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+                }
+            ],
+            "album": {
+                "album_name": "Songs In A Minor",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-06-05",
+                "spotify_id": "5qUlPoDmNxCSzqVx81RDLJ"
+            }
+        },
+        {
+            "name": "Strange Weather",
+            "spotify_id": "4LEk4Ftyhog7f66j2W9nqe",
+            "duration_ms": 326973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4v1YZL83eLyemlt32wWAoA",
+                    "id": "4v1YZL83eLyemlt32wWAoA",
+                    "name": "Keren Ann",
+                    "type": "artist",
+                    "uri": "spotify:artist:4v1YZL83eLyemlt32wWAoA"
+                }
+            ],
+            "album": {
+                "album_name": "101",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-02-14",
+                "spotify_id": "5VaScc2WBfgjOl0cobeEeT"
+            }
+        },
+        {
+            "name": "String Reprise / Treaty",
+            "spotify_id": "1h2ShZofwTeOhV5bDEIiNl",
+            "duration_ms": 206933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "album": {
+                "album_name": "You Want It Darker",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-10-21",
+                "spotify_id": "3jeTB3j3QmUs8SPIVleHtU"
+            }
+        },
+        {
+            "name": "Sweet Transvestite",
+            "spotify_id": "0K9n8TBThz4xNAkF1eIlB6",
+            "duration_ms": 204370,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5upLeyz8OjRZcbFuXOF59B",
+                    "id": "5upLeyz8OjRZcbFuXOF59B",
+                    "name": "Tim Curry",
+                    "type": "artist",
+                    "uri": "spotify:artist:5upLeyz8OjRZcbFuXOF59B"
+                }
+            ],
+            "album": {
+                "album_name": "The Rocky Horror Picture Show - Original Soundtrack",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1975-01-10",
+                "spotify_id": "4QviryaneolcRmDB57SLco"
+            }
+        }
+    ]
+}

@@ -1,0 +1,506 @@
+{
+    "name": "Africa Africa IV",
+    "spotify_id": "5C1lKDjqyrvslMepNrsSPE",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Le Relax",
+            "spotify_id": "1qYHEHNKjhQWn8rYA9M51Z",
+            "duration_ms": 231906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4enlUH42adijJsJemKLIrz",
+                    "id": "4enlUH42adijJsJemKLIrz",
+                    "name": "Malian Musicians",
+                    "type": "artist",
+                    "uri": "spotify:artist:4enlUH42adijJsJemKLIrz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+                    "id": "0O98jlCaPzvsoei6U5jfEL",
+                    "name": "Damon Albarn",
+                    "type": "artist",
+                    "uri": "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+                }
+            ],
+            "album": {
+                "album_name": "Mali Music",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-04-15",
+                "spotify_id": "40ncJvz2FvF1Z4EvpE3vU9"
+            }
+        },
+        {
+            "name": "Pagan Poetry",
+            "spotify_id": "24ylCDN7bAbnOGq49Yt1kG",
+            "duration_ms": 313706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+                    "id": "7w29UYBi0qsHi5RTcv3lmA",
+                    "name": "Bj\u00f6rk",
+                    "type": "artist",
+                    "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+                }
+            ],
+            "album": {
+                "album_name": "Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2002-09-03",
+                "spotify_id": "7AUW3zs7IECZjVVks1tfb2"
+            }
+        },
+        {
+            "name": "Inner City Blues (Make Me Wanna Holler)",
+            "spotify_id": "4KuBTG9nvmPhgwlRoXnJrJ",
+            "duration_ms": 331960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+                    "id": "3koiLjNrgRTNbOwViDipeA",
+                    "name": "Marvin Gaye",
+                    "type": "artist",
+                    "uri": "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+                }
+            ],
+            "album": {
+                "album_name": "What's Going On - 40th Anniversary (Super Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-05-21",
+                "spotify_id": "3P9Pzn7O4Zsr3tsCSsx7Uk"
+            }
+        },
+        {
+            "name": "Youkouli",
+            "spotify_id": "0W56MAde9FupE8qlBwnj0u",
+            "duration_ms": 87219,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eHY5jLP9TgzxYhT19Sqyq",
+                    "id": "0eHY5jLP9TgzxYhT19Sqyq",
+                    "name": "Dobet Gnahor\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eHY5jLP9TgzxYhT19Sqyq"
+                }
+            ],
+            "album": {
+                "album_name": "Miziki",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-04",
+                "spotify_id": "77tSfFy4EC6bf89xQoIevE"
+            }
+        },
+        {
+            "name": "Allah",
+            "spotify_id": "3munr8myZZZKOyZpls4NUF",
+            "duration_ms": 66760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eHY5jLP9TgzxYhT19Sqyq",
+                    "id": "0eHY5jLP9TgzxYhT19Sqyq",
+                    "name": "Dobet Gnahor\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eHY5jLP9TgzxYhT19Sqyq"
+                }
+            ],
+            "album": {
+                "album_name": "Na Dr\u00ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013",
+                "spotify_id": "4nlUSaGJCHcRh2zhmtE6kk"
+            }
+        },
+        {
+            "name": "Suspicious Minds",
+            "spotify_id": "2Ywft2Thbf7mPyoD2ntadi",
+            "duration_ms": 237466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/20p5D2KrE8CGuOjHtxsyTp",
+                    "id": "20p5D2KrE8CGuOjHtxsyTp",
+                    "name": "Fine Young Cannibals",
+                    "type": "artist",
+                    "uri": "spotify:artist:20p5D2KrE8CGuOjHtxsyTp"
+                }
+            ],
+            "album": {
+                "album_name": "Fine Young Cannibals",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1985-01-01",
+                "spotify_id": "7KQgihtbLnpyr3KVk9OqYB"
+            }
+        },
+        {
+            "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
+            "spotify_id": "6MMXwZyjQhw6HaIwFGW0JI",
+            "duration_ms": 238440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Ju4igVmFdATTU3dZdaHqj",
+                    "id": "3Ju4igVmFdATTU3dZdaHqj",
+                    "name": "Girma B\u00e8y\u00e8n\u00e8",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Ju4igVmFdATTU3dZdaHqj"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2jjVw1rNPydSwqfJc5uSdn",
+                    "id": "2jjVw1rNPydSwqfJc5uSdn",
+                    "name": "Akal\u00e9 Wub\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:2jjVw1rNPydSwqfJc5uSdn"
+                }
+            ],
+            "album": {
+                "album_name": "Mistakes on Purpose (Ethiopiques 30)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016",
+                "spotify_id": "5Vg9np3c5uQSZFwvFyDpoW"
+            }
+        },
+        {
+            "name": "Kilimanjaro",
+            "spotify_id": "5MxrOkQeFaagofHwdyW0rC",
+            "duration_ms": 184280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/18RkLKfeoUgZflWv9os25W",
+                    "id": "18RkLKfeoUgZflWv9os25W",
+                    "name": "Miriam Makeba",
+                    "type": "artist",
+                    "uri": "spotify:artist:18RkLKfeoUgZflWv9os25W"
+                }
+            ],
+            "album": {
+                "album_name": "The Best Of",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2016-08-19",
+                "spotify_id": "2uswx6G0mHAATyEB2Lkd98"
+            }
+        },
+        {
+            "name": "Away Away",
+            "spotify_id": "373jFt04xhJn4TNNm3Y08N",
+            "duration_ms": 180068,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Q8NEHGX70m1kkojbtm8wa",
+                    "id": "5Q8NEHGX70m1kkojbtm8wa",
+                    "name": "Ibeyi",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Q8NEHGX70m1kkojbtm8wa"
+                }
+            ],
+            "album": {
+                "album_name": "Away Away",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-06-09",
+                "spotify_id": "068w2lcK1OoVWlCnI70gQW"
+            }
+        },
+        {
+            "name": "Come Meh Way",
+            "spotify_id": "5miwyiHrCMrJGf8yZTXQVP",
+            "duration_ms": 146000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2MPHBxznH1fj59jbOWY38u",
+                    "id": "2MPHBxznH1fj59jbOWY38u",
+                    "name": "Sudan Archives",
+                    "type": "artist",
+                    "uri": "spotify:artist:2MPHBxznH1fj59jbOWY38u"
+                }
+            ],
+            "album": {
+                "album_name": "Come Meh Way",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-06-19",
+                "spotify_id": "5svWe9Nez3mWSJT5Jih8ct"
+            }
+        },
+        {
+            "name": "Formidable",
+            "spotify_id": "4z70Px77quweOupQRiaG2Q",
+            "duration_ms": 213933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5j4HeCoUlzhfWtjAfM1acR",
+                    "id": "5j4HeCoUlzhfWtjAfM1acR",
+                    "name": "Stromae",
+                    "type": "artist",
+                    "uri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+                }
+            ],
+            "album": {
+                "album_name": "racine carr\u00e9e",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-01-01",
+                "spotify_id": "4WW3ME0M2dUoAK5hmbXsN7"
+            }
+        },
+        {
+            "name": "Bal de Bamako",
+            "spotify_id": "5qybO8IwTxIdOfusXquZVj",
+            "duration_ms": 229160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6soPpJHlCtN6SY8pWlfbC6",
+                    "id": "6soPpJHlCtN6SY8pWlfbC6",
+                    "name": "-M-",
+                    "type": "artist",
+                    "uri": "spotify:artist:6soPpJHlCtN6SY8pWlfbC6"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2nCACYdIndYchzX4bxLcTW",
+                    "id": "2nCACYdIndYchzX4bxLcTW",
+                    "name": "Toumani Diabat\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:2nCACYdIndYchzX4bxLcTW"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ShXtJGjzmboEPVOvIdbQA",
+                    "id": "0ShXtJGjzmboEPVOvIdbQA",
+                    "name": "Sidiki Diabat\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ShXtJGjzmboEPVOvIdbQA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4G5ZJny3HvX6Il7eHVfnNC",
+                    "id": "4G5ZJny3HvX6Il7eHVfnNC",
+                    "name": "Fatoumata Diawara",
+                    "type": "artist",
+                    "uri": "spotify:artist:4G5ZJny3HvX6Il7eHVfnNC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/44bvfFf9VeGwVjK0QDqQ7O",
+                    "id": "44bvfFf9VeGwVjK0QDqQ7O",
+                    "name": "Oxmo Puccino",
+                    "type": "artist",
+                    "uri": "spotify:artist:44bvfFf9VeGwVjK0QDqQ7O"
+                }
+            ],
+            "album": {
+                "album_name": "Lamomali",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-04-07",
+                "spotify_id": "3jY3nT2vkn0Fk7w7rtXVR4"
+            }
+        },
+        {
+            "name": "Unfinished Sympathy - 2012 Mix/Master",
+            "spotify_id": "0j5FJJOmmnXPd0XajFWkMF",
+            "duration_ms": 308426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+                    "id": "6FXMGgJwohJLUSr5nVlf9X",
+                    "name": "Massive Attack",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+                }
+            ],
+            "album": {
+                "album_name": "Blue Lines (2012 Mix/Master)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-06-10",
+                "spotify_id": "5mAPk4qeNqVLtNydaWbWlf"
+            }
+        },
+        {
+            "name": "Swimming Pools (Drank)",
+            "spotify_id": "7bre6yd84LZ6MFoTppmHja",
+            "duration_ms": 247800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "album": {
+                "album_name": "Swimming Pools (Drank)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2012-08-03",
+                "spotify_id": "0ljGAdQ5EmiJE52O1VsYAM"
+            }
+        },
+        {
+            "name": "Before the Fire",
+            "spotify_id": "42c1VerJhBh3p5JirYPxzB",
+            "duration_ms": 183933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Jrxnp0JgqmeUX1veU591p",
+                    "id": "6Jrxnp0JgqmeUX1veU591p",
+                    "name": "Santigold",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Jrxnp0JgqmeUX1veU591p"
+                }
+            ],
+            "album": {
+                "album_name": "99 Cents",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-01-22",
+                "spotify_id": "70n8zSGdTHmEnrqbNjE0TN"
+            }
+        },
+        {
+            "name": "How Far? (feat. Tony Allen and Skepta)",
+            "spotify_id": "7eq5O2w32n1Ho5SL0AFzPz",
+            "duration_ms": 166489,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+                    "id": "3AA28KZvwAUcZuOKwyblJQ",
+                    "name": "Gorillaz",
+                    "type": "artist",
+                    "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6JpZEemWmunccsrHXFUOgi",
+                    "id": "6JpZEemWmunccsrHXFUOgi",
+                    "name": "Tony Allen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6JpZEemWmunccsrHXFUOgi"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2p1fiYHYiXz9qi0JJyxBzN",
+                    "id": "2p1fiYHYiXz9qi0JJyxBzN",
+                    "name": "Skepta",
+                    "type": "artist",
+                    "uri": "spotify:artist:2p1fiYHYiXz9qi0JJyxBzN"
+                }
+            ],
+            "album": {
+                "album_name": "How Far? (feat. Tony Allen and Skepta)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-05-02",
+                "spotify_id": "5HzS3v6OVqJhGdtXdtjPVP"
+            }
+        },
+        {
+            "name": "Spoons",
+            "spotify_id": "4XEQqy7GlKVKKoC34yE0RU",
+            "duration_ms": 319293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4enlUH42adijJsJemKLIrz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4enlUH42adijJsJemKLIrz",
+                    "id": "4enlUH42adijJsJemKLIrz",
+                    "name": "Malian Musicians",
+                    "type": "artist",
+                    "uri": "spotify:artist:4enlUH42adijJsJemKLIrz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+                    "id": "0O98jlCaPzvsoei6U5jfEL",
+                    "name": "Damon Albarn",
+                    "type": "artist",
+                    "uri": "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+                }
+            ],
+            "album": {
+                "album_name": "Mali Music",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-04-15",
+                "spotify_id": "40ncJvz2FvF1Z4EvpE3vU9"
+            }
+        }
+    ]
+}

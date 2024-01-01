@@ -1,0 +1,498 @@
+{
+    "name": "To Floyd",
+    "spotify_id": "1cXYsiil5GOjmdZ8UtO8dA",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Rikers Island Redux (feat. Daniel J. Watts)",
+            "spotify_id": "7hCHyl1ubaKKXzQrWfVXeq",
+            "duration_ms": 177026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6g0Wah2YFtb1rFgKhUktlo",
+                    "id": "6g0Wah2YFtb1rFgKhUktlo",
+                    "name": "Raphael Saadiq",
+                    "type": "artist",
+                    "uri": "spotify:artist:6g0Wah2YFtb1rFgKhUktlo"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4jwKtIM1q7GeQ5cm4itfvq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4jwKtIM1q7GeQ5cm4itfvq",
+                    "id": "4jwKtIM1q7GeQ5cm4itfvq",
+                    "name": "Daniel J. Watts",
+                    "type": "artist",
+                    "uri": "spotify:artist:4jwKtIM1q7GeQ5cm4itfvq"
+                }
+            ],
+            "album": {
+                "album_name": "Jimmy Lee",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-08-23",
+                "spotify_id": "42qt8FhWtmal27Gasz3r4v"
+            }
+        },
+        {
+            "name": "This Is America",
+            "spotify_id": "0b9oOr2ZgvyQu88wzixux9",
+            "duration_ms": 225773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+                    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+                    "name": "Childish Gambino",
+                    "type": "artist",
+                    "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+                }
+            ],
+            "album": {
+                "album_name": "This Is America",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-05-06",
+                "spotify_id": "7arx9qPJexCsDz67El4qvk"
+            }
+        },
+        {
+            "name": "UMI Says",
+            "spotify_id": "5Ru9OjtEw5htfnVKpYsIcv",
+            "duration_ms": 305280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Mz5XE0kb1GBnbLQm2VbcO",
+                    "id": "0Mz5XE0kb1GBnbLQm2VbcO",
+                    "name": "Mos Def",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+                }
+            ],
+            "album": {
+                "album_name": "Black On Both Sides",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-10-12",
+                "spotify_id": "5gK2l2LgWY0BA4p9uy27z6"
+            }
+        },
+        {
+            "name": "Wolves (Intro)",
+            "spotify_id": "2aa8iGanyB2Jj8VyXnTkNi",
+            "duration_ms": 136733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2UBt0GWBuPVXlPisRvWzlD",
+                    "id": "2UBt0GWBuPVXlPisRvWzlD",
+                    "name": "Dead Prez",
+                    "type": "artist",
+                    "uri": "spotify:artist:2UBt0GWBuPVXlPisRvWzlD"
+                }
+            ],
+            "album": {
+                "album_name": "Let's Get Free",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-02-08",
+                "spotify_id": "7gXuElmegVReY7imkb5bf8"
+            }
+        },
+        {
+            "name": "Blk Girl Soldier",
+            "spotify_id": "23HBitYPsgA9LS4Gpsq0V8",
+            "duration_ms": 202478,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UodukR17NIQfNu5uaqm9B",
+                    "id": "4UodukR17NIQfNu5uaqm9B",
+                    "name": "Jamila Woods",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UodukR17NIQfNu5uaqm9B"
+                }
+            ],
+            "album": {
+                "album_name": "HEAVN",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-08-15",
+                "spotify_id": "2ha1TUv0o6VnQddOci7GIb"
+            }
+        },
+        {
+            "name": "Hard Times",
+            "spotify_id": "7ycU5Bxfn2fIZjXJypfdRM",
+            "duration_ms": 203373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3YFP5QHEKv8RZZsPminjdv",
+                    "id": "3YFP5QHEKv8RZZsPminjdv",
+                    "name": "Baby Huey",
+                    "type": "artist",
+                    "uri": "spotify:artist:3YFP5QHEKv8RZZsPminjdv"
+                }
+            ],
+            "album": {
+                "album_name": "The Baby Huey Story: The Living Legend",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971",
+                "spotify_id": "2lTfjZPS0xFQE3cbGZf92T"
+            }
+        },
+        {
+            "name": "Big Brother",
+            "spotify_id": "48T51FksUd2Agr977ifI7C",
+            "duration_ms": 213533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                    "id": "7guDJrEfX3qb6FEbdPA5qi",
+                    "name": "Stevie Wonder",
+                    "type": "artist",
+                    "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                }
+            ],
+            "album": {
+                "album_name": "Talking Book",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-10-28",
+                "spotify_id": "67Pt0fZCow0Dw3qNjAUV2Y"
+            }
+        },
+        {
+            "name": "What's Going On",
+            "spotify_id": "4RNHbYuRaZesMODlihhsUG",
+            "duration_ms": 236466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3koiLjNrgRTNbOwViDipeA",
+                    "id": "3koiLjNrgRTNbOwViDipeA",
+                    "name": "Marvin Gaye",
+                    "type": "artist",
+                    "uri": "spotify:artist:3koiLjNrgRTNbOwViDipeA"
+                }
+            ],
+            "album": {
+                "album_name": "What's Going On",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-01-01",
+                "spotify_id": "3OpydOJywRIIozfItYnQlr"
+            }
+        },
+        {
+            "name": "Alright",
+            "spotify_id": "3iVcZ5G6tvkXZkZKlMpIUs",
+            "duration_ms": 219333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "album": {
+                "album_name": "To Pimp A Butterfly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-03-16",
+                "spotify_id": "7ycBtnsMtyVbbwTfJwRjSP"
+            }
+        },
+        {
+            "name": "Strange Fruit",
+            "spotify_id": "6W5706MsehAWMAZLIg9Fu2",
+            "duration_ms": 181386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YzCsTRb22dQkh9lghPIrp",
+                    "id": "1YzCsTRb22dQkh9lghPIrp",
+                    "name": "Billie Holiday",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YzCsTRb22dQkh9lghPIrp"
+                }
+            ],
+            "album": {
+                "album_name": "Lady Sings The Blues",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1956",
+                "spotify_id": "6cGw7Fl0XSlSSJ5lfeVt8l"
+            }
+        },
+        {
+            "name": "Blackbird - Remastered",
+            "spotify_id": "4Z92RMiyJpUrApZi3LtpJ6",
+            "duration_ms": 138386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "album": {
+                "album_name": "The Beatles (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-11-22",
+                "spotify_id": "03Qh833fEdVT30Pfs93ea6"
+            }
+        },
+        {
+            "name": "To Be Young, Gifted and Black - 2005 Remix",
+            "spotify_id": "67RKpDruBXMJgAmhJAivXr",
+            "duration_ms": 169840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+                    "id": "7G1GBhoKtEPnP86X2PvEYO",
+                    "name": "Nina Simone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+                }
+            ],
+            "album": {
+                "album_name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006-01-16",
+                "spotify_id": "5TPmcbl6aphADiUpEJFHm0"
+            }
+        },
+        {
+            "name": "The Revolution Will Not Be Televised",
+            "spotify_id": "6fNqBgMxJBGhlk5GmUGly6",
+            "duration_ms": 187346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+                    "id": "0kEfub5RzlZOB2zGomqVSU",
+                    "name": "Gil Scott-Heron",
+                    "type": "artist",
+                    "uri": "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+                }
+            ],
+            "album": {
+                "album_name": "Pieces Of A Man",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971",
+                "spotify_id": "3HsWjdL2LBJfgHlDFJthHL"
+            }
+        },
+        {
+            "name": "This Is Not a Song, It's an Outburst: Or, the Establishment Blues",
+            "spotify_id": "4Dgus4Z1Dtbkv3BOnuwFf5",
+            "duration_ms": 126866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5PrHzxc3kFm4hIrGNmelpX",
+                    "id": "5PrHzxc3kFm4hIrGNmelpX",
+                    "name": "Rodr\u00edguez",
+                    "type": "artist",
+                    "uri": "spotify:artist:5PrHzxc3kFm4hIrGNmelpX"
+                }
+            ],
+            "album": {
+                "album_name": "Cold Fact",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-03-05",
+                "spotify_id": "3q90UAYeHLvAtnowiQlmgp"
+            }
+        },
+        {
+            "name": "Blowin' in the Wind",
+            "spotify_id": "18GiV1BaXzPVYpp9rmOg0E",
+            "duration_ms": 165426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+                    "id": "74ASZWbe4lXaubB36ztrGX",
+                    "name": "Bob Dylan",
+                    "type": "artist",
+                    "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+                }
+            ],
+            "album": {
+                "album_name": "The Freewheelin' Bob Dylan",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1963-05-27",
+                "spotify_id": "0o1uFxZ1VTviqvNaYkTJek"
+            }
+        },
+        {
+            "name": "Mississippi Goddam - Live In New York/1964",
+            "spotify_id": "1XaSgwyBiioxTuWfruk0XW",
+            "duration_ms": 296600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+                    "id": "7G1GBhoKtEPnP86X2PvEYO",
+                    "name": "Nina Simone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+                }
+            ],
+            "album": {
+                "album_name": "In Concert",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1964-01-01",
+                "spotify_id": "4hZaeb7W7JSnpP2rCpha1N"
+            }
+        },
+        {
+            "name": "i",
+            "spotify_id": "3ODXRUPL44f04cCacwiCLC",
+            "duration_ms": 336013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "album": {
+                "album_name": "To Pimp A Butterfly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-03-16",
+                "spotify_id": "7ycBtnsMtyVbbwTfJwRjSP"
+            }
+        },
+        {
+            "name": "List Of Demands (Reparations)",
+            "spotify_id": "4LT5UhJwTShLfYzY98bcSt",
+            "duration_ms": 198400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/11K0HIZKfdB6ez0VhIgxPm",
+                    "id": "11K0HIZKfdB6ez0VhIgxPm",
+                    "name": "Saul Williams",
+                    "type": "artist",
+                    "uri": "spotify:artist:11K0HIZKfdB6ez0VhIgxPm"
+                }
+            ],
+            "album": {
+                "album_name": "Saul Williams",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-09-21",
+                "spotify_id": "74B8v2Ky42FrEYg2qJpBrQ"
+            }
+        },
+        {
+            "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969",
+            "spotify_id": "5nJ9WqiiVz9Rz6a2xLhHlZ",
+            "duration_ms": 226586,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album": {
+                "album_name": "Experience Hendrix: The Best Of Jimi Hendrix",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1997-09-16",
+                "spotify_id": "2vfiwvlxOBNBohRXfvlMtY"
+            }
+        },
+        {
+            "name": "A Change Is Gonna Come",
+            "spotify_id": "5dTrfP8uUjHyjO23PxjHi2",
+            "duration_ms": 255533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/60df5JBRRPcnSpsIMxxwQm",
+                    "id": "60df5JBRRPcnSpsIMxxwQm",
+                    "name": "Otis Redding",
+                    "type": "artist",
+                    "uri": "spotify:artist:60df5JBRRPcnSpsIMxxwQm"
+                }
+            ],
+            "album": {
+                "album_name": "Otis Blue",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1965-09-15",
+                "spotify_id": "2P0TLZSGxpDmYdp16bI4hv"
+            }
+        }
+    ]
+}

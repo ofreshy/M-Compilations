@@ -22,7 +22,7 @@ urlpatterns = [
     path('artist/<int:pk>/', views.ArtistDetailView.as_view(), name='artist'),
 
     # ex: /lib_stat/
-    path('lib_stat/', views.lib_stat, name='lib_stat'),
+    path('stats/', views.lib_stat, name='stats'),
 
     # ex: /collection_stat/
     path('collection_stat/', views.CollectionStatListView.as_view(), name='collections_stats'),

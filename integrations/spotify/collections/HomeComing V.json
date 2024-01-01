@@ -1,0 +1,418 @@
+{
+    "name": "HomeComing V",
+    "spotify_id": "25WWDJKIlyUMgRlLI14VhR",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Star Eyes (I Can't Catch It) [feat. David Lynch]",
+            "spotify_id": "4JLFathUJ09L7t7Wt0t09t",
+            "duration_ms": 190480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2dBj3prW7gP9bCCOIQeDUf",
+                    "id": "2dBj3prW7gP9bCCOIQeDUf",
+                    "name": "Danger Mouse",
+                    "type": "artist",
+                    "uri": "spotify:artist:2dBj3prW7gP9bCCOIQeDUf"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tVHZVSAZhDEiOJxnb6hE",
+                    "id": "64tVHZVSAZhDEiOJxnb6hE",
+                    "name": "Sparklehorse",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tVHZVSAZhDEiOJxnb6hE"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Gu6Q05ExIGwHTF43kqLBI",
+                    "id": "2Gu6Q05ExIGwHTF43kqLBI",
+                    "name": "David Lynch",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Gu6Q05ExIGwHTF43kqLBI"
+                }
+            ],
+            "album": {
+                "album_name": "Dark Night of The Soul",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-07-09",
+                "spotify_id": "4m7YqqQc36mQwhHgH4AsVu"
+            }
+        },
+        {
+            "name": "Once You Near Me",
+            "spotify_id": "1b0uOzR9XeW0zPnrCa8Rv9",
+            "duration_ms": 273040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0sDJfnuudhMaEmFPvALK2e",
+                    "id": "0sDJfnuudhMaEmFPvALK2e",
+                    "name": "Kutiman",
+                    "type": "artist",
+                    "uri": "spotify:artist:0sDJfnuudhMaEmFPvALK2e"
+                }
+            ],
+            "album": {
+                "album_name": "Kutiman",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-03-15",
+                "spotify_id": "4399KNsI4hqKmqEnTv85Va"
+            }
+        },
+        {
+            "name": "\u05e6\u05e8 \u05dc\u05d9 \u05e6'\u05e8\u05dc\u05d9",
+            "spotify_id": "6EG9DGhc3XPoeC7nZn10ZN",
+            "duration_ms": 236200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1h40NvcAHSbG4O2r3932kB",
+                    "id": "1h40NvcAHSbG4O2r3932kB",
+                    "name": "Karolina",
+                    "type": "artist",
+                    "uri": "spotify:artist:1h40NvcAHSbG4O2r3932kB"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d4 \u05d0\u05e2\u05e9\u05d4 \u05e2\u05db\u05e9\u05d9\u05d5",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-01-01",
+                "spotify_id": "7nhhh3uCGe4dbbnFZpS0Tg"
+            }
+        },
+        {
+            "name": "Cry for me",
+            "spotify_id": "08GW5hXDCJZaHUcQNg1deG",
+            "duration_ms": 155386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7JTo5JZjCoBQ7CLUqnkw3g",
+                    "id": "7JTo5JZjCoBQ7CLUqnkw3g",
+                    "name": "Ester Rada",
+                    "type": "artist",
+                    "uri": "spotify:artist:7JTo5JZjCoBQ7CLUqnkw3g"
+                }
+            ],
+            "album": {
+                "album_name": "Different Eyes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-08-09",
+                "spotify_id": "5qzCRt8VrH9WbuB6EmP4SE"
+            }
+        },
+        {
+            "name": "Lifted",
+            "spotify_id": "38yDF8gKKBn4aAzWK7ALOL",
+            "duration_ms": 227444,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4nNqSw4oiBkrRjd4vEivbD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4nNqSw4oiBkrRjd4vEivbD",
+                    "id": "4nNqSw4oiBkrRjd4vEivbD",
+                    "name": "Princess Shaw",
+                    "type": "artist",
+                    "uri": "spotify:artist:4nNqSw4oiBkrRjd4vEivbD"
+                }
+            ],
+            "album": {
+                "album_name": "Lifted",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-06-28",
+                "spotify_id": "7COiPToGtbfmEPXUfwitk8"
+            }
+        },
+        {
+            "name": "\u05e9\u05de\u05d1\u05dc\u05d4",
+            "spotify_id": "4ETaeaR92RfOb7DPlfPUJu",
+            "duration_ms": 178365,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17pbOSPIn3lmY0vHhOlKGL",
+                    "id": "17pbOSPIn3lmY0vHhOlKGL",
+                    "name": "Tuna",
+                    "type": "artist",
+                    "uri": "spotify:artist:17pbOSPIn3lmY0vHhOlKGL"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d5\u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05d7\u05dc\u05e7 \u05d4\u05d0\u05d9\u05e0\u05d8\u05e8\u05d2\u05dc\u05e7\u05d8\u05d9",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-12-13",
+                "spotify_id": "1dBozx4U5d2F6lzoIqBm1G"
+            }
+        },
+        {
+            "name": "\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d8\u05d5\u05d1\u05d4 (\u05e0\u05e6'\u05d9 \u05e0\u05e6')",
+            "spotify_id": "5RLtXrNpBaT1jnhm2vYayC",
+            "duration_ms": 201173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2JQK9mzxqKz16lSgICHDTx",
+                    "id": "2JQK9mzxqKz16lSgICHDTx",
+                    "name": "Ravid Plotnik",
+                    "type": "artist",
+                    "uri": "spotify:artist:2JQK9mzxqKz16lSgICHDTx"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d1\u05d5\u05e8 \u05d5\u05e2\u05dd \u05d4\u05d0\u05e8\u05e5",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-05-01",
+                "spotify_id": "0UnWL78LJxcaqEq5uiXS1E"
+            }
+        },
+        {
+            "name": "\u05de\u05d5\u05e8\u05d9\u05d3\u05d4 \u05d0\u05ea \u05d4\u05db\u05e4\u05e4\u05d4",
+            "spotify_id": "1wgCrLD3uczGwtIvlLitfu",
+            "duration_ms": 180280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2DMdTMjbXXHnlhsnJ9UJyz",
+                    "id": "2DMdTMjbXXHnlhsnJ9UJyz",
+                    "name": "Sima Noon",
+                    "type": "artist",
+                    "uri": "spotify:artist:2DMdTMjbXXHnlhsnJ9UJyz"
+                }
+            ],
+            "album": {
+                "album_name": "\u05ea\u05d3\u05d1\u05e8\u05d9 \u05db\u05d1\u05e8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-13",
+                "spotify_id": "6Crmzlf2yUkeomvVibhy6L"
+            }
+        },
+        {
+            "name": "Chin Chin",
+            "spotify_id": "0uZSxfLj74NHJY0IiDDN2T",
+            "duration_ms": 136701,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VwCIS8jdx9ZHjApLFNrTZ",
+                    "id": "5VwCIS8jdx9ZHjApLFNrTZ",
+                    "name": "Noga Erez",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VwCIS8jdx9ZHjApLFNrTZ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Ezb2z7gSLMpXaG0oyacpW",
+                    "id": "5Ezb2z7gSLMpXaG0oyacpW",
+                    "name": "ECHO",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Ezb2z7gSLMpXaG0oyacpW"
+                }
+            ],
+            "album": {
+                "album_name": "Chin Chin",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-07-15",
+                "spotify_id": "2LrOJas6P0uzMvDy6CvQLt"
+            }
+        },
+        {
+            "name": "Sign 'O' the Times",
+            "spotify_id": "4Yenz5JZZOUiZSeyKY8bDz",
+            "duration_ms": 302760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+                    "id": "5a2EaR3hamoenG9rDuVn8j",
+                    "name": "Prince",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+                }
+            ],
+            "album": {
+                "album_name": "Sign \"O\" the Times",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1987-03-30",
+                "spotify_id": "1XsXHctYSQNyAd9BANCk2B"
+            }
+        },
+        {
+            "name": "Wave",
+            "spotify_id": "2jKhAkKrtSPVNkmz5BT3Ft",
+            "duration_ms": 332011,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Dw9w3jnmr58ocgxiwITcq",
+                    "id": "3Dw9w3jnmr58ocgxiwITcq",
+                    "name": "Rone",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Dw9w3jnmr58ocgxiwITcq"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VwCIS8jdx9ZHjApLFNrTZ",
+                    "id": "5VwCIS8jdx9ZHjApLFNrTZ",
+                    "name": "Noga Erez",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VwCIS8jdx9ZHjApLFNrTZ"
+                }
+            ],
+            "album": {
+                "album_name": "Mirapolis",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-11-03",
+                "spotify_id": "0gsKWYzmxZ83Ew4N0XLcz1"
+            }
+        },
+        {
+            "name": "Windowlicker",
+            "spotify_id": "60Pe9j2pCBa4Zp4ztf5nhd",
+            "duration_ms": 368400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6kBDZFXuLrZgHnvmPu9NsG",
+                    "id": "6kBDZFXuLrZgHnvmPu9NsG",
+                    "name": "Aphex Twin",
+                    "type": "artist",
+                    "uri": "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG"
+                }
+            ],
+            "album": {
+                "album_name": "Windowlicker",
+                "album_group": null,
+                "album_type": "single",
+                "released": "1999-03-22",
+                "spotify_id": "64XdBdXNdguPHzBg8bdk5A"
+            }
+        },
+        {
+            "name": "A Higher Place",
+            "spotify_id": "5cizzFuC0UwD2S5doRGnEi",
+            "duration_ms": 271200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+                    "id": "5nPOO9iTcrs9k6yFffPxjH",
+                    "name": "R\u00f6yksopp",
+                    "type": "artist",
+                    "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+                }
+            ],
+            "album": {
+                "album_name": "Melody A.M.",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-08-22",
+                "spotify_id": "4WOZU9evfEO7eI6ICsoGN0"
+            }
+        },
+        {
+            "name": "\u05d4\u05d9\u05e4 \u05d4\u05d5\u05e4\u05d9",
+            "spotify_id": "6paq7NGkEVcf258iHoWLUd",
+            "duration_ms": 272039,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/26z8F9xJMac82Ts6qMAHyb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/26z8F9xJMac82Ts6qMAHyb",
+                    "id": "26z8F9xJMac82Ts6qMAHyb",
+                    "name": "KGC",
+                    "type": "artist",
+                    "uri": "spotify:artist:26z8F9xJMac82Ts6qMAHyb"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7esq2XuOXXiFqogQzV95TN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7esq2XuOXXiFqogQzV95TN",
+                    "id": "7esq2XuOXXiFqogQzV95TN",
+                    "name": "\u05e9\u05d0\u05e0\u05d8\u05d9 \u05d5\u05d8\u05d6\u05e8\u05d4",
+                    "type": "artist",
+                    "uri": "spotify:artist:7esq2XuOXXiFqogQzV95TN"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d4\u05d9\u05e4 \u05d4\u05d5\u05e4\u05d9",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-06-18",
+                "spotify_id": "2V4yOZHuRWKqIZCaPhNvcg"
+            }
+        },
+        {
+            "name": "Heaven Help Me",
+            "spotify_id": "7oJf7PeBwMP7iFwyqfTfXa",
+            "duration_ms": 202321,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "album": {
+                "album_name": "Cuz I Love You (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-05-03",
+                "spotify_id": "74gSdSHe71q7urGWMMn3qB"
+            }
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "name": "Random Start Planned Finish",
+    "spotify_id": "6a01q7fA0VzpSY35wzU8Zi",
+    "created_date": "2022-02-20",
+    "description": "",
+    "tracks": [
+        {
+            "name": "The Night of Santiago",
+            "spotify_id": "5FMKi4dq3hUdYeUvmwSIL0",
+            "duration_ms": 255133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "album": {
+                "album_name": "Thanks for the Dance",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-11-22",
+                "spotify_id": "603qWApi8Q89JnkVAbixrb"
+            }
+        },
+        {
+            "name": "Our Love",
+            "spotify_id": "4ouHnqx22lzTZHr2hEt5aH",
+            "duration_ms": 232760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wJ4vsxWd7df7dRU4KcoDe",
+                    "id": "2wJ4vsxWd7df7dRU4KcoDe",
+                    "name": "Sharon Van Etten",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+                }
+            ],
+            "album": {
+                "album_name": "Are We There",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-05-27",
+                "spotify_id": "0F1pMhF8Vy74nKkQeLBfrd"
+            }
+        },
+        {
+            "name": "Space Song",
+            "spotify_id": "0hNhlwnzMLzZSlKGDCuHOo",
+            "duration_ms": 320466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+                    "id": "56ZTgzPBDge0OvCGgMO3OY",
+                    "name": "Beach House",
+                    "type": "artist",
+                    "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+                }
+            ],
+            "album": {
+                "album_name": "Depression Cherry",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-08-28",
+                "spotify_id": "35vTE3hx3AAXtM6okpJIIt"
+            }
+        },
+        {
+            "name": "Love Will Tear Us Apart (Again) - In The Nursery Remix",
+            "spotify_id": "2JJomoeKhJ0DqCi5dAYxwQ",
+            "duration_ms": 294986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5GXP40qqAgwCsG6mQ3NMWj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5GXP40qqAgwCsG6mQ3NMWj",
+                    "id": "5GXP40qqAgwCsG6mQ3NMWj",
+                    "name": "In The Nursery",
+                    "type": "artist",
+                    "uri": "spotify:artist:5GXP40qqAgwCsG6mQ3NMWj"
+                }
+            ],
+            "album": {
+                "album_name": "Cause & Effect",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "6xwk4tIuHdS3u8quqODlz8"
+            }
+        },
+        {
+            "name": "\u05de\u05d0\u05de\u05d9",
+            "spotify_id": "1uPEdwhR2VUmKp93KiMiw4",
+            "duration_ms": 309000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1CpLH8A3xibzzmyKZ1VtH7",
+                    "id": "1CpLH8A3xibzzmyKZ1VtH7",
+                    "name": "The White Screen",
+                    "type": "artist",
+                    "uri": "spotify:artist:1CpLH8A3xibzzmyKZ1VtH7"
+                }
+            ],
+            "album": {
+                "album_name": "\u05e1\u05e7\u05e1, \u05e1\u05de\u05d9\u05dd \u05d5\u05e4\u05dc\u05e1\u05d8\u05d9\u05df",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-09-11",
+                "spotify_id": "2A56PqiCCwFYbMPUIIHUy3"
+            }
+        },
+        {
+            "name": "Avalanche",
+            "spotify_id": "54gZLHf4Sa624jRh1g1cAz",
+            "duration_ms": 411428,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7IRwkHtN65rS0i9XCiOpZm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7IRwkHtN65rS0i9XCiOpZm",
+                    "id": "7IRwkHtN65rS0i9XCiOpZm",
+                    "name": "Just Friends",
+                    "type": "artist",
+                    "uri": "spotify:artist:7IRwkHtN65rS0i9XCiOpZm"
+                }
+            ],
+            "album": {
+                "album_name": "Avalanche",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2013-04-20",
+                "spotify_id": "7uZBBIM99LjbZtDkBANP37"
+            }
+        },
+        {
+            "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05d9",
+            "spotify_id": "5NaynbniKCVLjOJE3kk7B8",
+            "duration_ms": 290500,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5sQ1j8QpfgdPUUZIzBxo5K"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5sQ1j8QpfgdPUUZIzBxo5K",
+                    "id": "5sQ1j8QpfgdPUUZIzBxo5K",
+                    "name": "Roei Hermon",
+                    "type": "artist",
+                    "uri": "spotify:artist:5sQ1j8QpfgdPUUZIzBxo5K"
+                }
+            ],
+            "album": {
+                "album_name": "\u05dc\u05d1 \u05e9\u05de\u05e9",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-04",
+                "spotify_id": "1BplpNXuJZRoPHodxnTZmv"
+            }
+        },
+        {
+            "name": "Spaced Cowboy",
+            "spotify_id": "170vA90PMD8UK1Vkx7G2LP",
+            "duration_ms": 238400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD",
+                    "id": "5m8H6zSadhu1j9Yi04VLqD",
+                    "name": "Sly & The Family Stone",
+                    "type": "artist",
+                    "uri": "spotify:artist:5m8H6zSadhu1j9Yi04VLqD"
+                }
+            ],
+            "album": {
+                "album_name": "There's a Riot Goin' On",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-11-01",
+                "spotify_id": "29f2cOueckYE8Nc1pkJjrU"
+            }
+        },
+        {
+            "name": "C\u00f3mo Me Quieres",
+            "spotify_id": "3GO6bT0b1sdInk1KPCK64d",
+            "duration_ms": 225153,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "Con Todo El Mundo",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-01-26",
+                "spotify_id": "09AkhNYWocEZWbeYl1YBf7"
+            }
+        },
+        {
+            "name": "Oi",
+            "spotify_id": "2K4zduDBRSRUOSmczAzVWp",
+            "duration_ms": 273350,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1WbEiQdyarzwPjdOlUeOJU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1WbEiQdyarzwPjdOlUeOJU",
+                    "id": "1WbEiQdyarzwPjdOlUeOJU",
+                    "name": "Ryskinder",
+                    "type": "artist",
+                    "uri": "spotify:artist:1WbEiQdyarzwPjdOlUeOJU"
+                }
+            ],
+            "album": {
+                "album_name": "Mad & Hypnotized",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-02-18",
+                "spotify_id": "1jPUkBBBzHPDtGMoVi5zke"
+            }
+        }
+    ]
+}

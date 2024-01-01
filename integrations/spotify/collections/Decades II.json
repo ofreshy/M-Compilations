@@ -1,0 +1,162 @@
+{
+    "name": "Decades II",
+    "spotify_id": "3LuUPUjuscQrgaT3SKTuno",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Cygnet Committee - 1999 Remaster",
+            "spotify_id": "75Z93WO7QDBodErHWPrXN3",
+            "duration_ms": 576133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "Space Oddity (1999 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-11-04",
+                "spotify_id": "2LQYvrh5jOxAAZjiBX3f2b"
+            }
+        },
+        {
+            "name": "Supper's Ready - Digital Remastered 2008",
+            "spotify_id": "5LsZlfvxBN6zs4ZjlW0aFC",
+            "duration_ms": 1385906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+                    "id": "3CkvROUTQ6nRi9yQOcsB50",
+                    "name": "Genesis",
+                    "type": "artist",
+                    "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+                }
+            ],
+            "album": {
+                "album_name": "Foxtrot",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-10-06",
+                "spotify_id": "1P9AuGH530Oy9JEW5XVuxo"
+            }
+        },
+        {
+            "name": "Comfortably Numb",
+            "spotify_id": "5HNCy40Ni5BZJFw1TKzRsC",
+            "duration_ms": 382296,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+                    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+                    "name": "Pink Floyd",
+                    "type": "artist",
+                    "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+                }
+            ],
+            "album": {
+                "album_name": "The Wall",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979-11-30",
+                "spotify_id": "5Dbax7G8SWrP9xyzkOvy2F"
+            }
+        },
+        {
+            "name": "Paranoid Android",
+            "spotify_id": "2nTsKOXIVGDf2iPeVQO2Gm",
+            "duration_ms": 387213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "OK Computer",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-05-28",
+                "spotify_id": "7dxKtc08dYeRVHt3p9CZJn"
+            }
+        },
+        {
+            "name": "In the Backseat",
+            "spotify_id": "5hqN2hUc0FdCSwdgDVFJtr",
+            "duration_ms": 380213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+                    "id": "3kjuyTCjPG1WMFCiyc5IuB",
+                    "name": "Arcade Fire",
+                    "type": "artist",
+                    "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+                }
+            ],
+            "album": {
+                "album_name": "Funeral",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-09-14",
+                "spotify_id": "0aGwrXjKIfAMlj1vBYLtnR"
+            }
+        },
+        {
+            "name": "Atom Dance",
+            "spotify_id": "0eBMIrsQIqvozibA0ZX6UA",
+            "duration_ms": 489523,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+                    "id": "7w29UYBi0qsHi5RTcv3lmA",
+                    "name": "Bj\u00f6rk",
+                    "type": "artist",
+                    "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1NbFkNGF26XOKzNhPxPvA5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1NbFkNGF26XOKzNhPxPvA5",
+                    "id": "1NbFkNGF26XOKzNhPxPvA5",
+                    "name": "Antony",
+                    "type": "artist",
+                    "uri": "spotify:artist:1NbFkNGF26XOKzNhPxPvA5"
+                }
+            ],
+            "album": {
+                "album_name": "Vulnicura",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-01-26",
+                "spotify_id": "7FNtMOO3btvce2G5paXtsE"
+            }
+        }
+    ]
+}

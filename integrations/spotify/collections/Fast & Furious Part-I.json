@@ -1,0 +1,340 @@
+{
+    "name": "Fast & Furious Part-I",
+    "spotify_id": "6Hg6xiVMsosWoGGyP7iqPv",
+    "created_date": "2021-06-29",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Liberty Belle",
+            "spotify_id": "77orX4NH0a9HtNXNkgbbwC",
+            "duration_ms": 151542,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+                    "id": "3SXwqSqAoBz9WCI9PDQzY6",
+                    "name": "Fontaines D.C.",
+                    "type": "artist",
+                    "uri": "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+                }
+            ],
+            "album": {
+                "album_name": "Dogrel",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-04-12",
+                "spotify_id": "5j54NcBr5wBCB129cdjad7"
+            }
+        },
+        {
+            "name": "I Bet You Look Good On The Dancefloor",
+            "spotify_id": "1HHtSMol96RMWpopGzFi0V",
+            "duration_ms": 175680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+                    "id": "7Ln80lUS6He07XvHI8qqHH",
+                    "name": "Arctic Monkeys",
+                    "type": "artist",
+                    "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+                }
+            ],
+            "album": {
+                "album_name": "Whatever People Say I Am, That's What I'm Not",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-02-21",
+                "spotify_id": "6sPaeMfg4Ct5FTmxLHS2pS"
+            }
+        },
+        {
+            "name": "Babies",
+            "spotify_id": "1pUNeXXcmAJOyK6TiVL49n",
+            "duration_ms": 244826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/36E7oYfz3LLRto6l2WmDcD",
+                    "id": "36E7oYfz3LLRto6l2WmDcD",
+                    "name": "Pulp",
+                    "type": "artist",
+                    "uri": "spotify:artist:36E7oYfz3LLRto6l2WmDcD"
+                }
+            ],
+            "album": {
+                "album_name": "His 'N' Hers",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-04-18",
+                "spotify_id": "4YhFzXoRDlowowzzNnNnP5"
+            }
+        },
+        {
+            "name": "Body Was Made",
+            "spotify_id": "2jB4ieYM3aFT3xHakwN6EW",
+            "duration_ms": 211000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uR7zoLrSRI8bSL43OZ0GY",
+                    "id": "1uR7zoLrSRI8bSL43OZ0GY",
+                    "name": "Ezra Furman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uR7zoLrSRI8bSL43OZ0GY"
+                }
+            ],
+            "album": {
+                "album_name": "Perpetual Motion People",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-07-06",
+                "spotify_id": "401FNuUIzv430pSFoBIckW"
+            }
+        },
+        {
+            "name": "Little Girl (feat. Julian Casablancas)",
+            "spotify_id": "0Ih55K62jZIbeTysGHJkW0",
+            "duration_ms": 272933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2dBj3prW7gP9bCCOIQeDUf",
+                    "id": "2dBj3prW7gP9bCCOIQeDUf",
+                    "name": "Danger Mouse",
+                    "type": "artist",
+                    "uri": "spotify:artist:2dBj3prW7gP9bCCOIQeDUf"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tVHZVSAZhDEiOJxnb6hE",
+                    "id": "64tVHZVSAZhDEiOJxnb6hE",
+                    "name": "Sparklehorse",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tVHZVSAZhDEiOJxnb6hE"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1rAv1GhTQ2rmG94p9lU3rB",
+                    "id": "1rAv1GhTQ2rmG94p9lU3rB",
+                    "name": "Julian Casablancas",
+                    "type": "artist",
+                    "uri": "spotify:artist:1rAv1GhTQ2rmG94p9lU3rB"
+                }
+            ],
+            "album": {
+                "album_name": "Dark Night of The Soul",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-05-03",
+                "spotify_id": "0DmKQGWmKXQ3zmjTIQQzK1"
+            }
+        },
+        {
+            "name": "Une Annee Sans Lumiere",
+            "spotify_id": "7D5mjGj6O2cHHCoBF8O7qV",
+            "duration_ms": 220960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+                    "id": "3kjuyTCjPG1WMFCiyc5IuB",
+                    "name": "Arcade Fire",
+                    "type": "artist",
+                    "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+                }
+            ],
+            "album": {
+                "album_name": "Funeral",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-06-16",
+                "spotify_id": "6ZB8qaR9JNuS0Q0bG1nbcH"
+            }
+        },
+        {
+            "name": "Dance Of The Clairvoyants",
+            "spotify_id": "3Y1q37A7ecFEdR5IAMWodA",
+            "duration_ms": 265306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1w5Kfo2jwwIPruYS2UWh56",
+                    "id": "1w5Kfo2jwwIPruYS2UWh56",
+                    "name": "Pearl Jam",
+                    "type": "artist",
+                    "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+                }
+            ],
+            "album": {
+                "album_name": "Dance Of The Clairvoyants",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-01-22",
+                "spotify_id": "2J2ZoKPtJneBtFoSkl8yJy"
+            }
+        },
+        {
+            "name": "Live Alone",
+            "spotify_id": "1tkoZ23Bnuad9QCqgn4AI3",
+            "duration_ms": 211253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wnEPyxKAP8gIY8z64Kx9n"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wnEPyxKAP8gIY8z64Kx9n",
+                    "id": "2wnEPyxKAP8gIY8z64Kx9n",
+                    "name": "Debbie Harry & Franz Ferdinand",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wnEPyxKAP8gIY8z64Kx9n"
+                }
+            ],
+            "album": {
+                "album_name": "Franz Ferdinand Covers EP",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2011-04-26",
+                "spotify_id": "3ivgK36u4MHrHFObAoLEcG"
+            }
+        },
+        {
+            "name": "White Rabbit",
+            "spotify_id": "4vpeKl0vMGdAXpZiQB2Dtd",
+            "duration_ms": 150640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF",
+                    "id": "2qFr8w5sWUITRlzZ9kZotF",
+                    "name": "Jefferson Airplane",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
+                }
+            ],
+            "album": {
+                "album_name": "Surrealistic Pillow",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967",
+                "spotify_id": "6lPb7Eoon6QPbscWbMsk6a"
+            }
+        },
+        {
+            "name": "Can I Sleep in Your Brain",
+            "spotify_id": "3ORqH8pJZcEShV1NHOJu2c",
+            "duration_ms": 237000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uR7zoLrSRI8bSL43OZ0GY",
+                    "id": "1uR7zoLrSRI8bSL43OZ0GY",
+                    "name": "Ezra Furman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uR7zoLrSRI8bSL43OZ0GY"
+                }
+            ],
+            "album": {
+                "album_name": "Perpetual Motion People",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-07-06",
+                "spotify_id": "401FNuUIzv430pSFoBIckW"
+            }
+        },
+        {
+            "name": "Whole Lotta Love - Remaster",
+            "spotify_id": "2rwGmr0xvbxyTuaBwMlZim",
+            "duration_ms": 334555,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+                    "id": "36QJpDe2go2KgaRleHCDTp",
+                    "name": "Led Zeppelin",
+                    "type": "artist",
+                    "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+                }
+            ],
+            "album": {
+                "album_name": "An Introduction to Led Zeppelin",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2018-09-27",
+                "spotify_id": "2cqzFuaX52BSIPQT3w05Vm"
+            }
+        },
+        {
+            "name": "Fade to Grey",
+            "spotify_id": "2K1riHVqz2yC2eITH9G2ZA",
+            "duration_ms": 285386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4h7NLIlg1oYdEtfQJfyto0",
+                    "id": "4h7NLIlg1oYdEtfQJfyto0",
+                    "name": "Nouvelle Vague",
+                    "type": "artist",
+                    "uri": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+                }
+            ],
+            "album": {
+                "album_name": "Bande A Part (Limited Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-06-26",
+                "spotify_id": "7cf1Dcyb1TY93ZQuENotpg"
+            }
+        },
+        {
+            "name": "Lost in Music",
+            "spotify_id": "5zCkpvXTFjI1VYwifAEpH6",
+            "duration_ms": 230000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+                    "id": "6WoTvA9qinpHtSRJuldYh6",
+                    "name": "The Fall",
+                    "type": "artist",
+                    "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+                }
+            ],
+            "album": {
+                "album_name": "The Infotainment Scan",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993-04-19",
+                "spotify_id": "0KIumCvJClmAZupvMhGNFu"
+            }
+        }
+    ]
+}

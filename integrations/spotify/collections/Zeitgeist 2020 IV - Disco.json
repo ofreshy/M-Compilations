@@ -1,0 +1,418 @@
+{
+    "name": "Zeitgeist 2020 IV - Disco",
+    "spotify_id": "3Ax5NMYoXPQD13okXqJrgc",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "I Just Want to Dance",
+            "spotify_id": "0kA0GzXlFvpOh0JEI3B5cp",
+            "duration_ms": 261146,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uRxRKC7d9zwYGSRflTKDR",
+                    "id": "1uRxRKC7d9zwYGSRflTKDR",
+                    "name": "SAULT",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+                }
+            ],
+            "album": {
+                "album_name": "Untitled (Rise)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-18",
+                "spotify_id": "0K8jX7CLwxJaML5iXdxveF"
+            }
+        },
+        {
+            "name": "Can't Put It In The Hands Of Fate (feat. Rapsody, Cordae, Chika & Busta Rhymes)",
+            "spotify_id": "75xkuKnBmDtFHCeT1QSdOQ",
+            "duration_ms": 402106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                    "id": "7guDJrEfX3qb6FEbdPA5qi",
+                    "name": "Stevie Wonder",
+                    "type": "artist",
+                    "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6NL31G53xThQXkFs7lDpL5",
+                    "id": "6NL31G53xThQXkFs7lDpL5",
+                    "name": "Rapsody",
+                    "type": "artist",
+                    "uri": "spotify:artist:6NL31G53xThQXkFs7lDpL5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0huGjMyP507tBCARyzSkrv",
+                    "id": "0huGjMyP507tBCARyzSkrv",
+                    "name": "Cordae",
+                    "type": "artist",
+                    "uri": "spotify:artist:0huGjMyP507tBCARyzSkrv"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6UtYvUtXnmg5EtllDFlWp8",
+                    "id": "6UtYvUtXnmg5EtllDFlWp8",
+                    "name": "CHIKA",
+                    "type": "artist",
+                    "uri": "spotify:artist:6UtYvUtXnmg5EtllDFlWp8"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+                    "id": "1YfEcTuGvBQ8xSD1f53UnK",
+                    "name": "Busta Rhymes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+                }
+            ],
+            "album": {
+                "album_name": "Can't Put It In The Hands Of Fate",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-10-13",
+                "spotify_id": "6YyAkIwsGMlSYFOynUTjXX"
+            }
+        },
+        {
+            "name": "Is It True",
+            "spotify_id": "6RZmhpvukfyeSURhf4kZ0d",
+            "duration_ms": 239266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+                    "id": "5INjqkS1o8h1imAzPqGZBb",
+                    "name": "Tame Impala",
+                    "type": "artist",
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                }
+            ],
+            "album": {
+                "album_name": "The Slow Rush",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-14",
+                "spotify_id": "31qVWUdRrlb8thMvts0yYL"
+            }
+        },
+        {
+            "name": "Incapable",
+            "spotify_id": "2wlKHvuivIau7OggoJVYFg",
+            "duration_ms": 225494,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3qwabfaWewpfli7hMNM3O8",
+                    "id": "3qwabfaWewpfli7hMNM3O8",
+                    "name": "R\u00f3is\u00edn Murphy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3qwabfaWewpfli7hMNM3O8"
+                }
+            ],
+            "album": {
+                "album_name": "R\u00f3is\u00edn Machine (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-10-02",
+                "spotify_id": "5rFrKYje9H6cmgJ8AQGQCp"
+            }
+        },
+        {
+            "name": "Son Shine",
+            "spotify_id": "2Ohu1ERZnAuaCzi7N5ngRK",
+            "duration_ms": 196814,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uRxRKC7d9zwYGSRflTKDR",
+                    "id": "1uRxRKC7d9zwYGSRflTKDR",
+                    "name": "SAULT",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+                }
+            ],
+            "album": {
+                "album_name": "Untitled (Rise)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-18",
+                "spotify_id": "0K8jX7CLwxJaML5iXdxveF"
+            }
+        },
+        {
+            "name": "Blue World",
+            "spotify_id": "2hwOoMtWPtTSSn6WHV7Vp5",
+            "duration_ms": 209440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+                    "id": "4LLpKhyESsyAXpc4laK94U",
+                    "name": "Mac Miller",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+                }
+            ],
+            "album": {
+                "album_name": "Circles",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-01-17",
+                "spotify_id": "5sY6UIQ32GqwMLAfSNEaXb"
+            }
+        },
+        {
+            "name": "39.28",
+            "spotify_id": "2VMzIZtoTgnKydwx6cRPq7",
+            "duration_ms": 179360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+                    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+                    "name": "Childish Gambino",
+                    "type": "artist",
+                    "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+                }
+            ],
+            "album": {
+                "album_name": "3.15.20",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-03-22",
+                "spotify_id": "600ClrWRsAr7jZ0qjaBLHz"
+            }
+        },
+        {
+            "name": "Under The Table",
+            "spotify_id": "12WhIX6MvI93bS3wPSStSY",
+            "duration_ms": 201352,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL",
+                    "id": "3g2kUQ6tHLLbmkV7T4GPtL",
+                    "name": "Fiona Apple",
+                    "type": "artist",
+                    "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL"
+                }
+            ],
+            "album": {
+                "album_name": "Fetch The Bolt Cutters",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-17",
+                "spotify_id": "0fO1KemWL2uCCQmM22iKlj"
+            }
+        },
+        {
+            "name": "On the Floor",
+            "spotify_id": "68Xpo0Rv1iLovNqzv6hbGV",
+            "duration_ms": 303600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ueoLVCXQ948OfhVvAy3Nn",
+                    "id": "2ueoLVCXQ948OfhVvAy3Nn",
+                    "name": "Perfume Genius",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ueoLVCXQ948OfhVvAy3Nn"
+                }
+            ],
+            "album": {
+                "album_name": "On the Floor",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-03-16",
+                "spotify_id": "6v7SLSs6GQ9sKuaRi81pb6"
+            }
+        },
+        {
+            "name": "Cemetery Lifestyle",
+            "spotify_id": "1YXMTIrf4CxmYqXx70qyR4",
+            "duration_ms": 222197,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3cePP77CX6XY9b0aigzrqh",
+                    "id": "3cePP77CX6XY9b0aigzrqh",
+                    "name": "BC Camplight",
+                    "type": "artist",
+                    "uri": "spotify:artist:3cePP77CX6XY9b0aigzrqh"
+                }
+            ],
+            "album": {
+                "album_name": "Shortly After Takeoff",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-24",
+                "spotify_id": "7wM9ZPaxl06eMfVnzjT7ZM"
+            }
+        },
+        {
+            "name": "Algorhythm",
+            "spotify_id": "07FOCFJhMmCVQDyWX1d3gR",
+            "duration_ms": 212106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+                    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+                    "name": "Childish Gambino",
+                    "type": "artist",
+                    "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+                }
+            ],
+            "album": {
+                "album_name": "3.15.20",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-03-22",
+                "spotify_id": "600ClrWRsAr7jZ0qjaBLHz"
+            }
+        },
+        {
+            "name": "The Adults Are Talking",
+            "spotify_id": "5ruzrDWcT0vuJIOMW7gMnW",
+            "duration_ms": 309053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+                    "id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "name": "The Strokes",
+                    "type": "artist",
+                    "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+                }
+            ],
+            "album": {
+                "album_name": "The New Abnormal",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-10",
+                "spotify_id": "2xkZV2Hl1Omi8rk2D7t5lN"
+            }
+        },
+        {
+            "name": "We Will Always Love You (feat. Blood Orange)",
+            "spotify_id": "6HV9d8u4WJ9lzbGrH5OQ6G",
+            "duration_ms": 172173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED",
+                    "id": "3C8RpaI3Go0yFF9whvKoED",
+                    "name": "The Avalanches",
+                    "type": "artist",
+                    "uri": "spotify:artist:3C8RpaI3Go0yFF9whvKoED"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6LEeAFiJF8OuPx747e1wxR",
+                    "id": "6LEeAFiJF8OuPx747e1wxR",
+                    "name": "Blood Orange",
+                    "type": "artist",
+                    "uri": "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
+                }
+            ],
+            "album": {
+                "album_name": "We Will Always Love You (feat. Blood Orange)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-02-20",
+                "spotify_id": "0JiPHyEADRGjyZDoTRCxWj"
+            }
+        },
+        {
+            "name": "Re-Wild",
+            "spotify_id": "25NkJRs7J16XCfZg0OEFCL",
+            "duration_ms": 222200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5eitAUlYmlha3LLWg7aBn5",
+                    "id": "5eitAUlYmlha3LLWg7aBn5",
+                    "name": "Kelly Lee Owens",
+                    "type": "artist",
+                    "uri": "spotify:artist:5eitAUlYmlha3LLWg7aBn5"
+                }
+            ],
+            "album": {
+                "album_name": "Inner Song",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-08-28",
+                "spotify_id": "3DzlkHEQtb0ABoxze4Zxi7"
+            }
+        },
+        {
+            "name": "Trouble",
+            "spotify_id": "2QnzGRI9D2jnKL65BBRz9S",
+            "duration_ms": 350013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nw6dQQptzvEQ5GtC6HGe4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nw6dQQptzvEQ5GtC6HGe4",
+                    "id": "1nw6dQQptzvEQ5GtC6HGe4",
+                    "name": "Hen Ogledd",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nw6dQQptzvEQ5GtC6HGe4"
+                }
+            ],
+            "album": {
+                "album_name": "Trouble",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-07-29",
+                "spotify_id": "2VdHHJaar8CzDI7sK2bDuF"
+            }
+        }
+    ]
+}

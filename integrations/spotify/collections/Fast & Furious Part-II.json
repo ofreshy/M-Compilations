@@ -1,0 +1,416 @@
+{
+    "name": "Fast & Furious Part-II",
+    "spotify_id": "6WDWUax9V7JYrcvqmNyeYo",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "The Rat",
+            "spotify_id": "3HFbtkED52w1dOqHgGXbgu",
+            "duration_ms": 262226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6kFay2DQ5aZfeu5OsrF3Pw",
+                    "id": "6kFay2DQ5aZfeu5OsrF3Pw",
+                    "name": "The Walkmen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6kFay2DQ5aZfeu5OsrF3Pw"
+                }
+            ],
+            "album": {
+                "album_name": "Sympathy For The Download 00 (DMD Internet)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2004-02-03",
+                "spotify_id": "3UsQQGjSeizriMrEnXH69X"
+            }
+        },
+        {
+            "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+            "spotify_id": "5YUJMvTg4AWHKjqQidTsGK",
+            "duration_ms": 163693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2DxlS3lTLFIq70S7ap5H3y",
+                    "id": "2DxlS3lTLFIq70S7ap5H3y",
+                    "name": "Buzzcocks",
+                    "type": "artist",
+                    "uri": "spotify:artist:2DxlS3lTLFIq70S7ap5H3y"
+                }
+            ],
+            "album": {
+                "album_name": "Love Bites",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1978",
+                "spotify_id": "5rMPmOj5n5TRtphgHpqEVg"
+            }
+        },
+        {
+            "name": "Debaser",
+            "spotify_id": "3FzKPS0oVknVlCW3PhxIHl",
+            "duration_ms": 173173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Doolittle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-04-17",
+                "spotify_id": "6ymZBbRSmzAvoSGmwAFoxm"
+            }
+        },
+        {
+            "name": "Big",
+            "spotify_id": "555xtW52o38DzrHNqqlbWV",
+            "duration_ms": 105515,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+                    "id": "3SXwqSqAoBz9WCI9PDQzY6",
+                    "name": "Fontaines D.C.",
+                    "type": "artist",
+                    "uri": "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+                }
+            ],
+            "album": {
+                "album_name": "Dogrel",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-04-12",
+                "spotify_id": "1i9PDv6BO8c8Y5lxMG6Lej"
+            }
+        },
+        {
+            "name": "Driving - Remaster",
+            "spotify_id": "6wTW1RV5TKyJ5SG3i25uOI",
+            "duration_ms": 131413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6g8Jqb5JMfv92eB2r0awTN",
+                    "id": "6g8Jqb5JMfv92eB2r0awTN",
+                    "name": "Arab Strap",
+                    "type": "artist",
+                    "uri": "spotify:artist:6g8Jqb5JMfv92eB2r0awTN"
+                }
+            ],
+            "album": {
+                "album_name": "The Week Never Starts Round Here (2019 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-09-13",
+                "spotify_id": "5wJKb0JTxm7R4ngHUCDr3D"
+            }
+        },
+        {
+            "name": "Jacqueline",
+            "spotify_id": "3tc0yir2NHwhzVWZnmukhS",
+            "duration_ms": 229026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+                    "id": "0XNa1vTidXlvJ2gHSsRi4A",
+                    "name": "Franz Ferdinand",
+                    "type": "artist",
+                    "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+                }
+            ],
+            "album": {
+                "album_name": "Franz Ferdinand",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-02-16",
+                "spotify_id": "0vi5ePiEHrGZJF7QhnDW2z"
+            }
+        },
+        {
+            "name": "C'mere",
+            "spotify_id": "4dxHS0hjxMEwZoV23lq74D",
+            "duration_ms": 191146,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WaJSfKnzc65VDgmj2zU8B",
+                    "id": "3WaJSfKnzc65VDgmj2zU8B",
+                    "name": "Interpol",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WaJSfKnzc65VDgmj2zU8B"
+                }
+            ],
+            "album": {
+                "album_name": "Antics",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-09-27",
+                "spotify_id": "2qFw7zKxen9GQN9Te6o6xn"
+            }
+        },
+        {
+            "name": "Rebellion (Lies)",
+            "spotify_id": "0xOeB16JDbBJBJKSdHbElT",
+            "duration_ms": 310893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3kjuyTCjPG1WMFCiyc5IuB",
+                    "id": "3kjuyTCjPG1WMFCiyc5IuB",
+                    "name": "Arcade Fire",
+                    "type": "artist",
+                    "uri": "spotify:artist:3kjuyTCjPG1WMFCiyc5IuB"
+                }
+            ],
+            "album": {
+                "album_name": "Funeral",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-06-16",
+                "spotify_id": "6ZB8qaR9JNuS0Q0bG1nbcH"
+            }
+        },
+        {
+            "name": "Bohemian Like You",
+            "spotify_id": "0yEhNqCwEfy8LHUmnZoHpP",
+            "duration_ms": 211706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7siPLyFwRFYQkKgWKJ5Sod",
+                    "id": "7siPLyFwRFYQkKgWKJ5Sod",
+                    "name": "The Dandy Warhols",
+                    "type": "artist",
+                    "uri": "spotify:artist:7siPLyFwRFYQkKgWKJ5Sod"
+                }
+            ],
+            "album": {
+                "album_name": "Thirteen Tales From Urban Bohemia",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-01-01",
+                "spotify_id": "0vdIT4p5OlKOcEzYKSsqn4"
+            }
+        },
+        {
+            "name": "I Can Change",
+            "spotify_id": "4g0Gfk8H7mBcNAtvKMCnza",
+            "duration_ms": 295000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uR7zoLrSRI8bSL43OZ0GY",
+                    "id": "1uR7zoLrSRI8bSL43OZ0GY",
+                    "name": "Ezra Furman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uR7zoLrSRI8bSL43OZ0GY"
+                }
+            ],
+            "album": {
+                "album_name": "Songs By Others",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-02-22",
+                "spotify_id": "7lpwGiSxIaXLHGVAEYm4FD"
+            }
+        },
+        {
+            "name": "Bring on the Dancing Horses",
+            "spotify_id": "5uh98HlgvoJd2zRWAduj2Y",
+            "duration_ms": 235800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0fgYKF9Avljex0L9Wt5b8Z",
+                    "id": "0fgYKF9Avljex0L9Wt5b8Z",
+                    "name": "Echo & the Bunnymen",
+                    "type": "artist",
+                    "uri": "spotify:artist:0fgYKF9Avljex0L9Wt5b8Z"
+                }
+            ],
+            "album": {
+                "album_name": "Songs to Learn & Sing",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1985-11-11",
+                "spotify_id": "0VYyqjM5H2sXj6z8ocAyjb"
+            }
+        },
+        {
+            "name": "Venus",
+            "spotify_id": "3x0iCzjgf0v9lnwvAhU9P2",
+            "duration_ms": 229026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0S7Zur2g8YhqlzqtlYStli",
+                    "id": "0S7Zur2g8YhqlzqtlYStli",
+                    "name": "Television",
+                    "type": "artist",
+                    "uri": "spotify:artist:0S7Zur2g8YhqlzqtlYStli"
+                }
+            ],
+            "album": {
+                "album_name": "Marquee Moon",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-02-08",
+                "spotify_id": "630o1rKTDsLeIPreOY1jqP"
+            }
+        },
+        {
+            "name": "I Fought the Law",
+            "spotify_id": "7lSDCrF11sdTVfjbAQVZE8",
+            "duration_ms": 163240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3RGLhK1IP9jnYFH4BRFJBS",
+                    "id": "3RGLhK1IP9jnYFH4BRFJBS",
+                    "name": "The Clash",
+                    "type": "artist",
+                    "uri": "spotify:artist:3RGLhK1IP9jnYFH4BRFJBS"
+                }
+            ],
+            "album": {
+                "album_name": "Hits Back",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2013-08-26",
+                "spotify_id": "3Zkggi5I9uH5x94DuN6u1S"
+            }
+        },
+        {
+            "name": "Purple Haze",
+            "spotify_id": "0wJoRiX5K5BxlqZTolB2LD",
+            "duration_ms": 170813,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "album": {
+                "album_name": "Are You Experienced",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-05-12",
+                "spotify_id": "7rSZXXHHvIhF4yUFdaOCy9"
+            }
+        },
+        {
+            "name": "There Goes My Gun",
+            "spotify_id": "0VAD8GUGL68sQcOdiHIjTU",
+            "duration_ms": 109533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Doolittle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-04-17",
+                "spotify_id": "6ymZBbRSmzAvoSGmwAFoxm"
+            }
+        },
+        {
+            "name": "Somebody to Love",
+            "spotify_id": "4uGIJG1jYFonGc4LGp5uQL",
+            "duration_ms": 174840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF",
+                    "id": "2qFr8w5sWUITRlzZ9kZotF",
+                    "name": "Jefferson Airplane",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
+                }
+            ],
+            "album": {
+                "album_name": "Surrealistic Pillow",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967",
+                "spotify_id": "6lPb7Eoon6QPbscWbMsk6a"
+            }
+        },
+        {
+            "name": "The Song Remains the Same - Remaster",
+            "spotify_id": "5fTtmaM42JSNLisYRkgBZq",
+            "duration_ms": 329093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/36QJpDe2go2KgaRleHCDTp",
+                    "id": "36QJpDe2go2KgaRleHCDTp",
+                    "name": "Led Zeppelin",
+                    "type": "artist",
+                    "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+                }
+            ],
+            "album": {
+                "album_name": "Led Zeppelin x Led Zeppelin",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2018-09-27",
+                "spotify_id": "5jQEuOsezpHOAhfQXMGTLo"
+            }
+        }
+    ]
+}

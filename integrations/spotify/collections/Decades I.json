@@ -1,0 +1,172 @@
+{
+    "name": "Decades I",
+    "spotify_id": "7AcndeUIceRptW0nhjyLYb",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "The End",
+            "spotify_id": "5UgT7w6zVZjP3oyawMzbiK",
+            "duration_ms": 703373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+                    "id": "22WZ7M8sxp5THdruNY3gXt",
+                    "name": "The Doors",
+                    "type": "artist",
+                    "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+                }
+            ],
+            "album": {
+                "album_name": "The Doors",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-01-04",
+                "spotify_id": "1jWmEhn3ggaL6isoyLfwBn"
+            }
+        },
+        {
+            "name": "Child in Time - 1995 Remaster",
+            "spotify_id": "573Z2Dty5epeNgKsgoDOlr",
+            "duration_ms": 613440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/568ZhdwyaiCyOGJRtNYhWf",
+                    "id": "568ZhdwyaiCyOGJRtNYhWf",
+                    "name": "Deep Purple",
+                    "type": "artist",
+                    "uri": "spotify:artist:568ZhdwyaiCyOGJRtNYhWf"
+                }
+            ],
+            "album": {
+                "album_name": "Deep Purple in Rock (Anniversary Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-06-03",
+                "spotify_id": "2bjTVISSsvwia7uxrrEsuQ"
+            }
+        },
+        {
+            "name": "Pictures Of You - Remastered",
+            "spotify_id": "72gg0bqrLCCyomkfunyiuU",
+            "duration_ms": 448306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+                    "id": "7bu3H8JO7d0UbMoVzbo70s",
+                    "name": "The Cure",
+                    "type": "artist",
+                    "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+                }
+            ],
+            "album": {
+                "album_name": "Disintegration (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-05-02",
+                "spotify_id": "6DZNOsLXIU2zOQfQDwDpIS"
+            }
+        },
+        {
+            "name": "Protection",
+            "spotify_id": "3kKVqFF4pv4EXeQe428zl2",
+            "duration_ms": 471560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+                    "id": "6FXMGgJwohJLUSr5nVlf9X",
+                    "name": "Massive Attack",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7xFnmid57ZE6iWEXdEXO3b",
+                    "id": "7xFnmid57ZE6iWEXdEXO3b",
+                    "name": "Tracey Thorn",
+                    "type": "artist",
+                    "uri": "spotify:artist:7xFnmid57ZE6iWEXdEXO3b"
+                }
+            ],
+            "album": {
+                "album_name": "Protection",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-09-26",
+                "spotify_id": "5CnZjFfPDmxOX7KnWLLqpC"
+            }
+        },
+        {
+            "name": "Roscoe (Beyond the Wizard\u2019s Sleeve Remix)",
+            "spotify_id": "2wlXzNdamSpzRS93ynfkrc",
+            "duration_ms": 413640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4YsP5zmteLQ7etNjHAOu30",
+                    "id": "4YsP5zmteLQ7etNjHAOu30",
+                    "name": "Midlake",
+                    "type": "artist",
+                    "uri": "spotify:artist:4YsP5zmteLQ7etNjHAOu30"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0DGGWrQLqX2Bli5KOPchgY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0DGGWrQLqX2Bli5KOPchgY",
+                    "id": "0DGGWrQLqX2Bli5KOPchgY",
+                    "name": "Beyond The Wizards Sleeve",
+                    "type": "artist",
+                    "uri": "spotify:artist:0DGGWrQLqX2Bli5KOPchgY"
+                }
+            ],
+            "album": {
+                "album_name": "Late Night Tales: Groove Armada",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-03-10",
+                "spotify_id": "17B9ozTouflhyWASXV3kIl"
+            }
+        },
+        {
+            "name": "Before The Beginning",
+            "spotify_id": "2NVmpcUm2FUUQ04FlWIj2q",
+            "duration_ms": 548533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "album": {
+                "album_name": "The Empyrean",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009",
+                "spotify_id": "5ZLnZ8o2xA2cmSPYtqExl1"
+            }
+        }
+    ]
+}

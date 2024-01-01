@@ -1,0 +1,412 @@
+{
+    "name": "Chill Part I",
+    "spotify_id": "3iOF8DJdcq3mbqSKamvhsU",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Song to the Siren",
+            "spotify_id": "0HV0DzBkuBpQeZOXHpcEKV",
+            "duration_ms": 224635,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1jwOuEBcOKq0BeudSarbEM",
+                    "id": "1jwOuEBcOKq0BeudSarbEM",
+                    "name": "Amen Dunes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1jwOuEBcOKq0BeudSarbEM"
+                }
+            ],
+            "album": {
+                "album_name": "Cowboy Worship",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2015-01-20",
+                "spotify_id": "5DbBF5Ktm8NVUJapsVzKRH"
+            }
+        },
+        {
+            "name": "Resurrection Drive Part II",
+            "spotify_id": "73NTX5rLARXkN4NHetrcfG",
+            "duration_ms": 130573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+                    "id": "7HeVXdOdMhLslVputGTZFQ",
+                    "name": "Timber Timbre",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+                }
+            ],
+            "album": {
+                "album_name": "Hot Dreams",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-04-01",
+                "spotify_id": "0zBFZGoGGTTmUOcQVGGtpI"
+            }
+        },
+        {
+            "name": "Bring Me Simple Men",
+            "spotify_id": "5g1vELKObj1zfFMC0YZPWv",
+            "duration_ms": 230066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HeVXdOdMhLslVputGTZFQ",
+                    "id": "7HeVXdOdMhLslVputGTZFQ",
+                    "name": "Timber Timbre",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HeVXdOdMhLslVputGTZFQ"
+                }
+            ],
+            "album": {
+                "album_name": "Hot Dreams",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-03-31",
+                "spotify_id": "5g2rr2du9RJ9bOiO2fgqlC"
+            }
+        },
+        {
+            "name": "Wicked Game",
+            "spotify_id": "390AWnOn2rfe9FzQjYmxIH",
+            "duration_ms": 286880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7290H8m1Dwt8G7jm1y9CQx",
+                    "id": "7290H8m1Dwt8G7jm1y9CQx",
+                    "name": "Chris Isaak",
+                    "type": "artist",
+                    "uri": "spotify:artist:7290H8m1Dwt8G7jm1y9CQx"
+                }
+            ],
+            "album": {
+                "album_name": "Best of Chris Isaak (Remastered)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006",
+                "spotify_id": "15WGW9fyEuS2cWp8aZkNpZ"
+            }
+        },
+        {
+            "name": "Nothing's Gonna Hurt You Baby",
+            "spotify_id": "1W7Eajq8Hlqiy39QnuKjvD",
+            "duration_ms": 286293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+                    "id": "1QAJqy2dA3ihHBFIHRphZj",
+                    "name": "Cigarettes After Sex",
+                    "type": "artist",
+                    "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
+                }
+            ],
+            "album": {
+                "album_name": "EP I.",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2012",
+                "spotify_id": "5fzwP4FRJjFQBBmhKJwpWn"
+            }
+        },
+        {
+            "name": "Null Null Stress (feat. Myrna Braza)",
+            "spotify_id": "2kn3k2xHSwbCihMwbBVHoT",
+            "duration_ms": 150669,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4RnH54cwWwGjJ6mPXEcQAC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4RnH54cwWwGjJ6mPXEcQAC",
+                    "id": "4RnH54cwWwGjJ6mPXEcQAC",
+                    "name": "Kl\u00f8ver og Skarre R",
+                    "type": "artist",
+                    "uri": "spotify:artist:4RnH54cwWwGjJ6mPXEcQAC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/48ex4OFVrDORavgwe8k7Qb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/48ex4OFVrDORavgwe8k7Qb",
+                    "id": "48ex4OFVrDORavgwe8k7Qb",
+                    "name": "Myrna Braza",
+                    "type": "artist",
+                    "uri": "spotify:artist:48ex4OFVrDORavgwe8k7Qb"
+                }
+            ],
+            "album": {
+                "album_name": "Null Null Stress (feat. Myrna Braza)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2014-06-15",
+                "spotify_id": "7pbWMuPpOtbIU18w2DX0Yt"
+            }
+        },
+        {
+            "name": "Song To The Siren",
+            "spotify_id": "0Caljp6hDkxX9nYusD5m3k",
+            "duration_ms": 214720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "album": {
+                "album_name": "The Empyrean",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009",
+                "spotify_id": "5ZLnZ8o2xA2cmSPYtqExl1"
+            }
+        },
+        {
+            "name": "Youth",
+            "spotify_id": "6tqzOYuE3lrNVPDgtF3MjM",
+            "duration_ms": 253013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/46CitWgnWrvF9t70C2p1Me",
+                    "id": "46CitWgnWrvF9t70C2p1Me",
+                    "name": "Daughter",
+                    "type": "artist",
+                    "uri": "spotify:artist:46CitWgnWrvF9t70C2p1Me"
+                }
+            ],
+            "album": {
+                "album_name": "If You Leave",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-03-18",
+                "spotify_id": "6E76aabodIl5DW5BTEZPHG"
+            }
+        },
+        {
+            "name": "Carolyn's Fingers",
+            "spotify_id": "189pvCZipE0svEPkCsxpr3",
+            "duration_ms": 187346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+                    "id": "5Wabl1lPdNOeIn0SQ5A1mp",
+                    "name": "Cocteau Twins",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+                }
+            ],
+            "album": {
+                "album_name": "Blue Bell Knoll",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-09-19",
+                "spotify_id": "7mP4JgeDNV56zXuBuvb2kI"
+            }
+        },
+        {
+            "name": "Song To The Siren (Remastered)",
+            "spotify_id": "0BPTTsnnfz44XmZn3EE0oo",
+            "duration_ms": 211093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5OK8j1JnhoBlivN32G7yOO",
+                    "id": "5OK8j1JnhoBlivN32G7yOO",
+                    "name": "This Mortal Coil",
+                    "type": "artist",
+                    "uri": "spotify:artist:5OK8j1JnhoBlivN32G7yOO"
+                }
+            ],
+            "album": {
+                "album_name": "It'll End In Tears (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984",
+                "spotify_id": "6D6C7jGsJdzJpcEaMcxswR"
+            }
+        },
+        {
+            "name": "Twin Peaks Main Theme - Edit",
+            "spotify_id": "1RdIzQqdOttfKAkzrB7Ea7",
+            "duration_ms": 89213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Eeb1U0VJTDaFpBHV4DmHl",
+                    "id": "3Eeb1U0VJTDaFpBHV4DmHl",
+                    "name": "Angelo Badalamenti",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Eeb1U0VJTDaFpBHV4DmHl"
+                }
+            ],
+            "album": {
+                "album_name": "Twin Peaks Theme (Main Titles)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-05-22",
+                "spotify_id": "7xgk4KNHel84OdiTJlSls6"
+            }
+        },
+        {
+            "name": "Underwater Love",
+            "spotify_id": "1vahbgf2hkAjBvYRtIo09F",
+            "duration_ms": 406000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/76aD5RR474u5LVtrYxBKkF",
+                    "id": "76aD5RR474u5LVtrYxBKkF",
+                    "name": "Smoke City",
+                    "type": "artist",
+                    "uri": "spotify:artist:76aD5RR474u5LVtrYxBKkF"
+                }
+            ],
+            "album": {
+                "album_name": "Flying Away",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-08-25",
+                "spotify_id": "52g3C6ZdK60MAWsiGxAQz1"
+            }
+        },
+        {
+            "name": "The Girl From Ipanema - 2008 Remastered",
+            "spotify_id": "3NdHYXQK5gkFFEZvSMVVj6",
+            "duration_ms": 194040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+                    "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+                    "name": "Frank Sinatra",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3pO5VjZ4wOHCMBXOvbMISG",
+                    "id": "3pO5VjZ4wOHCMBXOvbMISG",
+                    "name": "Ant\u00f4nio Carlos Jobim",
+                    "type": "artist",
+                    "uri": "spotify:artist:3pO5VjZ4wOHCMBXOvbMISG"
+                }
+            ],
+            "album": {
+                "album_name": "Nothing But The Best (2008 Remastered)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2008-05-13",
+                "spotify_id": "3i67sGIVw8EBlgfSRv3Lj2"
+            }
+        },
+        {
+            "name": "Ever Fallen In Love",
+            "spotify_id": "0ehSg6Qnt2UpGdAYgppcQM",
+            "duration_ms": 199746,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4h7NLIlg1oYdEtfQJfyto0",
+                    "id": "4h7NLIlg1oYdEtfQJfyto0",
+                    "name": "Nouvelle Vague",
+                    "type": "artist",
+                    "uri": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+                }
+            ],
+            "album": {
+                "album_name": "Bande \u00e0 Part",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-06-11",
+                "spotify_id": "3WvuFV72BObrX9ULi7jLEm"
+            }
+        },
+        {
+            "name": "Drop The Other",
+            "spotify_id": "0EEXPT409kDhOiCOkdwvNq",
+            "duration_ms": 207000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/50Gx1SNB4vH2V7peIiYD4S",
+                    "id": "50Gx1SNB4vH2V7peIiYD4S",
+                    "name": "Emika",
+                    "type": "artist",
+                    "uri": "spotify:artist:50Gx1SNB4vH2V7peIiYD4S"
+                }
+            ],
+            "album": {
+                "album_name": "Drop The Other",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2009-12-28",
+                "spotify_id": "0XkjXNkMdM1WouoKydVyGJ"
+            }
+        },
+        {
+            "name": "Song To the Siren",
+            "spotify_id": "4wVziiCDtgX39cglWWQDqm",
+            "duration_ms": 209173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zHRqvws8dVeqL8D31ponr",
+                    "id": "6zHRqvws8dVeqL8D31ponr",
+                    "name": "Tim Buckley",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zHRqvws8dVeqL8D31ponr"
+                }
+            ],
+            "album": {
+                "album_name": "The Dream Belongs To Me",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2001",
+                "spotify_id": "7I3iYqzeyRGmAHIUrRom1x"
+            }
+        }
+    ]
+}

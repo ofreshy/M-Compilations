@@ -1,0 +1,398 @@
+{
+    "name": "Africa Africa V",
+    "spotify_id": "5uGzA0jiED7ItOhPR3WkSQ",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Kanou",
+            "spotify_id": "1fLQjeTXeWt2IU8ocwfRag",
+            "duration_ms": 298106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3T2iIPbvIyKJdXNrFYiYXn",
+                    "id": "3T2iIPbvIyKJdXNrFYiYXn",
+                    "name": "Issa Bagayogo",
+                    "type": "artist",
+                    "uri": "spotify:artist:3T2iIPbvIyKJdXNrFYiYXn"
+                }
+            ],
+            "album": {
+                "album_name": "Tassoumakan",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004",
+                "spotify_id": "4dC5mXjAbdd0JUhQFNMmxX"
+            }
+        },
+        {
+            "name": "I Can't Stand the Rain",
+            "spotify_id": "0CcL4kSHKIEwF3IW0BGgb6",
+            "duration_ms": 150400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5dM7jA0PXh0Ozz8LT2YOCB",
+                    "id": "5dM7jA0PXh0Ozz8LT2YOCB",
+                    "name": "Ann Peebles",
+                    "type": "artist",
+                    "uri": "spotify:artist:5dM7jA0PXh0Ozz8LT2YOCB"
+                }
+            ],
+            "album": {
+                "album_name": "I Can't Stand the Rain",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1974-06-11",
+                "spotify_id": "67Sjm7EwrWbnnyojmhP4KL"
+            }
+        },
+        {
+            "name": "Funny How Love Is",
+            "spotify_id": "6A2krXBuc11813W2wdylk7",
+            "duration_ms": 209906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/20p5D2KrE8CGuOjHtxsyTp",
+                    "id": "20p5D2KrE8CGuOjHtxsyTp",
+                    "name": "Fine Young Cannibals",
+                    "type": "artist",
+                    "uri": "spotify:artist:20p5D2KrE8CGuOjHtxsyTp"
+                }
+            ],
+            "album": {
+                "album_name": "Fine Young Cannibals",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1985-01-01",
+                "spotify_id": "7KQgihtbLnpyr3KVk9OqYB"
+            }
+        },
+        {
+            "name": "Dougou Badia - feat. Santigold",
+            "spotify_id": "6NrxYQ8XG0ahSnBwo2IHK8",
+            "duration_ms": 233357,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3KH7WsR2JZQ94Ik8SyabU6",
+                    "id": "3KH7WsR2JZQ94Ik8SyabU6",
+                    "name": "Amadou & Mariam",
+                    "type": "artist",
+                    "uri": "spotify:artist:3KH7WsR2JZQ94Ik8SyabU6"
+                }
+            ],
+            "album": {
+                "album_name": "Folila",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-03-28",
+                "spotify_id": "0n54ZbxvecMj6ivXjkiPnE"
+            }
+        },
+        {
+            "name": "Tenere (The Desert, My Home)",
+            "spotify_id": "7hnzrmnlbMvqoCRHe2uxHU",
+            "duration_ms": 212746,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7s4I6rDvTcdBDKElVbtsAN",
+                    "id": "7s4I6rDvTcdBDKElVbtsAN",
+                    "name": "Bombino",
+                    "type": "artist",
+                    "uri": "spotify:artist:7s4I6rDvTcdBDKElVbtsAN"
+                }
+            ],
+            "album": {
+                "album_name": "Agadez",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-04-12",
+                "spotify_id": "2thDAvthZTKa1FiO85yAKz"
+            }
+        },
+        {
+            "name": "Let It Carry You",
+            "spotify_id": "475o1AOFFcu4DqLMlNA2WL",
+            "duration_ms": 334013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+                    "id": "6xrCU6zdcSTsG2hLrojpmI",
+                    "name": "Jos\u00e9 Gonz\u00e1lez",
+                    "type": "artist",
+                    "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+                }
+            ],
+            "album": {
+                "album_name": "Vestiges & Claws",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-02-10",
+                "spotify_id": "2CVcNGpC318XQN2OreeugJ"
+            }
+        },
+        {
+            "name": "Pelota",
+            "spotify_id": "39p88iz6Hzx5KN00QbLIdv",
+            "duration_ms": 167972,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "Pelota",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-06-16",
+                "spotify_id": "2zX0TMRVNyesrH6kciPrQZ"
+            }
+        },
+        {
+            "name": "Tounga",
+            "spotify_id": "75CKtcFR4uY14FTmm9UAVe",
+            "duration_ms": 202933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3T2iIPbvIyKJdXNrFYiYXn",
+                    "id": "3T2iIPbvIyKJdXNrFYiYXn",
+                    "name": "Issa Bagayogo",
+                    "type": "artist",
+                    "uri": "spotify:artist:3T2iIPbvIyKJdXNrFYiYXn"
+                }
+            ],
+            "album": {
+                "album_name": "Timbuktu",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "5IpKgE3sThNxDaMDe9uSWO"
+            }
+        },
+        {
+            "name": "Hinwani",
+            "spotify_id": "5rKlZUPweRKY1bMMl4L2lu",
+            "duration_ms": 191039,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uDfHkEF9G0FoBa97NTr4O",
+                    "id": "6uDfHkEF9G0FoBa97NTr4O",
+                    "name": "Mariem Hassan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uDfHkEF9G0FoBa97NTr4O"
+                }
+            ],
+            "album": {
+                "album_name": "Shouka",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2009-01-01",
+                "spotify_id": "3cm9lHvovDb6f0ckq2JqpY"
+            }
+        },
+        {
+            "name": "Every Season",
+            "spotify_id": "6HrYi2gwKxrwEtZX3Orype",
+            "duration_ms": 247306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6JpZEemWmunccsrHXFUOgi",
+                    "id": "6JpZEemWmunccsrHXFUOgi",
+                    "name": "Tony Allen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6JpZEemWmunccsrHXFUOgi"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0O98jlCaPzvsoei6U5jfEL",
+                    "id": "0O98jlCaPzvsoei6U5jfEL",
+                    "name": "Damon Albarn",
+                    "type": "artist",
+                    "uri": "spotify:artist:0O98jlCaPzvsoei6U5jfEL"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7HtC7c5FCYUdltA49sFr5A"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7HtC7c5FCYUdltA49sFr5A",
+                    "id": "7HtC7c5FCYUdltA49sFr5A",
+                    "name": "Ty",
+                    "type": "artist",
+                    "uri": "spotify:artist:7HtC7c5FCYUdltA49sFr5A"
+                }
+            ],
+            "album": {
+                "album_name": "HomeCooking",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "5yzzvJinNh6q3305O3RuTQ"
+            }
+        },
+        {
+            "name": "Karmacoma - Remastered 2006",
+            "spotify_id": "3x70AjexU4TyUEK60mfNRY",
+            "duration_ms": 314000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+                    "id": "6FXMGgJwohJLUSr5nVlf9X",
+                    "name": "Massive Attack",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+                }
+            ],
+            "album": {
+                "album_name": "Collected",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006-03-27",
+                "spotify_id": "1X4zW7kIY8bQHO9gDTsIVh"
+            }
+        },
+        {
+            "name": "Reason in Disguise",
+            "spotify_id": "6F1D4x7Ifrwt5t5MleYFp3",
+            "duration_ms": 221933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5BRAUN0yN8557PLRZIr02W",
+                    "id": "5BRAUN0yN8557PLRZIr02W",
+                    "name": "Ezra Collective",
+                    "type": "artist",
+                    "uri": "spotify:artist:5BRAUN0yN8557PLRZIr02W"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1CoZyIx7UvdxT5c8UkMzHd",
+                    "id": "1CoZyIx7UvdxT5c8UkMzHd",
+                    "name": "Jorja Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd"
+                }
+            ],
+            "album": {
+                "album_name": "Reason in Disguise",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-09-05",
+                "spotify_id": "3qz4OoYi5iSnpCVcvHwJ75"
+            }
+        },
+        {
+            "name": "Out of Time",
+            "spotify_id": "79PrPZu9zWyc1qwUwXchVl",
+            "duration_ms": 233373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+                    "id": "7MhMgCo0Bl0Kukl93PZbYS",
+                    "name": "Blur",
+                    "type": "artist",
+                    "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+                }
+            ],
+            "album": {
+                "album_name": "Think Tank (Special Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003",
+                "spotify_id": "68P7oIUK327pt5tDIZJd63"
+            }
+        },
+        {
+            "name": "It Must Be Love",
+            "spotify_id": "70Y4jSu8zk3l8gyKTUz3l0",
+            "duration_ms": 236986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5CzlICF8GCY0pRC82MKrhX",
+                    "id": "5CzlICF8GCY0pRC82MKrhX",
+                    "name": "Labi Siffre",
+                    "type": "artist",
+                    "uri": "spotify:artist:5CzlICF8GCY0pRC82MKrhX"
+                }
+            ],
+            "album": {
+                "album_name": "Crying, Laughing, Loving, Lying",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972",
+                "spotify_id": "3KJxMjUnBZu3jLeQTIe6aQ"
+            }
+        },
+        {
+            "name": "Simply Beautiful",
+            "spotify_id": "09kEUjIvixNShjfl3YoyWo",
+            "duration_ms": 251569,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3dkbV4qihUeMsqN4vBGg93",
+                    "id": "3dkbV4qihUeMsqN4vBGg93",
+                    "name": "Al Green",
+                    "type": "artist",
+                    "uri": "spotify:artist:3dkbV4qihUeMsqN4vBGg93"
+                }
+            ],
+            "album": {
+                "album_name": "I'm Still in Love with You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-10-23",
+                "spotify_id": "7hI0QCwcx9GB8MZK24IfTT"
+            }
+        }
+    ]
+}

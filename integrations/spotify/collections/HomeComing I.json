@@ -1,0 +1,446 @@
+{
+    "name": "HomeComing I",
+    "spotify_id": "3FzsMzWJre9VFftWFiVzxA",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "\u05e9\u05dc\u05d5\u05e7 \u05d1\u05d8\u05d5\u05df",
+            "spotify_id": "4xe8KZkDVe62aCZq1zBV6j",
+            "duration_ms": 222885,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YI2KYx69I28t10C2C95EE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YI2KYx69I28t10C2C95EE",
+                    "id": "1YI2KYx69I28t10C2C95EE",
+                    "name": "Mouth and Foot",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YI2KYx69I28t10C2C95EE"
+                }
+            ],
+            "album": {
+                "album_name": "\u05ea\u05d7\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-02-06",
+                "spotify_id": "2pfG9R0T7WarW7OYfMAFHs"
+            }
+        },
+        {
+            "name": "Sound and Vision - 1999 Remaster",
+            "spotify_id": "7FZmtRAfaMQjGZUVvhof8F",
+            "duration_ms": 184533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "album": {
+                "album_name": "Sound + Vision",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1989-09-19",
+                "spotify_id": "5zvy6zyWxnUUyNKnTOVrad"
+            }
+        },
+        {
+            "name": "Sir Duke",
+            "spotify_id": "4pNiE4LCVV74vfIBaUHm1b",
+            "duration_ms": 232760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                    "id": "7guDJrEfX3qb6FEbdPA5qi",
+                    "name": "Stevie Wonder",
+                    "type": "artist",
+                    "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                }
+            ],
+            "album": {
+                "album_name": "Songs In The Key Of Life",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-09-28",
+                "spotify_id": "6YUCc2RiXcEKS9ibuZxjt0"
+            }
+        },
+        {
+            "name": "\u05d1\u05d2\u05d3\u05d9\u05dd",
+            "spotify_id": "0wiYL1TdSjOcgqCv9AIWCn",
+            "duration_ms": 209392,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17E3cc4QB92cs0961xRv4S"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17E3cc4QB92cs0961xRv4S",
+                    "id": "17E3cc4QB92cs0961xRv4S",
+                    "name": "Sputnik Hi Fi",
+                    "type": "artist",
+                    "uri": "spotify:artist:17E3cc4QB92cs0961xRv4S"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d1\u05d2\u05d3\u05d9\u05dd",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-05-12",
+                "spotify_id": "0mQpEyLZSSt830sTgbEcwD"
+            }
+        },
+        {
+            "name": "Tempo (feat. Missy Elliott)",
+            "spotify_id": "6nBQFAIVFmAx2oZ8p6lUg6",
+            "duration_ms": 175342,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wIVse2owClT7go1WT98tk",
+                    "id": "2wIVse2owClT7go1WT98tk",
+                    "name": "Missy Elliott",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wIVse2owClT7go1WT98tk"
+                }
+            ],
+            "album": {
+                "album_name": "Cuz I Love You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-04-19",
+                "spotify_id": "6dFFcYQ8VhifgdKgYY5LYL"
+            }
+        },
+        {
+            "name": "Human After All",
+            "spotify_id": "2FTxc9WUZcKFQtFrT1oOVd",
+            "duration_ms": 319879,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+                    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                    "name": "Daft Punk",
+                    "type": "artist",
+                    "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+                }
+            ],
+            "album": {
+                "album_name": "Musique, Vol. 1",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006-03-29",
+                "spotify_id": "4a0p1M12f7VaZWdoNSdEK4"
+            }
+        },
+        {
+            "name": "all the good girls go to hell",
+            "spotify_id": "6IRdLKIyS4p7XNiP8r6rsx",
+            "duration_ms": 168839,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "album": {
+                "album_name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-03-29",
+                "spotify_id": "0S0KGZnfBGSIssfF54WSJh"
+            }
+        },
+        {
+            "name": "\u05d4\u05de\u05dc\u05da \u05de\u05ea",
+            "spotify_id": "2O4C9sP5yuxBKGIQNb04EP",
+            "duration_ms": 203520,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/24Rzfui4UwLMlhZcWYYk7P",
+                    "id": "24Rzfui4UwLMlhZcWYYk7P",
+                    "name": "Hila Ruach",
+                    "type": "artist",
+                    "uri": "spotify:artist:24Rzfui4UwLMlhZcWYYk7P"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d5\u05e1\u05d9\u05e7\u05d4 \u05dc\u05e4\u05e8\u05e1\u05d5\u05de\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-09",
+                "spotify_id": "5ts9n4DMLGyRsBicbQfmam"
+            }
+        },
+        {
+            "name": "Controversy - Single Version",
+            "spotify_id": "4Soed5Un5Pqhy34DX9M1rk",
+            "duration_ms": 217613,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+                    "id": "5a2EaR3hamoenG9rDuVn8j",
+                    "name": "Prince",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+                }
+            ],
+            "album": {
+                "album_name": "The Hits / The B-Sides",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1993-09-13",
+                "spotify_id": "3o0o5WPnqfGOeyx3UMJgvO"
+            }
+        },
+        {
+            "name": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05d1\u05dc\u05d5\u05d6",
+            "spotify_id": "2Jyuqk1rTuzNteqkMPiUrU",
+            "duration_ms": 160000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3H172qGuqnfJW4wmzkaeaH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3H172qGuqnfJW4wmzkaeaH",
+                    "id": "3H172qGuqnfJW4wmzkaeaH",
+                    "name": "Haim Rachmani",
+                    "type": "artist",
+                    "uri": "spotify:artist:3H172qGuqnfJW4wmzkaeaH"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1HIgDUATH0wbpjmgRMMT0H"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1HIgDUATH0wbpjmgRMMT0H",
+                    "id": "1HIgDUATH0wbpjmgRMMT0H",
+                    "name": "Sha'anan Streett",
+                    "type": "artist",
+                    "uri": "spotify:artist:1HIgDUATH0wbpjmgRMMT0H"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d3\u05e8\u05db\u05d5\u05ea \u05de\u05e4\u05d9\u05e7\u05d5\u05ea \u05d7\u05e9\u05de\u05dc",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-03-31",
+                "spotify_id": "4m7GQgNbEL9AK2rGs0Qsik"
+            }
+        },
+        {
+            "name": "\u05d1\u05e8\u05e6\u05dc\u05d5\u05e0\u05d4",
+            "spotify_id": "0dFtb1t2DDhdDbLU4rGtSj",
+            "duration_ms": 244160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3RUaBohZGA9vusdMDJBD1V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3RUaBohZGA9vusdMDJBD1V",
+                    "id": "3RUaBohZGA9vusdMDJBD1V",
+                    "name": "Zohar Argov",
+                    "type": "artist",
+                    "uri": "spotify:artist:3RUaBohZGA9vusdMDJBD1V"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d1\u05de\u05d9\u05d8\u05d1 \u05dc\u05d4\u05d9\u05d8\u05d9 \u05d4\u05d6\u05d4\u05d1 \u05d7\u05dc\u05e7 \u05d2'",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-01-01",
+                "spotify_id": "0RzYh2ovdnht4vUfRAxe3p"
+            }
+        },
+        {
+            "name": "Magat Milkitna Dulaa",
+            "spotify_id": "2qHjNkxt0B9y4Mw0gGZIW7",
+            "duration_ms": 289658,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uDfHkEF9G0FoBa97NTr4O",
+                    "id": "6uDfHkEF9G0FoBa97NTr4O",
+                    "name": "Mariem Hassan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uDfHkEF9G0FoBa97NTr4O"
+                }
+            ],
+            "album": {
+                "album_name": "Deseos",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-01-01",
+                "spotify_id": "2J8pd05PPmchW3OOgkYsgL"
+            }
+        },
+        {
+            "name": "El Arabi",
+            "spotify_id": "18U2888eSTIQIg0qT8vVeJ",
+            "duration_ms": 163973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uDfHkEF9G0FoBa97NTr4O",
+                    "id": "6uDfHkEF9G0FoBa97NTr4O",
+                    "name": "Mariem Hassan",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uDfHkEF9G0FoBa97NTr4O"
+                }
+            ],
+            "album": {
+                "album_name": "Deseos",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-01-01",
+                "spotify_id": "704dRQCfv6O7WzRp82IIW3"
+            }
+        },
+        {
+            "name": "\u05d8\u05e8\u05e3 \u05d4\u05dc\u05d1",
+            "spotify_id": "5VbTa5JGZauTrTUCfJLTqE",
+            "duration_ms": 227881,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3H172qGuqnfJW4wmzkaeaH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3H172qGuqnfJW4wmzkaeaH",
+                    "id": "3H172qGuqnfJW4wmzkaeaH",
+                    "name": "Haim Rachmani",
+                    "type": "artist",
+                    "uri": "spotify:artist:3H172qGuqnfJW4wmzkaeaH"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/48Wxsucru6KSmbdhOJPQBe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/48Wxsucru6KSmbdhOJPQBe",
+                    "id": "48Wxsucru6KSmbdhOJPQBe",
+                    "name": "Abate Berihun",
+                    "type": "artist",
+                    "uri": "spotify:artist:48Wxsucru6KSmbdhOJPQBe"
+                }
+            ],
+            "album": {
+                "album_name": "\u05de\u05d3\u05e8\u05db\u05d5\u05ea \u05de\u05e4\u05d9\u05e7\u05d5\u05ea \u05d7\u05e9\u05de\u05dc",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-03-31",
+                "spotify_id": "4m7GQgNbEL9AK2rGs0Qsik"
+            }
+        },
+        {
+            "name": "Maria Tambi\u00e9n",
+            "spotify_id": "2EFuKYBalAcplMyUVL3BDH",
+            "duration_ms": 190999,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "Con Todo El Mundo",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-01-26",
+                "spotify_id": "09AkhNYWocEZWbeYl1YBf7"
+            }
+        },
+        {
+            "name": "\u05d9'\u05d0 2",
+            "spotify_id": "2PpTUW96jjJYr8ib8RUnUu",
+            "duration_ms": 176440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17pbOSPIn3lmY0vHhOlKGL",
+                    "id": "17pbOSPIn3lmY0vHhOlKGL",
+                    "name": "Tuna",
+                    "type": "artist",
+                    "uri": "spotify:artist:17pbOSPIn3lmY0vHhOlKGL"
+                }
+            ],
+            "album": {
+                "album_name": "\u05d8\u05d5\u05e0\u05d4\u05e4\u05d0\u05e8\u05e7",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-09-07",
+                "spotify_id": "3yXLuyV0G2op91XliCCRWv"
+            }
+        },
+        {
+            "name": "Six Days",
+            "spotify_id": "2BssloLVwuFmTH8OgKULWf",
+            "duration_ms": 298973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5CE2IfdYZEQGIDsfiRm8SI",
+                    "id": "5CE2IfdYZEQGIDsfiRm8SI",
+                    "name": "DJ Shadow",
+                    "type": "artist",
+                    "uri": "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI"
+                }
+            ],
+            "album": {
+                "album_name": "The Private Press (Limited Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-06-04",
+                "spotify_id": "4mrwnmtbQeWz1aXYCO7sbS"
+            }
+        }
+    ]
+}

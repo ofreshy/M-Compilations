@@ -1,0 +1,1068 @@
+{
+    "name": "To Darren",
+    "spotify_id": "2V9pLWPtkuGkCP2fr7OHAN",
+    "created_date": "2021-11-12",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Sexy Boy - Radio Edit",
+            "spotify_id": "6OhDM2wKpgrW3vAJZNb4yS",
+            "duration_ms": 233933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+                    "id": "1P6U1dCeHxPui5pIrGmndZ",
+                    "name": "Air",
+                    "type": "artist",
+                    "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+                }
+            ],
+            "album": {
+                "album_name": "Indie Anthems",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2019-08-30",
+                "spotify_id": "33Zt9NIPwh2OHELPuDh21O"
+            }
+        },
+        {
+            "name": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+            "spotify_id": "4wuCQX7JvAZLlrcmH4AeZF",
+            "duration_ms": 206186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                    "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                    "name": "Ed Sheeran",
+                    "type": "artist",
+                    "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1anyVhU62p31KFi8MEzkbf",
+                    "id": "1anyVhU62p31KFi8MEzkbf",
+                    "name": "Chance the Rapper",
+                    "type": "artist",
+                    "uri": "spotify:artist:1anyVhU62p31KFi8MEzkbf"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/21WS9wngs9AqFckK7yYJPM",
+                    "id": "21WS9wngs9AqFckK7yYJPM",
+                    "name": "PnB Rock",
+                    "type": "artist",
+                    "uri": "spotify:artist:21WS9wngs9AqFckK7yYJPM"
+                }
+            ],
+            "album": {
+                "album_name": "No.6 Collaborations Project",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-07-12",
+                "spotify_id": "3oIFxDIo2fwuk4lwCmFZCx"
+            }
+        },
+        {
+            "name": "Dance Yrself Clean",
+            "spotify_id": "2cmRpmO04TLaKPzmAzySYZ",
+            "duration_ms": 536471,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "This Is Happening",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-05-17",
+                "spotify_id": "4hnqM0JK4CM1phwfq1Ldyz"
+            }
+        },
+        {
+            "name": "Trace",
+            "spotify_id": "5gTWcDT8ibKwIRCAYq3vWR",
+            "duration_ms": 23251,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W",
+                    "id": "5a0etAzO5V26gvlbmHzT9W",
+                    "name": "Nicolas Jaar",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a0etAzO5V26gvlbmHzT9W"
+                }
+            ],
+            "album": {
+                "album_name": "Space Is Only Noise",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-01-31",
+                "spotify_id": "0tUJcqDuXHNkaPKLN0lQhT"
+            }
+        },
+        {
+            "name": "3am",
+            "spotify_id": "1OfLNb6dQ9dra1B58iT9Ex",
+            "duration_ms": 234858,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+                    "id": "26VFTg2z8YR0cCuwLzESi2",
+                    "name": "Halsey",
+                    "type": "artist",
+                    "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+                }
+            ],
+            "album": {
+                "album_name": "Manic",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-01-17",
+                "spotify_id": "68enXe5XcJdciSDAZr0Alr"
+            }
+        },
+        {
+            "name": "Wide Open",
+            "spotify_id": "702bgtK1RC080O8pozq94S",
+            "duration_ms": 354603,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1GhPHrq36VKCY3ucVaZCfo",
+                    "id": "1GhPHrq36VKCY3ucVaZCfo",
+                    "name": "The Chemical Brothers",
+                    "type": "artist",
+                    "uri": "spotify:artist:1GhPHrq36VKCY3ucVaZCfo"
+                }
+            ],
+            "album": {
+                "album_name": "Born In The Echoes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-07-17",
+                "spotify_id": "36E5LAM5D3AKnVx8s5dyc6"
+            }
+        },
+        {
+            "name": "I'll Take Care of U",
+            "spotify_id": "3uFVyg61HeKCMbL5N6LuSA",
+            "duration_ms": 282906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0kEfub5RzlZOB2zGomqVSU",
+                    "id": "0kEfub5RzlZOB2zGomqVSU",
+                    "name": "Gil Scott-Heron",
+                    "type": "artist",
+                    "uri": "spotify:artist:0kEfub5RzlZOB2zGomqVSU"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+                    "id": "7A0awCXkE1FtSU8B0qwOJQ",
+                    "name": "Jamie xx",
+                    "type": "artist",
+                    "uri": "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+                }
+            ],
+            "album": {
+                "album_name": "We're New Here",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-02-21",
+                "spotify_id": "7BuwwZzrJCAJaC12QKkDOh"
+            }
+        },
+        {
+            "name": "Open Eye Signal",
+            "spotify_id": "2e0jipRELfRzWVcKCNdyqc",
+            "duration_ms": 468586,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "album": {
+                "album_name": "Immunity",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-06-03",
+                "spotify_id": "0Zpht5ek9rMGsGB5IYPjlz"
+            }
+        },
+        {
+            "name": "WAP (feat. Megan Thee Stallion)",
+            "spotify_id": "4Oun2ylbjFKMPTiaSbbCih",
+            "duration_ms": 187541,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+                    "id": "4kYSro6naA4h99UJvo89HB",
+                    "name": "Cardi B",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+                    "id": "181bsRPaVXVlUKXrxwZfHK",
+                    "name": "Megan Thee Stallion",
+                    "type": "artist",
+                    "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+                }
+            ],
+            "album": {
+                "album_name": "WAP (feat. Megan Thee Stallion)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-08-07",
+                "spotify_id": "2ogiazbrNEx0kQHGl5ZBTQ"
+            }
+        },
+        {
+            "name": "PRIDE.",
+            "spotify_id": "6IZvVAP7VPPnsGX6bvgkqg",
+            "duration_ms": 275253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "album": {
+                "album_name": "DAMN.",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-04-14",
+                "spotify_id": "4eLPsYPBmXABThSJ821sqY"
+            }
+        },
+        {
+            "name": "ARE WE STILL FRIENDS?",
+            "spotify_id": "5TxRUOsGeWeRl3xOML59Ai",
+            "duration_ms": 265480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+                    "id": "4V8LLVI7PbaPR0K2TGSxFF",
+                    "name": "Tyler, The Creator",
+                    "type": "artist",
+                    "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+                }
+            ],
+            "album": {
+                "album_name": "IGOR",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-05-17",
+                "spotify_id": "5zi7WsKlIiUXv09tbGLKsE"
+            }
+        },
+        {
+            "name": "Using What You Got",
+            "spotify_id": "6HOTOZfCzhjUnrEetcsLAN",
+            "duration_ms": 65293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793",
+                    "id": "29XOeO6KIWxGthejQqn793",
+                    "name": "Flying Lotus",
+                    "type": "artist",
+                    "uri": "spotify:artist:29XOeO6KIWxGthejQqn793"
+                }
+            ],
+            "album": {
+                "album_name": "Yasuke",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-04-30",
+                "spotify_id": "4duUlv53npBm7EmqxTT1kj"
+            }
+        },
+        {
+            "name": "African Samurai",
+            "spotify_id": "5lX1t4AskmbbFKudOOC9IL",
+            "duration_ms": 114186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/29XOeO6KIWxGthejQqn793",
+                    "id": "29XOeO6KIWxGthejQqn793",
+                    "name": "Flying Lotus",
+                    "type": "artist",
+                    "uri": "spotify:artist:29XOeO6KIWxGthejQqn793"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6fxyWrfmjcbj5d12gXeiNV",
+                    "id": "6fxyWrfmjcbj5d12gXeiNV",
+                    "name": "Denzel Curry",
+                    "type": "artist",
+                    "uri": "spotify:artist:6fxyWrfmjcbj5d12gXeiNV"
+                }
+            ],
+            "album": {
+                "album_name": "Yasuke",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-04-30",
+                "spotify_id": "4duUlv53npBm7EmqxTT1kj"
+            }
+        },
+        {
+            "name": "Greenbax (Introlude)",
+            "spotify_id": "7hcw6rldYNF8Uqvbz8WhI3",
+            "duration_ms": 48492,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2P5sC9cVZDToPxyomzF1UH",
+                    "id": "2P5sC9cVZDToPxyomzF1UH",
+                    "name": "Joey Bada$$",
+                    "type": "artist",
+                    "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+                }
+            ],
+            "album": {
+                "album_name": "B4.DA.$$",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-01-20",
+                "spotify_id": "2NTIYavFZmU1PCvJvn2USJ"
+            }
+        },
+        {
+            "name": "Teach Me",
+            "spotify_id": "0RZx763PZaGsBI66gSnW44",
+            "duration_ms": 258919,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2P5sC9cVZDToPxyomzF1UH",
+                    "id": "2P5sC9cVZDToPxyomzF1UH",
+                    "name": "Joey Bada$$",
+                    "type": "artist",
+                    "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4zxvC7CRGvggq9EWXOpwAo",
+                    "id": "4zxvC7CRGvggq9EWXOpwAo",
+                    "name": "Kiesza",
+                    "type": "artist",
+                    "uri": "spotify:artist:4zxvC7CRGvggq9EWXOpwAo"
+                }
+            ],
+            "album": {
+                "album_name": "B4.DA.$$",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-01-20",
+                "spotify_id": "2NTIYavFZmU1PCvJvn2USJ"
+            }
+        },
+        {
+            "name": "Flutes",
+            "spotify_id": "3SCE48fTsE0YE2XzUYGZNW",
+            "duration_ms": 425320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/37uLId6Z5ZXCx19vuruvv5",
+                    "id": "37uLId6Z5ZXCx19vuruvv5",
+                    "name": "Hot Chip",
+                    "type": "artist",
+                    "uri": "spotify:artist:37uLId6Z5ZXCx19vuruvv5"
+                }
+            ],
+            "album": {
+                "album_name": "In Our Heads",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-06-11",
+                "spotify_id": "0y3NABiBZ3rN1Hrj1Xql5i"
+            }
+        },
+        {
+            "name": "I'm Your Man",
+            "spotify_id": "1JN8KCto4SsRBwqI6l1OGL",
+            "duration_ms": 290253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0CNehpGYdxk87YYMiBpnyP",
+                    "id": "0CNehpGYdxk87YYMiBpnyP",
+                    "name": "Holly Miranda",
+                    "type": "artist",
+                    "uri": "spotify:artist:0CNehpGYdxk87YYMiBpnyP"
+                }
+            ],
+            "album": {
+                "album_name": "I'm Your Man (Instant Love)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-09-22",
+                "spotify_id": "7Lla9KwbKQUSjBirfH25yE"
+            }
+        },
+        {
+            "name": "Lmchi w Rjou3",
+            "spotify_id": "25NuCWQ4cIxmwxRHMZ0C4L",
+            "duration_ms": 385253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/47sKkybVg9NVz7IWvTezzy",
+                    "id": "47sKkybVg9NVz7IWvTezzy",
+                    "name": "TAXI KEBAB",
+                    "type": "artist",
+                    "uri": "spotify:artist:47sKkybVg9NVz7IWvTezzy"
+                }
+            ],
+            "album": {
+                "album_name": "Lmchi w Rjou3",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-05-21",
+                "spotify_id": "6T5BcuQisJcN2E4O6BmRDk"
+            }
+        },
+        {
+            "name": "Let It Happen - Soulwax Remix",
+            "spotify_id": "5Z1E4jrUzitOQRczI8gfSL",
+            "duration_ms": 556924,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+                    "id": "5INjqkS1o8h1imAzPqGZBb",
+                    "name": "Tame Impala",
+                    "type": "artist",
+                    "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+                    "id": "43mWhBXSflupNLuNjM5vff",
+                    "name": "Soulwax",
+                    "type": "artist",
+                    "uri": "spotify:artist:43mWhBXSflupNLuNjM5vff"
+                }
+            ],
+            "album": {
+                "album_name": "Currents B-Sides & Remixes",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-11-16",
+                "spotify_id": "04uXkrNhFJ1iWEo88MGPva"
+            }
+        },
+        {
+            "name": "Reign",
+            "spotify_id": "0Sxl0jJGEdXyFzOunpruG8",
+            "duration_ms": 332986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+                    "id": "2nszamLjZFgu3Yx77mKxuC",
+                    "name": "UNKLE",
+                    "type": "artist",
+                    "uri": "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3s398TKZNahAURRacx7oIT",
+                    "id": "3s398TKZNahAURRacx7oIT",
+                    "name": "Ian Brown",
+                    "type": "artist",
+                    "uri": "spotify:artist:3s398TKZNahAURRacx7oIT"
+                }
+            ],
+            "album": {
+                "album_name": "Never, Never, Land",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-09-22",
+                "spotify_id": "6I9PSRmI6XR1oNj8JXXbjl"
+            }
+        },
+        {
+            "name": "Off Peak Dreams",
+            "spotify_id": "05yDeGp6Rn6fL2OeSI0lyx",
+            "duration_ms": 198206,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/69lEbRQRe29JdyLrewNAvD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/69lEbRQRe29JdyLrewNAvD",
+                    "id": "69lEbRQRe29JdyLrewNAvD",
+                    "name": "Ghostpoet",
+                    "type": "artist",
+                    "uri": "spotify:artist:69lEbRQRe29JdyLrewNAvD"
+                }
+            ],
+            "album": {
+                "album_name": "Shedding Skin",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-03-02",
+                "spotify_id": "1Z25ZLzDEMlPc0m6eXz0Lr"
+            }
+        },
+        {
+            "name": "Say Something",
+            "spotify_id": "5WBR0r6ZU5KyzhYj4PDUcr",
+            "duration_ms": 172173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/47yawJswuSfSvizYhItoOP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/47yawJswuSfSvizYhItoOP",
+                    "id": "47yawJswuSfSvizYhItoOP",
+                    "name": "Something For Kate",
+                    "type": "artist",
+                    "uri": "spotify:artist:47yawJswuSfSvizYhItoOP"
+                }
+            ],
+            "album": {
+                "album_name": "Echolalia",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-06-22",
+                "spotify_id": "28GvCEmdROOhpgVYwODp3y"
+            }
+        },
+        {
+            "name": "Echoes",
+            "spotify_id": "7wg5h9uqPvRngy5WUQKlAs",
+            "duration_ms": 186520,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/166Dz1GX3xonSQ3Z6CQW26",
+                    "id": "166Dz1GX3xonSQ3Z6CQW26",
+                    "name": "The Rapture",
+                    "type": "artist",
+                    "uri": "spotify:artist:166Dz1GX3xonSQ3Z6CQW26"
+                }
+            ],
+            "album": {
+                "album_name": "Echoes",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-01-01",
+                "spotify_id": "571veQko8q18Q5mpexw5Cx"
+            }
+        },
+        {
+            "name": "Gay Bar",
+            "spotify_id": "7G5xEOORkAAUhx6wjTRb26",
+            "duration_ms": 140906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4xNadaO5ZZLVJdqDIVVIua",
+                    "id": "4xNadaO5ZZLVJdqDIVVIua",
+                    "name": "Electric Six",
+                    "type": "artist",
+                    "uri": "spotify:artist:4xNadaO5ZZLVJdqDIVVIua"
+                }
+            ],
+            "album": {
+                "album_name": "Fire",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-05-19",
+                "spotify_id": "0mekXZokDUu9QCWbzhDhRx"
+            }
+        },
+        {
+            "name": "Drain You",
+            "spotify_id": "5OwponLnwCAYnWql6cwBru",
+            "duration_ms": 223880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+                    "id": "6olE6TJLqED3rqDCT0FyPh",
+                    "name": "Nirvana",
+                    "type": "artist",
+                    "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+                }
+            ],
+            "album": {
+                "album_name": "Nevermind (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-09-26",
+                "spotify_id": "2uEf3r9i2bnxwJQsxQ0xQ7"
+            }
+        },
+        {
+            "name": "Cactus - Remastered",
+            "spotify_id": "4S3XYcZFs6FbsiLwH13Z63",
+            "duration_ms": 136613,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Surfer Rosa",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-03-21",
+                "spotify_id": "50j4Wm1b9hLpSpPIA39Vp9"
+            }
+        },
+        {
+            "name": "Help Me",
+            "spotify_id": "0tVzXGFyNPusa1VkHmYDLd",
+            "duration_ms": 204320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve",
+                    "id": "5hW4L92KnC6dX9t7tYM4Ve",
+                    "name": "Joni Mitchell",
+                    "type": "artist",
+                    "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve"
+                }
+            ],
+            "album": {
+                "album_name": "Court and Spark",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1974-01-17",
+                "spotify_id": "2akjxkzFolkeV72Yyv5KrM"
+            }
+        },
+        {
+            "name": "Luna Hechicera",
+            "spotify_id": "6YEeZdUzhhyj2DQzdxmogA",
+            "duration_ms": 287626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P",
+                    "id": "6GI52t8N5F02MxU0g5U69P",
+                    "name": "Santana",
+                    "type": "artist",
+                    "uri": "spotify:artist:6GI52t8N5F02MxU0g5U69P"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1gbXoccc8bjK8eUh92mILy",
+                    "id": "1gbXoccc8bjK8eUh92mILy",
+                    "name": "Buika",
+                    "type": "artist",
+                    "uri": "spotify:artist:1gbXoccc8bjK8eUh92mILy"
+                }
+            ],
+            "album": {
+                "album_name": "Africa Speaks",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-06-07",
+                "spotify_id": "7JiTWRntgMFo4bwxW9Kq6N"
+            }
+        },
+        {
+            "name": "Deixa A Gira Girar",
+            "spotify_id": "6f3kyi8L8AcLv1VINEFx5U",
+            "duration_ms": 354661,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/705v1M6i1KMBKTKBGoHEEI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/705v1M6i1KMBKTKBGoHEEI",
+                    "id": "705v1M6i1KMBKTKBGoHEEI",
+                    "name": "Pate Jaar",
+                    "type": "artist",
+                    "uri": "spotify:artist:705v1M6i1KMBKTKBGoHEEI"
+                }
+            ],
+            "album": {
+                "album_name": "Deixa A Gira Girar",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-04-25",
+                "spotify_id": "6NPzXL8ImCNPbfiWzPq8bq"
+            }
+        },
+        {
+            "name": "True Happiness This Way Lies",
+            "spotify_id": "7DvzeBaK7cZ4jJTL2OeYS4",
+            "duration_ms": 190800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7cKtqv9cYVlOwnuCFH95ce",
+                    "id": "7cKtqv9cYVlOwnuCFH95ce",
+                    "name": "The The",
+                    "type": "artist",
+                    "uri": "spotify:artist:7cKtqv9cYVlOwnuCFH95ce"
+                }
+            ],
+            "album": {
+                "album_name": "Dusk",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993",
+                "spotify_id": "2l787tSnzSfpfvgPNsR5O2"
+            }
+        },
+        {
+            "name": "Dogs Of Lust",
+            "spotify_id": "7MGMxmXA8Kgf4Qzv5z6ImL",
+            "duration_ms": 188866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7cKtqv9cYVlOwnuCFH95ce",
+                    "id": "7cKtqv9cYVlOwnuCFH95ce",
+                    "name": "The The",
+                    "type": "artist",
+                    "uri": "spotify:artist:7cKtqv9cYVlOwnuCFH95ce"
+                }
+            ],
+            "album": {
+                "album_name": "Dusk",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993",
+                "spotify_id": "2l787tSnzSfpfvgPNsR5O2"
+            }
+        },
+        {
+            "name": "Kokoro - Laolu Remix",
+            "spotify_id": "5CNbowYP88zfC16t7HyV3g",
+            "duration_ms": 361925,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4G5ZJny3HvX6Il7eHVfnNC",
+                    "id": "4G5ZJny3HvX6Il7eHVfnNC",
+                    "name": "Fatoumata Diawara",
+                    "type": "artist",
+                    "uri": "spotify:artist:4G5ZJny3HvX6Il7eHVfnNC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53PSeUFq8tMZc0zdd1oUTG",
+                    "id": "53PSeUFq8tMZc0zdd1oUTG",
+                    "name": "Laolu",
+                    "type": "artist",
+                    "uri": "spotify:artist:53PSeUFq8tMZc0zdd1oUTG"
+                }
+            ],
+            "album": {
+                "album_name": "Kokoro (Laolu Remix)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-11-01",
+                "spotify_id": "2xsX0WTagB3YDXQX88YfPD"
+            }
+        },
+        {
+            "name": "Can I Kick It? - J. Cole Remix",
+            "spotify_id": "0GmhAVyyHwaX6jfCbPmaoB",
+            "duration_ms": 169373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "album": {
+                "album_name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990-04-17",
+                "spotify_id": "3kV0i1qqudjf0PGawJ4jck"
+            }
+        },
+        {
+            "name": "Neon Pattern Drum",
+            "spotify_id": "1rbH1KmfxUjVlt8GCjgZSE",
+            "duration_ms": 367213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "album": {
+                "album_name": "Singularity",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-04",
+                "spotify_id": "1nvzBC1M3dlCMIxfUCBhlO"
+            }
+        },
+        {
+            "name": "Go!",
+            "spotify_id": "5xYZXIgVAND5sWjN8G0hID",
+            "duration_ms": 252720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6VsiDFMZJlJ053P1uO4A6h",
+                    "id": "6VsiDFMZJlJ053P1uO4A6h",
+                    "name": "Public Service Broadcasting",
+                    "type": "artist",
+                    "uri": "spotify:artist:6VsiDFMZJlJ053P1uO4A6h"
+                }
+            ],
+            "album": {
+                "album_name": "The Race For Space",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014",
+                "spotify_id": "65KwtzkJXw7oT819NFWmEP"
+            }
+        },
+        {
+            "name": "Don't Go",
+            "spotify_id": "6sKZGm9MUZ6lGF9HGKuYw6",
+            "duration_ms": 249798,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/04cr7qH71klBu2x9H7c0Iw",
+                    "id": "04cr7qH71klBu2x9H7c0Iw",
+                    "name": "Sanullim",
+                    "type": "artist",
+                    "uri": "spotify:artist:04cr7qH71klBu2x9H7c0Iw"
+                }
+            ],
+            "album": {
+                "album_name": "Late Night Tales: Khruangbin",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-12-04",
+                "spotify_id": "6G9fIqCsV0qEiBsdwLOACy"
+            }
+        },
+        {
+            "name": "Et si tu n'existais pas",
+            "spotify_id": "7aSXnm1hOSvDTAJJUqavOS",
+            "duration_ms": 208026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64LCTpIu9Iji2EPaxxPpxF",
+                    "id": "64LCTpIu9Iji2EPaxxPpxF",
+                    "name": "Joe Dassin",
+                    "type": "artist",
+                    "uri": "spotify:artist:64LCTpIu9Iji2EPaxxPpxF"
+                }
+            ],
+            "album": {
+                "album_name": "Best Of L'Album Souvenir",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2010-06-28",
+                "spotify_id": "1i5iA41fk0Hv1p1DS3LVfo"
+            }
+        },
+        {
+            "name": "Rape Me",
+            "spotify_id": "3zhPsi45KpoNws9J372Dzv",
+            "duration_ms": 113320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74IIqlVQQmvf04EHOI6yKh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74IIqlVQQmvf04EHOI6yKh",
+                    "id": "74IIqlVQQmvf04EHOI6yKh",
+                    "name": "Richard Cheese",
+                    "type": "artist",
+                    "uri": "spotify:artist:74IIqlVQQmvf04EHOI6yKh"
+                }
+            ],
+            "album": {
+                "album_name": "The Sunny Side of the Moon: The Best of Richard Cheese (Explicit Version)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006-02-07",
+                "spotify_id": "1Q7q4b7WILbojdG2nWeFDn"
+            }
+        },
+        {
+            "name": "The Bomb (These Sounds Fall Into My Mind)",
+            "spotify_id": "2Biy0tRkZTGxGH8axDwnqP",
+            "duration_ms": 202934,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1yjuFciXmV3NaPCzwwHclC",
+                    "id": "1yjuFciXmV3NaPCzwwHclC",
+                    "name": "The Bucketheads",
+                    "type": "artist",
+                    "uri": "spotify:artist:1yjuFciXmV3NaPCzwwHclC"
+                }
+            ],
+            "album": {
+                "album_name": "All In The Mind",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1995-03-03",
+                "spotify_id": "7AvNbRsfa2B0Hwf4bfcABj"
+            }
+        },
+        {
+            "name": "Sexy Bitch (feat. Akon)",
+            "spotify_id": "28O4PwkH8bzARStxeL4pxL",
+            "duration_ms": 195853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai",
+                    "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+                    "name": "David Guetta",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                }
+            ],
+            "album": {
+                "album_name": "Sexy Bitch",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2009-08-14",
+                "spotify_id": "6KiQi1c4kXaPzsmizS8SLB"
+            }
+        }
+    ]
+}

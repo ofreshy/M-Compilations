@@ -1,0 +1,482 @@
+{
+    "name": "Zeitgeist 2020 III - HipHop & Rock",
+    "spotify_id": "7CwtJKLA66AmXXwwv2OCAq",
+    "created_date": "2021-07-03",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "The Beginning & the End",
+            "spotify_id": "38DOSoJOsZMRtkWmXNFwk9",
+            "duration_ms": 218698,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uRxRKC7d9zwYGSRflTKDR",
+                    "id": "1uRxRKC7d9zwYGSRflTKDR",
+                    "name": "SAULT",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+                }
+            ],
+            "album": {
+                "album_name": "Untitled (Rise)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-18",
+                "spotify_id": "0K8jX7CLwxJaML5iXdxveF"
+            }
+        },
+        {
+            "name": "Televised Mind",
+            "spotify_id": "5mlpe4UCjwcg4C0RoQ9jVd",
+            "duration_ms": 250266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+                    "id": "3SXwqSqAoBz9WCI9PDQzY6",
+                    "name": "Fontaines D.C.",
+                    "type": "artist",
+                    "uri": "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+                }
+            ],
+            "album": {
+                "album_name": "Televised Mind",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-06-30",
+                "spotify_id": "2RXNmgjAndSP7QDk8CEZVI"
+            }
+        },
+        {
+            "name": "Born Confused",
+            "spotify_id": "7cCOjtUzqNusG9vFzJNIRy",
+            "duration_ms": 181213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4vAQ4M7vgItwBtmBTgRu48",
+                    "id": "4vAQ4M7vgItwBtmBTgRu48",
+                    "name": "Porridge Radio",
+                    "type": "artist",
+                    "uri": "spotify:artist:4vAQ4M7vgItwBtmBTgRu48"
+                }
+            ],
+            "album": {
+                "album_name": "Every Bad (Expanded Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-03-25",
+                "spotify_id": "4UhF1TkUq0ZgBxKY7iDhD2"
+            }
+        },
+        {
+            "name": "Ladies",
+            "spotify_id": "0jH0IsCBGackT3RmHBbSUI",
+            "duration_ms": 325373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3g2kUQ6tHLLbmkV7T4GPtL",
+                    "id": "3g2kUQ6tHLLbmkV7T4GPtL",
+                    "name": "Fiona Apple",
+                    "type": "artist",
+                    "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL"
+                }
+            ],
+            "album": {
+                "album_name": "Fetch The Bolt Cutters",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-17",
+                "spotify_id": "0fO1KemWL2uCCQmM22iKlj"
+            }
+        },
+        {
+            "name": "pulling the pin (feat. Mavis Staples & Josh Homme)",
+            "spotify_id": "1uE4PBDSPZ0cT4do1bmT7A",
+            "duration_ms": 217240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+                    "id": "4RnBFZRiMLRyZy0AzzTg2C",
+                    "name": "Run The Jewels",
+                    "type": "artist",
+                    "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+                    "id": "57UnSUpae3SbRekxNa5Kgl",
+                    "name": "El-P",
+                    "type": "artist",
+                    "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+                    "id": "2N4EYkIlG1kv25g6Wv8LGI",
+                    "name": "Killer Mike",
+                    "type": "artist",
+                    "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/03xb2BUdIFzuRQ6o88yfCB",
+                    "id": "03xb2BUdIFzuRQ6o88yfCB",
+                    "name": "Josh Homme",
+                    "type": "artist",
+                    "uri": "spotify:artist:03xb2BUdIFzuRQ6o88yfCB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0cTSCsVx04SSht9V6cpKN0",
+                    "id": "0cTSCsVx04SSht9V6cpKN0",
+                    "name": "Mavis Staples",
+                    "type": "artist",
+                    "uri": "spotify:artist:0cTSCsVx04SSht9V6cpKN0"
+                }
+            ],
+            "album": {
+                "album_name": "RTJ4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-03",
+                "spotify_id": "6cx4GVNs03Pu4ZczRnWiLd"
+            }
+        },
+        {
+            "name": "a few words for the firing squad (radiation)",
+            "spotify_id": "1hxVQkhDJN2UnkgeqX68D3",
+            "duration_ms": 402200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+                    "id": "4RnBFZRiMLRyZy0AzzTg2C",
+                    "name": "Run The Jewels",
+                    "type": "artist",
+                    "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+                    "id": "57UnSUpae3SbRekxNa5Kgl",
+                    "name": "El-P",
+                    "type": "artist",
+                    "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+                    "id": "2N4EYkIlG1kv25g6Wv8LGI",
+                    "name": "Killer Mike",
+                    "type": "artist",
+                    "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+                }
+            ],
+            "album": {
+                "album_name": "RTJ4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-03",
+                "spotify_id": "6cx4GVNs03Pu4ZczRnWiLd"
+            }
+        },
+        {
+            "name": "53.49",
+            "spotify_id": "2alJKJoqOOEPVU1Do3eIjJ",
+            "duration_ms": 235280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+                    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+                    "name": "Childish Gambino",
+                    "type": "artist",
+                    "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+                }
+            ],
+            "album": {
+                "album_name": "3.15.20",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-03-22",
+                "spotify_id": "600ClrWRsAr7jZ0qjaBLHz"
+            }
+        },
+        {
+            "name": "Cut Me",
+            "spotify_id": "53KiQ0TcSPDJJDs15pNJmk",
+            "duration_ms": 250120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5W10uJRsbt9bROJDKoI1Wn",
+                    "id": "5W10uJRsbt9bROJDKoI1Wn",
+                    "name": "Moses Sumney",
+                    "type": "artist",
+                    "uri": "spotify:artist:5W10uJRsbt9bROJDKoI1Wn"
+                }
+            ],
+            "album": {
+                "album_name": "Cut Me",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-02-07",
+                "spotify_id": "6yFd0s31t2p85l32WO7UEt"
+            }
+        },
+        {
+            "name": "also also also and and and",
+            "spotify_id": "6WVWOdiq04BYOzC9oOIPh0",
+            "duration_ms": 91893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5W10uJRsbt9bROJDKoI1Wn",
+                    "id": "5W10uJRsbt9bROJDKoI1Wn",
+                    "name": "Moses Sumney",
+                    "type": "artist",
+                    "uri": "spotify:artist:5W10uJRsbt9bROJDKoI1Wn"
+                }
+            ],
+            "album": {
+                "album_name": "gr\u00e6: Part 1",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-21",
+                "spotify_id": "49wzd65dmDHm0VPDHAexZe"
+            }
+        },
+        {
+            "name": "never look back",
+            "spotify_id": "3vrOmd6lTTKXGjaYeq8kni",
+            "duration_ms": 177186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4RnBFZRiMLRyZy0AzzTg2C",
+                    "id": "4RnBFZRiMLRyZy0AzzTg2C",
+                    "name": "Run The Jewels",
+                    "type": "artist",
+                    "uri": "spotify:artist:4RnBFZRiMLRyZy0AzzTg2C"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57UnSUpae3SbRekxNa5Kgl",
+                    "id": "57UnSUpae3SbRekxNa5Kgl",
+                    "name": "El-P",
+                    "type": "artist",
+                    "uri": "spotify:artist:57UnSUpae3SbRekxNa5Kgl"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2N4EYkIlG1kv25g6Wv8LGI",
+                    "id": "2N4EYkIlG1kv25g6Wv8LGI",
+                    "name": "Killer Mike",
+                    "type": "artist",
+                    "uri": "spotify:artist:2N4EYkIlG1kv25g6Wv8LGI"
+                }
+            ],
+            "album": {
+                "album_name": "RTJ4",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-03",
+                "spotify_id": "6cx4GVNs03Pu4ZczRnWiLd"
+            }
+        },
+        {
+            "name": "Are We Alright Again",
+            "spotify_id": "5fONFYH5DV15Y1JUI0TDS9",
+            "duration_ms": 223773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl",
+                    "id": "3zunDAtRDg7kflREzWAhxl",
+                    "name": "Eels",
+                    "type": "artist",
+                    "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl"
+                }
+            ],
+            "album": {
+                "album_name": "Are We Alright Again",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-16",
+                "spotify_id": "3SKMPoJ9YKA8UxnwZ8myR9"
+            }
+        },
+        {
+            "name": "Lockdown",
+            "spotify_id": "5oZps6mYqU5s7A4WjUZggJ",
+            "duration_ms": 212613,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+                    "id": "3jK9MiCrA42lLAdMGUZpwa",
+                    "name": "Anderson .Paak",
+                    "type": "artist",
+                    "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+                }
+            ],
+            "album": {
+                "album_name": "Lockdown",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-06-19",
+                "spotify_id": "7x8QTmOI3zN1V5xOq3Jko5"
+            }
+        },
+        {
+            "name": "The Young God Speaks",
+            "spotify_id": "5KsZMhCuAxgbMI9qljNkvD",
+            "duration_ms": 40584,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+                    "id": "1YfEcTuGvBQ8xSD1f53UnK",
+                    "name": "Busta Rhymes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+                }
+            ],
+            "album": {
+                "album_name": "Extinction Level Event 2: The Wrath of God",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-10-30",
+                "spotify_id": "7IO9UObUD76ZCLVu3ND7tz"
+            }
+        },
+        {
+            "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
+            "spotify_id": "5aULAy3NUfelCYKub4mOS9",
+            "duration_ms": 248810,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+                    "id": "1YfEcTuGvBQ8xSD1f53UnK",
+                    "name": "Busta Rhymes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "album": {
+                "album_name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-10-29",
+                "spotify_id": "2HXNzxTADIP8471UeJXDWw"
+            }
+        },
+        {
+            "name": "(Something)",
+            "spotify_id": "4mNNopjO0LpBUD8gbfnTce",
+            "duration_ms": 118240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4vAQ4M7vgItwBtmBTgRu48",
+                    "id": "4vAQ4M7vgItwBtmBTgRu48",
+                    "name": "Porridge Radio",
+                    "type": "artist",
+                    "uri": "spotify:artist:4vAQ4M7vgItwBtmBTgRu48"
+                }
+            ],
+            "album": {
+                "album_name": "Every Bad (Expanded Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-03-25",
+                "spotify_id": "4UhF1TkUq0ZgBxKY7iDhD2"
+            }
+        },
+        {
+            "name": "Homecoming Song",
+            "spotify_id": "3fD32pSqpBrF0d7o9j86Nq",
+            "duration_ms": 161720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4vAQ4M7vgItwBtmBTgRu48",
+                    "id": "4vAQ4M7vgItwBtmBTgRu48",
+                    "name": "Porridge Radio",
+                    "type": "artist",
+                    "uri": "spotify:artist:4vAQ4M7vgItwBtmBTgRu48"
+                }
+            ],
+            "album": {
+                "album_name": "Every Bad (Expanded Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-03-25",
+                "spotify_id": "4UhF1TkUq0ZgBxKY7iDhD2"
+            }
+        }
+    ]
+}

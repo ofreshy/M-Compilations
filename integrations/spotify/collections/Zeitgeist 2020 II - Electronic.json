@@ -1,0 +1,330 @@
+{
+    "name": "Zeitgeist 2020 II - Electronic",
+    "spotify_id": "6YWGVRS9BKwSKk87vU6pUr",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "So We Won't Forget",
+            "spotify_id": "1sL0oHu8NCQpImkjxkoVXj",
+            "duration_ms": 298333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "So We Won't Forget",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-05-18",
+                "spotify_id": "6AixWA1IbGyb70exJJKUUa"
+            }
+        },
+        {
+            "name": "Rise",
+            "spotify_id": "5D0stZs6HSH4Ce97WnzBUt",
+            "duration_ms": 61738,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uRxRKC7d9zwYGSRflTKDR",
+                    "id": "1uRxRKC7d9zwYGSRflTKDR",
+                    "name": "SAULT",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+                }
+            ],
+            "album": {
+                "album_name": "Untitled (Rise)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-09-18",
+                "spotify_id": "0K8jX7CLwxJaML5iXdxveF"
+            }
+        },
+        {
+            "name": "Wildfires",
+            "spotify_id": "4Tzw9IdZbVyzmpWrvsGaNX",
+            "duration_ms": 206947,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uRxRKC7d9zwYGSRflTKDR",
+                    "id": "1uRxRKC7d9zwYGSRflTKDR",
+                    "name": "SAULT",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uRxRKC7d9zwYGSRflTKDR"
+                }
+            ],
+            "album": {
+                "album_name": "Untitled (Black Is)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-06-19",
+                "spotify_id": "0GPmuVuCdC5hCsiuy1wXle"
+            }
+        },
+        {
+            "name": "Back To Work",
+            "spotify_id": "4Wlu8oqayGCfSg4cO5ScJT",
+            "duration_ms": 250526,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3cePP77CX6XY9b0aigzrqh",
+                    "id": "3cePP77CX6XY9b0aigzrqh",
+                    "name": "BC Camplight",
+                    "type": "artist",
+                    "uri": "spotify:artist:3cePP77CX6XY9b0aigzrqh"
+                }
+            ],
+            "album": {
+                "album_name": "Back To Work",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-01-23",
+                "spotify_id": "5geHO56lpMVlcPNnylpczi"
+            }
+        },
+        {
+            "name": "Star Song.IMG",
+            "spotify_id": "7gL9qC82hXoHwTzstNWYXi",
+            "duration_ms": 10013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED",
+                    "id": "3C8RpaI3Go0yFF9whvKoED",
+                    "name": "The Avalanches",
+                    "type": "artist",
+                    "uri": "spotify:artist:3C8RpaI3Go0yFF9whvKoED"
+                }
+            ],
+            "album": {
+                "album_name": "We Will Always Love You",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-12-11",
+                "spotify_id": "755yBlrk0Sz8tIgMMTgyr1"
+            }
+        },
+        {
+            "name": "Interstellar Love (feat. Leon Bridges)",
+            "spotify_id": "59lpmLRHEkHxufzKdOFRRA",
+            "duration_ms": 218506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3C8RpaI3Go0yFF9whvKoED",
+                    "id": "3C8RpaI3Go0yFF9whvKoED",
+                    "name": "The Avalanches",
+                    "type": "artist",
+                    "uri": "spotify:artist:3C8RpaI3Go0yFF9whvKoED"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3qnGvpP8Yth1AqSBMqON5x",
+                    "id": "3qnGvpP8Yth1AqSBMqON5x",
+                    "name": "Leon Bridges",
+                    "type": "artist",
+                    "uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x"
+                }
+            ],
+            "album": {
+                "album_name": "Interstellar Love (feat. Leon Bridges)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-10-29",
+                "spotify_id": "4SLthaJgVwyX4yZDwLq6bS"
+            }
+        },
+        {
+            "name": "Ravi",
+            "spotify_id": "41LSmsKx5gXHFfFg9lhsA0",
+            "duration_ms": 269973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4aEnNH9PuU1HF3TsZTru54",
+                    "id": "4aEnNH9PuU1HF3TsZTru54",
+                    "name": "Caribou",
+                    "type": "artist",
+                    "uri": "spotify:artist:4aEnNH9PuU1HF3TsZTru54"
+                }
+            ],
+            "album": {
+                "album_name": "Suddenly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-02-28",
+                "spotify_id": "3q5CZdmVxP6hE0mlBcYEU1"
+            }
+        },
+        {
+            "name": "Before",
+            "spotify_id": "0FjyvdAffyJcnvbv3dLFyw",
+            "duration_ms": 287871,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+                    "id": "53KwLdlmrlCelAZMaLVZqU",
+                    "name": "James Blake",
+                    "type": "artist",
+                    "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+                }
+            ],
+            "album": {
+                "album_name": "Before",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-10-14",
+                "spotify_id": "5vqILcEeCT0N1DeJBsLrGE"
+            }
+        },
+        {
+            "name": "Cathedrals Of The Mind",
+            "spotify_id": "5Eer6kECevu9hd6ym8YytG",
+            "duration_ms": 320000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LVrQUinPUBFvVD5pLqmWY",
+                    "id": "0LVrQUinPUBFvVD5pLqmWY",
+                    "name": "Doves",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LVrQUinPUBFvVD5pLqmWY"
+                }
+            ],
+            "album": {
+                "album_name": "Cathedrals Of The Mind",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-08-27",
+                "spotify_id": "6uDhJt07LcRuAfsyn7Hsub"
+            }
+        },
+        {
+            "name": "Arpeggi",
+            "spotify_id": "5c30Lqd4zY3dpMK2usb9yU",
+            "duration_ms": 285880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5eitAUlYmlha3LLWg7aBn5",
+                    "id": "5eitAUlYmlha3LLWg7aBn5",
+                    "name": "Kelly Lee Owens",
+                    "type": "artist",
+                    "uri": "spotify:artist:5eitAUlYmlha3LLWg7aBn5"
+                }
+            ],
+            "album": {
+                "album_name": "Inner Song",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-08-28",
+                "spotify_id": "3DzlkHEQtb0ABoxze4Zxi7"
+            }
+        },
+        {
+            "name": "Weird Fishes",
+            "spotify_id": "0pBPm7QxjaC46nlqQ4YNt8",
+            "duration_ms": 354533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+                    "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+                    "name": "Lianne La Havas",
+                    "type": "artist",
+                    "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+                }
+            ],
+            "album": {
+                "album_name": "Weird Fishes",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-06-24",
+                "spotify_id": "2PFotGo5M1XaQifWQjc3Pv"
+            }
+        },
+        {
+            "name": "Strange to Explain",
+            "spotify_id": "5wGHl3CO0YhtahhHLtEa04",
+            "duration_ms": 214961,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2sBPVEeMBXKNsZtYaJixnJ",
+                    "id": "2sBPVEeMBXKNsZtYaJixnJ",
+                    "name": "Woods",
+                    "type": "artist",
+                    "uri": "spotify:artist:2sBPVEeMBXKNsZtYaJixnJ"
+                }
+            ],
+            "album": {
+                "album_name": "Strange to Explain - Single",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-04-07",
+                "spotify_id": "4UDLYSIwuVm5Nf0IDLCsDt"
+            }
+        },
+        {
+            "name": "Wander",
+            "spotify_id": "62w4LW4VjewYFYnHGdUMag",
+            "duration_ms": 114680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6fxk3UXHTFYET8qCT9WlBF",
+                    "id": "6fxk3UXHTFYET8qCT9WlBF",
+                    "name": "Kevin Morby",
+                    "type": "artist",
+                    "uri": "spotify:artist:6fxk3UXHTFYET8qCT9WlBF"
+                }
+            ],
+            "album": {
+                "album_name": "'Wander' b/w 'Don\u2019t Underestimate Midwest American Sun'",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-09-23",
+                "spotify_id": "7jnorWpTWIknsYSrmjCm3D"
+            }
+        }
+    ]
+}

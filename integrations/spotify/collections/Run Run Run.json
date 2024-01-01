@@ -1,0 +1,546 @@
+{
+    "name": "Run Run Run",
+    "spotify_id": "6hAzFxCNm4dAD3POSczCAY",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Introduction",
+            "spotify_id": "6fWFUOZPYtwvvwPVWRAbEi",
+            "duration_ms": 132546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+                    "id": "2ARO60gI5do88ho6azmzab",
+                    "name": "Django Django",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+                }
+            ],
+            "album": {
+                "album_name": "Django Django",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-08-21",
+                "spotify_id": "0xSfNEjEO1rB1RDBRuIjJL"
+            }
+        },
+        {
+            "name": "Hail Bop",
+            "spotify_id": "2NpBn0EEaggby4UETK47tk",
+            "duration_ms": 243693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ARO60gI5do88ho6azmzab",
+                    "id": "2ARO60gI5do88ho6azmzab",
+                    "name": "Django Django",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ARO60gI5do88ho6azmzab"
+                }
+            ],
+            "album": {
+                "album_name": "Django Django",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-01-23",
+                "spotify_id": "3pqPOPqLgIwLaE4ZuVhYlg"
+            }
+        },
+        {
+            "name": "My Zero",
+            "spotify_id": "3uDSPcjiNzcYaBhES4xrZS",
+            "duration_ms": 235000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uR7zoLrSRI8bSL43OZ0GY",
+                    "id": "1uR7zoLrSRI8bSL43OZ0GY",
+                    "name": "Ezra Furman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uR7zoLrSRI8bSL43OZ0GY"
+                }
+            ],
+            "album": {
+                "album_name": "Day Of The Dog",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-10-08",
+                "spotify_id": "5eyXOmHY5sA1wB8EAoGfGG"
+            }
+        },
+        {
+            "name": "Colors",
+            "spotify_id": "2BOUrjXoRIo2YHVAyZyXVX",
+            "duration_ms": 261741,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+                    "id": "3vbKDsSS70ZX9D2OcvbZmS",
+                    "name": "Beck",
+                    "type": "artist",
+                    "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+                }
+            ],
+            "album": {
+                "album_name": "Colors",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-10-13",
+                "spotify_id": "6BOQkxcHspMoRWEwEexf4l"
+            }
+        },
+        {
+            "name": "Easy",
+            "spotify_id": "24BGthjPHkixEQwOwdL2Cy",
+            "duration_ms": 152880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2LMR8u7DOMF0FBseDpTsRa",
+                    "id": "2LMR8u7DOMF0FBseDpTsRa",
+                    "name": "The Beta Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:2LMR8u7DOMF0FBseDpTsRa"
+                }
+            ],
+            "album": {
+                "album_name": "The Regal Years (1997-2004)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2013-10-07",
+                "spotify_id": "2ZmiwULOqwj05bHpe5UW3Y"
+            }
+        },
+        {
+            "name": "Good As Hell",
+            "spotify_id": "6uAm7pG66O1XesXS9bpHSF",
+            "duration_ms": 159011,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS",
+                    "id": "56oDRnqbIiwx4mymNEv7dS",
+                    "name": "Lizzo",
+                    "type": "artist",
+                    "uri": "spotify:artist:56oDRnqbIiwx4mymNEv7dS"
+                }
+            ],
+            "album": {
+                "album_name": "Good As Hell",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2016-03-11",
+                "spotify_id": "5PMpdvn38HScK6IuLniRep"
+            }
+        },
+        {
+            "name": "Make a Scene",
+            "spotify_id": "0fWSwkgqSLuB0fnsVat0KF",
+            "duration_ms": 172814,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7JgXEHI1oEiQICAMeCsKTj",
+                    "id": "7JgXEHI1oEiQICAMeCsKTj",
+                    "name": "Shamir",
+                    "type": "artist",
+                    "uri": "spotify:artist:7JgXEHI1oEiQICAMeCsKTj"
+                }
+            ],
+            "album": {
+                "album_name": "Ratchet",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-05-18",
+                "spotify_id": "7vX1WKSgkpG4jwOiaXDVT6"
+            }
+        },
+        {
+            "name": "Time (You and I)",
+            "spotify_id": "2QoiyjegLQ3DWKBfFX9ihX",
+            "duration_ms": 342189,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVVjNmdjXZZDvhgQWiakk",
+                    "id": "2mVVjNmdjXZZDvhgQWiakk",
+                    "name": "Khruangbin",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk"
+                }
+            ],
+            "album": {
+                "album_name": "Time (You and I)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-04-27",
+                "spotify_id": "5shSFh5g5Vh2QYkpBPChx2"
+            }
+        },
+        {
+            "name": "Damon Albarn",
+            "spotify_id": "0eTUWHfZgdVQMoL99nsLAE",
+            "duration_ms": 103660,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1wgj5yGwFWlHE8G6RFrXvw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1wgj5yGwFWlHE8G6RFrXvw",
+                    "id": "1wgj5yGwFWlHE8G6RFrXvw",
+                    "name": "Cusick, Doto & Rothermel",
+                    "type": "artist",
+                    "uri": "spotify:artist:1wgj5yGwFWlHE8G6RFrXvw"
+                }
+            ],
+            "album": {
+                "album_name": "Pop Meets the Void Official Soundtrack",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-04-29",
+                "spotify_id": "1rSY9SDwWXw7PxHBej941G"
+            }
+        },
+        {
+            "name": "D.A.N.C.E.",
+            "spotify_id": "0MYTcPXAAmeKBUpBgtAV0J",
+            "duration_ms": 209986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+                    "id": "1gR0gsQYfi6joyO1dlp76N",
+                    "name": "Justice",
+                    "type": "artist",
+                    "uri": "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+                }
+            ],
+            "album": {
+                "album_name": "Cross",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-06-18",
+                "spotify_id": "5P4Wx3YhpsD4zFTvmPskWd"
+            }
+        },
+        {
+            "name": "Ms. Jackson",
+            "spotify_id": "0I3q5fE6wg7LIfHGngUTnV",
+            "duration_ms": 270506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+                    "id": "1G9G7WwrXka3Z1r7aIDjI7",
+                    "name": "Outkast",
+                    "type": "artist",
+                    "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+                }
+            ],
+            "album": {
+                "album_name": "Stankonia",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-10-31",
+                "spotify_id": "2tm3Ht61kqqRZtIYsBjxEj"
+            }
+        },
+        {
+            "name": "Come Down",
+            "spotify_id": "6h5IlvRJ2ZNPloCOdzUmyW",
+            "duration_ms": 176693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+                    "id": "3jK9MiCrA42lLAdMGUZpwa",
+                    "name": "Anderson .Paak",
+                    "type": "artist",
+                    "uri": "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+                }
+            ],
+            "album": {
+                "album_name": "Malibu",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-01-15",
+                "spotify_id": "6xNFuLOko8gjxi5kUAyGyM"
+            }
+        },
+        {
+            "name": "Doin' it Right (feat. Panda Bear)",
+            "spotify_id": "36c4JohayB9qd64eidQMBi",
+            "duration_ms": 251293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+                    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                    "name": "Daft Punk",
+                    "type": "artist",
+                    "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1R84VlXnFFULOsWWV8IrCQ",
+                    "id": "1R84VlXnFFULOsWWV8IrCQ",
+                    "name": "Panda Bear",
+                    "type": "artist",
+                    "uri": "spotify:artist:1R84VlXnFFULOsWWV8IrCQ"
+                }
+            ],
+            "album": {
+                "album_name": "Random Access Memories",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-05-20",
+                "spotify_id": "4m2880jivSbbyEGAKfITCa"
+            }
+        },
+        {
+            "name": "Take Me Out",
+            "spotify_id": "20I8RduZC2PWMWTDCZuuAN",
+            "duration_ms": 237026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0XNa1vTidXlvJ2gHSsRi4A",
+                    "id": "0XNa1vTidXlvJ2gHSsRi4A",
+                    "name": "Franz Ferdinand",
+                    "type": "artist",
+                    "uri": "spotify:artist:0XNa1vTidXlvJ2gHSsRi4A"
+                }
+            ],
+            "album": {
+                "album_name": "Franz Ferdinand",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-02-16",
+                "spotify_id": "0vi5ePiEHrGZJF7QhnDW2z"
+            }
+        },
+        {
+            "name": "A Hero's Death",
+            "spotify_id": "0A33bsBIyj3JC2Pvz3Xp7K",
+            "duration_ms": 258253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+                    "id": "3SXwqSqAoBz9WCI9PDQzY6",
+                    "name": "Fontaines D.C.",
+                    "type": "artist",
+                    "uri": "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+                }
+            ],
+            "album": {
+                "album_name": "A Hero's Death",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-05-05",
+                "spotify_id": "7ocf0h6p4UDyWOaWDWZZox"
+            }
+        },
+        {
+            "name": "Trompe Le Monde",
+            "spotify_id": "7F8Ee5OCF276CR3veChEKL",
+            "duration_ms": 107573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Trompe Le Monde",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-09-23",
+                "spotify_id": "0W3TFGV3CokHLxXPeC3sEk"
+            }
+        },
+        {
+            "name": "Lovely Day",
+            "spotify_id": "5SjpnQfilODHzyV8eLIwyb",
+            "duration_ms": 125533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Trompe Le Monde",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-09-23",
+                "spotify_id": "0W3TFGV3CokHLxXPeC3sEk"
+            }
+        },
+        {
+            "name": "Selfless",
+            "spotify_id": "2t0wwvR15fc3K1ey8OiOaN",
+            "duration_ms": 222093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+                    "id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "name": "The Strokes",
+                    "type": "artist",
+                    "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+                }
+            ],
+            "album": {
+                "album_name": "The New Abnormal",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-10",
+                "spotify_id": "2xkZV2Hl1Omi8rk2D7t5lN"
+            }
+        },
+        {
+            "name": "In the Clouds",
+            "spotify_id": "6RXiGkVYlNUwbqOsow5sWX",
+            "duration_ms": 225493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6j0sVXUMU7BEZZ5cfEwjkq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6j0sVXUMU7BEZZ5cfEwjkq",
+                    "id": "6j0sVXUMU7BEZZ5cfEwjkq",
+                    "name": "The Black Ghosts",
+                    "type": "artist",
+                    "uri": "spotify:artist:6j0sVXUMU7BEZZ5cfEwjkq"
+                }
+            ],
+            "album": {
+                "album_name": "When Animals Stare",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-07-25",
+                "spotify_id": "389kOrjoqFUg5FWuCaMBLQ"
+            }
+        },
+        {
+            "name": "House Music All Night Long",
+            "spotify_id": "4d7UnKR6X6sRZlhdSAlSeo",
+            "duration_ms": 352986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/13W7XLRXdWeLmIu9vacE1w",
+                    "id": "13W7XLRXdWeLmIu9vacE1w",
+                    "name": "Jarvis Cocker",
+                    "type": "artist",
+                    "uri": "spotify:artist:13W7XLRXdWeLmIu9vacE1w"
+                }
+            ],
+            "album": {
+                "album_name": "House Music All Night Long",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-03-02",
+                "spotify_id": "1spkLAfAlMhf8rPapuzl7h"
+            }
+        },
+        {
+            "name": "It Ain't Over 'Til It's Over",
+            "spotify_id": "3aZPzF7Sr0zy3K0EkKyEzk",
+            "duration_ms": 242640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gznATMVO85ZcLTkE9ULU7",
+                    "id": "5gznATMVO85ZcLTkE9ULU7",
+                    "name": "Lenny Kravitz",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gznATMVO85ZcLTkE9ULU7"
+                }
+            ],
+            "album": {
+                "album_name": "Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2000",
+                "spotify_id": "1cW0de5T5fdedlS4YqvyCv"
+            }
+        },
+        {
+            "name": "Slip into Something More Comfortable",
+            "spotify_id": "4mb6FludfQirVmvpsfayTT",
+            "duration_ms": 222533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/468ohR5I3vI6JztrHL7exy",
+                    "id": "468ohR5I3vI6JztrHL7exy",
+                    "name": "Kinobe",
+                    "type": "artist",
+                    "uri": "spotify:artist:468ohR5I3vI6JztrHL7exy"
+                }
+            ],
+            "album": {
+                "album_name": "Pure... Chillout",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2011-06-03",
+                "spotify_id": "77TvtJAiUlwM8q4r7VneKL"
+            }
+        }
+    ]
+}

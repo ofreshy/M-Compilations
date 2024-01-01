@@ -1,0 +1,788 @@
+{
+    "name": "SSSS4S",
+    "spotify_id": "3cm9Q0NZS0QsCzuNvzGyfN",
+    "created_date": "2021-06-12",
+    "description": "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+    "tracks": [
+        {
+            "name": "Time to Get Away",
+            "spotify_id": "18GKzOdnC7i30f7PraM5Ui",
+            "duration_ms": 251946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/066X20Nz7iquqkkCW6Jxy6",
+                    "id": "066X20Nz7iquqkkCW6Jxy6",
+                    "name": "LCD Soundsystem",
+                    "type": "artist",
+                    "uri": "spotify:artist:066X20Nz7iquqkkCW6Jxy6"
+                }
+            ],
+            "album": {
+                "album_name": "Sound of Silver",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2007-03-12",
+                "spotify_id": "1R8kkopLT4IAxzMMkjic6X"
+            }
+        },
+        {
+            "name": "Dans mon quartier",
+            "spotify_id": "1Ha8vaDExYViWuZcf6o4Z1",
+            "duration_ms": 129706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3yKO4z2CeXv9sxD1zSw0Sg",
+                    "id": "3yKO4z2CeXv9sxD1zSw0Sg",
+                    "name": "Riff Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3yKO4z2CeXv9sxD1zSw0Sg"
+                }
+            ],
+            "album": {
+                "album_name": "A Paris",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-01-01",
+                "spotify_id": "0IXSmjB6OtVPC39ZtBctTx"
+            }
+        },
+        {
+            "name": "When Doves Cry",
+            "spotify_id": "2UOGmejRXbAkgUmSPaTt5L",
+            "duration_ms": 228280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+                    "id": "5a2EaR3hamoenG9rDuVn8j",
+                    "name": "Prince",
+                    "type": "artist",
+                    "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+                }
+            ],
+            "album": {
+                "album_name": "The Hits / The B-Sides",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1993-09-13",
+                "spotify_id": "3o0o5WPnqfGOeyx3UMJgvO"
+            }
+        },
+        {
+            "name": "For Free? - Interlude",
+            "spotify_id": "75izAeHlGuOgA865CFDyIv",
+            "duration_ms": 130893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "album": {
+                "album_name": "To Pimp A Butterfly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-03-16",
+                "spotify_id": "7ycBtnsMtyVbbwTfJwRjSP"
+            }
+        },
+        {
+            "name": "Sour Soul",
+            "spotify_id": "48mJsuV6IsDVrjkhqR2mHG",
+            "duration_ms": 165983,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+                    "id": "65dGLGjkw3UbddUg2GKQoZ",
+                    "name": "BADBADNOTGOOD",
+                    "type": "artist",
+                    "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FD0unjzGQhX3b6eMccMJe",
+                    "id": "6FD0unjzGQhX3b6eMccMJe",
+                    "name": "Ghostface Killah",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FD0unjzGQhX3b6eMccMJe"
+                }
+            ],
+            "album": {
+                "album_name": "Sour Soul",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-02-19",
+                "spotify_id": "7gP4vkln7Qmbycgx8WwTzL"
+            }
+        },
+        {
+            "name": "Cosmic Girl - Remastered",
+            "spotify_id": "7p0zNeEa3vNTi70qVMbg40",
+            "duration_ms": 226453,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6J7biCazzYhU3gM9j1wfid",
+                    "id": "6J7biCazzYhU3gM9j1wfid",
+                    "name": "Jamiroquai",
+                    "type": "artist",
+                    "uri": "spotify:artist:6J7biCazzYhU3gM9j1wfid"
+                }
+            ],
+            "album": {
+                "album_name": "High Times - The Singles 1992 - 2006",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2006-11-06",
+                "spotify_id": "20m3xZ4Ro4oE4CpZo8G12m"
+            }
+        },
+        {
+            "name": "I Will Survive",
+            "spotify_id": "0qgiFuYhYuwtFXEwYakddE",
+            "duration_ms": 310333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6A43Djmhbe9100UwnI7epV",
+                    "id": "6A43Djmhbe9100UwnI7epV",
+                    "name": "CAKE",
+                    "type": "artist",
+                    "uri": "spotify:artist:6A43Djmhbe9100UwnI7epV"
+                }
+            ],
+            "album": {
+                "album_name": "Fashion Nugget",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-09-17",
+                "spotify_id": "57lJNxlrPSin9SySEnerNb"
+            }
+        },
+        {
+            "name": "You Only Live Twice",
+            "spotify_id": "7e3RGqZ2FkFmcInDdgfJze",
+            "duration_ms": 178840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3IZrrNonYELubLPJmqOci2",
+                    "id": "3IZrrNonYELubLPJmqOci2",
+                    "name": "Nancy Sinatra",
+                    "type": "artist",
+                    "uri": "spotify:artist:3IZrrNonYELubLPJmqOci2"
+                }
+            ],
+            "album": {
+                "album_name": "Nancy In London",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-04-25",
+                "spotify_id": "7hPfjyHX0LOUZwjUfmrRqw"
+            }
+        },
+        {
+            "name": "True Love Waits",
+            "spotify_id": "01ZpFhrMMqKPVCwyqXneVp",
+            "duration_ms": 283463,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "album": {
+                "album_name": "A Moon Shaped Pool",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-05-08",
+                "spotify_id": "6vuykQgDLUCiZ7YggIpLM9"
+            }
+        },
+        {
+            "name": "3 Gymnop\u00e9dies: Gymnopedie No. 1 - Lent et douloureux",
+            "spotify_id": "0zJwUr5G0rOQbqLTAAta7j",
+            "duration_ms": 177059,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/459INk8vcC0ebEef82WjIK",
+                    "id": "459INk8vcC0ebEef82WjIK",
+                    "name": "Erik Satie",
+                    "type": "artist",
+                    "uri": "spotify:artist:459INk8vcC0ebEef82WjIK"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2jWEIWJHerV9hsV7H1BHJa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2jWEIWJHerV9hsV7H1BHJa",
+                    "id": "2jWEIWJHerV9hsV7H1BHJa",
+                    "name": "Frank Glazer",
+                    "type": "artist",
+                    "uri": "spotify:artist:2jWEIWJHerV9hsV7H1BHJa"
+                }
+            ],
+            "album": {
+                "album_name": "Classical Piano Chillout",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-10-07",
+                "spotify_id": "7ntI5M5Ud01Jk1dy4pbBqn"
+            }
+        },
+        {
+            "name": "History of Touches",
+            "spotify_id": "2JO6gR7HX2Hx9aEoi6vuAv",
+            "duration_ms": 180198,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7w29UYBi0qsHi5RTcv3lmA",
+                    "id": "7w29UYBi0qsHi5RTcv3lmA",
+                    "name": "Bj\u00f6rk",
+                    "type": "artist",
+                    "uri": "spotify:artist:7w29UYBi0qsHi5RTcv3lmA"
+                }
+            ],
+            "album": {
+                "album_name": "Vulnicura",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-01-20",
+                "spotify_id": "1ttnHZ0HVGMSMTJdZZ7kYK"
+            }
+        },
+        {
+            "name": "Turn Away",
+            "spotify_id": "4NE88iZPBgDji5VUqoQbc4",
+            "duration_ms": 185760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+                    "id": "3vbKDsSS70ZX9D2OcvbZmS",
+                    "name": "Beck",
+                    "type": "artist",
+                    "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+                }
+            ],
+            "album": {
+                "album_name": "Morning Phase",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-01-01",
+                "spotify_id": "3BBFUxPg8KFmAv96SmY4ok"
+            }
+        },
+        {
+            "name": "Skinny Love",
+            "spotify_id": "1NyFRrFiJAJIaR6icj1goI",
+            "duration_ms": 238532,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+                    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                    "name": "Bon Iver",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                }
+            ],
+            "album": {
+                "album_name": "For Emma, Forever Ago",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-05-12",
+                "spotify_id": "2JLDMOX168DhnueBb946kw"
+            }
+        },
+        {
+            "name": "Master Hunter",
+            "spotify_id": "2OqnctQz4VZpk8wcb9TPp4",
+            "duration_ms": 196351,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+                    "id": "7B2edU3Q7btJoNsoHCNohM",
+                    "name": "Laura Marling",
+                    "type": "artist",
+                    "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+                }
+            ],
+            "album": {
+                "album_name": "Once I Was An Eagle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-01-01",
+                "spotify_id": "35He6RuwS8C2KjG067Gobl"
+            }
+        },
+        {
+            "name": "Little Love Caster",
+            "spotify_id": "2DaO96LOh5a7CpIKYhIK1b",
+            "duration_ms": 352249,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+                    "id": "7B2edU3Q7btJoNsoHCNohM",
+                    "name": "Laura Marling",
+                    "type": "artist",
+                    "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+                }
+            ],
+            "album": {
+                "album_name": "Once I Was An Eagle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-01-01",
+                "spotify_id": "35He6RuwS8C2KjG067Gobl"
+            }
+        },
+        {
+            "name": "The Chain - 2004 Remaster",
+            "spotify_id": "7Dm3dV3WPNdTgxoNY7YFnc",
+            "duration_ms": 269813,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+                    "id": "08GQAI4eElDnROBrJRGE0X",
+                    "name": "Fleetwood Mac",
+                    "type": "artist",
+                    "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+                }
+            ],
+            "album": {
+                "album_name": "Rumours",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-02-04",
+                "spotify_id": "1bt6q2SruMsBtcerNVtpZB"
+            }
+        },
+        {
+            "name": "Lover Killer",
+            "spotify_id": "6z6pe7EKtZvNcvAU3YSQnx",
+            "duration_ms": 239278,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/37qXWlhfRvpxmIeTKvfw8B",
+                    "id": "37qXWlhfRvpxmIeTKvfw8B",
+                    "name": "My Brightest Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:37qXWlhfRvpxmIeTKvfw8B"
+                }
+            ],
+            "album": {
+                "album_name": "This Is My Hand",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-09-16",
+                "spotify_id": "1lLPBlF1s9mXzu6T2j7WaM"
+            }
+        },
+        {
+            "name": "Down By The Water",
+            "spotify_id": "48mJX8glOrQkrSdVBjc0Wb",
+            "duration_ms": 194506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "To Bring You My Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1995-01-01",
+                "spotify_id": "2yMg8ronKfVDHngnlLNnl8"
+            }
+        },
+        {
+            "name": "Neon Pattern Drum",
+            "spotify_id": "1rbH1KmfxUjVlt8GCjgZSE",
+            "duration_ms": 367213,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "album": {
+                "album_name": "Singularity",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-04",
+                "spotify_id": "1nvzBC1M3dlCMIxfUCBhlO"
+            }
+        },
+        {
+            "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+            "spotify_id": "0oTtnnedK0C4unALxVTPhz",
+            "duration_ms": 248964,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+                    "id": "4MXUO7sVCaFgFjoTI5ox5c",
+                    "name": "Sufjan Stevens",
+                    "type": "artist",
+                    "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+                }
+            ],
+            "album": {
+                "album_name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-12-01",
+                "spotify_id": "2uMaCzN7a35J3I3qceso0c"
+            }
+        },
+        {
+            "name": "Chopin: Douze \u00e9tudes, Op.25: 11. \u00c9tude in A Minor (\"Winter Wind\")",
+            "spotify_id": "24AeoL0oVZXXzwkYJ4TV1a",
+            "duration_ms": 226183,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7y97mc3bZRFXzT2szRM4L4",
+                    "id": "7y97mc3bZRFXzT2szRM4L4",
+                    "name": "Fr\u00e9d\u00e9ric Chopin",
+                    "type": "artist",
+                    "uri": "spotify:artist:7y97mc3bZRFXzT2szRM4L4"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5iNfG2A6yITzRJWUSWB7Xl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5iNfG2A6yITzRJWUSWB7Xl",
+                    "id": "5iNfG2A6yITzRJWUSWB7Xl",
+                    "name": "Grayson Black",
+                    "type": "artist",
+                    "uri": "spotify:artist:5iNfG2A6yITzRJWUSWB7Xl"
+                }
+            ],
+            "album": {
+                "album_name": "Chopin: Douze \u00e9tudes, Op.25: 11. \u00c9tude in A Minor (\"Winter Wind\")",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-05-14",
+                "spotify_id": "4dMOjflRfsVDyZHa6eVSvV"
+            }
+        },
+        {
+            "name": "Nights In White Satin - Single Edit",
+            "spotify_id": "6clw4A52XQ9tLBPHBM8SYG",
+            "duration_ms": 264133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5BcZ22XONcRoLhTbZRuME1",
+                    "id": "5BcZ22XONcRoLhTbZRuME1",
+                    "name": "The Moody Blues",
+                    "type": "artist",
+                    "uri": "spotify:artist:5BcZ22XONcRoLhTbZRuME1"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6USAIDgcDSYPE4cFvHibpX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6USAIDgcDSYPE4cFvHibpX",
+                    "id": "6USAIDgcDSYPE4cFvHibpX",
+                    "name": "Peter Knight",
+                    "type": "artist",
+                    "uri": "spotify:artist:6USAIDgcDSYPE4cFvHibpX"
+                }
+            ],
+            "album": {
+                "album_name": "Nights In White Satin Hit Pac",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2008-08-11",
+                "spotify_id": "2cYCHa8cPrvU2Vrw4xahof"
+            }
+        },
+        {
+            "name": "Hey, That's No Way to Say Goodbye",
+            "spotify_id": "0wiwCdb8sWzz9ETztz8taE",
+            "duration_ms": 176520,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "album": {
+                "album_name": "Songs Of Leonard Cohen",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-12-27",
+                "spotify_id": "2Aiv0ThDpFa7lqHphR6MN5"
+            }
+        },
+        {
+            "name": "Somebody That I Used To Know",
+            "spotify_id": "7xcZ0LbcUxLcZ3VzN1wIWS",
+            "duration_ms": 245755,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG",
+                    "id": "2AsusXITU8P25dlRNhcAbG",
+                    "name": "Gotye",
+                    "type": "artist",
+                    "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti",
+                    "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+                    "name": "Kimbra",
+                    "type": "artist",
+                    "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+                }
+            ],
+            "album": {
+                "album_name": "Making Mirrors (Deluxe Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-11-11",
+                "spotify_id": "59tw6BuRR9HAQw417ZvYSM"
+            }
+        },
+        {
+            "name": "A Case of You",
+            "spotify_id": "7shVwhUdVbHpykOfbzvDc1",
+            "duration_ms": 263480,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5hW4L92KnC6dX9t7tYM4Ve",
+                    "id": "5hW4L92KnC6dX9t7tYM4Ve",
+                    "name": "Joni Mitchell",
+                    "type": "artist",
+                    "uri": "spotify:artist:5hW4L92KnC6dX9t7tYM4Ve"
+                }
+            ],
+            "album": {
+                "album_name": "Blue",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-06-22",
+                "spotify_id": "1vz94WpXDVYIEGja8cjFNa"
+            }
+        },
+        {
+            "name": "Another Day",
+            "spotify_id": "7KvayxfEhNfXb7UJge6jVw",
+            "duration_ms": 178818,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/424ZDRAZzCKKUXvzvv52ox"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/424ZDRAZzCKKUXvzvv52ox",
+                    "id": "424ZDRAZzCKKUXvzvv52ox",
+                    "name": "Roy Harper",
+                    "type": "artist",
+                    "uri": "spotify:artist:424ZDRAZzCKKUXvzvv52ox"
+                }
+            ],
+            "album": {
+                "album_name": "Flat Baroque and Berserk (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-01-01",
+                "spotify_id": "0g8IEyri5tCl5o136TZTM8"
+            }
+        },
+        {
+            "name": "Heart Shaped Face",
+            "spotify_id": "6VF5xT5lR24b76KGg4vikC",
+            "duration_ms": 332906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+                    "id": "6mKqFxGMS5TGDZI3XkT5Rt",
+                    "name": "Angel Olsen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+                }
+            ],
+            "album": {
+                "album_name": "MY WOMAN",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-09-02",
+                "spotify_id": "5M8xQaQZuW2LZGVXZ3mlKN"
+            }
+        },
+        {
+            "name": "3 Gnossiennes: No. 3",
+            "spotify_id": "3ke7uoI5aIZCWb5Y0frLyE",
+            "duration_ms": 126303,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/459INk8vcC0ebEef82WjIK",
+                    "id": "459INk8vcC0ebEef82WjIK",
+                    "name": "Erik Satie",
+                    "type": "artist",
+                    "uri": "spotify:artist:459INk8vcC0ebEef82WjIK"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2jWEIWJHerV9hsV7H1BHJa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2jWEIWJHerV9hsV7H1BHJa",
+                    "id": "2jWEIWJHerV9hsV7H1BHJa",
+                    "name": "Frank Glazer",
+                    "type": "artist",
+                    "uri": "spotify:artist:2jWEIWJHerV9hsV7H1BHJa"
+                }
+            ],
+            "album": {
+                "album_name": "Classical Piano Chillout",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-10-07",
+                "spotify_id": "7ntI5M5Ud01Jk1dy4pbBqn"
+            }
+        },
+        {
+            "name": "Gnossiennes No. 1",
+            "spotify_id": "0bGsnlAn7zGqbN5EJWMeGg",
+            "duration_ms": 170506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2jWEIWJHerV9hsV7H1BHJa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2jWEIWJHerV9hsV7H1BHJa",
+                    "id": "2jWEIWJHerV9hsV7H1BHJa",
+                    "name": "Frank Glazer",
+                    "type": "artist",
+                    "uri": "spotify:artist:2jWEIWJHerV9hsV7H1BHJa"
+                }
+            ],
+            "album": {
+                "album_name": "Masters of Relaxation: Satie, Vol. 1",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2015-07-03",
+                "spotify_id": "3samdTzwqqmd2QLSPzSY5Q"
+            }
+        },
+        {
+            "name": "Caramel",
+            "spotify_id": "6k3dKPXv7NfL7wAvwxztGE",
+            "duration_ms": 215493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3TScZ6zJkavDy0tqoGqiCf",
+                    "id": "3TScZ6zJkavDy0tqoGqiCf",
+                    "name": "John Grant",
+                    "type": "artist",
+                    "uri": "spotify:artist:3TScZ6zJkavDy0tqoGqiCf"
+                }
+            ],
+            "album": {
+                "album_name": "Queen Of Denmark",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-04-19",
+                "spotify_id": "4JqaU9JdOp2yyOxv7qSaFM"
+            }
+        }
+    ]
+}

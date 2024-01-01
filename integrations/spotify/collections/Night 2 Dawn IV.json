@@ -1,0 +1,402 @@
+{
+    "name": "Night 2 Dawn IV",
+    "spotify_id": "0ukbakB4xb48nQSEJbK1Q8",
+    "created_date": "2021-10-17",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Ballad of a Thin Man",
+            "spotify_id": "0f5N14nB8xi0p3o4BlVvbx",
+            "duration_ms": 356706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+                    "id": "74ASZWbe4lXaubB36ztrGX",
+                    "name": "Bob Dylan",
+                    "type": "artist",
+                    "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+                }
+            ],
+            "album": {
+                "album_name": "Highway 61 Revisited",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1965-08-30",
+                "spotify_id": "6YabPKtZAjxwyWbuO9p4ZD"
+            }
+        },
+        {
+            "name": "Something On Your Mind",
+            "spotify_id": "6Vz2IQv3AYoznh4tjsrRPo",
+            "duration_ms": 203333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5O5V29YvM6AzAQ0rNt59fy",
+                    "id": "5O5V29YvM6AzAQ0rNt59fy",
+                    "name": "Karen Dalton",
+                    "type": "artist",
+                    "uri": "spotify:artist:5O5V29YvM6AzAQ0rNt59fy"
+                }
+            ],
+            "album": {
+                "album_name": "In My Own Time",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971",
+                "spotify_id": "1OuzXj4yo7VyBKwHZhxEnW"
+            }
+        },
+        {
+            "name": "Katie Cruel",
+            "spotify_id": "36OyWlJeF4SHHaaMxQ6c3q",
+            "duration_ms": 142413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5O5V29YvM6AzAQ0rNt59fy",
+                    "id": "5O5V29YvM6AzAQ0rNt59fy",
+                    "name": "Karen Dalton",
+                    "type": "artist",
+                    "uri": "spotify:artist:5O5V29YvM6AzAQ0rNt59fy"
+                }
+            ],
+            "album": {
+                "album_name": "In My Own Time",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971",
+                "spotify_id": "1OuzXj4yo7VyBKwHZhxEnW"
+            }
+        },
+        {
+            "name": "Been Smoking Too Long",
+            "spotify_id": "0CCyA5Wuw8G9Mq6uTqbOyH",
+            "duration_ms": 133226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "album": {
+                "album_name": "Family Tree",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2007-01-01",
+                "spotify_id": "6YcM0ELCFt9WFdkye4ejxm"
+            }
+        },
+        {
+            "name": "Black Is The Color Of My True Love's Hair",
+            "spotify_id": "5qT8wlcS9UmcsSZ8gPKitN",
+            "duration_ms": 205742,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7G1GBhoKtEPnP86X2PvEYO",
+                    "id": "7G1GBhoKtEPnP86X2PvEYO",
+                    "name": "Nina Simone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO"
+                }
+            ],
+            "album": {
+                "album_name": "Nina Simone For Lovers (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2021-10-07",
+                "spotify_id": "6rQP4rAReRYVAwX6XggX5z"
+            }
+        },
+        {
+            "name": "Coney Island Baby",
+            "spotify_id": "0ivHDucXMbjTjiU4lMIkBO",
+            "duration_ms": 395226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL",
+                    "id": "42TFhl7WlMRXiNqzSrnzPL",
+                    "name": "Lou Reed",
+                    "type": "artist",
+                    "uri": "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+                }
+            ],
+            "album": {
+                "album_name": "Coney Island Baby",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-01-19",
+                "spotify_id": "3Kawndiz86cIHkPsKtFiKx"
+            }
+        },
+        {
+            "name": "Elevation",
+            "spotify_id": "1pimWzwUERYZbAFr5tL0Xl",
+            "duration_ms": 305266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0S7Zur2g8YhqlzqtlYStli",
+                    "id": "0S7Zur2g8YhqlzqtlYStli",
+                    "name": "Television",
+                    "type": "artist",
+                    "uri": "spotify:artist:0S7Zur2g8YhqlzqtlYStli"
+                }
+            ],
+            "album": {
+                "album_name": "Marquee Moon",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-02-08",
+                "spotify_id": "630o1rKTDsLeIPreOY1jqP"
+            }
+        },
+        {
+            "name": "Chemtrails",
+            "spotify_id": "4PElfWzcplSVIazwRPO9ir",
+            "duration_ms": 278026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+                    "id": "3vbKDsSS70ZX9D2OcvbZmS",
+                    "name": "Beck",
+                    "type": "artist",
+                    "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+                }
+            ],
+            "album": {
+                "album_name": "Modern Guilt",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-07-08",
+                "spotify_id": "3D278bVsRcK48RvV5yLVt8"
+            }
+        },
+        {
+            "name": "Femme Fatale",
+            "spotify_id": "2HDycU1sqxlfYQloriXcK1",
+            "duration_ms": 282773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wJ4vsxWd7df7dRU4KcoDe",
+                    "id": "2wJ4vsxWd7df7dRU4KcoDe",
+                    "name": "Sharon Van Etten",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+                }
+            ],
+            "album": {
+                "album_name": "Femme Fatale",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-09-17",
+                "spotify_id": "6tKQyT3LHSMOsObqfk264N"
+            }
+        },
+        {
+            "name": "Henry Lee (feat. PJ Harvey) - 2011 Remastered Version",
+            "spotify_id": "04e1VQ69ll2TR5Jp8F2n5B",
+            "duration_ms": 238186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UXJsSlnKd7ltsrHebV79Q",
+                    "id": "4UXJsSlnKd7ltsrHebV79Q",
+                    "name": "Nick Cave & The Bad Seeds",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UXJsSlnKd7ltsrHebV79Q"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "Murder Ballads (2011 Remastered Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996",
+                "spotify_id": "0SJIg249cRWdGWEcqXsYyW"
+            }
+        },
+        {
+            "name": "Green Grass",
+            "spotify_id": "0OIz5ChWgoPUstjgdE4Klb",
+            "duration_ms": 192280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7x83XhcMbOTl1UdYsPTuZM",
+                    "id": "7x83XhcMbOTl1UdYsPTuZM",
+                    "name": "Tom Waits",
+                    "type": "artist",
+                    "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+                }
+            ],
+            "album": {
+                "album_name": "Real Gone (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-10-05",
+                "spotify_id": "6F17MbloTeRoXs7JI3lTHy"
+            }
+        },
+        {
+            "name": "Seaside",
+            "spotify_id": "2NsS1ds6Kh5karxZKtG5TL",
+            "duration_ms": 195413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1u2RgFiCSd9phVG5OB51jr",
+                    "id": "1u2RgFiCSd9phVG5OB51jr",
+                    "name": "Spencer Cullum",
+                    "type": "artist",
+                    "uri": "spotify:artist:1u2RgFiCSd9phVG5OB51jr"
+                }
+            ],
+            "album": {
+                "album_name": "Seaside",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-07-27",
+                "spotify_id": "2bJfhYnbn8rDeKEIH2vEzr"
+            }
+        },
+        {
+            "name": "The Wind",
+            "spotify_id": "1rHMg7t3LICgfTl2OsDn46",
+            "duration_ms": 102200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/08F3Y3SctIlsOEmKd6dnH8",
+                    "id": "08F3Y3SctIlsOEmKd6dnH8",
+                    "name": "Yusuf / Cat Stevens",
+                    "type": "artist",
+                    "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8"
+                }
+            ],
+            "album": {
+                "album_name": "Teaser And The Firecat",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-01-01",
+                "spotify_id": "2B719vL1xtPTwYs0j5BuAo"
+            }
+        },
+        {
+            "name": "I Want You",
+            "spotify_id": "1VN8ew9KECPqYS3sVbnZRr",
+            "duration_ms": 401293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4qmHkMxr6pTWh5Zo74odpH",
+                    "id": "4qmHkMxr6pTWh5Zo74odpH",
+                    "name": "Elvis Costello & The Attractions",
+                    "type": "artist",
+                    "uri": "spotify:artist:4qmHkMxr6pTWh5Zo74odpH"
+                }
+            ],
+            "album": {
+                "album_name": "Blood And Chocolate",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1986",
+                "spotify_id": "6T5rtCxx8dI4C0VckeB85M"
+            }
+        },
+        {
+            "name": "Dark End of the Street",
+            "spotify_id": "7k5SfArhhWuegmaxNTkz20",
+            "duration_ms": 241560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6G7OerKc3eBO9sVkRNopFC",
+                    "id": "6G7OerKc3eBO9sVkRNopFC",
+                    "name": "Cat Power",
+                    "type": "artist",
+                    "uri": "spotify:artist:6G7OerKc3eBO9sVkRNopFC"
+                }
+            ],
+            "album": {
+                "album_name": "Dark End of the Street",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2008-12-09",
+                "spotify_id": "2Gze8c8dMQwiMOt6jr7fRL"
+            }
+        },
+        {
+            "name": "Watch Me",
+            "spotify_id": "2xjv06k7zfnHV9zanSLRdI",
+            "duration_ms": 213200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5CzlICF8GCY0pRC82MKrhX",
+                    "id": "5CzlICF8GCY0pRC82MKrhX",
+                    "name": "Labi Siffre",
+                    "type": "artist",
+                    "uri": "spotify:artist:5CzlICF8GCY0pRC82MKrhX"
+                }
+            ],
+            "album": {
+                "album_name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972",
+                "spotify_id": "5sFwr2JkKjNf46waqdF8KR"
+            }
+        }
+    ]
+}

@@ -1,0 +1,560 @@
+{
+    "name": "Unhinged",
+    "spotify_id": "4Pe8ZqVewOhn9qZA91MpTi",
+    "created_date": "2023-03-18",
+    "description": "",
+    "tracks": [
+        {
+            "name": "50ft Queenie",
+            "spotify_id": "3fJprjhRxTVtOp18EHdNfu",
+            "duration_ms": 143666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "album": {
+                "album_name": "Rid Of Me",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993-01-01",
+                "spotify_id": "2fDJpBJhtloxzUENHlU9JB"
+            }
+        },
+        {
+            "name": "Gigantic - Remastered",
+            "spotify_id": "5G2g1EbEtFSMkMbAnhl7FV",
+            "duration_ms": 235706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "album": {
+                "album_name": "Surfer Rosa",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-03-21",
+                "spotify_id": "50j4Wm1b9hLpSpPIA39Vp9"
+            }
+        },
+        {
+            "name": "Dancing Barefoot",
+            "spotify_id": "4kPSjEg8u1U4pg2dHHMmtf",
+            "duration_ms": 256533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+                    "id": "0vYkHhJ48Bs3jWcvZXvOrP",
+                    "name": "Patti Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+                }
+            ],
+            "album": {
+                "album_name": "Wave",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1979",
+                "spotify_id": "5Azni9In90zMkWAFgWh6RE"
+            }
+        },
+        {
+            "name": "Happiness Is A Warm Gun",
+            "spotify_id": "4blAmRSLbvMrzUn5WSGZFW",
+            "duration_ms": 166773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp",
+                    "id": "1xgFexIwrf2QjbU0buCNnp",
+                    "name": "The Breeders",
+                    "type": "artist",
+                    "uri": "spotify:artist:1xgFexIwrf2QjbU0buCNnp"
+                }
+            ],
+            "album": {
+                "album_name": "Pod",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990-05-29",
+                "spotify_id": "0xx56m5AMEIMZlSjdJwxf5"
+            }
+        },
+        {
+            "name": "Hazy Shade of Winter",
+            "spotify_id": "0P2vAvvWni2tNXOdbH3JFk",
+            "duration_ms": 167160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/51l0uqRxGaczYr4271pVIC",
+                    "id": "51l0uqRxGaczYr4271pVIC",
+                    "name": "The Bangles",
+                    "type": "artist",
+                    "uri": "spotify:artist:51l0uqRxGaczYr4271pVIC"
+                }
+            ],
+            "album": {
+                "album_name": "The Essential Bangles",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2004",
+                "spotify_id": "4yaX6Gmlvo42PnGgBdhzGf"
+            }
+        },
+        {
+            "name": "Take Some Petrol Darling",
+            "spotify_id": "4x9THsBvzcFbgnF8qz5Koi",
+            "duration_ms": 88933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1G0Xwj8mza6b03iYkVdzDP",
+                    "id": "1G0Xwj8mza6b03iYkVdzDP",
+                    "name": "The Sugarcubes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1G0Xwj8mza6b03iYkVdzDP"
+                }
+            ],
+            "album": {
+                "album_name": "Life's Too Good",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1988-01-01",
+                "spotify_id": "5I0rvDfkvXR89ext3Edr1j"
+            }
+        },
+        {
+            "name": "Happy House",
+            "spotify_id": "09LikVa6VgPYcsChqn1N0U",
+            "duration_ms": 231706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1n65zfwYIj5kKEtNgxUlWb",
+                    "id": "1n65zfwYIj5kKEtNgxUlWb",
+                    "name": "Siouxsie and the Banshees",
+                    "type": "artist",
+                    "uri": "spotify:artist:1n65zfwYIj5kKEtNgxUlWb"
+                }
+            ],
+            "album": {
+                "album_name": "Kaleidoscope (Remastered & Expanded)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980-08-01",
+                "spotify_id": "5jynqY8ZyDoeqrIfYSwF8P"
+            }
+        },
+        {
+            "name": "Acrobat",
+            "spotify_id": "7AGGClp7SmBnepuiua7DPG",
+            "duration_ms": 270066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+                    "id": "51Blml2LZPmy7TTiAg47vQ",
+                    "name": "U2",
+                    "type": "artist",
+                    "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+                }
+            ],
+            "album": {
+                "album_name": "Achtung Baby (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-11-18",
+                "spotify_id": "0ta5VdkJcpdVnNrn7g4cZe"
+            }
+        },
+        {
+            "name": "Little Dreamer",
+            "spotify_id": "51uL9XvdRUwKbxWYIi6q6P",
+            "duration_ms": 235911,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1WvvwcQx0tj6NdDhZZ2zZz",
+                    "id": "1WvvwcQx0tj6NdDhZZ2zZz",
+                    "name": "Future Islands",
+                    "type": "artist",
+                    "uri": "spotify:artist:1WvvwcQx0tj6NdDhZZ2zZz"
+                }
+            ],
+            "album": {
+                "album_name": "Wave Like Home",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-10-05",
+                "spotify_id": "0FMHo8xi0rgs7b1LXzRmam"
+            }
+        },
+        {
+            "name": "Strange Little Girl",
+            "spotify_id": "28mP2vfW3oGYmxE0slVqia",
+            "duration_ms": 161173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0RUEHcBiENFEqxgicqS2ig",
+                    "id": "0RUEHcBiENFEqxgicqS2ig",
+                    "name": "The Stranglers",
+                    "type": "artist",
+                    "uri": "spotify:artist:0RUEHcBiENFEqxgicqS2ig"
+                }
+            ],
+            "album": {
+                "album_name": "La Folie",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1981",
+                "spotify_id": "3bosyDPGOYmLnwMNhU06Rx"
+            }
+        },
+        {
+            "name": "Dream \u301c\u5922\u306e\u30d1\u30d4\u30fc",
+            "spotify_id": "1ccJr53u1pzlApnQNcUME9",
+            "duration_ms": 84800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1tcgfoMTT1szjUeaikxRjA",
+                    "id": "1tcgfoMTT1szjUeaikxRjA",
+                    "name": "Ryuichi Sakamoto",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tcgfoMTT1szjUeaikxRjA"
+                }
+            ],
+            "album": {
+                "album_name": "L.O.L.",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-11-08",
+                "spotify_id": "4RV7mYw4f0yjPfWfArZn3j"
+            }
+        },
+        {
+            "name": "N.Y. Hotel",
+            "spotify_id": "1yS7eR5ziWAGfJePCaQ0ro",
+            "duration_ms": 167439,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eQZTqEMozBcuSubfu52i4",
+                    "id": "7eQZTqEMozBcuSubfu52i4",
+                    "name": "The Knife",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eQZTqEMozBcuSubfu52i4"
+                }
+            ],
+            "album": {
+                "album_name": "The Knife",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-02-05",
+                "spotify_id": "62OBIIZmKxHJw7RLwjipqJ"
+            }
+        },
+        {
+            "name": "Winter",
+            "spotify_id": "60J421Rq8u1HbUf8r2629k",
+            "duration_ms": 344560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+                    "id": "1KsASRNugxU85T0u6zSg32",
+                    "name": "Tori Amos",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KsASRNugxU85T0u6zSg32"
+                }
+            ],
+            "album": {
+                "album_name": "Gold Dust",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2012-10-02",
+                "spotify_id": "5gB0zMvTNkzTTvaE5dtdI5"
+            }
+        },
+        {
+            "name": "Paper Thin",
+            "spotify_id": "7kC97zPE0PxrcItXyGdk8P",
+            "duration_ms": 298720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2RP4pPHTXlQpDnO9LvR7Yt",
+                    "id": "2RP4pPHTXlQpDnO9LvR7Yt",
+                    "name": "Lianne La Havas",
+                    "type": "artist",
+                    "uri": "spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt"
+                }
+            ],
+            "album": {
+                "album_name": "Lianne La Havas",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-07-17",
+                "spotify_id": "1CqNrKEv2fhF7mudTXrydV"
+            }
+        },
+        {
+            "name": "Eugene",
+            "spotify_id": "4S6PolgPZ5OLph314ww8Fg",
+            "duration_ms": 221804,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kIwETcbpuFgRukE8o7Opx",
+                    "id": "4kIwETcbpuFgRukE8o7Opx",
+                    "name": "Arlo Parks",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kIwETcbpuFgRukE8o7Opx"
+                }
+            ],
+            "album": {
+                "album_name": "Eugene",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-02-11",
+                "spotify_id": "7FJKoKn7zy2OET6KtiJJp7"
+            }
+        },
+        {
+            "name": "when the party's over",
+            "spotify_id": "43zdsphuZLzwA9k4DJhU0I",
+            "duration_ms": 196077,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                    "name": "Billie Eilish",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+                }
+            ],
+            "album": {
+                "album_name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-03-29",
+                "spotify_id": "0S0KGZnfBGSIssfF54WSJh"
+            }
+        },
+        {
+            "name": "Toreador Del Amor",
+            "spotify_id": "65NeRwBdBdWjcTmLxjYUp8",
+            "duration_ms": 311413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4zn0m3hBUQVl6Nf36Sb0A6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4zn0m3hBUQVl6Nf36Sb0A6",
+                    "id": "4zn0m3hBUQVl6Nf36Sb0A6",
+                    "name": "Tuxedomoon",
+                    "type": "artist",
+                    "uri": "spotify:artist:4zn0m3hBUQVl6Nf36Sb0A6"
+                }
+            ],
+            "album": {
+                "album_name": "Pink Narcissus",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-04-28",
+                "spotify_id": "6WZ5zJexgCWfpAUEIbPaad"
+            }
+        },
+        {
+            "name": "Troy",
+            "spotify_id": "6m3kJ6d7Ypd1eoBoGP2qZN",
+            "duration_ms": 391200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1",
+                    "id": "4sD9znwiVFx9cgRPZ42aQ1",
+                    "name": "Sin\u00e9ad O'Connor",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1"
+                }
+            ],
+            "album": {
+                "album_name": "Lion and the Cobra",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1987-11-04",
+                "spotify_id": "60gQ6EG1JFQWWUcasx7wKc"
+            }
+        },
+        {
+            "name": "Tunic (Song For Karen)",
+            "spotify_id": "1vk2iQMb6SFA5CLpgOb21p",
+            "duration_ms": 378933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6",
+                    "id": "5UqTO8smerMvxHYA5xsXb6",
+                    "name": "Sonic Youth",
+                    "type": "artist",
+                    "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6"
+                }
+            ],
+            "album": {
+                "album_name": "Goo",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1990-01-01",
+                "spotify_id": "5iYYQwB0oH9FVyVlaOXZdr"
+            }
+        },
+        {
+            "name": "Elegie",
+            "spotify_id": "1s20rDPeaWhdDRZGVXOlb2",
+            "duration_ms": 163720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0vYkHhJ48Bs3jWcvZXvOrP",
+                    "id": "0vYkHhJ48Bs3jWcvZXvOrP",
+                    "name": "Patti Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:0vYkHhJ48Bs3jWcvZXvOrP"
+                }
+            ],
+            "album": {
+                "album_name": "Horses (Legacy Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1975",
+                "spotify_id": "7xg7u99lilTCPbaRfnYuy6"
+            }
+        },
+        {
+            "name": "Lorelei",
+            "spotify_id": "1ZnXuijpwEBjhNxpEnb8WH",
+            "duration_ms": 223266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+                    "id": "5Wabl1lPdNOeIn0SQ5A1mp",
+                    "name": "Cocteau Twins",
+                    "type": "artist",
+                    "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp"
+                }
+            ],
+            "album": {
+                "album_name": "Treasure",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984-11-01",
+                "spotify_id": "7pBPB9vwqCMLKNmUCK4k62"
+            }
+        },
+        {
+            "name": "Good Day Today - Original",
+            "spotify_id": "5uV9KHizyclpcpsZNvgmrE",
+            "duration_ms": 279079,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Gu6Q05ExIGwHTF43kqLBI",
+                    "id": "2Gu6Q05ExIGwHTF43kqLBI",
+                    "name": "David Lynch",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Gu6Q05ExIGwHTF43kqLBI"
+                }
+            ],
+            "album": {
+                "album_name": "Good Day Today / I Know",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-01-30",
+                "spotify_id": "3ANMEY2R3PIusde8soe8mk"
+            }
+        },
+        {
+            "name": "Unfucktheworld",
+            "spotify_id": "2NE61HPxiQyPbNhggQqrzG",
+            "duration_ms": 125440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+                    "id": "6mKqFxGMS5TGDZI3XkT5Rt",
+                    "name": "Angel Olsen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+                }
+            ],
+            "album": {
+                "album_name": "Burn Your Fire For No Witness (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-11-18",
+                "spotify_id": "62RDt42wD8VdrhfHG6IzpC"
+            }
+        }
+    ]
+}

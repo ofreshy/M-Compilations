@@ -1,5 +1,3 @@
-
-
 import argparse
 
 from integrations.spotify import spotify

@@ -43,8 +43,7 @@ def main():
     # for spotify_collection in  local_spotify_collections.values():
     #     ingest_spotify_collection(spotify_collection)
 
-
-    print("Finish ingestino all collections")
+    print("Finish ingestion all collections")
 
 
 if __name__ == '__main__':

@@ -3,11 +3,13 @@ Ability to read the Spotify collections from remote
 Using spotipy client
 
 The client expects three env variables to be set
-
-
+SPOTIPY_CLIENT_ID;
+SPOTIPY_CLIENT_SECRET;
+SPOTIPY_REDIRECT_URI=https://localhost:8080/callback
 """
 
 import json
+import os
 import os.path
 import shutil
 from datetime import date, datetime
@@ -129,7 +131,12 @@ class SpotifyClient:
         return cls(
             client=spotipy.Spotify(
                 client_credentials_manager=SpotifyOAuth(
-                    scope="user-read-private user-read-email",
+                    scope=[
+                        "user-read-private",
+                        "user-read-email",
+                        "user-library-read",
+                        "user-library-modify"
+                    ],
                 ),
             ),
             limit=limit,
@@ -141,6 +148,21 @@ class SpotifyClient:
 
     def me(self):
         return self.client.me()
+
+    def saved_tracks(self):
+        """
+        Returns an iterator over saved tracks
+        """
+        def gen_items(saved_items):
+            return (i["track"] for i in saved_items)
+
+        response = self.client.current_user_saved_tracks(
+            limit=self.limit,
+        )
+        while response["next"] is not None:
+            yield from gen_items(response["items"])
+            response = self.client.next(response)
+        yield from gen_items(response["items"])
 
     def playlists(self) -> Iterator[Dict]:
         """

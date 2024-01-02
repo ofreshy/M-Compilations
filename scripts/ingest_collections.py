@@ -1,8 +1,9 @@
 import django
+
 django.setup()
 
-
-from musik_lib.collections.init import get_all_collection_files, read_collection_file, resolve_collection_files
+from musik_lib.collections.__init__ import get_local_manual_collection_file_names, read_manual_collection_file, \
+    resolve_manual_collection_files
 from musik_lib.models.base import Library
 from musik_lib.models.stats import LibraryStat
 from scripts import utility
@@ -40,14 +41,14 @@ def main():
 
     collection_numbers = args.collection_numbers
     if len(collection_numbers) == 1 and args.collection_numbers[0] == "all":
-        file_names = get_all_collection_files()
+        file_names = get_local_manual_collection_file_names()
     else:
-        file_names = resolve_collection_files(collection_numbers)
+        file_names = resolve_manual_collection_files(collection_numbers)
 
     _ = Library.load()
     for file_name in file_names:
         print("Reading file name %s" % file_name)
-        collection = read_collection_file(file_name)
+        collection = read_manual_collection_file(file_name)
         utility.ingest_collection(collection)
         print("Done ingesting file name %s" % file_name)
 

@@ -7,8 +7,7 @@ import django
 django.setup()
 
 
-from integrations.spotify import spotify
-from musik_lib.collections.init import get_all_collection_files_by_name
+from musik_lib import collections
 from musik_lib.models.base import Library
 from musik_lib.models.stats import LibraryStat
 from scripts import utility
@@ -34,10 +33,10 @@ def main():
         print("Clearing DB")
         utility.clear_db()
 
-    local_spotify_collections = spotify.get_local_collections_by_name()
+    local_spotify_collections = collections.get_local_spotify_collections_by_name()
     print(f"Found {len(local_spotify_collections)} local spotify collections")
 
-    local_manual_collections = get_all_collection_files_by_name()
+    local_manual_collections = collections.get_local_manual_collections_by_name()
     only_on_manual = set(local_manual_collections.keys()) - set(local_spotify_collections.keys())
     _ = Library.load()
 

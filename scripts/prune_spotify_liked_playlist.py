@@ -10,6 +10,7 @@ Read the songs from liked playlist
 Removed all songs that are in both
 """
 from integrations.spotify import spotify
+from musik_lib import collections
 
 
 def main():
@@ -18,7 +19,7 @@ def main():
     client = spotify.SpotifyClient.make_default()
     saved_tracks = client.saved_tracks()
 
-    local_collections = spotify.get_local_collections_content()
+    local_collections = collections.get_local_spotify_collections_content()
     local_tracks_by_track_id = {
         track["spotify_id"]: track
         for collection in local_collections
@@ -33,7 +34,7 @@ def main():
         print(f"Removing {len(track_name_by_track_id_to_remove)} from the liked playlist. Removed tracks are")
         print(",".join(list(track_name_by_track_id_to_remove.values())))
 
-        client.client.current_user_saved_tracks_delete(
+        client.delete_from_saved_tracks(
             list(track_name_by_track_id_to_remove.keys())
         )
     else:

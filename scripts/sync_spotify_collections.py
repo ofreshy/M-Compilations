@@ -1,6 +1,7 @@
 import argparse
 
 from integrations.spotify import spotify
+from musik_lib import collections
 
 
 def read_args():
@@ -21,9 +22,9 @@ def main():
 
     if args.clear:
         print("Removing local spotify collections")
-        spotify.clear_local_collections()
+        collections.clear_spotify_local_collections()
 
-    local_collections = spotify.get_local_collections_ids()
+    local_collections = collections.get_local_spotify_collection_ids()
     remote_collections = spotify.get_remote_collections(
         client=client,
     )

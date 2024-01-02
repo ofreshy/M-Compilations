@@ -9,9 +9,7 @@ SPOTIPY_REDIRECT_URI=https://localhost:8080/callback
 """
 
 import json
-import os
 import os.path
-import shutil
 from datetime import date, datetime
 from pathlib import Path
 
@@ -164,6 +162,14 @@ class SpotifyClient:
             response = self.client.next(response)
         yield from gen_items(response["items"])
 
+    def delete_from_saved_tracks(self, tracks: List[str]):
+        """
+        Takes a list of track ids or track urls
+        """
+        return self.client.current_user_saved_tracks_delete(
+            tracks
+        )
+
     def playlists(self) -> Iterator[Dict]:
         """
         Returns an iterator of playlist items dict;
@@ -273,50 +279,6 @@ def get_collection_stats(client: SpotifyClient, spotify_collection: SpotifyColle
         for t in spotify_collection.tracks
     ]
     print(tracks_features)
-
-
-def get_local_collections_ids(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Set[str]:
-    """
-    Returns the collection ids that exists on collection_path
-    """
-    return {
-        content["spotify_id"]
-        for content
-        in get_local_collections_content(collection_path)
-    }
-
-
-def get_local_collections_content(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Iterator[dict]:
-    def load_content(path: str):
-        with open(path, "r") as f:
-            return json.loads(f.read())
-
-    return (
-        load_content(os.path.join(collection_path, name))
-        for name in os.listdir(collection_path)
-        if name.endswith(".json")
-    )
-
-
-def get_local_collections_by_name(collection_path=SPOTIFY_COLLECTIONS_PATH) -> Dict[str, Dict]:
-    """
-    Returns all local collection content by their name
-    """
-    return {
-        content["name"]: content
-        for content
-        in get_local_collections_content(collection_path)
-    }
-
-
-def clear_local_collections(path=SPOTIFY_COLLECTIONS_PATH):
-    try:
-        shutil.rmtree(path)
-    except:
-        pass
-    else:
-        os.makedirs(path)
-
 
 
 # client = SpotifyClient.make_default(limit=20)

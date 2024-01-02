@@ -1,8 +1,9 @@
 import django
+
 django.setup()
 
-
-from musik_lib.collections.__init__ import get_local_manual_collection_file_names, read_manual_collection_file, resolve_manual_collection_files
+from musik_lib.collections.__init__ import get_local_manual_collection_file_names, read_manual_collection_file, \
+    resolve_manual_collection_files
 from musik_lib.models.base import Library
 from musik_lib.models.stats import LibraryStat
 from scripts import utility

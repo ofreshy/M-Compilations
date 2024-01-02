@@ -9,9 +9,7 @@ SPOTIPY_REDIRECT_URI=https://localhost:8080/callback
 """
 
 import json
-import os
 import os.path
-import shutil
 from datetime import date, datetime
 from pathlib import Path
 
@@ -163,6 +161,14 @@ class SpotifyClient:
             yield from gen_items(response["items"])
             response = self.client.next(response)
         yield from gen_items(response["items"])
+
+    def delete_from_saved_tracks(self, tracks: List[str]):
+        """
+        Takes a list of track ids or track urls
+        """
+        return self.client.current_user_saved_tracks_delete(
+            tracks
+        )
 
     def playlists(self) -> Iterator[Dict]:
         """

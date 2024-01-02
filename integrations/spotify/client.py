@@ -3,7 +3,6 @@ Test client to read
 """
 
 import datetime
-import json
 import os
 
 import requests

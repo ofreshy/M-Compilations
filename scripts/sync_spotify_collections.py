@@ -1,6 +1,8 @@
 import argparse
 
-from integrations.spotify import spotify
+import integrations.spotify.client
+import integrations.spotify.helpers
+from integrations.spotify import models
 from musik_lib import collections
 
 
@@ -18,21 +20,21 @@ def main():
     print("Start Spotify sync")
     args = read_args()
 
-    client = spotify.SpotifyClient.make_default()
+    client = integrations.spotify.client.SpotifyClient.make_default()
 
     if args.clear:
         print("Removing local spotify collections")
         collections.clear_spotify_local_collections()
 
     local_collections = collections.get_local_spotify_collection_ids()
-    remote_collections = spotify.get_remote_collections(
+    remote_collections = integrations.spotify.helpers.get_remote_collections(
         client=client,
     )
     for collection in remote_collections:
         if collection.spotify_id in local_collections:
             print(f"Skipping existing collection : {collection.name}")
             continue
-        spotify.write_collection(
+        integrations.spotify.helpers.write_collection(
             collection=collection,
         )
         print(f"New collection written : {collection.name}")

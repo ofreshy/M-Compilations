@@ -1,129 +1,248 @@
-"""
-Test client to read
-"""
+import difflib
+from typing import List, Optional, Iterator, Dict
 
-import datetime
-import os
+import spotipy
+from spotipy import SpotifyOAuth
 
-import requests
-
-
-CLIENT_ID = "5e552813c154484eb1c62688ccd6d0e1"
-CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
-
-AUTH_URL = 'https://accounts.spotify.com/api/token'
-
-# auth_response = requests.post(AUTH_URL, {
-#     'grant_type': 'client_credentials',
-#     'client_id': CLIENT_ID,
-#     'client_secret': CLIENT_SECRET,
-# })
-#
-# # convert the response to JSON
-# auth_response_data = auth_response.json()
-#
-# # save the access token
-# print(auth_response_data)
-# access_token = auth_response_data['access_token']
-# print(access_token)
-access_token = "BQA42Qhvsyz15a9g1IWYUhqGkG1iqqI7pkvG60s_XD5SVaYggYDLKHhxe_PJth_94cUpxe4LyetRezu4oFezQd3EAE_-qgfwpWmDVn-uSaAXyeaySpZORyfm_Hlbq7cH-mizLDN4vSM3Ef_cL1HdB7J207jWRAF46BLjI69_jv9aPuIzcOwF1NlDjDkU-32FHmH6AlWmoTyQDIDVx5i4epM_9BeJAyU"
-headers = {
-    'Authorization': 'Bearer {token}'.format(token=access_token),
-    'Content-Type': "Application/json",
-}
+from integrations.spotify.models import SpotifyTrack
 
 
-url = "https://api.spotify.com/v1/audio-features?ids=13s6dCsNpSZflwVu2uzzPi%2C7u4YYDqgqEu7etjfwWy3u8"
-r = requests.get(url, headers=headers)
+NUM_SEARCH_ITEMS = 5
 
 
-def get_playlists():
-    def _get_playlists(url):
-        res = requests.get(url, headers=headers)
-        res.raise_for_status()
-        return res.json()
-
-    playlists = _get_playlists("https://api.spotify.com/v1/me/playlists?offset=0&limit=20")
-    while url := playlists.get("next"):
-        yield playlists["items"]
-        playlists = _get_playlists(url)
-    yield playlists["items"]
-
-
-def filter_playlist_item(playlist_item):
+class SpotifyClient:
     """
-
+    Thin wrapper for spotipy client
+    so can get resources in a streaming fashion instead of bulk
     """
-    if playlist_item.get("owner", {}).get("display_name", "") != "ofreshy":
-        return False
-    playlist_name = playlist_item.get("name", "")
-    if playlist_name.upper().startswith("ZZZ"):
-        return False
-    if playlist_name.startswith("0"):
-        return False
-    if playlist_name.upper().startswith("KIDS"):
-        return False
-    return True
+    client: spotipy.Spotify
+    limit: int
 
-
-def get_playlist_items(playlists):
-    for playlist_item in playlists:
-        yield (i for i in playlist_item if filter_playlist_item(i))
-
-
-def get_track_items(playlist_item):
-
-    def _get_tracks():
-        res = requests.get(url, headers=headers)
-        res.raise_for_status()
-        return res.json()
-
-    url = playlist_item["tracks"]["href"]
-    tracks = _get_tracks()
-    while url := tracks.get("next"):
-        yield tracks["items"]
-        tracks = _get_tracks()
-    yield tracks["items"]
-
-
-def get_tracks_and_playlist():
-    for playlist_items in get_playlist_items(get_playlists()):
-        for playlist_item in playlist_items:
-            tracks = []
-            for tr in get_track_items(playlist_item):
-                tracks.extend(tr)
-            yield playlist_item, tracks
-
-
-def playlist_to_collection(playlist_item, tracks):
-    def get_created_at_year():
-        max_date = max(
-            [a["added_at"] for a in tracks]
-        )
-        return datetime.datetime.strptime(max_date, "%Y-%m-%dT%H:%M:%SZ").year
-    return {
-      "name": playlist_item["name"],
-      "created_year": get_created_at_year(),
-      "description": playlist_item["description"],
-      "tracks": [
-          {
-              "name": track["track"]["name"],
-              "spotify_id": track["track"]["id"],
-              "duration_ms": track["track"]["duration_ms"],
-              "released_year": track["track"]["album"]["release_date"],
-              "artists": [a["name"] for a in track["track"]["artists"]],
-              "album": track["track"]["album"]["name"]
-          }
-          for track in tracks
+    @classmethod
+    def make_default(cls, limit=50, extra_scope=None):
+        base_scope = [
+            "user-read-private",
+            "user-read-email",
+            "user-library-read",
+            "user-library-modify",
         ]
-    }
+        extra_scope = extra_scope or []
+        scope = base_scope + extra_scope
+        return cls(
+            client=spotipy.Spotify(
+                client_credentials_manager=SpotifyOAuth(
+                    scope=scope,
+                ),
+            ),
+            limit=limit,
+        )
 
-# gen = get_tracks_and_playlist()
-# for i, (pi, tracks) in enumerate(gen):
-#     collection = playlist_to_collection(pi, tracks)
-#     with open(f"/tmp/{i}-{collection['name']}.json", "w") as f:
-#         f.write(json.dumps(collection))
-#     break
-#
-# url = "https://api.spotify.com/v1/audio-features?ids=13s6dCsNpSZflwVu2uzzPi="
-# requests.get(url, headers=headers)
+    def __init__(self, client: spotipy.Spotify, limit):
+        self.client = client
+        self.limit = limit
+
+    def me(self):
+        return self.client.me()
+
+    def user_id(self):
+        return self.me()["id"]
+
+    def saved_tracks(self):
+        """
+        Returns an iterator over saved tracks
+        """
+        def gen_items(saved_items):
+            return (i["track"] for i in saved_items)
+
+        response = self.client.current_user_saved_tracks(
+            limit=self.limit,
+        )
+        while response["next"] is not None:
+            yield from gen_items(response["items"])
+            response = self.client.next(response)
+        yield from gen_items(response["items"])
+
+    def delete_from_saved_tracks(self, tracks: List[str]):
+        """
+        Takes a list of track ids or track urls
+        """
+        return self.client.current_user_saved_tracks_delete(
+            tracks
+        )
+
+    def search_track(self, track_name, artist_name, duration: str) -> Optional[SpotifyTrack]:
+        def gen_items():
+            response = self.client.search(
+                q=f"{track_name}, {artist_name}",
+                type="track",
+                limit=NUM_SEARCH_ITEMS,
+            )
+            items = response.get("tracks", {}).get("items", [])
+            yield from (i for i in items)
+
+        track_filter = make_track_filter(track_name, artist_name, duration)
+        found_item = next(filter(track_filter, gen_items()), None)
+        if not found_item:
+            raise ValueError(
+                f"Did not find a match for {track_name}, {artist_name} in items"
+            )
+        spotify_track = SpotifyTrack.from_spotify_api(found_item)
+        print(
+            f"Found a match for {track_name}, {artist_name} : {spotify_track}"
+        )
+
+        return spotify_track
+
+    def playlists(self) -> Iterator[Dict]:
+        """
+        Returns an iterator of playlist items dict;
+        Buffering the API call into chunks of items
+        """
+        def gen_items(playlist_items):
+            return (i for i in playlist_items)
+
+        playlists = self.client.user_playlists(
+                user=self.me()["id"],
+                limit=self.limit,
+            )
+        while playlists["next"] is not None:
+            yield from gen_items(playlists["items"])
+            playlists = self.client.next(playlists)
+        yield from gen_items(playlists["items"])
+
+    def playlist_items(self, playlist) -> Iterator[Dict]:
+        """
+        Returns an iterator of playlist items (Tracks)
+        """
+        def gen_items(items):
+            return (i for i in items)
+
+        playlist_items = self.client.playlist_items(
+            playlist_id=playlist["id"],
+            limit=self.limit,
+        )
+        while playlist_items["next"] is not None:
+            yield from gen_items(playlist_items["items"])
+            playlist_items = self.client.next(playlist_items)
+        yield from gen_items(playlist_items["items"])
+
+    def audio_features(self, track_id: str):
+        return self.client.audio_features(track_id)[0]
+
+    def create_playlist(self, playlist_name: str, uris: List[str], description: Optional[str]):
+        """
+        playlist name is unique in my collections so use this to understand whether this is a
+        create or update
+        """
+        response = self.client.user_playlist_create(
+            user=self.user_id(),
+            name=playlist_name,
+            description=description,
+        )
+        if response is None:
+            raise
+
+        response = self.client.playlist_add_items(
+            playlist_id=response["id"],
+            items=uris,
+        )
+        if response is None:
+            raise
+
+        return response
+
+    def update_playlist(self, playlist_id: str, uris: List[str], collection: Dict):
+        res = self.client.playlist_replace_items(
+            playlist_id=playlist_id,
+            items=uris,
+        )
+        if res is None:
+            raise
+
+        res = self.client.playlist_change_details(
+            playlist_id=playlist_id,
+            description=collection["description"],
+        )
+
+
+def make_track_filter(track_name: str, artist_name: str, duration: str):
+    def duration_to_ms():
+        duration_parts = duration.split(":")
+        len_duration = len(duration_parts)
+        if len_duration == 3:
+            hours, minutes, seconds = duration_parts
+        elif len_duration == 2:
+            hours, minutes, seconds = ['0'] + duration_parts
+        else:
+            raise ValueError(f"Failed to parse duration -> {duration}")
+
+        return (
+                int(hours) * 3600 + int(minutes) * 60 + int(seconds)
+        ) * 1000
+
+    origin_artists = [a.strip() for a in artist_name.lower().split("&")]
+    duration_in_ms = duration_to_ms()
+    duration_min = duration_in_ms * 0.9
+    duration_max = duration_in_ms * 1.1
+    track_name_lower = track_name.lower()
+
+    def type_filter(_item):
+        if _item["type"] == "track":
+            return True
+        print(f"False. not type track item: {_item}")
+        return False
+
+    def similar_name_filter(_item) -> bool:
+        item_name = _item["name"].lower()
+        similar = difflib.SequenceMatcher(
+            a=item_name,
+            b=track_name_lower,
+        ).ratio() > 0.9
+        if similar:
+            return True
+
+        print(f"False. track name {track_name_lower} dissimilar to item name {item_name}")
+        return False
+
+    def artist_name_filter(_item):
+        artists_names_in_response = [
+            a["name"].lower() for a in _item["artists"]
+        ]
+        artist_in_response = any(
+            [
+                artist in artists_names_in_response
+                for artist in origin_artists
+            ]
+        )
+        if artist_in_response:
+            return True
+        print(
+            f"False origin artist {origin_artists} in  {artists_names_in_response}"
+        )
+        return False
+
+    def make_duration_filter(_item):
+        if duration_min <= _item["duration_ms"] <= duration_max:
+            return True
+        print(
+            f"False duration for {_item} is not in bounds ({duration_min}, {duration_max})"
+        )
+        return False
+
+    all_filters = (
+        type_filter,
+        similar_name_filter,
+        artist_name_filter,
+        make_duration_filter,
+    )
+
+    def filter_all(_item):
+        return all(
+            [
+                f(_item)
+                for f
+                in all_filters
+            ]
+        )
+
+    return filter_all

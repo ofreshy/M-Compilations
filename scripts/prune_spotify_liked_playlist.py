@@ -9,14 +9,15 @@ Read all songs from local storage
 Read the songs from liked playlist
 Removed all songs that are in both
 """
-from integrations.spotify import spotify
+import integrations.spotify.client
+from integrations.spotify import models
 from musik_lib import collections
 
 
 def main():
     print("Start Prune Saved Tracks")
 
-    client = spotify.SpotifyClient.make_default()
+    client = integrations.spotify.client.SpotifyClient.make_default()
     saved_tracks = client.saved_tracks()
 
     local_collections = collections.get_local_spotify_collections_content()

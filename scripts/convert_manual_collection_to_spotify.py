@@ -1,6 +1,6 @@
 from typing import Dict
 
-from integrations.spotify.spotify import SpotifyClient
+from integrations.spotify.client import SpotifyClient
 from musik_lib import collections
 
 

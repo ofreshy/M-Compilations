@@ -2,7 +2,6 @@ import argparse
 
 import integrations.spotify.client
 import integrations.spotify.helpers
-from integrations.spotify import models
 from musik_lib import collections
 
 
@@ -34,7 +33,7 @@ def main():
         if collection.spotify_id in local_collections:
             print(f"Skipping existing collection : {collection.name}")
             continue
-        integrations.spotify.helpers.write_collection(
+        collections.write_spotify_collection(
             collection=collection,
         )
         print(f"New collection written : {collection.name}")

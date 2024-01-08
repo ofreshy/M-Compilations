@@ -44,7 +44,7 @@ def create_or_update_collections(client: SpotifyClient, collections: Dict):
     for col_name, col_content in collections.items():
         tracks = find_tracks(col_content)
         if tracks is None:
-            break
+            continue
 
         playlist_name = col_content["name"]
         if (playlist_id := playlist_name_to_id.get(col_name)) is not None:
@@ -61,7 +61,7 @@ def create_or_update_collections(client: SpotifyClient, collections: Dict):
                 description=col_content.get("description"),
             )
             print(f"Created playlist {playlist_name}")
-        break
+
 
 
 def main():

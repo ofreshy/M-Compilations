@@ -7,19 +7,11 @@ SPOTIPY_CLIENT_ID;
 SPOTIPY_CLIENT_SECRET;
 SPOTIPY_REDIRECT_URI=https://localhost:8080/callback
 """
-import os.path
 from datetime import date, datetime
-from pathlib import Path
 
 from dataclasses import dataclass
 
 from typing import List, Dict, Optional
-
-BASE_PATH = Path(__file__).parent.absolute()
-SPOTIFY_COLLECTIONS_PATH = os.path.join(
-    BASE_PATH,
-    "collections",
-)
 
 
 @dataclass
@@ -121,24 +113,3 @@ def get_created_at_date(items):
         ]
     )
     return datetime.strptime(max_date, "%Y-%m-%dT%H:%M:%SZ").date()
-
-
-def is_final_playlist(playlist: Dict, user_name: Optional[str] = None) -> bool:
-    """
-    Returns True if playlist is finalized as some playlists are WIP
-    """
-    if user_name is not None:
-        playlist_user = playlist.get("owner", {}).get("display_name", "")
-        if playlist_user != user_name:
-            return False
-
-    playlist_name = playlist.get("name", "").upper()
-    if playlist_name.startswith("ZZZ") \
-            or playlist_name.startswith("KIDS") \
-            or playlist_name.startswith("XXX") \
-            or playlist_name.startswith("0"):
-        return False
-
-    return True
-
-

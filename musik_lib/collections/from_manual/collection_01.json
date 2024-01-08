@@ -1,23 +1,23 @@
 {
   "name": "My 1st Album",
   "nick_name": "First",
-  "description": "My first ever album. Indie Boy",
+  "description": "My first ever album. Indie Boy.",
   "created_year": "2001",
   "ordinal": "1",
   "tracks": [
     {"name":"Any Day Now", "duration":"6:18", "released_year": 2000, "artist": "Elbow"},
-    {"name":"Fear of Fireflies", "duration":"3:07", "released_year": 2000, "artist": "Calla"},
-    {"name":"Wish Fulfilment", "duration":"3:27", "released_year": 2000, "artist": "Sonic Youth"},
+    {"name":"Fear of Fireflies", "duration":"4:21", "released_year": 2000, "artist": "Calla"},
+    {"name":"Wish Fulfillment", "duration":"3:27", "released_year": 2000, "artist": "Sonic Youth"},
     {"name":"Plug in Baby", "duration":"3:39", "released_year": 2000, "artist": "Muse"},
     {"name":"Stereo", "duration":"3:10", "released_year": 2000, "artist": "Pavement"},
-    {"name":"Miner at the Dial View", "duration":"5:22", "released_year": 2000, "artist": "Grandaddy"},
-    {"name":"So You'll Aim to the Sky", "duration":"4:44", "released_year": 2000, "artist": "Grandaddy"},
+    {"name":"Miner At The Dial-A-View", "duration":"5:22", "released_year": 2000, "artist": "Grandaddy"},
+    {"name":"So You'll Aim toward the Sky", "duration":"4:44", "released_year": 2000, "artist": "Grandaddy"},
     {"name":"Novocaine For The Soul", "duration":"3:09", "released_year": 1996, "artist": "Eels"},
-    {"name":"Today", "duration":"4:44", "released_year": 1993, "artist": "The Smashing Pumpkins"},
+    {"name":"Today", "duration":"3:22", "released_year": 1993, "artist": "The Smashing Pumpkins"},
     {"name":"Monkey's Gone to Heaven", "duration":"2:59", "released_year": 2000, "artist": "Pixies"},
-    {"name":"Cannonball", "duration":"3:34", "released_year": 2000, "artist": "Breeders"},
-    {"name":"The Mess We're in", "duration":"3:56", "released_year": 2000, "artist": "PJ Harvey & Thom Yorke"},
-    {"name":"Night as Rain", "duration":"4:28", "released_year": 2000, "artist": "dEUS"},
-    {"name":"Angelene", "duration":"3:35", "released_year": 2000, "artist": "PJ Harvey"}
+    {"name":"Cannonball", "duration":"3:34", "released_year": 2000, "artist": "The Breeders"},
+    {"name":"This Mess We're In", "duration":"3:56", "released_year": 2000, "artist": "PJ Harvey & Thom Yorke"},
+    {"name":"Right as Rain", "duration":"4:28", "released_year": 2000, "artist": "dEUS"},
+    {"name":"Angelene", "duration":"3:34", "released_year": 2000, "artist": "PJ Harvey"}
   ]
 }

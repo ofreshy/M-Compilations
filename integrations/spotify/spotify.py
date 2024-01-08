@@ -7,8 +7,9 @@ SPOTIPY_CLIENT_ID;
 SPOTIPY_CLIENT_SECRET;
 SPOTIPY_REDIRECT_URI=https://localhost:8080/callback
 """
-
+import difflib
 import json
+import logging
 import os.path
 from datetime import date, datetime
 from pathlib import Path
@@ -25,6 +26,8 @@ SPOTIFY_COLLECTIONS_PATH = os.path.join(
     "collections",
 )
 
+NUM_SEARCH_ITEMS = 5
+
 
 @dataclass
 class SpotifyTrack:
@@ -36,6 +39,7 @@ class SpotifyTrack:
     spotify_id: str
     duration_ms: int
     artist: List[Dict]
+    uri: str
     album: Dict
 
     @classmethod
@@ -45,6 +49,7 @@ class SpotifyTrack:
             spotify_id=data["id"],
             duration_ms=data["duration_ms"],
             artist=data["artists"],
+            uri=data["uri"],
             album={
                 "album_name": data["album"]["name"],
                 "album_group": data["album"].get("album_group"),
@@ -125,16 +130,19 @@ class SpotifyClient:
     limit: int
 
     @classmethod
-    def make_default(cls, limit=50):
+    def make_default(cls, limit=50, extra_scope=None):
+        base_scope = [
+            "user-read-private",
+            "user-read-email",
+            "user-library-read",
+            "user-library-modify",
+        ]
+        extra_scope = extra_scope or []
+        scope = base_scope + extra_scope
         return cls(
             client=spotipy.Spotify(
                 client_credentials_manager=SpotifyOAuth(
-                    scope=[
-                        "user-read-private",
-                        "user-read-email",
-                        "user-library-read",
-                        "user-library-modify"
-                    ],
+                    scope=scope,
                 ),
             ),
             limit=limit,
@@ -146,6 +154,9 @@ class SpotifyClient:
 
     def me(self):
         return self.client.me()
+
+    def user_id(self):
+        return self.me()["id"]
 
     def saved_tracks(self):
         """
@@ -169,6 +180,29 @@ class SpotifyClient:
         return self.client.current_user_saved_tracks_delete(
             tracks
         )
+
+    def search_track(self, track_name, artist_name, duration: str) -> Optional[SpotifyTrack]:
+        def gen_items():
+            response = self.client.search(
+                q=f"{track_name}, {artist_name}",
+                type="track",
+                limit=NUM_SEARCH_ITEMS,
+            )
+            items = response.get("tracks", {}).get("items", [])
+            yield from (i for i in items)
+
+        track_filter = make_track_filter(track_name, artist_name, duration)
+        found_item = next(filter(track_filter, gen_items()), None)
+        if not found_item:
+            raise ValueError(
+                f"Did not find a match for {track_name}, {artist_name} in items"
+            )
+        spotify_track = SpotifyTrack.from_spotify_api(found_item)
+        print(
+            f"Found a match for {track_name}, {artist_name} : {spotify_track}"
+        )
+
+        return spotify_track
 
     def playlists(self) -> Iterator[Dict]:
         """
@@ -205,6 +239,42 @@ class SpotifyClient:
 
     def audio_features(self, track_id: str):
         return self.client.audio_features(track_id)[0]
+
+    def create_playlist(self, playlist_name: str, uris: List[str], description: Optional[str]):
+        """
+        playlist name is unique in my collections so use this to understand whether this is a
+        create or update
+        """
+        response = self.client.user_playlist_create(
+            user=self.user_id(),
+            name=playlist_name,
+            description=description,
+        )
+        if response is None:
+            raise
+
+        response = self.client.playlist_add_items(
+            playlist_id=response["id"],
+            items=uris,
+        )
+        if response is None:
+            raise
+
+        return response
+
+    def update_playlist(self, playlist_id: str, uris: List[str], collection: Dict):
+        res = self.client.playlist_replace_items(
+            playlist_id=playlist_id,
+            items=uris,
+        )
+        if res is None:
+            raise
+
+        res = self.client.playlist_change_details(
+            playlist_id=playlist_id,
+            description=collection["description"],
+        )
+
 
 
 def get_created_at_date(items):
@@ -281,14 +351,84 @@ def get_collection_stats(client: SpotifyClient, spotify_collection: SpotifyColle
     print(tracks_features)
 
 
-# client = SpotifyClient.make_default(limit=20)
-# # collections = get_remote_collections(client)
-# # for col in collections:
-# #     collection_stats = get_collection_stats(client, col)
-# #     break
-#
-# cols = get_remote_collections(client)
-# c = next(cols)
-#
-#
-# a = get_collection_stats(client, c)
+def make_track_filter(track_name: str, artist_name: str, duration: str):
+    def duration_to_ms():
+        duration_parts = duration.split(":")
+        len_duration = len(duration_parts)
+        if len_duration == 3:
+            hours, minutes, seconds = duration_parts
+        elif len_duration == 2:
+            hours, minutes, seconds = ['0'] + duration_parts
+        else:
+            raise ValueError(f"Failed to parse duration -> {duration}")
+
+        return (
+                int(hours) * 3600 + int(minutes) * 60 + int(seconds)
+        ) * 1000
+
+    origin_artists = [a.strip() for a in artist_name.lower().split("&")]
+    duration_in_ms = duration_to_ms()
+    duration_min = duration_in_ms * 0.9
+    duration_max = duration_in_ms * 1.1
+    track_name_lower = track_name.lower()
+
+    def type_filter(_item):
+        if _item["type"] == "track":
+            return True
+        print(f"False. not type track item: {_item}")
+        return False
+
+    def similar_name_filter(_item) -> bool:
+        item_name = _item["name"].lower()
+        similar = difflib.SequenceMatcher(
+            a=item_name,
+            b=track_name_lower,
+        ).ratio() > 0.9
+        if similar:
+            return True
+
+        print(f"False. track name {track_name_lower} dissimilar to item name {item_name}")
+        return False
+
+    def artist_name_filter(_item):
+        artists_names_in_response = [
+            a["name"].lower() for a in _item["artists"]
+        ]
+        artist_in_response = any(
+            [
+                artist in artists_names_in_response
+                for artist in origin_artists
+            ]
+        )
+        if artist_in_response:
+            return True
+        print(
+            f"False origin artist {origin_artists} in  {artists_names_in_response}"
+        )
+        return False
+
+    def make_duration_filter(_item):
+        if duration_min <= _item["duration_ms"] <= duration_max:
+            return True
+        print(
+            f"False duration for {_item} is not in bounds ({duration_min}, {duration_max})"
+        )
+        return False
+
+    all_filters = (
+        type_filter,
+        similar_name_filter,
+        artist_name_filter,
+        make_duration_filter,
+    )
+
+    def filter_all(_item):
+        return all(
+            [
+                f(_item)
+                for f
+                in all_filters
+            ]
+        )
+
+    return filter_all

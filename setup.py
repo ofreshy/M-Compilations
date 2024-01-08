@@ -36,5 +36,5 @@ setup(
     extras_require=extra_reqs,
     license='LICENSE.md',
     packages=['musika'],
-    scripts=["manage.py", "scripts/ingest_collections.py"],
+    scripts=["manage.py", "scripts/ingest_all_collections.py"],
 )

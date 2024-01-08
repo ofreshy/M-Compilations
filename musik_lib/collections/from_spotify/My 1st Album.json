@@ -1,0 +1,368 @@
+{
+    "name": "My 1st Album",
+    "spotify_id": "2RrggUGLhd026c847PdKXb",
+    "created_date": "2024-01-08",
+    "description": "My first ever album. Indie Boy.",
+    "tracks": [
+        {
+            "name": "Any Day Now",
+            "spotify_id": "59qdWok2u5ItLGEVf008kD",
+            "duration_ms": 377933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0TJB3EE2efClsYIDQ8V2Jk",
+                    "id": "0TJB3EE2efClsYIDQ8V2Jk",
+                    "name": "Elbow",
+                    "type": "artist",
+                    "uri": "spotify:artist:0TJB3EE2efClsYIDQ8V2Jk"
+                }
+            ],
+            "uri": "spotify:track:59qdWok2u5ItLGEVf008kD",
+            "album": {
+                "album_name": "Asleep In The Back",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001",
+                "spotify_id": "3T49xNB5QF2hZOCCGQ3Mra"
+            }
+        },
+        {
+            "name": "Fear Of Fireflies",
+            "spotify_id": "7IYIGTDHWCSFb6fOXGlvxa",
+            "duration_ms": 261000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4mcVAxcVVry8r6zmPBpL1w"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4mcVAxcVVry8r6zmPBpL1w",
+                    "id": "4mcVAxcVVry8r6zmPBpL1w",
+                    "name": "Calla",
+                    "type": "artist",
+                    "uri": "spotify:artist:4mcVAxcVVry8r6zmPBpL1w"
+                }
+            ],
+            "uri": "spotify:track:7IYIGTDHWCSFb6fOXGlvxa",
+            "album": {
+                "album_name": "Scavengers",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-01-16",
+                "spotify_id": "14gzGzRxVusWgbupPA4b1f"
+            }
+        },
+        {
+            "name": "Wish Fulfillment",
+            "spotify_id": "5buAcoMYgdr4sCtuYiIXKs",
+            "duration_ms": 206800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5UqTO8smerMvxHYA5xsXb6",
+                    "id": "5UqTO8smerMvxHYA5xsXb6",
+                    "name": "Sonic Youth",
+                    "type": "artist",
+                    "uri": "spotify:artist:5UqTO8smerMvxHYA5xsXb6"
+                }
+            ],
+            "uri": "spotify:track:5buAcoMYgdr4sCtuYiIXKs",
+            "album": {
+                "album_name": "Dirty",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1992",
+                "spotify_id": "05Zo2yt4reflRVNXFOYxDD"
+            }
+        },
+        {
+            "name": "Plug in Baby",
+            "spotify_id": "2UKARCqDrhkYDoVR4FN5Wi",
+            "duration_ms": 218000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+                    "id": "12Chz98pHFMPJEknJQMWvI",
+                    "name": "Muse",
+                    "type": "artist",
+                    "uri": "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+                }
+            ],
+            "uri": "spotify:track:2UKARCqDrhkYDoVR4FN5Wi",
+            "album": {
+                "album_name": "Origin of Symmetry",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001",
+                "spotify_id": "1Dh27pjT3IEdiRG9Se5uQn"
+            }
+        },
+        {
+            "name": "Stereo",
+            "spotify_id": "47PSYUK5a0uR87DUc9NR2g",
+            "duration_ms": 187426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+                    "id": "3inCNiUr4R6XQ3W43s9Aqi",
+                    "name": "Pavement",
+                    "type": "artist",
+                    "uri": "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+                }
+            ],
+            "uri": "spotify:track:47PSYUK5a0uR87DUc9NR2g",
+            "album": {
+                "album_name": "Brighten the Corners",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-02-11",
+                "spotify_id": "1Q6ikDUK4RFtLI3N9Lll9h"
+            }
+        },
+        {
+            "name": "Miner At The Dial-A-View",
+            "spotify_id": "5W9yAvhZMeIpSN0RxLqT9M",
+            "duration_ms": 321000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3W4xM5XYtUp4ifYYPVKVdk",
+                    "id": "3W4xM5XYtUp4ifYYPVKVdk",
+                    "name": "Grandaddy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3W4xM5XYtUp4ifYYPVKVdk"
+                }
+            ],
+            "uri": "spotify:track:5W9yAvhZMeIpSN0RxLqT9M",
+            "album": {
+                "album_name": "The Sophtware Slump",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-05-29",
+                "spotify_id": "6wHbY5ExMciSpMaFNLOifg"
+            }
+        },
+        {
+            "name": "So You'll Aim Toward The Sky",
+            "spotify_id": "7Jj7i9VSTSFPTyfm50RacI",
+            "duration_ms": 283173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3W4xM5XYtUp4ifYYPVKVdk",
+                    "id": "3W4xM5XYtUp4ifYYPVKVdk",
+                    "name": "Grandaddy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3W4xM5XYtUp4ifYYPVKVdk"
+                }
+            ],
+            "uri": "spotify:track:7Jj7i9VSTSFPTyfm50RacI",
+            "album": {
+                "album_name": "The Sophtware Slump",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-05-29",
+                "spotify_id": "6wHbY5ExMciSpMaFNLOifg"
+            }
+        },
+        {
+            "name": "Novocaine For The Soul",
+            "spotify_id": "2fKdsBazcOLLIzDiZUQCih",
+            "duration_ms": 188693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3zunDAtRDg7kflREzWAhxl",
+                    "id": "3zunDAtRDg7kflREzWAhxl",
+                    "name": "Eels",
+                    "type": "artist",
+                    "uri": "spotify:artist:3zunDAtRDg7kflREzWAhxl"
+                }
+            ],
+            "uri": "spotify:track:2fKdsBazcOLLIzDiZUQCih",
+            "album": {
+                "album_name": "Beautiful Freak",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-01-01",
+                "spotify_id": "6WEY2G6OgFXLqO0hYUBuii"
+            }
+        },
+        {
+            "name": "Today",
+            "spotify_id": "1XPta4VLT78HQnVFd1hlsK",
+            "duration_ms": 202133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+                    "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+                    "name": "The Smashing Pumpkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+                }
+            ],
+            "uri": "spotify:track:1XPta4VLT78HQnVFd1hlsK",
+            "album": {
+                "album_name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2001-01-01",
+                "spotify_id": "1cUnNrx2TxvrpwPRtvpGwn"
+            }
+        },
+        {
+            "name": "Monkey Gone to Heaven",
+            "spotify_id": "6BT7qiDY4A5tOyklohjQuW",
+            "duration_ms": 175333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "uri": "spotify:track:6BT7qiDY4A5tOyklohjQuW",
+            "album": {
+                "album_name": "Doolittle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-04-17",
+                "spotify_id": "0DQyTVcDhK9wm0f6RaErWO"
+            }
+        },
+        {
+            "name": "Cannonball",
+            "spotify_id": "1KdwPeY1WRWQGHCmRJTveb",
+            "duration_ms": 213693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1xgFexIwrf2QjbU0buCNnp",
+                    "id": "1xgFexIwrf2QjbU0buCNnp",
+                    "name": "The Breeders",
+                    "type": "artist",
+                    "uri": "spotify:artist:1xgFexIwrf2QjbU0buCNnp"
+                }
+            ],
+            "uri": "spotify:track:1KdwPeY1WRWQGHCmRJTveb",
+            "album": {
+                "album_name": "Last Splash",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993-08-30",
+                "spotify_id": "57F44c0MTziVzHPEuJtH9A"
+            }
+        },
+        {
+            "name": "This Mess We're In",
+            "spotify_id": "6B883Q5YfLvb79uqB5g6YO",
+            "duration_ms": 238106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4CvTDPKA6W06DRfBnZKrau",
+                    "id": "4CvTDPKA6W06DRfBnZKrau",
+                    "name": "Thom Yorke",
+                    "type": "artist",
+                    "uri": "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+                }
+            ],
+            "uri": "spotify:track:6B883Q5YfLvb79uqB5g6YO",
+            "album": {
+                "album_name": "Stories From The City, Stories From The Sea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-01-01",
+                "spotify_id": "0cJAiqO1obIJQGf4YI31q4"
+            }
+        },
+        {
+            "name": "Right as Rain",
+            "spotify_id": "2nADyaxXCbHIEyyNJ63p2v",
+            "duration_ms": 267173,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
+                    "id": "3zMir00BoCKhwNTjlT61KN",
+                    "name": "dEUS",
+                    "type": "artist",
+                    "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+                }
+            ],
+            "uri": "spotify:track:2nADyaxXCbHIEyyNJ63p2v",
+            "album": {
+                "album_name": "Worst Case Scenario",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "2BRr7xUlb7qNTaGuyOccMh"
+            }
+        },
+        {
+            "name": "Angelene",
+            "spotify_id": "2PttdezZsumXSdsrf5r5Ea",
+            "duration_ms": 214226,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "uri": "spotify:track:2PttdezZsumXSdsrf5r5Ea",
+            "album": {
+                "album_name": "Is This Desire?",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-01-01",
+                "spotify_id": "1LQlpOjLrnNvsqg6tosrYD"
+            }
+        }
+    ]
+}

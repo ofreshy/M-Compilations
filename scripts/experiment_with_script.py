@@ -3,8 +3,9 @@
 import argparse
 from typing import Optional, Dict
 
+import integrations.spotify.client
 from integrations import spotify
-from integrations.spotify import spotify
+from integrations.spotify import models
 
 
 def read_args():
@@ -78,7 +79,7 @@ def main():
     #     print("Removing local spotify collections")
     #     spotify.clear_local_collections()
 
-    client = spotify.SpotifyClient.make_default().client
+    client = integrations.spotify.client.SpotifyClient.make_default().client
     a = client.search(
         q='space&artist=David Bowie&type=track',
     )

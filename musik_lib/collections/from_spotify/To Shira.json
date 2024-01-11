@@ -1,0 +1,428 @@
+{
+    "name": "To Shira",
+    "spotify_id": "5vEW3YqRHfgraiEz9Bv4zV",
+    "created_date": "2024-01-08",
+    "description": "Album for Shira, she loved it!",
+    "tracks": [
+        {
+            "name": "Lust For Life",
+            "spotify_id": "21YxK0klhpfLW8budkJaMF",
+            "duration_ms": 313925,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+                    "id": "33EUXrFKGjpUSGacqEHhU4",
+                    "name": "Iggy Pop",
+                    "type": "artist",
+                    "uri": "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+                }
+            ],
+            "uri": "spotify:track:21YxK0klhpfLW8budkJaMF",
+            "album": {
+                "album_name": "Lust For Life",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1977-08-29",
+                "spotify_id": "2jnV6ytZOmt71iEC5xHEYz"
+            }
+        },
+        {
+            "name": "There She Goes Again",
+            "spotify_id": "7qOVMMY0couqt76ObwY947",
+            "duration_ms": 161026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1nJvji2KIlWSseXRSlNYsC",
+                    "id": "1nJvji2KIlWSseXRSlNYsC",
+                    "name": "The Velvet Underground",
+                    "type": "artist",
+                    "uri": "spotify:artist:1nJvji2KIlWSseXRSlNYsC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0IwlY33zbBXN7zlS9DP2Cj",
+                    "id": "0IwlY33zbBXN7zlS9DP2Cj",
+                    "name": "Nico",
+                    "type": "artist",
+                    "uri": "spotify:artist:0IwlY33zbBXN7zlS9DP2Cj"
+                }
+            ],
+            "uri": "spotify:track:7qOVMMY0couqt76ObwY947",
+            "album": {
+                "album_name": "The Velvet Underground & Nico 45th Anniversary",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-03-12",
+                "spotify_id": "4xwx0x7k6c5VuThz5qVqmV"
+            }
+        },
+        {
+            "name": "Take It Or Leave It",
+            "spotify_id": "0J2OnBNKwt0KICDyDFPUvl",
+            "duration_ms": 196133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+                    "id": "0epOFNiUfyON9EYx7Tpr6V",
+                    "name": "The Strokes",
+                    "type": "artist",
+                    "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+                }
+            ],
+            "uri": "spotify:track:0J2OnBNKwt0KICDyDFPUvl",
+            "album": {
+                "album_name": "Is This It",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-07-30",
+                "spotify_id": "2yNaksHgeMQM9Quse463b5"
+            }
+        },
+        {
+            "name": "Jigsaw You",
+            "spotify_id": "0sEoIIpejM1AHjavPdUM6e",
+            "duration_ms": 146800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
+                    "id": "3zMir00BoCKhwNTjlT61KN",
+                    "name": "dEUS",
+                    "type": "artist",
+                    "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+                }
+            ],
+            "uri": "spotify:track:0sEoIIpejM1AHjavPdUM6e",
+            "album": {
+                "album_name": "Worst Case Scenario",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "2BRr7xUlb7qNTaGuyOccMh"
+            }
+        },
+        {
+            "name": "King Only",
+            "spotify_id": "2FEUBNApaEZDgJ6TZEoAlp",
+            "duration_ms": 187733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lmPazVDvsQ8FXDcBfKc6r"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lmPazVDvsQ8FXDcBfKc6r",
+                    "id": "0lmPazVDvsQ8FXDcBfKc6r",
+                    "name": "The Twilight Singers",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lmPazVDvsQ8FXDcBfKc6r"
+                }
+            ],
+            "uri": "spotify:track:2FEUBNApaEZDgJ6TZEoAlp",
+            "album": {
+                "album_name": "twilight as played by the twilight singers",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-08-22",
+                "spotify_id": "1RWIOvZbI8R4wjLZJfPHWl"
+            }
+        },
+        {
+            "name": "Up to Me",
+            "spotify_id": "4eswKSdbIeYn0gMwZDuvRM",
+            "duration_ms": 194186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "name": "Jethro Tull",
+                    "type": "artist",
+                    "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R"
+                }
+            ],
+            "uri": "spotify:track:4eswKSdbIeYn0gMwZDuvRM",
+            "album": {
+                "album_name": "Aqualung (Special Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-03-19",
+                "spotify_id": "0NGM3Ftwjw0dLNpAowmz3x"
+            }
+        },
+        {
+            "name": "Annie Waits",
+            "spotify_id": "2mdVe1gAWDOdVC6c7G5lQ5",
+            "duration_ms": 256600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/55tif8708yyDQlSjh3Trdu",
+                    "id": "55tif8708yyDQlSjh3Trdu",
+                    "name": "Ben Folds",
+                    "type": "artist",
+                    "uri": "spotify:artist:55tif8708yyDQlSjh3Trdu"
+                }
+            ],
+            "uri": "spotify:track:2mdVe1gAWDOdVC6c7G5lQ5",
+            "album": {
+                "album_name": "Rockin' The Suburbs",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-08-29",
+                "spotify_id": "2dBujXNmYf1xnNqVvmtezB"
+            }
+        },
+        {
+            "name": "Someone's",
+            "spotify_id": "17jCL0dMAXofSWhciNWiqo",
+            "duration_ms": 113013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "uri": "spotify:track:17jCL0dMAXofSWhciNWiqo",
+            "album": {
+                "album_name": "To Record Only Water For Ten Days (U.S. Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-02-12",
+                "spotify_id": "3a9g6ueh2eVIYGTfmSoKkb"
+            }
+        },
+        {
+            "name": "Going Inside",
+            "spotify_id": "7vxlM6ouhpJy5WMEZqU7vV",
+            "duration_ms": 215400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "uri": "spotify:track:7vxlM6ouhpJy5WMEZqU7vV",
+            "album": {
+                "album_name": "To Record Only Water For Ten Days (U.S. Version)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-02-12",
+                "spotify_id": "3a9g6ueh2eVIYGTfmSoKkb"
+            }
+        },
+        {
+            "name": "Sine Wave",
+            "spotify_id": "0B4gVHTHqZbwrbDQzwcWGA",
+            "duration_ms": 295066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/34UhPkLbtFKRq3nmfFgejG",
+                    "id": "34UhPkLbtFKRq3nmfFgejG",
+                    "name": "Mogwai",
+                    "type": "artist",
+                    "uri": "spotify:artist:34UhPkLbtFKRq3nmfFgejG"
+                }
+            ],
+            "uri": "spotify:track:0B4gVHTHqZbwrbDQzwcWGA",
+            "album": {
+                "album_name": "Rock Action",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-04-30",
+                "spotify_id": "34DvEbkQlFz3bxgaSpNhn9"
+            }
+        },
+        {
+            "name": "Six Pack",
+            "spotify_id": "7kyaFTKrT7ZukXj1irYqgp",
+            "duration_ms": 191306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WggbHDpj4rPKbL97zG5MQ",
+                    "id": "3WggbHDpj4rPKbL97zG5MQ",
+                    "name": "Tortoise",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WggbHDpj4rPKbL97zG5MQ"
+                }
+            ],
+            "uri": "spotify:track:7kyaFTKrT7ZukXj1irYqgp",
+            "album": {
+                "album_name": "Standards",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-02-20",
+                "spotify_id": "06yyCBmJlTtk572VzOZBIQ"
+            }
+        },
+        {
+            "name": "Piano Fire",
+            "spotify_id": "0N3H8hAe6Lfu2iGSxGVdGQ",
+            "duration_ms": 163733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tVHZVSAZhDEiOJxnb6hE",
+                    "id": "64tVHZVSAZhDEiOJxnb6hE",
+                    "name": "Sparklehorse",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tVHZVSAZhDEiOJxnb6hE"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "uri": "spotify:track:0N3H8hAe6Lfu2iGSxGVdGQ",
+            "album": {
+                "album_name": "It's A Wonderful Life",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-08-08",
+                "spotify_id": "6iP3HGmoRXFUrKiml2QVkz"
+            }
+        },
+        {
+            "name": "Made of Stone - Remastered",
+            "spotify_id": "0bZelokqNQicLQfLU1Ayw8",
+            "duration_ms": 254640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d",
+                    "id": "1lYT0A0LV5DUfxr6doRP3d",
+                    "name": "The Stone Roses",
+                    "type": "artist",
+                    "uri": "spotify:artist:1lYT0A0LV5DUfxr6doRP3d"
+                }
+            ],
+            "uri": "spotify:track:0bZelokqNQicLQfLU1Ayw8",
+            "album": {
+                "album_name": "The Stone Roses",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1989-05-02",
+                "spotify_id": "0um9FI6BLBldL5POP4D4Cw"
+            }
+        },
+        {
+            "name": "Late in the Day",
+            "spotify_id": "0z135Km0PZBHNc1LBbaMmL",
+            "duration_ms": 283426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0sHeX8oQ6o7xic3wMf4NBU",
+                    "id": "0sHeX8oQ6o7xic3wMf4NBU",
+                    "name": "Supergrass",
+                    "type": "artist",
+                    "uri": "spotify:artist:0sHeX8oQ6o7xic3wMf4NBU"
+                }
+            ],
+            "uri": "spotify:track:0z135Km0PZBHNc1LBbaMmL",
+            "album": {
+                "album_name": "In It for the Money",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-04-21",
+                "spotify_id": "020brgMKGgdPSYjcVNypql"
+            }
+        },
+        {
+            "name": "Winterlight",
+            "spotify_id": "1gcJ9lnPWLSy7kwiVe6x1v",
+            "duration_ms": 289960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6HWZov029BEIi66Yf6ewNy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6HWZov029BEIi66Yf6ewNy",
+                    "id": "6HWZov029BEIi66Yf6ewNy",
+                    "name": "Clearlake",
+                    "type": "artist",
+                    "uri": "spotify:artist:6HWZov029BEIi66Yf6ewNy"
+                }
+            ],
+            "uri": "spotify:track:1gcJ9lnPWLSy7kwiVe6x1v",
+            "album": {
+                "album_name": "Winterlight",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2000-01-01",
+                "spotify_id": "1ouW7LL4yUHGLcHmiIVBVN"
+            }
+        },
+        {
+            "name": "\u00c1g\u00e6tis byrjun",
+            "spotify_id": "2qOsB3km4n035UsdGTmwN7",
+            "duration_ms": 475906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6UUrUCIZtQeOf8tC0WuzRy",
+                    "id": "6UUrUCIZtQeOf8tC0WuzRy",
+                    "name": "Sigur R\u00f3s",
+                    "type": "artist",
+                    "uri": "spotify:artist:6UUrUCIZtQeOf8tC0WuzRy"
+                }
+            ],
+            "uri": "spotify:track:2qOsB3km4n035UsdGTmwN7",
+            "album": {
+                "album_name": "\u00c1g\u00e6tis byrjun",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-06-12",
+                "spotify_id": "1DMMv1Kmoli3Y9fVEZDUVC"
+            }
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+{
+    "name": "Silence in the Studio!",
+    "spotify_id": "6BCtw8yOlUysUbiREKBb1V",
+    "created_date": "2024-01-09",
+    "description": "Noisy songs",
+    "tracks": [
+        {
+            "name": "Ultra Violet (Light My Way)",
+            "spotify_id": "5WCtoomAl0y1mgVh1Yuj0a",
+            "duration_ms": 330506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+                    "id": "51Blml2LZPmy7TTiAg47vQ",
+                    "name": "U2",
+                    "type": "artist",
+                    "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+                }
+            ],
+            "uri": "spotify:track:5WCtoomAl0y1mgVh1Yuj0a",
+            "album": {
+                "album_name": "Achtung Baby (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-11-18",
+                "spotify_id": "0ta5VdkJcpdVnNrn7g4cZe"
+            }
+        },
+        {
+            "name": "I Can't",
+            "spotify_id": "13nQ70PnhDnTkYqCmdg3sy",
+            "duration_ms": 253093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "uri": "spotify:track:13nQ70PnhDnTkYqCmdg3sy",
+            "album": {
+                "album_name": "Pablo Honey",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993-02-22",
+                "spotify_id": "3gBVdu4a1MMJVMy6vwPEb8"
+            }
+        },
+        {
+            "name": "Times Like These",
+            "spotify_id": "67vYdAAM3oGsEImCRfbtsF",
+            "duration_ms": 265560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD",
+                    "id": "7jy3rLJdDQY21OgRLCZ9sD",
+                    "name": "Foo Fighters",
+                    "type": "artist",
+                    "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD"
+                }
+            ],
+            "uri": "spotify:track:67vYdAAM3oGsEImCRfbtsF",
+            "album": {
+                "album_name": "One By One (Expanded Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-10-22",
+                "spotify_id": "1zQ6F8gMagKcPL4SoA80cx"
+            }
+        },
+        {
+            "name": "Matti",
+            "spotify_id": "0sOPkh9lfYHHOZBqVaRUEu",
+            "duration_ms": 373880,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3gKpj3zRmdJivxj8TPJTGd"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3gKpj3zRmdJivxj8TPJTGd",
+                    "id": "3gKpj3zRmdJivxj8TPJTGd",
+                    "name": "Mad Bliss",
+                    "type": "artist",
+                    "uri": "spotify:artist:3gKpj3zRmdJivxj8TPJTGd"
+                }
+            ],
+            "uri": "spotify:track:0sOPkh9lfYHHOZBqVaRUEu",
+            "album": {
+                "album_name": "Karen's Molested Apple",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2003-11-09",
+                "spotify_id": "2FeIMfbU75cmK9QkGOvNbD"
+            }
+        },
+        {
+            "name": "Lounge Act",
+            "spotify_id": "1o5jmMhhk2UZ9YP1X5fXfj",
+            "duration_ms": 156426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+                    "id": "6olE6TJLqED3rqDCT0FyPh",
+                    "name": "Nirvana",
+                    "type": "artist",
+                    "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+                }
+            ],
+            "uri": "spotify:track:1o5jmMhhk2UZ9YP1X5fXfj",
+            "album": {
+                "album_name": "Nevermind (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-09-26",
+                "spotify_id": "2UJcKiJxNryhL050F5Z1Fk"
+            }
+        },
+        {
+            "name": "Big Sur",
+            "spotify_id": "56Zm2mXUv5UJgybEqATQ2t",
+            "duration_ms": 187320,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0tYc0gVOzssZmLpVO6wh7L",
+                    "id": "0tYc0gVOzssZmLpVO6wh7L",
+                    "name": "The Thrills",
+                    "type": "artist",
+                    "uri": "spotify:artist:0tYc0gVOzssZmLpVO6wh7L"
+                }
+            ],
+            "uri": "spotify:track:56Zm2mXUv5UJgybEqATQ2t",
+            "album": {
+                "album_name": "So Much For The City",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-01-01",
+                "spotify_id": "6eujHHtDKbcwAeliICWShv"
+            }
+        },
+        {
+            "name": "Step Into My Office, Baby",
+            "spotify_id": "4ovGtCYyZYRsN48CLCXDlZ",
+            "duration_ms": 252333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+                    "id": "4I2BJf80C0skQpp1sQmA0h",
+                    "name": "Belle and Sebastian",
+                    "type": "artist",
+                    "uri": "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+                }
+            ],
+            "uri": "spotify:track:4ovGtCYyZYRsN48CLCXDlZ",
+            "album": {
+                "album_name": "Dear Catastrophe Waitress",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-10-06",
+                "spotify_id": "72zopw2wKNqbrX9pOxAH8Y"
+            }
+        },
+        {
+            "name": "The Warming Sun",
+            "spotify_id": "66kJUlDavWkXe2Rph2fCI2",
+            "duration_ms": 343066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3W4xM5XYtUp4ifYYPVKVdk",
+                    "id": "3W4xM5XYtUp4ifYYPVKVdk",
+                    "name": "Grandaddy",
+                    "type": "artist",
+                    "uri": "spotify:artist:3W4xM5XYtUp4ifYYPVKVdk"
+                }
+            ],
+            "uri": "spotify:track:66kJUlDavWkXe2Rph2fCI2",
+            "album": {
+                "album_name": "Sumday",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-05-13",
+                "spotify_id": "3fArCV5Pc1Y8fHZwsja3Ih"
+            }
+        },
+        {
+            "name": "Wave of Mutilation - UK Surf",
+            "spotify_id": "3UDa3HRIwS4scBYom5K0zl",
+            "duration_ms": 180133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "uri": "spotify:track:3UDa3HRIwS4scBYom5K0zl",
+            "album": {
+                "album_name": "Doolittle 25: B-Sides, Peel Sessions And Demos",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-12-01",
+                "spotify_id": "65X4N0kyi2BEk2YR0ndoAz"
+            }
+        },
+        {
+            "name": "Ava Adore",
+            "spotify_id": "6bVB2MGR7LcotAIB1vfpw6",
+            "duration_ms": 270893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/40Yq4vzPs9VNUrIBG5Jr2i",
+                    "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+                    "name": "The Smashing Pumpkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i"
+                }
+            ],
+            "uri": "spotify:track:6bVB2MGR7LcotAIB1vfpw6",
+            "album": {
+                "album_name": "Adore (Super Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998",
+                "spotify_id": "7ysKTnHt4ve0MvIWm3vPdz"
+            }
+        },
+        {
+            "name": "Too Many DJs",
+            "spotify_id": "1WVRGGWFTigHZfKtgq5w0j",
+            "duration_ms": 250533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+                    "id": "43mWhBXSflupNLuNjM5vff",
+                    "name": "Soulwax",
+                    "type": "artist",
+                    "uri": "spotify:artist:43mWhBXSflupNLuNjM5vff"
+                }
+            ],
+            "uri": "spotify:track:1WVRGGWFTigHZfKtgq5w0j",
+            "album": {
+                "album_name": "Much Against Everyone's Advice",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-01-01",
+                "spotify_id": "1Zisq1gECqPQtxvny6AUXP"
+            }
+        },
+        {
+            "name": "The Air Near My Fingers",
+            "spotify_id": "7FvSjeL3svbbiPo2Rgirny",
+            "duration_ms": 220266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4F84IBURUo98rz4r61KF70",
+                    "id": "4F84IBURUo98rz4r61KF70",
+                    "name": "The White Stripes",
+                    "type": "artist",
+                    "uri": "spotify:artist:4F84IBURUo98rz4r61KF70"
+                }
+            ],
+            "uri": "spotify:track:7FvSjeL3svbbiPo2Rgirny",
+            "album": {
+                "album_name": "Elephant",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-04-01",
+                "spotify_id": "6D9urpsOWWKtYvF6PaorGE"
+            }
+        },
+        {
+            "name": "Dogs Of Lust",
+            "spotify_id": "7MGMxmXA8Kgf4Qzv5z6ImL",
+            "duration_ms": 188866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7cKtqv9cYVlOwnuCFH95ce",
+                    "id": "7cKtqv9cYVlOwnuCFH95ce",
+                    "name": "The The",
+                    "type": "artist",
+                    "uri": "spotify:artist:7cKtqv9cYVlOwnuCFH95ce"
+                }
+            ],
+            "uri": "spotify:track:7MGMxmXA8Kgf4Qzv5z6ImL",
+            "album": {
+                "album_name": "Dusk",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1993",
+                "spotify_id": "2l787tSnzSfpfvgPNsR5O2"
+            }
+        },
+        {
+            "name": "Feeling Good",
+            "spotify_id": "5PK1JCSdr34gWgzYHgt3Jq",
+            "duration_ms": 198800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12Chz98pHFMPJEknJQMWvI",
+                    "id": "12Chz98pHFMPJEknJQMWvI",
+                    "name": "Muse",
+                    "type": "artist",
+                    "uri": "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+                }
+            ],
+            "uri": "spotify:track:5PK1JCSdr34gWgzYHgt3Jq",
+            "album": {
+                "album_name": "Origin of Symmetry",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001",
+                "spotify_id": "1Dh27pjT3IEdiRG9Se5uQn"
+            }
+        },
+        {
+            "name": "Eternal Life",
+            "spotify_id": "7bf4nfz09yp6w7L7r9hQ1V",
+            "duration_ms": 292346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI",
+                    "id": "3nnQpaTvKb5jCQabZefACI",
+                    "name": "Jeff Buckley",
+                    "type": "artist",
+                    "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI"
+                }
+            ],
+            "uri": "spotify:track:7bf4nfz09yp6w7L7r9hQ1V",
+            "album": {
+                "album_name": "Grace",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994",
+                "spotify_id": "7yQtjAjhtNi76KRu05XWFS"
+            }
+        },
+        {
+            "name": "Rebellious Jukebox",
+            "spotify_id": "5wNif84a0VZ6Jy6EYGYKuq",
+            "duration_ms": 175666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6WoTvA9qinpHtSRJuldYh6",
+                    "id": "6WoTvA9qinpHtSRJuldYh6",
+                    "name": "The Fall",
+                    "type": "artist",
+                    "uri": "spotify:artist:6WoTvA9qinpHtSRJuldYh6"
+                }
+            ],
+            "uri": "spotify:track:5wNif84a0VZ6Jy6EYGYKuq",
+            "album": {
+                "album_name": "Live at the Witch Trials",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-06-10",
+                "spotify_id": "6lf5L8JM1TomSM6mfjZ9I5"
+            }
+        },
+        {
+            "name": "Dream On",
+            "spotify_id": "3fIsVx19pqTGejb7cwlLQB",
+            "duration_ms": 260106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+                    "id": "762310PdDnwsDxAQxzQkfX",
+                    "name": "Depeche Mode",
+                    "type": "artist",
+                    "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX"
+                }
+            ],
+            "uri": "spotify:track:3fIsVx19pqTGejb7cwlLQB",
+            "album": {
+                "album_name": "Exciter (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-05-14",
+                "spotify_id": "3mHVSPCgGuVlK3pDqbtso9"
+            }
+        },
+        {
+            "name": "Personal Jesus",
+            "spotify_id": "5dcwiQFqn0mTcWewYIv7MV",
+            "duration_ms": 199240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+                    "id": "6kACVPfCOnqzgfEF5ryl0x",
+                    "name": "Johnny Cash",
+                    "type": "artist",
+                    "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+                }
+            ],
+            "uri": "spotify:track:5dcwiQFqn0mTcWewYIv7MV",
+            "album": {
+                "album_name": "American IV: The Man Comes Around",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "2BlL4Gv2DLPu8p58Wcmlm9"
+            }
+        }
+    ]
+}

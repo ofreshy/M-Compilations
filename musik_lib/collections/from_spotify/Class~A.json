@@ -1,0 +1,333 @@
+{
+    "name": "Class~A",
+    "spotify_id": "74SgSnvuVS3pdEJzRbmMxL",
+    "created_date": "2024-01-08",
+    "description": "Album for Ohad, composed of classic rock songs",
+    "tracks": [
+        {
+            "name": "You Can't Always Get What You Want",
+            "spotify_id": "6lFZbCc7pn6Lme1NP7qQqQ",
+            "duration_ms": 448720,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/22bE4uQ6baNwSHPVcDxLCe",
+                    "id": "22bE4uQ6baNwSHPVcDxLCe",
+                    "name": "The Rolling Stones",
+                    "type": "artist",
+                    "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+                }
+            ],
+            "uri": "spotify:track:6lFZbCc7pn6Lme1NP7qQqQ",
+            "album": {
+                "album_name": "Let It Bleed",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-12-05",
+                "spotify_id": "4l4u9e9jSbotSXNjYfOugy"
+            }
+        },
+        {
+            "name": "Tunnel Of Love",
+            "spotify_id": "4ZSDreApKOo6eQYFx9qXfD",
+            "duration_ms": 489506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+                    "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+                    "name": "Dire Straits",
+                    "type": "artist",
+                    "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+                }
+            ],
+            "uri": "spotify:track:4ZSDreApKOo6eQYFx9qXfD",
+            "album": {
+                "album_name": "Making Movies",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1980-10-17",
+                "spotify_id": "3wvclpO3LJmpSQGQ9gBa2a"
+            }
+        },
+        {
+            "name": "Satellite of Love",
+            "spotify_id": "5WyuRWUcOOhAic0tj9Pl28",
+            "duration_ms": 221120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL",
+                    "id": "42TFhl7WlMRXiNqzSrnzPL",
+                    "name": "Lou Reed",
+                    "type": "artist",
+                    "uri": "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+                }
+            ],
+            "uri": "spotify:track:5WyuRWUcOOhAic0tj9Pl28",
+            "album": {
+                "album_name": "Transformer",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-12-01",
+                "spotify_id": "5SqbMEyAt8332ISGiLX0St"
+            }
+        },
+        {
+            "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+            "spotify_id": "0WQiDwKJclirSYG9v5tayI",
+            "duration_ms": 244586,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+                    "id": "3yY2gUcIsjMr8hjo51PoJ8",
+                    "name": "The Smiths",
+                    "type": "artist",
+                    "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+                }
+            ],
+            "uri": "spotify:track:0WQiDwKJclirSYG9v5tayI",
+            "album": {
+                "album_name": "The Queen Is Dead",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1986-06-16",
+                "spotify_id": "5Y0p2XCgRRIjna91aQE8q7"
+            }
+        },
+        {
+            "name": "In My Life - Remastered 2009",
+            "spotify_id": "3KfbEIOC7YIv90FIfNSZpo",
+            "duration_ms": 146333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "uri": "spotify:track:3KfbEIOC7YIv90FIfNSZpo",
+            "album": {
+                "album_name": "Rubber Soul (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1965-12-03",
+                "spotify_id": "50o7kf2wLwVmOTVYJOTplm"
+            }
+        },
+        {
+            "name": "Lady Grinning Soul - 2013 Remaster",
+            "spotify_id": "3ZFurUI2qESabUHHyIlxa8",
+            "duration_ms": 235255,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "uri": "spotify:track:3ZFurUI2qESabUHHyIlxa8",
+            "album": {
+                "album_name": "Aladdin Sane (2013 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1973-04-13",
+                "spotify_id": "3HZKOk1knxrUU3y5ZIOdbz"
+            }
+        },
+        {
+            "name": "Castles Made of Sand",
+            "spotify_id": "3qebSLgUwaEqbwCM5sj5Kh",
+            "duration_ms": 168920,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+                    "id": "776Uo845nYHJpNaStv1Ds4",
+                    "name": "Jimi Hendrix",
+                    "type": "artist",
+                    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+                }
+            ],
+            "uri": "spotify:track:3qebSLgUwaEqbwCM5sj5Kh",
+            "album": {
+                "album_name": "Axis: Bold As Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-12-01",
+                "spotify_id": "3uFZf8rykoHo7XMIQVYW6r"
+            }
+        },
+        {
+            "name": "One More Cup of Coffee",
+            "spotify_id": "4WOruM7TiQSETsWYy8bDSX",
+            "duration_ms": 224733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74ASZWbe4lXaubB36ztrGX",
+                    "id": "74ASZWbe4lXaubB36ztrGX",
+                    "name": "Bob Dylan",
+                    "type": "artist",
+                    "uri": "spotify:artist:74ASZWbe4lXaubB36ztrGX"
+                }
+            ],
+            "uri": "spotify:track:4WOruM7TiQSETsWYy8bDSX",
+            "album": {
+                "album_name": "Desire",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-01-16",
+                "spotify_id": "1T8usYsiGEMPMQOLFgJEbE"
+            }
+        },
+        {
+            "name": "Fragile",
+            "spotify_id": "4UiuRWY3NqFCymtGYD5Qmt",
+            "duration_ms": 232000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+                    "id": "0Ty63ceoRnnJKVEYP0VQpk",
+                    "name": "Sting",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+                }
+            ],
+            "uri": "spotify:track:4UiuRWY3NqFCymtGYD5Qmt",
+            "album": {
+                "album_name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1994-01-01",
+                "spotify_id": "1rZTn68Lgr5J4F4vIpgpWf"
+            }
+        },
+        {
+            "name": "Hallelujah",
+            "spotify_id": "3pRaLNL3b8x5uBOcsgvdqM",
+            "duration_ms": 413826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3nnQpaTvKb5jCQabZefACI",
+                    "id": "3nnQpaTvKb5jCQabZefACI",
+                    "name": "Jeff Buckley",
+                    "type": "artist",
+                    "uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI"
+                }
+            ],
+            "uri": "spotify:track:3pRaLNL3b8x5uBOcsgvdqM",
+            "album": {
+                "album_name": "Grace",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994",
+                "spotify_id": "7yQtjAjhtNi76KRu05XWFS"
+            }
+        },
+        {
+            "name": "No Surprises",
+            "spotify_id": "10nyNJ6zNy2YVYLrcwLccB",
+            "duration_ms": 229120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
+            "album": {
+                "album_name": "OK Computer",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-05-28",
+                "spotify_id": "6dVIqQ8qmQ5GBnJ9shOYGE"
+            }
+        },
+        {
+            "name": "Fruit Tree",
+            "spotify_id": "6x3HF1SdlVeZqOb7soisuh",
+            "duration_ms": 286280,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "uri": "spotify:track:6x3HF1SdlVeZqOb7soisuh",
+            "album": {
+                "album_name": "Five Leaves Left",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-07-03",
+                "spotify_id": "7IpcJbVxLLEfW0KXB7ndE2"
+            }
+        },
+        {
+            "name": "Suzanne",
+            "spotify_id": "2L93TdW2GMue1H2zlkt30F",
+            "duration_ms": 229293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "uri": "spotify:track:2L93TdW2GMue1H2zlkt30F",
+            "album": {
+                "album_name": "Songs Of Leonard Cohen",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-12-27",
+                "spotify_id": "2Aiv0ThDpFa7lqHphR6MN5"
+            }
+        }
+    ]
+}

@@ -30,7 +30,7 @@ def create_or_update_collections(client: SpotifyClient, collections: Dict):
             spotify_tracks = [
                 client.search_track(track["name"], track["artist"], track["duration"])
                 for track in collection["tracks"]
-                # if track["name"] == "The Mess We're in"
+                # if track["name"].lower() == "empty boat"
             ]
         except ValueError as ve:
             print(f"Failed to convert collection {collection['name']}")
@@ -44,7 +44,8 @@ def create_or_update_collections(client: SpotifyClient, collections: Dict):
     for col_name, col_content in collections.items():
         tracks = find_tracks(col_content)
         if tracks is None:
-            continue
+            break
+        print("---------------------")
 
         playlist_name = col_content["name"]
         if (playlist_id := playlist_name_to_id.get(col_name)) is not None:
@@ -63,7 +64,6 @@ def create_or_update_collections(client: SpotifyClient, collections: Dict):
             print(f"Created playlist {playlist_name}")
 
 
-
 def main():
     print("Start convert manual collection to spotify")
 
@@ -71,6 +71,19 @@ def main():
     if not only_on_manual:
         print("no collection left to convert")
         return
+    skip_cols = {
+        "My 2nd Album",  # missing international airport
+        "To Assaf",  # missing im only sleeping from I am sam
+        "Silence in the Studio",  # Did not find a match for Empty Boat, The Birdwatcher in items
+        "The Cork",  # Did not find a match for Something New, The Dove in items
+        "An Album",
+
+    }
+    cols = {
+        n: c for n, c
+        in only_on_manual.items()
+        if n not in skip_cols
+    }
 
     client = SpotifyClient.make_default(
         extra_scope=[
@@ -79,7 +92,7 @@ def main():
         ]
     )
 
-    create_or_update_collections(client, only_on_manual)
+    create_or_update_collections(client, cols)
 
     print("Finish convert manual collection to spotify")
 

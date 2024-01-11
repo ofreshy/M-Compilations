@@ -29,6 +29,7 @@ def main():
     remote_collections = integrations.spotify.helpers.get_remote_collections(
         client=client,
     )
+    number_of_new_written_collections = 0
     for collection in remote_collections:
         if collection.spotify_id in local_collections:
             print(f"Skipping existing collection : {collection.name}")
@@ -36,7 +37,13 @@ def main():
         collections.write_spotify_collection(
             collection=collection,
         )
+        number_of_new_written_collections += 1
         print(f"New collection written : {collection.name}")
+
+    if number_of_new_written_collections:
+        print(f"Wrote {number_of_new_written_collections} of new collections ")
+    else:
+        print("No new collections written")
 
     print("Finish spotify ingest script")
 

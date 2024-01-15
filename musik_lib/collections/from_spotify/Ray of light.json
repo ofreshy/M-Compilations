@@ -1,0 +1,423 @@
+{
+    "name": "Ray of light",
+    "spotify_id": "4ZvFs3tgFGox2354l5ZPoW",
+    "created_date": "2024-01-10",
+    "description": "Feel better songs after when im sad ",
+    "tracks": [
+        {
+            "name": "Save Me",
+            "spotify_id": "0EqtsCvcDjEz6svFsaV5HN",
+            "duration_ms": 274493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3UpIbyXfGzmHG6TMH4dJEk",
+                    "id": "3UpIbyXfGzmHG6TMH4dJEk",
+                    "name": "Aimee Mann",
+                    "type": "artist",
+                    "uri": "spotify:artist:3UpIbyXfGzmHG6TMH4dJEk"
+                }
+            ],
+            "uri": "spotify:track:0EqtsCvcDjEz6svFsaV5HN",
+            "album": {
+                "album_name": "Magnolia (Music from the Motion Picture)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-12-07",
+                "spotify_id": "6jbjx0LGKl11H6UtrgS2nV"
+            }
+        },
+        {
+            "name": "Blue Moon",
+            "spotify_id": "4gNErDjikE9QUQvkkqoB1S",
+            "duration_ms": 242346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS",
+                    "id": "3vbKDsSS70ZX9D2OcvbZmS",
+                    "name": "Beck",
+                    "type": "artist",
+                    "uri": "spotify:artist:3vbKDsSS70ZX9D2OcvbZmS"
+                }
+            ],
+            "uri": "spotify:track:4gNErDjikE9QUQvkkqoB1S",
+            "album": {
+                "album_name": "Morning Phase",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-01-01",
+                "spotify_id": "2Qx7dgA5VjX8JDQaXVxzHu"
+            }
+        },
+        {
+            "name": "War on War - 2022 Remaster",
+            "spotify_id": "3fj05iuhTfh9jdw4TWh38B",
+            "duration_ms": 229306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+                    "id": "2QoU3awHVdcHS8LrZEKvSM",
+                    "name": "Wilco",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+                }
+            ],
+            "uri": "spotify:track:3fj05iuhTfh9jdw4TWh38B",
+            "album": {
+                "album_name": "Yankee Hotel Foxtrot (2022 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "6PanEvuo9ZNvGT39v50xp6"
+            }
+        },
+        {
+            "name": "Hi-Five",
+            "spotify_id": "6VuhTQAJyn2trxQqQYzuI4",
+            "duration_ms": 177520,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mKqFxGMS5TGDZI3XkT5Rt",
+                    "id": "6mKqFxGMS5TGDZI3XkT5Rt",
+                    "name": "Angel Olsen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mKqFxGMS5TGDZI3XkT5Rt"
+                }
+            ],
+            "uri": "spotify:track:6VuhTQAJyn2trxQqQYzuI4",
+            "album": {
+                "album_name": "Burn Your Fire For No Witness (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-11-18",
+                "spotify_id": "62RDt42wD8VdrhfHG6IzpC"
+            }
+        },
+        {
+            "name": "Who By Fire",
+            "spotify_id": "2L1f1Z7lUleocWWWg4JRKR",
+            "duration_ms": 179000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ZxriNuHn6Upjf3U97nnUN",
+                    "id": "1ZxriNuHn6Upjf3U97nnUN",
+                    "name": "Skinny Pelembe",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ZxriNuHn6Upjf3U97nnUN"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6cLEWhEKQl6nAvgr60M7zC",
+                    "id": "6cLEWhEKQl6nAvgr60M7zC",
+                    "name": "Beth Orton",
+                    "type": "artist",
+                    "uri": "spotify:artist:6cLEWhEKQl6nAvgr60M7zC"
+                }
+            ],
+            "uri": "spotify:track:2L1f1Z7lUleocWWWg4JRKR",
+            "album": {
+                "album_name": "Who By Fire",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-09-14",
+                "spotify_id": "2ZwCEwQtkwBO9N3vq9JiSv"
+            }
+        },
+        {
+            "name": "If You Stayed Over",
+            "spotify_id": "1yGTwR9AcrzQ67JGnwO3jZ",
+            "duration_ms": 323773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+                    "id": "0cmWgDlu9CwTgxPhf403hb",
+                    "name": "Bonobo",
+                    "type": "artist",
+                    "uri": "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2t9yJDJIEtvPmr2iRIdqBf",
+                    "id": "2t9yJDJIEtvPmr2iRIdqBf",
+                    "name": "Fink",
+                    "type": "artist",
+                    "uri": "spotify:artist:2t9yJDJIEtvPmr2iRIdqBf"
+                }
+            ],
+            "uri": "spotify:track:1yGTwR9AcrzQ67JGnwO3jZ",
+            "album": {
+                "album_name": "Days To Come",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-10-02",
+                "spotify_id": "5HLoU4oijKdSIFOk2o7mYn"
+            }
+        },
+        {
+            "name": "Introduction",
+            "spotify_id": "7unUg1rIAVXyYVH5LPHc4R",
+            "duration_ms": 92306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "uri": "spotify:track:7unUg1rIAVXyYVH5LPHc4R",
+            "album": {
+                "album_name": "Bryter Layter",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-03-06",
+                "spotify_id": "04FfqGvZJ9oUBGRVrq2FE5"
+            }
+        },
+        {
+            "name": "Dream A Little Dream Of Me",
+            "spotify_id": "27hhIs2fp6w06N5zx4Eaa5",
+            "duration_ms": 194426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+                    "id": "1bs7HoMkSyQwcobCpE9KpN",
+                    "name": "The Mamas & The Papas",
+                    "type": "artist",
+                    "uri": "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+                }
+            ],
+            "uri": "spotify:track:27hhIs2fp6w06N5zx4Eaa5",
+            "album": {
+                "album_name": "The Papas & The Mamas",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1968-05-01",
+                "spotify_id": "0JJMI060q086v9ul5gHdey"
+            }
+        },
+        {
+            "name": "New York",
+            "spotify_id": "2YrwSskWmpYuS8ql61M13K",
+            "duration_ms": 121106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6G7OerKc3eBO9sVkRNopFC",
+                    "id": "6G7OerKc3eBO9sVkRNopFC",
+                    "name": "Cat Power",
+                    "type": "artist",
+                    "uri": "spotify:artist:6G7OerKc3eBO9sVkRNopFC"
+                }
+            ],
+            "uri": "spotify:track:2YrwSskWmpYuS8ql61M13K",
+            "album": {
+                "album_name": "Jukebox",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2008-01-21",
+                "spotify_id": "4bg645KAAKGJKBYLSPxD5u"
+            }
+        },
+        {
+            "name": "Could You Help Me",
+            "spotify_id": "5BEFUHkJkE96hq89ESAfgF",
+            "duration_ms": 166678,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2uvY5pgdD9t1CZ5zMNw1rl",
+                    "id": "2uvY5pgdD9t1CZ5zMNw1rl",
+                    "name": "Lucy Rose",
+                    "type": "artist",
+                    "uri": "spotify:artist:2uvY5pgdD9t1CZ5zMNw1rl"
+                }
+            ],
+            "uri": "spotify:track:5BEFUHkJkE96hq89ESAfgF",
+            "album": {
+                "album_name": "Could You Help Me",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-10-26",
+                "spotify_id": "02grbmPkJrTIPpb1MYMn7L"
+            }
+        },
+        {
+            "name": "Pegasus (ft. Phoebe Bridgers)",
+            "spotify_id": "6EfV3WeRpvgue78QTF3FFV",
+            "duration_ms": 186836,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kIwETcbpuFgRukE8o7Opx",
+                    "id": "4kIwETcbpuFgRukE8o7Opx",
+                    "name": "Arlo Parks",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kIwETcbpuFgRukE8o7Opx"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+                    "id": "1r1uxoy19fzMxunt3ONAkG",
+                    "name": "Phoebe Bridgers",
+                    "type": "artist",
+                    "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+                }
+            ],
+            "uri": "spotify:track:6EfV3WeRpvgue78QTF3FFV",
+            "album": {
+                "album_name": "My Soft Machine (Deluxe)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-12-08",
+                "spotify_id": "3grTaYSw0sYx5HEaR2m8Tt"
+            }
+        },
+        {
+            "name": "Sound of Violence - Demo Version",
+            "spotify_id": "3tme6OiX1OTFqe3DISXI5h",
+            "duration_ms": 109653,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3bw0A7x5AgdJsK20ai5iS6",
+                    "id": "3bw0A7x5AgdJsK20ai5iS6",
+                    "name": "Other Lives",
+                    "type": "artist",
+                    "uri": "spotify:artist:3bw0A7x5AgdJsK20ai5iS6"
+                }
+            ],
+            "uri": "spotify:track:3tme6OiX1OTFqe3DISXI5h",
+            "album": {
+                "album_name": "Sicily Sessions",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-12-11",
+                "spotify_id": "0HT0FsIzAVS8Yk38h1Nbf3"
+            }
+        },
+        {
+            "name": "Never Run Away",
+            "spotify_id": "7q3qS13rdkJIgx3OClBnNK",
+            "duration_ms": 204680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5gspAQIAH8nJUrMYgXjCJ2",
+                    "id": "5gspAQIAH8nJUrMYgXjCJ2",
+                    "name": "Kurt Vile",
+                    "type": "artist",
+                    "uri": "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2"
+                }
+            ],
+            "uri": "spotify:track:7q3qS13rdkJIgx3OClBnNK",
+            "album": {
+                "album_name": "Wakin On A Pretty Daze",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2013-04-08",
+                "spotify_id": "3BSEZLnzVW6QEX12wcKdFi"
+            }
+        },
+        {
+            "name": "Naa Er Druene Paa Sitt Beste",
+            "spotify_id": "1YlNKjLjg5BaCba259pNgI",
+            "duration_ms": 328573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vTtjIqZ7hW0W15t1ApKTB",
+                    "id": "2vTtjIqZ7hW0W15t1ApKTB",
+                    "name": "Lindstr\u00f8m",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vTtjIqZ7hW0W15t1ApKTB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4rsEVNO1tGTY0beCnsnHi6",
+                    "id": "4rsEVNO1tGTY0beCnsnHi6",
+                    "name": "Prins Thomas",
+                    "type": "artist",
+                    "uri": "spotify:artist:4rsEVNO1tGTY0beCnsnHi6"
+                }
+            ],
+            "uri": "spotify:track:1YlNKjLjg5BaCba259pNgI",
+            "album": {
+                "album_name": "Lindstrom & Prins Thomas",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-10-14",
+                "spotify_id": "0wjx77A92ow66hxXmwapcM"
+            }
+        },
+        {
+            "name": "\u05d9\u05e9 \u05dc\u05da \u05e9\u05de\u05e9",
+            "spotify_id": "2ixhMDNFNIkoNT006fED0d",
+            "duration_ms": 198733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4og9lYRD6weUueMRu8lbP4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4og9lYRD6weUueMRu8lbP4",
+                    "id": "4og9lYRD6weUueMRu8lbP4",
+                    "name": "Gali Atari",
+                    "type": "artist",
+                    "uri": "spotify:artist:4og9lYRD6weUueMRu8lbP4"
+                }
+            ],
+            "uri": "spotify:track:2ixhMDNFNIkoNT006fED0d",
+            "album": {
+                "album_name": "\u05e0\u05e1\u05d9\u05da \u05d4\u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1978",
+                "spotify_id": "4zDvErW0bB0vsouHpi6CXo"
+            }
+        }
+    ]
+}

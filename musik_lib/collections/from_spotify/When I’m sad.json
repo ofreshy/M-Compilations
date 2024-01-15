@@ -1,0 +1,373 @@
+{
+    "name": "When I\u2019m sad",
+    "spotify_id": "0hbAQU946vrXnAPr7TO3Pv",
+    "created_date": "2023-12-30",
+    "description": "As it says on the tin; sad songs with some light sometimes ",
+    "tracks": [
+        {
+            "name": "Quiet Eyes",
+            "spotify_id": "10IrJGEY0f48OGywIkZauw",
+            "duration_ms": 217648,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wJ4vsxWd7df7dRU4KcoDe",
+                    "id": "2wJ4vsxWd7df7dRU4KcoDe",
+                    "name": "Sharon Van Etten",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+                }
+            ],
+            "uri": "spotify:track:10IrJGEY0f48OGywIkZauw",
+            "album": {
+                "album_name": "Quiet Eyes",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-06-07",
+                "spotify_id": "4aZBqoFGmmFpRvS8TW6jXW"
+            }
+        },
+        {
+            "name": "Bruiseless",
+            "spotify_id": "4zBJrqrXvoi1Z2kIzwatgF",
+            "duration_ms": 71888,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4kIwETcbpuFgRukE8o7Opx",
+                    "id": "4kIwETcbpuFgRukE8o7Opx",
+                    "name": "Arlo Parks",
+                    "type": "artist",
+                    "uri": "spotify:artist:4kIwETcbpuFgRukE8o7Opx"
+                }
+            ],
+            "uri": "spotify:track:4zBJrqrXvoi1Z2kIzwatgF",
+            "album": {
+                "album_name": "My Soft Machine",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-05-26",
+                "spotify_id": "4YCScpRHPfvu81qmsIGGmn"
+            }
+        },
+        {
+            "name": "Girl",
+            "spotify_id": "2XD86wHUdCtb73qTFjqvMg",
+            "duration_ms": 89293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1UAM4fJFTeyMZbhTVUKiXk",
+                    "id": "1UAM4fJFTeyMZbhTVUKiXk",
+                    "name": "John Parish",
+                    "type": "artist",
+                    "uri": "spotify:artist:1UAM4fJFTeyMZbhTVUKiXk"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "uri": "spotify:track:2XD86wHUdCtb73qTFjqvMg",
+            "album": {
+                "album_name": "Dance Hall At Louse Point",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-01-01",
+                "spotify_id": "2MGpL0ijqiQBLPrbaFgwZU"
+            }
+        },
+        {
+            "name": "I Inside the Old I Dying",
+            "spotify_id": "4CW1t9x0rka2HI6UFHT2w3",
+            "duration_ms": 188680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "uri": "spotify:track:4CW1t9x0rka2HI6UFHT2w3",
+            "album": {
+                "album_name": "I Inside the Old Year Dying",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-07-07",
+                "spotify_id": "2ik9ifrDdzxRsJU9fy9TFc"
+            }
+        },
+        {
+            "name": "Will Anybody Ever Love Me?",
+            "spotify_id": "4g37wGcNWcVCdY0UoRNPzu",
+            "duration_ms": 249259,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+                    "id": "4MXUO7sVCaFgFjoTI5ox5c",
+                    "name": "Sufjan Stevens",
+                    "type": "artist",
+                    "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+                }
+            ],
+            "uri": "spotify:track:4g37wGcNWcVCdY0UoRNPzu",
+            "album": {
+                "album_name": "Will Anybody Ever Love Me?",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-09-13",
+                "spotify_id": "0k9E8vq5iYJUNO40E2G6U1"
+            }
+        },
+        {
+            "name": "Boys Of Faith (feat. Bon Iver)",
+            "spotify_id": "4Zj2uX6ApCFK9XzjwIhCIr",
+            "duration_ms": 170824,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+                    "id": "40ZNYROS4zLfyyBSs2PGe2",
+                    "name": "Zach Bryan",
+                    "type": "artist",
+                    "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+                    "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                    "name": "Bon Iver",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                }
+            ],
+            "uri": "spotify:track:4Zj2uX6ApCFK9XzjwIhCIr",
+            "album": {
+                "album_name": "Boys Of Faith (feat. Bon Iver)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-09-21",
+                "spotify_id": "4h4A1l4ReII0UD3wtOPI3q"
+            }
+        },
+        {
+            "name": "English Summer",
+            "spotify_id": "1n85CpGvPB9Q2OU7drAstz",
+            "duration_ms": 279718,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3bw0A7x5AgdJsK20ai5iS6",
+                    "id": "3bw0A7x5AgdJsK20ai5iS6",
+                    "name": "Other Lives",
+                    "type": "artist",
+                    "uri": "spotify:artist:3bw0A7x5AgdJsK20ai5iS6"
+                }
+            ],
+            "uri": "spotify:track:1n85CpGvPB9Q2OU7drAstz",
+            "album": {
+                "album_name": "Rituals",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-05-04",
+                "spotify_id": "3QvayMP1UBxoEpYc7uX8Ss"
+            }
+        },
+        {
+            "name": "Laugh Track (feat. Phoebe Bridgers)",
+            "spotify_id": "7aprF5ADDukD1JWHXG9h9z",
+            "duration_ms": 264120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
+                    "id": "2cCUtGK9sDU2EoElnk0GNB",
+                    "name": "The National",
+                    "type": "artist",
+                    "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+                    "id": "1r1uxoy19fzMxunt3ONAkG",
+                    "name": "Phoebe Bridgers",
+                    "type": "artist",
+                    "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+                }
+            ],
+            "uri": "spotify:track:7aprF5ADDukD1JWHXG9h9z",
+            "album": {
+                "album_name": "Laugh Track",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-09-18",
+                "spotify_id": "7re8T0K3s8v3S3xeiQcOYi"
+            }
+        },
+        {
+            "name": "All Of The People",
+            "spotify_id": "2iXFX4oPBXFVIADlUuHIgq",
+            "duration_ms": 263946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XyAI3jtlsss5mJjAAJXzE",
+                    "id": "6XyAI3jtlsss5mJjAAJXzE",
+                    "name": "Grian Chatten",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XyAI3jtlsss5mJjAAJXzE"
+                }
+            ],
+            "uri": "spotify:track:2iXFX4oPBXFVIADlUuHIgq",
+            "album": {
+                "album_name": "Chaos For The Fly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-06-30",
+                "spotify_id": "0lYFv5JDwH0NwiufmU4GKj"
+            }
+        },
+        {
+            "name": "The End Of The Affair",
+            "spotify_id": "58rAKJXkScai2unHFpFXIN",
+            "duration_ms": 204986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7B2edU3Q7btJoNsoHCNohM",
+                    "id": "7B2edU3Q7btJoNsoHCNohM",
+                    "name": "Laura Marling",
+                    "type": "artist",
+                    "uri": "spotify:artist:7B2edU3Q7btJoNsoHCNohM"
+                }
+            ],
+            "uri": "spotify:track:58rAKJXkScai2unHFpFXIN",
+            "album": {
+                "album_name": "Song For Our Daughter",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-04-10",
+                "spotify_id": "0ubXthGSkZfe30Nuj91lcu"
+            }
+        },
+        {
+            "name": "Why Am I Alive Now?",
+            "spotify_id": "4x9t8x3mIzCdijPtoXXDpj",
+            "duration_ms": 359693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6VJZYivuYJGCrPuOAnI7Qo",
+                    "id": "6VJZYivuYJGCrPuOAnI7Qo",
+                    "name": "ANOHNI",
+                    "type": "artist",
+                    "uri": "spotify:artist:6VJZYivuYJGCrPuOAnI7Qo"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4fxp616ALtFWnXfwxnjLzW",
+                    "id": "4fxp616ALtFWnXfwxnjLzW",
+                    "name": "Antony and the Johnsons",
+                    "type": "artist",
+                    "uri": "spotify:artist:4fxp616ALtFWnXfwxnjLzW"
+                }
+            ],
+            "uri": "spotify:track:4x9t8x3mIzCdijPtoXXDpj",
+            "album": {
+                "album_name": "My Back Was A Bridge For You To Cross",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-07-06",
+                "spotify_id": "4g6x7cqgxfkuqA8lfvIKMf"
+            }
+        },
+        {
+            "name": "Little Wing",
+            "spotify_id": "6W6xbvrkBXRXALFVDYXeMq",
+            "duration_ms": 175960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4QZdOCb3UacKbQ1ybDFAKM",
+                    "id": "4QZdOCb3UacKbQ1ybDFAKM",
+                    "name": "Valerie June",
+                    "type": "artist",
+                    "uri": "spotify:artist:4QZdOCb3UacKbQ1ybDFAKM"
+                }
+            ],
+            "uri": "spotify:track:6W6xbvrkBXRXALFVDYXeMq",
+            "album": {
+                "album_name": "Little Wing",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-04-12",
+                "spotify_id": "31ouv0slZULXCbafbGF0kF"
+            }
+        },
+        {
+            "name": "world war ((reprise))",
+            "spotify_id": "2an2z8ML8wPD5fvTcoB1US",
+            "duration_ms": 186447,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54T6Gso8zGPk4czyWlnUw5",
+                    "id": "54T6Gso8zGPk4czyWlnUw5",
+                    "name": "Jaimie Branch",
+                    "type": "artist",
+                    "uri": "spotify:artist:54T6Gso8zGPk4czyWlnUw5"
+                }
+            ],
+            "uri": "spotify:track:2an2z8ML8wPD5fvTcoB1US",
+            "album": {
+                "album_name": "Fly or Die Fly or Die Fly or Die ((world war))",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-08-25",
+                "spotify_id": "5ZsaI40anT5k996hefFl51"
+            }
+        }
+    ]
+}

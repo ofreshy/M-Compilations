@@ -1,0 +1,538 @@
+{
+    "name": "Coolio",
+    "spotify_id": "7LltNRzole5tVdxcg7Dzjv",
+    "created_date": "2024-01-07",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Get By",
+            "spotify_id": "1LM6EReMkAxuDXDF26ekl2",
+            "duration_ms": 227426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+                    "id": "0lEssBAxQl2In4RpaB1C2Y",
+                    "name": "Talib Kweli",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+                }
+            ],
+            "uri": "spotify:track:1LM6EReMkAxuDXDF26ekl2",
+            "album": {
+                "album_name": "Quality",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-12-16",
+                "spotify_id": "0apVddbk7Juec0DV4LNiBg"
+            }
+        },
+        {
+            "name": "Son Of A Gun",
+            "spotify_id": "5ClRKRmW1p6RQcdwzY1kNJ",
+            "duration_ms": 106826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0RESbWvOMyua0yuyVrztJ5",
+                    "id": "0RESbWvOMyua0yuyVrztJ5",
+                    "name": "Key Glock",
+                    "type": "artist",
+                    "uri": "spotify:artist:0RESbWvOMyua0yuyVrztJ5"
+                }
+            ],
+            "uri": "spotify:track:5ClRKRmW1p6RQcdwzY1kNJ",
+            "album": {
+                "album_name": "Son Of A Gun",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2020-05-22",
+                "spotify_id": "14QMSPjwCAdA2qr6rKUXSs"
+            }
+        },
+        {
+            "name": "Tribe (with J. Cole)",
+            "spotify_id": "0YAQnYt2oB8OdoaeqnHyTI",
+            "duration_ms": 238053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/70gP6Ry4Uo0Yx6uzPIdaiJ",
+                    "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+                    "name": "Bas",
+                    "type": "artist",
+                    "uri": "spotify:artist:70gP6Ry4Uo0Yx6uzPIdaiJ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+                    "id": "6l3HvQ5sa6mXTsMTB19rO5",
+                    "name": "J. Cole",
+                    "type": "artist",
+                    "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+                }
+            ],
+            "uri": "spotify:track:0YAQnYt2oB8OdoaeqnHyTI",
+            "album": {
+                "album_name": "Milky Way",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-08-24",
+                "spotify_id": "6sDQacCej53Q43vZF9PJ8i"
+            }
+        },
+        {
+            "name": "Georgia",
+            "spotify_id": "3XukKy28kqKFl52GiCUSFo",
+            "duration_ms": 219466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/07EcmJpfAday8xGkslfanE",
+                    "id": "07EcmJpfAday8xGkslfanE",
+                    "name": "Kevin Abstract",
+                    "type": "artist",
+                    "uri": "spotify:artist:07EcmJpfAday8xGkslfanE"
+                }
+            ],
+            "uri": "spotify:track:3XukKy28kqKFl52GiCUSFo",
+            "album": {
+                "album_name": "ARIZONA BABY",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-04-25",
+                "spotify_id": "6wi40lIjhukePWyXRKY7qO"
+            }
+        },
+        {
+            "name": "Ride",
+            "spotify_id": "4QEks3yeZVdjNV1zTqxp1F",
+            "duration_ms": 190605,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2rwALQ1SXdfUWPUd6WOfYS",
+                    "id": "2rwALQ1SXdfUWPUd6WOfYS",
+                    "name": "Aaron May",
+                    "type": "artist",
+                    "uri": "spotify:artist:2rwALQ1SXdfUWPUd6WOfYS"
+                }
+            ],
+            "uri": "spotify:track:4QEks3yeZVdjNV1zTqxp1F",
+            "album": {
+                "album_name": "Ride",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2018-11-30",
+                "spotify_id": "77Y8CNKqMSmySV4Ja8qHaO"
+            }
+        },
+        {
+            "name": "Hey Now - When I Give You All My Lovin'",
+            "spotify_id": "3MYUHaITeEQh3WjMkHr67z",
+            "duration_ms": 146842,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6d1HqiWNEKV9zFqQM9WeYo",
+                    "id": "6d1HqiWNEKV9zFqQM9WeYo",
+                    "name": "Romare",
+                    "type": "artist",
+                    "uri": "spotify:artist:6d1HqiWNEKV9zFqQM9WeYo"
+                }
+            ],
+            "uri": "spotify:track:3MYUHaITeEQh3WjMkHr67z",
+            "album": {
+                "album_name": "Love Songs, Pt. 1",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2013-03-25",
+                "spotify_id": "7A5BaF3RXH4wWmepN8YGRq"
+            }
+        },
+        {
+            "name": "Free Lunch",
+            "spotify_id": "5FX89IUKm9QJT9ymrmyK4k",
+            "duration_ms": 192029,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6aaMZ3fcfLv4tEbmY7bjRM",
+                    "id": "6aaMZ3fcfLv4tEbmY7bjRM",
+                    "name": "Isaiah Rashad",
+                    "type": "artist",
+                    "uri": "spotify:artist:6aaMZ3fcfLv4tEbmY7bjRM"
+                }
+            ],
+            "uri": "spotify:track:5FX89IUKm9QJT9ymrmyK4k",
+            "album": {
+                "album_name": "The Sun's Tirade",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-09-02",
+                "spotify_id": "6jjX8mGrsWtrpYpFhGMrg1"
+            }
+        },
+        {
+            "name": "Daydreamin' (feat. Jill Scott)",
+            "spotify_id": "50M2QjfSM82wkJ1d0iV4mh",
+            "duration_ms": 234306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/01QTIT5P1pFP3QnnFSdsJf",
+                    "id": "01QTIT5P1pFP3QnnFSdsJf",
+                    "name": "Lupe Fiasco",
+                    "type": "artist",
+                    "uri": "spotify:artist:01QTIT5P1pFP3QnnFSdsJf"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6AVLthptCPhfrxlHadOBJD",
+                    "id": "6AVLthptCPhfrxlHadOBJD",
+                    "name": "Jill Scott",
+                    "type": "artist",
+                    "uri": "spotify:artist:6AVLthptCPhfrxlHadOBJD"
+                }
+            ],
+            "uri": "spotify:track:50M2QjfSM82wkJ1d0iV4mh",
+            "album": {
+                "album_name": "Lupe Fiasco's Food & Liquor",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-06-27",
+                "spotify_id": "0TDJRkEr2SrhWTetdkEzED"
+            }
+        },
+        {
+            "name": "Swimming Pools (Drank)",
+            "spotify_id": "16jX3OnmLVvRfi8YZN9kvT",
+            "duration_ms": 236426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2oQd3GVbHbjyCyeG4MGMuT",
+                    "id": "2oQd3GVbHbjyCyeG4MGMuT",
+                    "name": "Trevor Horn",
+                    "type": "artist",
+                    "uri": "spotify:artist:2oQd3GVbHbjyCyeG4MGMuT"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+                    "id": "1KsASRNugxU85T0u6zSg32",
+                    "name": "Tori Amos",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KsASRNugxU85T0u6zSg32"
+                }
+            ],
+            "uri": "spotify:track:16jX3OnmLVvRfi8YZN9kvT",
+            "album": {
+                "album_name": "Swimming Pools (Drank)",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-11-30",
+                "spotify_id": "766jE7dqD0tM97VXBSG7MD"
+            }
+        },
+        {
+            "name": "Love Is Only a Feeling",
+            "spotify_id": "7umZiitjVsEjMQ6HNddpUI",
+            "duration_ms": 152041,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2P5sC9cVZDToPxyomzF1UH",
+                    "id": "2P5sC9cVZDToPxyomzF1UH",
+                    "name": "Joey Bada$$",
+                    "type": "artist",
+                    "uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+                }
+            ],
+            "uri": "spotify:track:7umZiitjVsEjMQ6HNddpUI",
+            "album": {
+                "album_name": "Love Is Only a Feeling",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-07-06",
+                "spotify_id": "5e82uQW57EpmAOCJvLKMpr"
+            }
+        },
+        {
+            "name": "Rigamortus",
+            "spotify_id": "2lD6AoA8qf2t4Dkf2TcmNK",
+            "duration_ms": 168591,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                    "name": "Kendrick Lamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                }
+            ],
+            "uri": "spotify:track:2lD6AoA8qf2t4Dkf2TcmNK",
+            "album": {
+                "album_name": "Section.80",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-07-02",
+                "spotify_id": "1bkN9nIkkCnXeG4yitVS1J"
+            }
+        },
+        {
+            "name": "Anti-Matter",
+            "spotify_id": "4kVxStqN7DeoZje5aidAn3",
+            "duration_ms": 206946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/77AKJs9SJqxHXbPgtJPKRa",
+                    "id": "77AKJs9SJqxHXbPgtJPKRa",
+                    "name": "King Geedorah",
+                    "type": "artist",
+                    "uri": "spotify:artist:77AKJs9SJqxHXbPgtJPKRa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zDPvKo7b0I7OPefCwqrsE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zDPvKo7b0I7OPefCwqrsE",
+                    "id": "7zDPvKo7b0I7OPefCwqrsE",
+                    "name": "Mr Fantastik",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zDPvKo7b0I7OPefCwqrsE"
+                }
+            ],
+            "uri": "spotify:track:4kVxStqN7DeoZje5aidAn3",
+            "album": {
+                "album_name": "Take Me To Your Leader",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-06-17",
+                "spotify_id": "1mrhahrlJu5JfzgeV6Cy8t"
+            }
+        },
+        {
+            "name": "LIFE",
+            "spotify_id": "3au0pvHqcTtszysswan6AO",
+            "duration_ms": 162750,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7Hjbimq43OgxaBRpFXic4x",
+                    "id": "7Hjbimq43OgxaBRpFXic4x",
+                    "name": "Saba",
+                    "type": "artist",
+                    "uri": "spotify:artist:7Hjbimq43OgxaBRpFXic4x"
+                }
+            ],
+            "uri": "spotify:track:3au0pvHqcTtszysswan6AO",
+            "album": {
+                "album_name": "CARE FOR ME",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-04-05",
+                "spotify_id": "6Te111t5gDZ7W94myHRqUt"
+            }
+        },
+        {
+            "name": "AIN'T GON STOP ME",
+            "spotify_id": "1JdFSVTGl0gDJJVUTBvauR",
+            "duration_ms": 96000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2kAP2prnGAq7s3DwRT6s16",
+                    "id": "2kAP2prnGAq7s3DwRT6s16",
+                    "name": "reggie",
+                    "type": "artist",
+                    "uri": "spotify:artist:2kAP2prnGAq7s3DwRT6s16"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4p75GTNEXwsAAkpweMVtKo",
+                    "id": "4p75GTNEXwsAAkpweMVtKo",
+                    "name": "monte booker",
+                    "type": "artist",
+                    "uri": "spotify:artist:4p75GTNEXwsAAkpweMVtKo"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1rHOtdmGNr5vcYNw5v7QGC",
+                    "id": "1rHOtdmGNr5vcYNw5v7QGC",
+                    "name": "Kenny Beats",
+                    "type": "artist",
+                    "uri": "spotify:artist:1rHOtdmGNr5vcYNw5v7QGC"
+                }
+            ],
+            "uri": "spotify:track:1JdFSVTGl0gDJJVUTBvauR",
+            "album": {
+                "album_name": "Ain't Gon Stop Me",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2021-03-17",
+                "spotify_id": "2Kc5M1TGl7foXJrnmklLbT"
+            }
+        },
+        {
+            "name": "My Walk",
+            "spotify_id": "5YpzByJxStqpvsz9TXnONA",
+            "duration_ms": 136106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6g0Wah2YFtb1rFgKhUktlo",
+                    "id": "6g0Wah2YFtb1rFgKhUktlo",
+                    "name": "Raphael Saadiq",
+                    "type": "artist",
+                    "uri": "spotify:artist:6g0Wah2YFtb1rFgKhUktlo"
+                }
+            ],
+            "uri": "spotify:track:5YpzByJxStqpvsz9TXnONA",
+            "album": {
+                "album_name": "Jimmy Lee",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2019-08-23",
+                "spotify_id": "42qt8FhWtmal27Gasz3r4v"
+            }
+        },
+        {
+            "name": "Dracula's Wedding (feat. Kelis)",
+            "spotify_id": "2EFHXO4zJRitZLpE1ztsWO",
+            "duration_ms": 152413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+                    "id": "1G9G7WwrXka3Z1r7aIDjI7",
+                    "name": "Outkast",
+                    "type": "artist",
+                    "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0IF46mUS8NXjgHabxk2MCM",
+                    "id": "0IF46mUS8NXjgHabxk2MCM",
+                    "name": "Kelis",
+                    "type": "artist",
+                    "uri": "spotify:artist:0IF46mUS8NXjgHabxk2MCM"
+                }
+            ],
+            "uri": "spotify:track:2EFHXO4zJRitZLpE1ztsWO",
+            "album": {
+                "album_name": "Speakerboxxx/The Love Below",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003",
+                "spotify_id": "1UsmQ3bpJTyK6ygoOOjG1r"
+            }
+        },
+        {
+            "name": "The Letter",
+            "spotify_id": "0RBlLGGoMx0AxCsO4XyjGa",
+            "duration_ms": 20973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7",
+                    "id": "1G9G7WwrXka3Z1r7aIDjI7",
+                    "name": "Outkast",
+                    "type": "artist",
+                    "uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+                }
+            ],
+            "uri": "spotify:track:0RBlLGGoMx0AxCsO4XyjGa",
+            "album": {
+                "album_name": "Speakerboxxx/The Love Below",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003",
+                "spotify_id": "1UsmQ3bpJTyK6ygoOOjG1r"
+            }
+        },
+        {
+            "name": "INDUSTRY BABY (feat. Jack Harlow)",
+            "spotify_id": "5Z9KJZvQzH6PFmb8SNkxuk",
+            "duration_ms": 212352,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+                    "id": "7jVv8c5Fj3E9VhNjxT4snq",
+                    "name": "Lil Nas X",
+                    "type": "artist",
+                    "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ",
+                    "id": "2LIk90788K0zvyj2JJVwkJ",
+                    "name": "Jack Harlow",
+                    "type": "artist",
+                    "uri": "spotify:artist:2LIk90788K0zvyj2JJVwkJ"
+                }
+            ],
+            "uri": "spotify:track:5Z9KJZvQzH6PFmb8SNkxuk",
+            "album": {
+                "album_name": "MONTERO",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-09-17",
+                "spotify_id": "6pOiDiuDQqrmo5DbG0ZubR"
+            }
+        }
+    ]
+}

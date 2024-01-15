@@ -10,7 +10,6 @@ Read the songs from liked playlist
 Removed all songs that are in both
 """
 import integrations.spotify.client
-from integrations.spotify import models
 from musik_lib import collections
 
 

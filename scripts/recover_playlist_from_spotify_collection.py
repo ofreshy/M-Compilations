@@ -1,3 +1,10 @@
+"""
+Needed this to recover a playlist that was deleted from the spotify UI
+
+The UI is usually the ground truth, but here we use the lib as the ground truth to update the UI
+since there is no way to recover a deleted playlist from the UI
+
+"""
 from typing import Dict
 
 from integrations.spotify.client import SpotifyClient

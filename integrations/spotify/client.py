@@ -92,7 +92,6 @@ class SpotifyClient:
                 items = response.get("tracks", {}).get("items", [])
                 yield from (i for i in items)
 
-
         track_filter = make_track_filter(track_name, artist_name, duration)
         found_item = next(filter(track_filter, gen_items()), None)
         if not found_item:
@@ -272,6 +271,7 @@ def make_track_filter(track_name: str, artist_name: str, duration: str):
         )
 
     return filter_all
+
 
 def artist_name_to_list(artist_names: str):
     return [

@@ -1,3 +1,9 @@
+"""
+Sync spotify collections from UI into local disk
+Only sync collecitons that are new , not currently on disk, and compare by name
+
+If clear is provided, then will clear local storage before, so all remote will be downloaded
+"""
 import argparse
 
 import integrations.spotify.client

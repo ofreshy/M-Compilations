@@ -131,3 +131,9 @@ dmypy.json
 # My project stuff
 scripts/play.py
 
+
+# PyCharm
+.idea/misc.xml
+.idea/*
+
+

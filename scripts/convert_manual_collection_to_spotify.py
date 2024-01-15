@@ -1,3 +1,13 @@
+"""
+I aim to have all collections on spotify, even past collections that used to live on CD roms..
+The songs appear in the manual collections and need to be mapped to spotify collections
+
+The script here tries to find the matching tracks in Spotify and this is not a 1:1 mapping all the time,
+so there are some fuzzy logic matchers
+
+
+"""
+
 from typing import Dict
 
 from integrations.spotify.client import SpotifyClient

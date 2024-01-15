@@ -1,11 +1,12 @@
-
+"""
+playground for the client
+"""
 
 import argparse
 from typing import Optional, Dict
 
 import integrations.spotify.client
-from integrations import spotify
-from integrations.spotify import models
+
 
 
 def read_args():

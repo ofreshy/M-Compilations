@@ -34,11 +34,11 @@ def render_duration(duration):
     seconds = (total_seconds % 3600) % 60
 
     if hours:
-        return "{}:{:02}:{:02}".format(hours, minutes, seconds)
+        return "{}:{:02}:{:02} hours".format(hours, minutes, seconds)
     if minutes:
-        return "{}:{:02}".format(minutes, seconds)
+        return "{}:{:02} minutes".format(minutes, seconds)
     else:
-        return "0:{:02}".format(total_seconds)
+        return "0:{:02} seconds".format(total_seconds)
 
 
 class Artist(models.Model):

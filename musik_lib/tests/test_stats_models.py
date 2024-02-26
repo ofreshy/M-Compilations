@@ -1,3 +1,5 @@
+import datetime
+
 from django.test import TestCase
 
 from musik_lib.tests import fixtures
@@ -65,6 +67,35 @@ class CollectionStatTest(TestCase):
         self.assertEqual(a1_result.frequency, 2)
         self.assertEqual(a2_result.frequency, 1)
 
+    def test_duration_for_empty_stat(self):
+        expected_duration = datetime.timedelta(0)
+        actual_duration = fixtures.library_stat().duration
+        self.assertEqual(expected_duration, actual_duration)
+
+    def test_duration_for_single_track(self):
+        track = fixtures.track_1()
+        collection = fixtures.collection_1()
+        collection.add_tracks(
+            [
+                track,
+            ]
+        )
+        expected_duration = track.duration
+        actual_duration = fixtures.library_stat().duration
+        self.assertEqual(expected_duration, actual_duration)
+
+    def test_duration_for_several_tracks(self):
+        track = fixtures.track_1()
+        collection = fixtures.collection_1()
+        collection.add_tracks(
+            [
+                track,
+                track,
+            ]
+        )
+        expected_duration = track.duration + track.duration
+        actual_duration = fixtures.library_stat().duration
+        self.assertEqual(expected_duration, actual_duration)
 
 class LibraryStatTest(TestCase):
 
@@ -126,4 +157,5 @@ class LibraryStatTest(TestCase):
         l_stat = fixtures.library_stat()
         duplicate_tracks = l_stat.update_duplicate_tracks()
         track_ids = {dt.track_id for dt in duplicate_tracks}
-        self.assertEqual(set([t2.id, t4.id]), track_ids)
+        expected = {t2.id, t4.id}
+        self.assertEqual(expected, track_ids)

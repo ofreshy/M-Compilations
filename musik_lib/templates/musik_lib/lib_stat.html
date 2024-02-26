@@ -13,9 +13,9 @@
                 <li> <a href="/lib/dt/">  Duplicate Tracks </a> </li>
                 <li> <a href="/lib/afl/"> Artist Frequency Library </a> </li>
                 <li> <a href="/lib/afc/"> Artist Frequency Collection  </a> </li>
-                <li> {{ lib_stat.num_artists }} <a href="/lib/artist/"> Artists </a> </li>
-                <li> {{ lib_stat.num_tracks }} <a href="/lib/track/"> Tracks </a> </li>
-                <li> {{ lib_stat.duration }} of music time </li>
+                <li> <a href="/lib/artist/"> {{ stats.num_artists }} Artists </a> </li>
+                <li> <a href="/lib/track/"> {{ stats.num_tracks }} Tracks </a> </li>
+                <li> {{ stats.rendered_duration }} of music time </li>
             </ul>
     </body>
 </html>

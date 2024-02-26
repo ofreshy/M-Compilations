@@ -9,7 +9,7 @@ Read all songs from local storage
 Read the songs from liked playlist
 Removed all songs that are in both
 """
-import integrations.spotify.client
+from integrations.spotify.client import SpotifyClient
 from musik_lib import collections
 
 
@@ -29,7 +29,7 @@ def _get_tracks_to_remove(remote_tracks, local_collections):
 def main():
     print("Start Prune Saved Tracks")
 
-    client = integrations.spotify.client.SpotifyClient.make_default()
+    client = SpotifyClient.make_default()
 
     saved_tracks = client.saved_tracks()
     local_collections = collections.get_local_spotify_collections_content()

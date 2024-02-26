@@ -16,13 +16,17 @@ Prerequisite
 
 Application is then available on `http://127.0.0.1:8000/lib`
 
+## Local Scripts 
+1. Sync files with spotify `sync_spotify_collections.py` to get latest collections from remote
+2. Then run the `ingest_all_collections.py` script
+
 
 ## Test
 
 After installing the app (See run locally), run
 ``` docker-compose exec web python manage.py test ```
 
-## Heroku - TBD
+## Heroku - Not Active 
 
 The application is currently running on Heroku - https://musika-3.herokuapp.com/lib/
 

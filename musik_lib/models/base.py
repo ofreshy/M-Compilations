@@ -29,10 +29,14 @@ def render_duration(duration):
     :return:
     """
     total_seconds = int(duration.total_seconds())
-    hours = total_seconds // 3600
-    minutes = (total_seconds % 3600) // 60
     seconds = (total_seconds % 3600) % 60
+    minutes = (total_seconds % 3600) // 60
+    hours = total_seconds // 3600
 
+    if hours >= 24:
+        days = hours // 24
+        hours = hours % 24
+        return "{} days and {}:{:02}:{:02} hours".format(days, hours, minutes, seconds)
     if hours:
         return "{}:{:02}:{:02} hours".format(hours, minutes, seconds)
     if minutes:

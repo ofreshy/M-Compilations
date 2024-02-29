@@ -13,4 +13,5 @@ WORKDIR /code
 COPY . .
 
 # Install the project with setup.py
+RUN pip install -U pip
 RUN pip install -e .

@@ -16,7 +16,7 @@ extra_reqs = {
 }
 
 install_requires = [
-    'Django>=3.0.0',
+    'Django>=5.0.0',
     'psycopg2-binary==2.9.5',
     'gunicorn',
     'spotipy',

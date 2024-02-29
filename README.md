@@ -5,6 +5,10 @@ Holds all the metadata for the music collections and compilations that I have; E
 
 Prerequisite
 - Docker installed 
+- Set up the following environment variables:
+  - SPOTIPY_CLIENT_ID
+  - SPOTIPY_CLIENT_SECRET
+  - SPOTIPY_REDIRECT_URI
 
 1. build the app on docker 
 ``` docker-compose up -d --build ```
@@ -15,6 +19,10 @@ Prerequisite
 ``` docker-compose exec web python scripts/ingest_all_collections.py --clear ```
 
 Application is then available on `http://127.0.0.1:8000/lib`
+
+If the app asks you for the redirect url then you should run it first outside docker 
+and provide it from copy/paste the open window; I don't know yet how to allow docker to open url's on the host
+
 
 ## Local Scripts 
 1. Sync files with spotify `sync_spotify_collections.py` to get latest collections from remote

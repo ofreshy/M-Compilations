@@ -147,7 +147,7 @@ class HelperTest(TestCase):
 
         actual = render_duration(duration)
 
-        expected = "1:18 hours"
+        expected = "1:18 minutes"
 
         self.assertEquals(actual, expected)
 

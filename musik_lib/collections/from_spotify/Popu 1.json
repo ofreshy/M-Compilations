@@ -1,0 +1,403 @@
+{
+    "name": "Popu 1",
+    "spotify_id": "2TZnmKfNFjMbVcCVeD0VKn",
+    "created_date": "2024-08-05",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Pink Frosty - Demo",
+            "spotify_id": "0nW0JlaqPURXopnGmqTOrj",
+            "duration_ms": 227000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+                    "id": "62sC6lUEWRjbFqXpMmOk4G",
+                    "name": "Fugazi",
+                    "type": "artist",
+                    "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+                }
+            ],
+            "uri": "spotify:track:0nW0JlaqPURXopnGmqTOrj",
+            "album": {
+                "album_name": "Instrument Soundtrack",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-04-01",
+                "spotify_id": "1owNOVlXTqmDVo4M2Z20uk"
+            }
+        },
+        {
+            "name": "Alien Love Call",
+            "spotify_id": "5D7AFGloFpXtdT2PiKTEC3",
+            "duration_ms": 222741,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qnpHrOzdmOo1S4ox3j17x",
+                    "id": "2qnpHrOzdmOo1S4ox3j17x",
+                    "name": "Turnstile",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qnpHrOzdmOo1S4ox3j17x"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+                    "id": "65dGLGjkw3UbddUg2GKQoZ",
+                    "name": "BADBADNOTGOOD",
+                    "type": "artist",
+                    "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6LEeAFiJF8OuPx747e1wxR",
+                    "id": "6LEeAFiJF8OuPx747e1wxR",
+                    "name": "Blood Orange",
+                    "type": "artist",
+                    "uri": "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
+                }
+            ],
+            "uri": "spotify:track:5D7AFGloFpXtdT2PiKTEC3",
+            "album": {
+                "album_name": "New Heart Designs",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2023-08-11",
+                "spotify_id": "532ZmwSwZF55jqvzgq70fC"
+            }
+        },
+        {
+            "name": "Lake of Fire",
+            "spotify_id": "5VtSIBgF9H1KgcbAidRQO3",
+            "duration_ms": 116973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2h9yQhKyqOMex3QFMVeq7F"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2h9yQhKyqOMex3QFMVeq7F",
+                    "id": "2h9yQhKyqOMex3QFMVeq7F",
+                    "name": "Meat Puppets",
+                    "type": "artist",
+                    "uri": "spotify:artist:2h9yQhKyqOMex3QFMVeq7F"
+                }
+            ],
+            "uri": "spotify:track:5VtSIBgF9H1KgcbAidRQO3",
+            "album": {
+                "album_name": "II",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1984",
+                "spotify_id": "00ZKth0dl5axbKIriIQLkR"
+            }
+        },
+        {
+            "name": "Super Falling Star",
+            "spotify_id": "6sXh07v7biosuJeKxMbGWg",
+            "duration_ms": 196360,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Rj0tDHoX7C5NFq5DKIpHt",
+                    "id": "3Rj0tDHoX7C5NFq5DKIpHt",
+                    "name": "Stereolab",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Rj0tDHoX7C5NFq5DKIpHt"
+                }
+            ],
+            "uri": "spotify:track:6sXh07v7biosuJeKxMbGWg",
+            "album": {
+                "album_name": "Peng!",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1992-05-26",
+                "spotify_id": "2YCKr94Hh3qjNoFfJO2pJb"
+            }
+        },
+        {
+            "name": "Scar Tissue",
+            "spotify_id": "1G391cbiT3v3Cywg8T7DM1",
+            "duration_ms": 215906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+                    "id": "0L8ExT028jH3ddEcZwqJJ5",
+                    "name": "Red Hot Chili Peppers",
+                    "type": "artist",
+                    "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+                }
+            ],
+            "uri": "spotify:track:1G391cbiT3v3Cywg8T7DM1",
+            "album": {
+                "album_name": "Californication (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-06-08",
+                "spotify_id": "2Y9IRtehByVkegoD7TcLfi"
+            }
+        },
+        {
+            "name": "Ox Scapula",
+            "spotify_id": "6v9IGdCHKQLXrTyFOTdZd9",
+            "duration_ms": 101600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0pbIqPTefLfuOcbM2ojXdl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0pbIqPTefLfuOcbM2ojXdl",
+                    "id": "0pbIqPTefLfuOcbM2ojXdl",
+                    "name": "Polvo",
+                    "type": "artist",
+                    "uri": "spotify:artist:0pbIqPTefLfuOcbM2ojXdl"
+                }
+            ],
+            "uri": "spotify:track:6v9IGdCHKQLXrTyFOTdZd9",
+            "album": {
+                "album_name": "Cor-Crane Secret",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1992-07-13",
+                "spotify_id": "5sW6XMtUejFiqQzZHwSPDM"
+            }
+        },
+        {
+            "name": "Doll Parts",
+            "spotify_id": "49t1GWE6ZiEoBgN92oMDdM",
+            "duration_ms": 211960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5SHQUMAmEK5KmuSb0aDvsn",
+                    "id": "5SHQUMAmEK5KmuSb0aDvsn",
+                    "name": "Hole",
+                    "type": "artist",
+                    "uri": "spotify:artist:5SHQUMAmEK5KmuSb0aDvsn"
+                }
+            ],
+            "uri": "spotify:track:49t1GWE6ZiEoBgN92oMDdM",
+            "album": {
+                "album_name": "Live Through This",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "2Rwf2nPYZQ9aIe4QXACTC7"
+            }
+        },
+        {
+            "name": "Break",
+            "spotify_id": "6cWjeUN9zJvcl1Ir6Kc366",
+            "duration_ms": 131253,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+                    "id": "62sC6lUEWRjbFqXpMmOk4G",
+                    "name": "Fugazi",
+                    "type": "artist",
+                    "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+                }
+            ],
+            "uri": "spotify:track:6cWjeUN9zJvcl1Ir6Kc366",
+            "album": {
+                "album_name": "End Hits",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-04-01",
+                "spotify_id": "3Dy7ttLGgQPLNTEsqlIVU8"
+            }
+        },
+        {
+            "name": "Melting Guitar",
+            "spotify_id": "6GkI98haL9kbZ9YetfZ2yu",
+            "duration_ms": 92266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+                    "id": "3EgMK920cIH5aLxFnJ6zSi",
+                    "name": "Boris",
+                    "type": "artist",
+                    "uri": "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+                }
+            ],
+            "uri": "spotify:track:6GkI98haL9kbZ9YetfZ2yu",
+            "album": {
+                "album_name": "Mabuta no ura",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005",
+                "spotify_id": "4YrFuFRkYJ2Y2Cftci3DG8"
+            }
+        },
+        {
+            "name": "Running Away Into You",
+            "spotify_id": "0BCnNOixX8zSyWNo7I7onO",
+            "duration_ms": 130866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "uri": "spotify:track:0BCnNOixX8zSyWNo7I7onO",
+            "album": {
+                "album_name": "Niandra LaDes And Usually Just A T-Shirt",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994",
+                "spotify_id": "4wTLTb4VpQtTxmeyyFOFVj"
+            }
+        },
+        {
+            "name": "Recap Modotti",
+            "spotify_id": "2t4Hzx8xZlOJHZ5J601JGO",
+            "duration_ms": 229506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+                    "id": "62sC6lUEWRjbFqXpMmOk4G",
+                    "name": "Fugazi",
+                    "type": "artist",
+                    "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+                }
+            ],
+            "uri": "spotify:track:2t4Hzx8xZlOJHZ5J601JGO",
+            "album": {
+                "album_name": "End Hits",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-04-01",
+                "spotify_id": "3Dy7ttLGgQPLNTEsqlIVU8"
+            }
+        },
+        {
+            "name": "Frosted Ambassador",
+            "spotify_id": "68P0Doxay0BXSR80sUfRDB",
+            "duration_ms": 62666,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4a2nAPF15Gv8V65Ba3IJSB",
+                    "id": "4a2nAPF15Gv8V65Ba3IJSB",
+                    "name": "The Olivia Tremor Control",
+                    "type": "artist",
+                    "uri": "spotify:artist:4a2nAPF15Gv8V65Ba3IJSB"
+                }
+            ],
+            "uri": "spotify:track:68P0Doxay0BXSR80sUfRDB",
+            "album": {
+                "album_name": "Dusk at Cubist Castle",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-02-03",
+                "spotify_id": "7IBuhzVZPhSqMDMIP60Ehh"
+            }
+        },
+        {
+            "name": "Take Away",
+            "spotify_id": "0Hhix8vPGnVHx3NKvg9B5B",
+            "duration_ms": 257893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4cqaDkyjB2oXJ8U17ldjYM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4cqaDkyjB2oXJ8U17ldjYM",
+                    "id": "4cqaDkyjB2oXJ8U17ldjYM",
+                    "name": "Quickspace",
+                    "type": "artist",
+                    "uri": "spotify:artist:4cqaDkyjB2oXJ8U17ldjYM"
+                }
+            ],
+            "uri": "spotify:track:0Hhix8vPGnVHx3NKvg9B5B",
+            "album": {
+                "album_name": "Precious Falling",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-08-31",
+                "spotify_id": "0EHzHvaufVZfRF5Z1PqOp1"
+            }
+        },
+        {
+            "name": "Cream of Gold",
+            "spotify_id": "3fI2DzDZDoeGFlNnPv25KQ",
+            "duration_ms": 227506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3inCNiUr4R6XQ3W43s9Aqi",
+                    "id": "3inCNiUr4R6XQ3W43s9Aqi",
+                    "name": "Pavement",
+                    "type": "artist",
+                    "uri": "spotify:artist:3inCNiUr4R6XQ3W43s9Aqi"
+                }
+            ],
+            "uri": "spotify:track:3fI2DzDZDoeGFlNnPv25KQ",
+            "album": {
+                "album_name": "Terror Twilight",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-06-08",
+                "spotify_id": "6LvzAzZDazPb9hKNjj1JRN"
+            }
+        },
+        {
+            "name": "Something In The Way",
+            "spotify_id": "4gHnSNHs8RyVukKoWdS99f",
+            "duration_ms": 232146,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+                    "id": "6olE6TJLqED3rqDCT0FyPh",
+                    "name": "Nirvana",
+                    "type": "artist",
+                    "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+                }
+            ],
+            "uri": "spotify:track:4gHnSNHs8RyVukKoWdS99f",
+            "album": {
+                "album_name": "Nevermind (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1991-09-26",
+                "spotify_id": "2UJcKiJxNryhL050F5Z1Fk"
+            }
+        }
+    ]
+}

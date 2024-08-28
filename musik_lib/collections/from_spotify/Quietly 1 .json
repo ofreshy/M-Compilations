@@ -1,0 +1,543 @@
+{
+    "name": "Quietly 1 ",
+    "spotify_id": "4nWB1ZSEHi460cthFVYb6z",
+    "created_date": "2024-08-02",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Look What You Made Me Do",
+            "spotify_id": "4JKJdil8crNoWXwp2bzD0Y",
+            "duration_ms": 217589,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2loafgTVvbkRKq6nTVQAH4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2loafgTVvbkRKq6nTVQAH4",
+                    "id": "2loafgTVvbkRKq6nTVQAH4",
+                    "name": "Jack Leopards & The Dolphin Club",
+                    "type": "artist",
+                    "uri": "spotify:artist:2loafgTVvbkRKq6nTVQAH4"
+                }
+            ],
+            "uri": "spotify:track:4JKJdil8crNoWXwp2bzD0Y",
+            "album": {
+                "album_name": "Look What You Made Me Do",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-05-25",
+                "spotify_id": "33IzyiqFfgvPELo9bsBw2a"
+            }
+        },
+        {
+            "name": "Afterthought",
+            "spotify_id": "1F8ioDyExyre2ahAtehW5y",
+            "duration_ms": 88573,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+                    "id": "62sC6lUEWRjbFqXpMmOk4G",
+                    "name": "Fugazi",
+                    "type": "artist",
+                    "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+                }
+            ],
+            "uri": "spotify:track:1F8ioDyExyre2ahAtehW5y",
+            "album": {
+                "album_name": "Instrument Soundtrack",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-04-01",
+                "spotify_id": "1owNOVlXTqmDVo4M2Z20uk"
+            }
+        },
+        {
+            "name": "Let's Get Lost",
+            "spotify_id": "2hHJhyR9zGSuk204Y5AcMC",
+            "duration_ms": 147453,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+                    "id": "2ApaG60P4r0yhBoDCGD8YG",
+                    "name": "Elliott Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+                }
+            ],
+            "uri": "spotify:track:2hHJhyR9zGSuk204Y5AcMC",
+            "album": {
+                "album_name": "From A Basement On The Hill",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-10-18",
+                "spotify_id": "66UbcdMK6oC2XFPLeESamq"
+            }
+        },
+        {
+            "name": "Cozy",
+            "spotify_id": "38xt5YYlKcd6NQgAchI1I4",
+            "duration_ms": 81751,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7onTqmjsNs182OQexatI7N",
+                    "id": "7onTqmjsNs182OQexatI7N",
+                    "name": "Erameld",
+                    "type": "artist",
+                    "uri": "spotify:artist:7onTqmjsNs182OQexatI7N"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0stDohdrcCUYUVXShXdcI6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0stDohdrcCUYUVXShXdcI6",
+                    "id": "0stDohdrcCUYUVXShXdcI6",
+                    "name": "Kovacs",
+                    "type": "artist",
+                    "uri": "spotify:artist:0stDohdrcCUYUVXShXdcI6"
+                }
+            ],
+            "uri": "spotify:track:38xt5YYlKcd6NQgAchI1I4",
+            "album": {
+                "album_name": "Cozy",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-01-24",
+                "spotify_id": "74nKFxkriEnAQsnEQgDtWP"
+            }
+        },
+        {
+            "name": "In Pursuit of Your Happiness",
+            "spotify_id": "0livKFpMIOQLQ0AKDH5D0R",
+            "duration_ms": 125346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5GIfMirlXQh4saiInbfRwm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5GIfMirlXQh4saiInbfRwm",
+                    "id": "5GIfMirlXQh4saiInbfRwm",
+                    "name": "Mark Mulcahy",
+                    "type": "artist",
+                    "uri": "spotify:artist:5GIfMirlXQh4saiInbfRwm"
+                }
+            ],
+            "uri": "spotify:track:0livKFpMIOQLQ0AKDH5D0R",
+            "album": {
+                "album_name": "in pursuit of your happiness",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-08-03",
+                "spotify_id": "3wFRBTpvLCrqUy7KVi3VKp"
+            }
+        },
+        {
+            "name": "How to Fight Loneliness",
+            "spotify_id": "1CsMuJeMzRqNgS7G0fo1Gv",
+            "duration_ms": 232026,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+                    "id": "2QoU3awHVdcHS8LrZEKvSM",
+                    "name": "Wilco",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+                }
+            ],
+            "uri": "spotify:track:1CsMuJeMzRqNgS7G0fo1Gv",
+            "album": {
+                "album_name": "Summerteeth",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-03-08",
+                "spotify_id": "1JpaFJzzcsiulO6MdIcQdK"
+            }
+        },
+        {
+            "name": "I Love You But I'm Lost",
+            "spotify_id": "4YEuoDuUEsMXzi8fpCAlka",
+            "duration_ms": 258706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wJ4vsxWd7df7dRU4KcoDe",
+                    "id": "2wJ4vsxWd7df7dRU4KcoDe",
+                    "name": "Sharon Van Etten",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+                }
+            ],
+            "uri": "spotify:track:4YEuoDuUEsMXzi8fpCAlka",
+            "album": {
+                "album_name": "Are We There",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-05-27",
+                "spotify_id": "6EQWzHbd3EYO8J4EAIJst4"
+            }
+        },
+        {
+            "name": "Candles",
+            "spotify_id": "7aS8e5XKVWDcbyn06mF9fz",
+            "duration_ms": 148546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "uri": "spotify:track:7aS8e5XKVWDcbyn06mF9fz",
+            "album": {
+                "album_name": "Monsters (Original Motion Picture Soundtrack)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-11-29",
+                "spotify_id": "2uMFg3hvo58SMkVlU1uhKJ"
+            }
+        },
+        {
+            "name": "Water",
+            "spotify_id": "0cCWiYvrKJCMJsucjf3QYF",
+            "duration_ms": 78800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7yxi31szvlbwvKq9dYOmFI",
+                    "id": "7yxi31szvlbwvKq9dYOmFI",
+                    "name": "Jon Hopkins",
+                    "type": "artist",
+                    "uri": "spotify:artist:7yxi31szvlbwvKq9dYOmFI"
+                }
+            ],
+            "uri": "spotify:track:0cCWiYvrKJCMJsucjf3QYF",
+            "album": {
+                "album_name": "Monsters (Original Motion Picture Soundtrack)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2010-11-29",
+                "spotify_id": "2uMFg3hvo58SMkVlU1uhKJ"
+            }
+        },
+        {
+            "name": "Walk",
+            "spotify_id": "5RMaEN4dokJn35Ghn94ray",
+            "duration_ms": 173693,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2zzPNRhGuLRbP6d1YwakiC",
+                    "id": "2zzPNRhGuLRbP6d1YwakiC",
+                    "name": "WOOM",
+                    "type": "artist",
+                    "uri": "spotify:artist:2zzPNRhGuLRbP6d1YwakiC"
+                }
+            ],
+            "uri": "spotify:track:5RMaEN4dokJn35Ghn94ray",
+            "album": {
+                "album_name": "Walk",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2020-11-05",
+                "spotify_id": "5CTvPZgbDxdWLwr92kjm9W"
+            }
+        },
+        {
+            "name": "Spirit Ditch",
+            "spotify_id": "72mDSFZFuyBAfWvmnvB86c",
+            "duration_ms": 203533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tVHZVSAZhDEiOJxnb6hE",
+                    "id": "64tVHZVSAZhDEiOJxnb6hE",
+                    "name": "Sparklehorse",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tVHZVSAZhDEiOJxnb6hE"
+                }
+            ],
+            "uri": "spotify:track:72mDSFZFuyBAfWvmnvB86c",
+            "album": {
+                "album_name": "Vivadixiesubmarinetransmissionplot",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1995-01-01",
+                "spotify_id": "2negjodS7ksoI1xH61BWva"
+            }
+        },
+        {
+            "name": "Wond'ring Aloud",
+            "spotify_id": "7bo2X63U1NpKYMXV1mZFkq",
+            "duration_ms": 113426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+                    "name": "Jethro Tull",
+                    "type": "artist",
+                    "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R"
+                }
+            ],
+            "uri": "spotify:track:7bo2X63U1NpKYMXV1mZFkq",
+            "album": {
+                "album_name": "Aqualung (Special Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-03-19",
+                "spotify_id": "0NGM3Ftwjw0dLNpAowmz3x"
+            }
+        },
+        {
+            "name": "Samson",
+            "spotify_id": "2JAUBPBVkimRLc5BGhAkfJ",
+            "duration_ms": 189506,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3z6Gk257P9jNcZbBXJNX5i",
+                    "id": "3z6Gk257P9jNcZbBXJNX5i",
+                    "name": "Regina Spektor",
+                    "type": "artist",
+                    "uri": "spotify:artist:3z6Gk257P9jNcZbBXJNX5i"
+                }
+            ],
+            "uri": "spotify:track:2JAUBPBVkimRLc5BGhAkfJ",
+            "album": {
+                "album_name": "Begin to Hope",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2006-06-13",
+                "spotify_id": "4L4tcx3itXbtx5kuchKhFE"
+            }
+        },
+        {
+            "name": "Metal Heart",
+            "spotify_id": "4JeMpERu0LS3QhNoNG0cvZ",
+            "duration_ms": 242400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6G7OerKc3eBO9sVkRNopFC",
+                    "id": "6G7OerKc3eBO9sVkRNopFC",
+                    "name": "Cat Power",
+                    "type": "artist",
+                    "uri": "spotify:artist:6G7OerKc3eBO9sVkRNopFC"
+                }
+            ],
+            "uri": "spotify:track:4JeMpERu0LS3QhNoNG0cvZ",
+            "album": {
+                "album_name": "Moon Pix",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-09-22",
+                "spotify_id": "6AoSTHrd6oEaeUYBEGdLTb"
+            }
+        },
+        {
+            "name": "Sunflower",
+            "spotify_id": "5MLBottNJ4s4yL6t9sIryD",
+            "duration_ms": 279066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0wz0jO9anccPzH04N7FLBH",
+                    "id": "0wz0jO9anccPzH04N7FLBH",
+                    "name": "Low",
+                    "type": "artist",
+                    "uri": "spotify:artist:0wz0jO9anccPzH04N7FLBH"
+                }
+            ],
+            "uri": "spotify:track:5MLBottNJ4s4yL6t9sIryD",
+            "album": {
+                "album_name": "Things We Lost in the Fire",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-01-22",
+                "spotify_id": "3YWmAFuOtr9YIDdqJ2Gius"
+            }
+        },
+        {
+            "name": "Untitled Guitar Finger Picking - Demo",
+            "spotify_id": "6BXLntndW03EEgAZr5NC3Z",
+            "duration_ms": 84013,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+                    "id": "2ApaG60P4r0yhBoDCGD8YG",
+                    "name": "Elliott Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+                }
+            ],
+            "uri": "spotify:track:6BXLntndW03EEgAZr5NC3Z",
+            "album": {
+                "album_name": "Heaven Adores You Soundtrack",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2015-02-05",
+                "spotify_id": "7Ilu6VpX49cnTkgklQpz4M"
+            }
+        },
+        {
+            "name": "Winter Lady",
+            "spotify_id": "3YNKbymzBpPlqGTQnwtYWn",
+            "duration_ms": 137813,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5l8VQNuIg0turYE1VtM9zV",
+                    "id": "5l8VQNuIg0turYE1VtM9zV",
+                    "name": "Leonard Cohen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV"
+                }
+            ],
+            "uri": "spotify:track:3YNKbymzBpPlqGTQnwtYWn",
+            "album": {
+                "album_name": "Songs Of Leonard Cohen",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1967-12-27",
+                "spotify_id": "2Aiv0ThDpFa7lqHphR6MN5"
+            }
+        },
+        {
+            "name": "Line of Fire",
+            "spotify_id": "1I6LFohPBMnEu9CXamGCwY",
+            "duration_ms": 188080,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6xrCU6zdcSTsG2hLrojpmI",
+                    "id": "6xrCU6zdcSTsG2hLrojpmI",
+                    "name": "Jos\u00e9 Gonz\u00e1lez",
+                    "type": "artist",
+                    "uri": "spotify:artist:6xrCU6zdcSTsG2hLrojpmI"
+                }
+            ],
+            "uri": "spotify:track:1I6LFohPBMnEu9CXamGCwY",
+            "album": {
+                "album_name": "Local Valley",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2021-09-17",
+                "spotify_id": "02BsEQGLO93d8jYRMCM2Jx"
+            }
+        },
+        {
+            "name": "To The Workers of The Rock River Valley Region, I have an idea concerning your predicament, and it involves an inner tube, bath mats, and 21 able-bodied men",
+            "spotify_id": "4nHnXZfr4IdxYgmYkH8ivZ",
+            "duration_ms": 100760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+                    "id": "4MXUO7sVCaFgFjoTI5ox5c",
+                    "name": "Sufjan Stevens",
+                    "type": "artist",
+                    "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+                }
+            ],
+            "uri": "spotify:track:4nHnXZfr4IdxYgmYkH8ivZ",
+            "album": {
+                "album_name": "Illinois",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-07-05",
+                "spotify_id": "1pOl0KEC1iQnA6F0XxV4To"
+            }
+        },
+        {
+            "name": "I Will - Los Angeles Version",
+            "spotify_id": "4xJhsaUlK1grJinlH57Tg4",
+            "duration_ms": 133240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "uri": "spotify:track:4xJhsaUlK1grJinlH57Tg4",
+            "album": {
+                "album_name": "Com Lag: 2+2=5",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2004-03-24",
+                "spotify_id": "5FI5652iVfs27I7zueBt6l"
+            }
+        },
+        {
+            "name": "Broken Heart",
+            "spotify_id": "5jxN9knH0vlfpN2Ft7a5xi",
+            "duration_ms": 398306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6DKmuXxXASTF6xaJwcTfjv",
+                    "id": "6DKmuXxXASTF6xaJwcTfjv",
+                    "name": "Spiritualized",
+                    "type": "artist",
+                    "uri": "spotify:artist:6DKmuXxXASTF6xaJwcTfjv"
+                }
+            ],
+            "uri": "spotify:track:5jxN9knH0vlfpN2Ft7a5xi",
+            "album": {
+                "album_name": "Ladies and gentlemen we are floating in space",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-06-16",
+                "spotify_id": "56YzQ0dhmRMDryZsrjdHun"
+            }
+        }
+    ]
+}

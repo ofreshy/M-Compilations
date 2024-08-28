@@ -1,6 +1,4 @@
-import json
 import os
-from dataclasses import asdict
 from pathlib import Path
 from typing import Iterator, Dict, Optional
 
@@ -9,13 +7,7 @@ from integrations.spotify.models import SpotifyCollection, SpotifyCollectionStat
 
 
 BASE_PATH = Path(__file__).parent.absolute()
-SPOTIFY_COLLECTIONS_PATH = os.path.join(
-    BASE_PATH,
-    "collections",
-)
-
-
-
+SPOTIFY_COLLECTIONS_PATH = BASE_PATH.joinpath("collections")
 
 
 def get_remote_collections(client: SpotifyClient) -> Iterator[SpotifyCollection]:

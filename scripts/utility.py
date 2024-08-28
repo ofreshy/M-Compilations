@@ -70,7 +70,7 @@ def ingest_spotify_collection(d):
         nick_name="",
         description=d["description"],
         created_year=int(d["created_date"][0:4]),
-        ordinal=d["ordinal"]
+        ordinal=None,
     )
     if not created:
         collection.trackincollection_set.all().delete()

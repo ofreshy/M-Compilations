@@ -116,7 +116,7 @@ class Collection(models.Model):
     description = models.CharField(max_length=2000)
 
     created_year = models.PositiveSmallIntegerField(validators=[validate_year])
-    ordinal = models.PositiveSmallIntegerField(unique=True)
+    ordinal = models.PositiveSmallIntegerField(unique=True, null=True)
 
     def __str__(self):
         template = "name={} , nick_name = {}, duration = {}"

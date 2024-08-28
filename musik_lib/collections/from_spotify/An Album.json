@@ -1,0 +1,508 @@
+{
+    "name": "An Album",
+    "spotify_id": "3IOTQ81HtjimewptDn798E",
+    "created_date": "2024-01-10",
+    "description": "Bunch of songs that I quite like, probably most Zeitgest album that I had so far",
+    "tracks": [
+        {
+            "name": "The Day We All Died",
+            "spotify_id": "6XzOt8urWX2avqK0fP8LBO",
+            "duration_ms": 120533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0a2vRhBsS3zNu6pTQo1Rnm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0a2vRhBsS3zNu6pTQo1Rnm",
+                    "id": "0a2vRhBsS3zNu6pTQo1Rnm",
+                    "name": "The Reindeer Section",
+                    "type": "artist",
+                    "uri": "spotify:artist:0a2vRhBsS3zNu6pTQo1Rnm"
+                }
+            ],
+            "uri": "spotify:track:6XzOt8urWX2avqK0fP8LBO",
+            "album": {
+                "album_name": "Y'All Get Scared Now, Ya Hear!",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-08-20",
+                "spotify_id": "2U7q1lcZHuvf0lFJbFVRDf"
+            }
+        },
+        {
+            "name": "Conversation Intercom",
+            "spotify_id": "1NboKCs0ZBHyQ4W6c1vzoZ",
+            "duration_ms": 186640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/43mWhBXSflupNLuNjM5vff",
+                    "id": "43mWhBXSflupNLuNjM5vff",
+                    "name": "Soulwax",
+                    "type": "artist",
+                    "uri": "spotify:artist:43mWhBXSflupNLuNjM5vff"
+                }
+            ],
+            "uri": "spotify:track:1NboKCs0ZBHyQ4W6c1vzoZ",
+            "album": {
+                "album_name": "Much Against Everyone's Advice",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-01-01",
+                "spotify_id": "1Zisq1gECqPQtxvny6AUXP"
+            }
+        },
+        {
+            "name": "Happy Endings",
+            "spotify_id": "3pHzHsYxqdja7oKiHJq8Gk",
+            "duration_ms": 268960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/47yawJswuSfSvizYhItoOP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/47yawJswuSfSvizYhItoOP",
+                    "id": "47yawJswuSfSvizYhItoOP",
+                    "name": "Something For Kate",
+                    "type": "artist",
+                    "uri": "spotify:artist:47yawJswuSfSvizYhItoOP"
+                }
+            ],
+            "uri": "spotify:track:3pHzHsYxqdja7oKiHJq8Gk",
+            "album": {
+                "album_name": "Echolalia",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-06-22",
+                "spotify_id": "28GvCEmdROOhpgVYwODp3y"
+            }
+        },
+        {
+            "name": "Extreme Ways",
+            "spotify_id": "00TFDHSe7s8cWm5CzDY8UP",
+            "duration_ms": 237640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3OsRAKCvk37zwYcnzRf5XF",
+                    "id": "3OsRAKCvk37zwYcnzRf5XF",
+                    "name": "Moby",
+                    "type": "artist",
+                    "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+                }
+            ],
+            "uri": "spotify:track:00TFDHSe7s8cWm5CzDY8UP",
+            "album": {
+                "album_name": "18",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "200xhXQBPc2OWPsZ3koxTc"
+            }
+        },
+        {
+            "name": "Bi-pet",
+            "spotify_id": "5RtgdcbW68IppZY9GoC4kO",
+            "duration_ms": 192080,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2GkJdEJneopHc10XQV76rN",
+                    "id": "2GkJdEJneopHc10XQV76rN",
+                    "name": "Lali Puna",
+                    "type": "artist",
+                    "uri": "spotify:artist:2GkJdEJneopHc10XQV76rN"
+                }
+            ],
+            "uri": "spotify:track:5RtgdcbW68IppZY9GoC4kO",
+            "album": {
+                "album_name": "Scary World Theory",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-10-15",
+                "spotify_id": "08FP6j08db3ZHH5vADaoZ6"
+            }
+        },
+        {
+            "name": "Ladybird",
+            "spotify_id": "1NMuIbmNINe6A8qbDeQDrB",
+            "duration_ms": 278066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ucLPotcQNI7AViFytdhBz",
+                    "id": "0ucLPotcQNI7AViFytdhBz",
+                    "name": "Ladytron",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ucLPotcQNI7AViFytdhBz"
+                }
+            ],
+            "uri": "spotify:track:1NMuIbmNINe6A8qbDeQDrB",
+            "album": {
+                "album_name": "604",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2022-04-21",
+                "spotify_id": "0Rg5gPR4pbwQrnfmTO9yxK"
+            }
+        },
+        {
+            "name": "A Wolf At the Door",
+            "spotify_id": "3OHevW2cUT176DXWV0lHg9",
+            "duration_ms": 201333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "uri": "spotify:track:3OHevW2cUT176DXWV0lHg9",
+            "album": {
+                "album_name": "Hail To the Thief",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-06-09",
+                "spotify_id": "5mzoI3VH0ZWk1pLFR6RoYy"
+            }
+        },
+        {
+            "name": "Obstacle 2",
+            "spotify_id": "4zYBNOB5TOf1cMpFxA5e6N",
+            "duration_ms": 227266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WaJSfKnzc65VDgmj2zU8B",
+                    "id": "3WaJSfKnzc65VDgmj2zU8B",
+                    "name": "Interpol",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WaJSfKnzc65VDgmj2zU8B"
+                }
+            ],
+            "uri": "spotify:track:4zYBNOB5TOf1cMpFxA5e6N",
+            "album": {
+                "album_name": "Turn On The Bright Lights",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-08-20",
+                "spotify_id": "4sW8Eql2e2kdRP1A1R1clG"
+            }
+        },
+        {
+            "name": "The Second Line",
+            "spotify_id": "0hLAkiRyFStFHstyuKDesj",
+            "duration_ms": 150346,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7icDkrFloDss50hoqQ3Kkj",
+                    "id": "7icDkrFloDss50hoqQ3Kkj",
+                    "name": "Clinic",
+                    "type": "artist",
+                    "uri": "spotify:artist:7icDkrFloDss50hoqQ3Kkj"
+                }
+            ],
+            "uri": "spotify:track:0hLAkiRyFStFHstyuKDesj",
+            "album": {
+                "album_name": "Internal Wrangler",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-05-01",
+                "spotify_id": "3jRQhtWHP4SsnDOpt7DZdc"
+            }
+        },
+        {
+            "name": "No One Knows",
+            "spotify_id": "6y20BV5L33R8YXM0YuI38N",
+            "duration_ms": 278746,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn",
+                    "id": "4pejUc4iciQfgdX6OKulQn",
+                    "name": "Queens of the Stone Age",
+                    "type": "artist",
+                    "uri": "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+                }
+            ],
+            "uri": "spotify:track:6y20BV5L33R8YXM0YuI38N",
+            "album": {
+                "album_name": "Songs For The Deaf",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "4w3NeXtywU398NYW4903rY"
+            }
+        },
+        {
+            "name": "Car",
+            "spotify_id": "4qqM11dV7X9CFjSbbgRdZJ",
+            "duration_ms": 179106,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3kbBWco9PZ5eSQsNScwG6U",
+                    "id": "3kbBWco9PZ5eSQsNScwG6U",
+                    "name": "Built To Spill",
+                    "type": "artist",
+                    "uri": "spotify:artist:3kbBWco9PZ5eSQsNScwG6U"
+                }
+            ],
+            "uri": "spotify:track:4qqM11dV7X9CFjSbbgRdZJ",
+            "album": {
+                "album_name": "There's Nothing Wrong With Love",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-09-13",
+                "spotify_id": "6ShLKGsrQk9OHXmEBrXJhd"
+            }
+        },
+        {
+            "name": "Dolphins - Remastered",
+            "spotify_id": "0tvepqOHxqKt2PYRcLTHRR",
+            "duration_ms": 191933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zHRqvws8dVeqL8D31ponr",
+                    "id": "6zHRqvws8dVeqL8D31ponr",
+                    "name": "Tim Buckley",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zHRqvws8dVeqL8D31ponr"
+                }
+            ],
+            "uri": "spotify:track:0tvepqOHxqKt2PYRcLTHRR",
+            "album": {
+                "album_name": "Sefronia (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1973-10-13",
+                "spotify_id": "0lE65plGvomnvtwINqkRwl"
+            }
+        },
+        {
+            "name": "Jesus, Etc. - 2022 Remaster",
+            "spotify_id": "5JuYLzlxsSewBjO4v9a04U",
+            "duration_ms": 231706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+                    "id": "2QoU3awHVdcHS8LrZEKvSM",
+                    "name": "Wilco",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+                }
+            ],
+            "uri": "spotify:track:5JuYLzlxsSewBjO4v9a04U",
+            "album": {
+                "album_name": "Yankee Hotel Foxtrot (2022 Remaster)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002",
+                "spotify_id": "6PanEvuo9ZNvGT39v50xp6"
+            }
+        },
+        {
+            "name": "Illumination",
+            "spotify_id": "1ZVsgGVMOBQ8I3ufbUY1F0",
+            "duration_ms": 187000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7Lf3LOZp3U3u2f6cWMd3AH",
+                    "id": "7Lf3LOZp3U3u2f6cWMd3AH",
+                    "name": "Paul Weller",
+                    "type": "artist",
+                    "uri": "spotify:artist:7Lf3LOZp3U3u2f6cWMd3AH"
+                }
+            ],
+            "uri": "spotify:track:1ZVsgGVMOBQ8I3ufbUY1F0",
+            "album": {
+                "album_name": "Illumination",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-01-01",
+                "spotify_id": "3e8sWskdKvGYVItRpCpwUF"
+            }
+        },
+        {
+            "name": "Sleep the Clock Around",
+            "spotify_id": "2WXuEYmzKaQQJbrhLnYYJV",
+            "duration_ms": 298133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+                    "id": "4I2BJf80C0skQpp1sQmA0h",
+                    "name": "Belle and Sebastian",
+                    "type": "artist",
+                    "uri": "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+                }
+            ],
+            "uri": "spotify:track:2WXuEYmzKaQQJbrhLnYYJV",
+            "album": {
+                "album_name": "The Boy With the Arab Strap",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-09-07",
+                "spotify_id": "0PnuQg8OK4KoOPrwhgyKRQ"
+            }
+        },
+        {
+            "name": "Sister Dew",
+            "spotify_id": "6aGnrpv7TKKbgcSw6B8IsY",
+            "duration_ms": 335600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3zMir00BoCKhwNTjlT61KN",
+                    "id": "3zMir00BoCKhwNTjlT61KN",
+                    "name": "dEUS",
+                    "type": "artist",
+                    "uri": "spotify:artist:3zMir00BoCKhwNTjlT61KN"
+                }
+            ],
+            "uri": "spotify:track:6aGnrpv7TKKbgcSw6B8IsY",
+            "album": {
+                "album_name": "The Ideal Crash",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-03-16",
+                "spotify_id": "5R9ahvbTIMV8VDb1ahby8l"
+            }
+        },
+        {
+            "name": "Not Even Stevie Nicks...",
+            "spotify_id": "7nn3jBaALXkArAWeSzO55q",
+            "duration_ms": 163997,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1OmdWpAh1pucAuZPzJaxIJ",
+                    "id": "1OmdWpAh1pucAuZPzJaxIJ",
+                    "name": "Calexico",
+                    "type": "artist",
+                    "uri": "spotify:artist:1OmdWpAh1pucAuZPzJaxIJ"
+                }
+            ],
+            "uri": "spotify:track:7nn3jBaALXkArAWeSzO55q",
+            "album": {
+                "album_name": "Feast of Wire",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003-02-24",
+                "spotify_id": "5SN6A5GTkZSnYumVNvjMuD"
+            }
+        },
+        {
+            "name": "Remind Me - Radio Edit",
+            "spotify_id": "1HDMGQX3tx5r08SyewNyXK",
+            "duration_ms": 219560,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5nPOO9iTcrs9k6yFffPxjH",
+                    "id": "5nPOO9iTcrs9k6yFffPxjH",
+                    "name": "R\u00f6yksopp",
+                    "type": "artist",
+                    "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH"
+                }
+            ],
+            "uri": "spotify:track:1HDMGQX3tx5r08SyewNyXK",
+            "album": {
+                "album_name": "Melody AM",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-09-03",
+                "spotify_id": "31KW4rB15ZKePadjCPv1xw"
+            }
+        },
+        {
+            "name": "Your Cheating Heart",
+            "spotify_id": "1U1TFeqLVj3Pbw2FL24TJO",
+            "duration_ms": 218000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4LMQqMZYbFJgvxBOzshZVL",
+                    "id": "4LMQqMZYbFJgvxBOzshZVL",
+                    "name": "His Name Is Alive",
+                    "type": "artist",
+                    "uri": "spotify:artist:4LMQqMZYbFJgvxBOzshZVL"
+                }
+            ],
+            "uri": "spotify:track:1U1TFeqLVj3Pbw2FL24TJO",
+            "album": {
+                "album_name": "Someday My Blues Will Cover The Earth (Love And War)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-04-09",
+                "spotify_id": "6C43DbRo8uwqX5a7vHQheA"
+            }
+        },
+        {
+            "name": "I Saw Drones",
+            "spotify_id": "75Txh8tOIcoLAdVLUv1UI2",
+            "duration_ms": 27186,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2VAvhf61GgLYmC6C8anyX1",
+                    "id": "2VAvhf61GgLYmC6C8anyX1",
+                    "name": "Boards of Canada",
+                    "type": "artist",
+                    "uri": "spotify:artist:2VAvhf61GgLYmC6C8anyX1"
+                }
+            ],
+            "uri": "spotify:track:75Txh8tOIcoLAdVLUv1UI2",
+            "album": {
+                "album_name": "Geogaddi",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-02-19",
+                "spotify_id": "4T7JGfRryhw5POaXalkApE"
+            }
+        }
+    ]
+}

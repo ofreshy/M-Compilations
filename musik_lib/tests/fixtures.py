@@ -7,7 +7,7 @@ def library():
     return Library.load()
 
 
-def library_stat():
+def library_stat() -> LibraryStat:
     return LibraryStat.objects.get_or_create(library=Library.load())[0]
 
 
@@ -67,7 +67,7 @@ def collection_2(name="C2", nick_name="C2 nick", description="C2 description", r
     )[0]
 
 
-def collection_stat(collection=None):
+def collection_stat(collection=None) -> CollectionStat:
     return CollectionStat.objects.get_or_create(
             collection=collection or collection_1(),
     )[0]

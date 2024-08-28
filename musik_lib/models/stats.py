@@ -5,7 +5,7 @@ from musik_lib.models.base import *
 
 
 class LibraryStat(models.Model):
-    library = models.OneToOneField(
+    library: Library = models.OneToOneField(
         Library,
         on_delete=models.CASCADE,
         primary_key=True,
@@ -31,6 +31,10 @@ class LibraryStat(models.Model):
     @property
     def duration(self):
         return self.library.duration
+
+    @property
+    def rendered_duration(self) -> str:
+        return render_duration(self.duration)
 
     def update(self):
         self.update_collection_stats()

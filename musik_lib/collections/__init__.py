@@ -1,3 +1,4 @@
+import dataclasses
 import json
 import os
 import shutil
@@ -104,3 +105,24 @@ def clear_spotify_local_collections():
         pass
     else:
         os.makedirs(SPOTIFY_COLLECTION_DIR)
+
+
+def write_spotify_collection(collection: dataclasses.dataclass,  prefix=""):
+    if prefix:
+        prefix += "-"
+    path = f"/{SPOTIFY_COLLECTION_DIR}/{prefix}{collection.name}.json"
+    _write_col(
+        data=dataclasses.asdict(collection),
+        path=path,
+    )
+
+def _write_col(data: Dict, path:str):
+    with open(path, "w") as f:
+        f.write(
+            json.dumps(
+                data,
+                indent=4,
+                default=str,
+            )
+        )
+

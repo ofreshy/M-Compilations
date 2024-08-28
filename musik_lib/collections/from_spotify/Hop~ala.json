@@ -1,0 +1,423 @@
+{
+    "name": "Hop~ala",
+    "spotify_id": "3TvHrZpcMd281npBgPcJ5F",
+    "created_date": "2024-01-08",
+    "description": "Album for Ohad, composed of classic rock songs",
+    "tracks": [
+        {
+            "name": "Intro",
+            "spotify_id": "1w61aSowaSbp2y982rrqR5",
+            "duration_ms": 60200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XaUaXu0cGAFK1AlQkl1b6",
+                    "id": "6XaUaXu0cGAFK1AlQkl1b6",
+                    "name": "Saian Supa Crew",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XaUaXu0cGAFK1AlQkl1b6"
+                }
+            ],
+            "uri": "spotify:track:1w61aSowaSbp2y982rrqR5",
+            "album": {
+                "album_name": "Klr",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-10-24",
+                "spotify_id": "3mGbYjpwZAseVYLmQakxcL"
+            }
+        },
+        {
+            "name": "Everything Is Everything",
+            "spotify_id": "7t86fVeDAd63ThaR0ZkxXS",
+            "duration_ms": 293266,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Mu5NfyYm8n5iTomuKAEHl",
+                    "id": "2Mu5NfyYm8n5iTomuKAEHl",
+                    "name": "Ms. Lauryn Hill",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl"
+                }
+            ],
+            "uri": "spotify:track:7t86fVeDAd63ThaR0ZkxXS",
+            "album": {
+                "album_name": "The Miseducation of Lauryn Hill",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-08-25",
+                "spotify_id": "1BZoqf8Zje5nGdwZhOjAtD"
+            }
+        },
+        {
+            "name": "La La La",
+            "spotify_id": "0tygSAo46Mcyerko545AoA",
+            "duration_ms": 160866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/11K0HIZKfdB6ez0VhIgxPm",
+                    "id": "11K0HIZKfdB6ez0VhIgxPm",
+                    "name": "Saul Williams",
+                    "type": "artist",
+                    "uri": "spotify:artist:11K0HIZKfdB6ez0VhIgxPm"
+                }
+            ],
+            "uri": "spotify:track:0tygSAo46Mcyerko545AoA",
+            "album": {
+                "album_name": "Amethyst Rock Star",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-01-01",
+                "spotify_id": "16iHaqzAXTv2iYjch5A8ID"
+            }
+        },
+        {
+            "name": "Ring My Bell",
+            "spotify_id": "5seSeDFjXQjznnXcXGkioo",
+            "duration_ms": 57440,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XaUaXu0cGAFK1AlQkl1b6",
+                    "id": "6XaUaXu0cGAFK1AlQkl1b6",
+                    "name": "Saian Supa Crew",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XaUaXu0cGAFK1AlQkl1b6"
+                }
+            ],
+            "uri": "spotify:track:5seSeDFjXQjznnXcXGkioo",
+            "album": {
+                "album_name": "Klr",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-10-24",
+                "spotify_id": "3mGbYjpwZAseVYLmQakxcL"
+            }
+        },
+        {
+            "name": "Don't Be Light",
+            "spotify_id": "1vO7cEdUkYHjHuSKg1HdSC",
+            "duration_ms": 378840,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+                    "id": "1P6U1dCeHxPui5pIrGmndZ",
+                    "name": "Air",
+                    "type": "artist",
+                    "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+                }
+            ],
+            "uri": "spotify:track:1vO7cEdUkYHjHuSKg1HdSC",
+            "album": {
+                "album_name": "10 000 Hz Legend",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-05-28",
+                "spotify_id": "2WNI378JH55k63eXBHbjbI"
+            }
+        },
+        {
+            "name": "Packt Like Sardines In a Crushd Tin Box",
+            "spotify_id": "0tDn82XkoueVV5q9G7OUAv",
+            "duration_ms": 240333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "uri": "spotify:track:0tDn82XkoueVV5q9G7OUAv",
+            "album": {
+                "album_name": "Amnesiac",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-03-12",
+                "spotify_id": "1HrMmB5useeZ0F5lHrMvl0"
+            }
+        },
+        {
+            "name": "Squares",
+            "spotify_id": "6yglIiqxr2yz9TI8zikNPU",
+            "duration_ms": 226893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2LMR8u7DOMF0FBseDpTsRa",
+                    "id": "2LMR8u7DOMF0FBseDpTsRa",
+                    "name": "The Beta Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:2LMR8u7DOMF0FBseDpTsRa"
+                }
+            ],
+            "uri": "spotify:track:6yglIiqxr2yz9TI8zikNPU",
+            "album": {
+                "album_name": "Hot Shots II",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001",
+                "spotify_id": "5ElnMKBlg21XKlqAynLH9x"
+            }
+        },
+        {
+            "name": "Be There",
+            "spotify_id": "3klBgzmhhPqKrUXEGG4eHN",
+            "duration_ms": 316853,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2nszamLjZFgu3Yx77mKxuC",
+                    "id": "2nszamLjZFgu3Yx77mKxuC",
+                    "name": "UNKLE",
+                    "type": "artist",
+                    "uri": "spotify:artist:2nszamLjZFgu3Yx77mKxuC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5EVXQGPBc3NShKZnTZHjHH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5EVXQGPBc3NShKZnTZHjHH",
+                    "id": "5EVXQGPBc3NShKZnTZHjHH",
+                    "name": "Ian Brown",
+                    "type": "artist",
+                    "uri": "spotify:artist:5EVXQGPBc3NShKZnTZHjHH"
+                }
+            ],
+            "uri": "spotify:track:3klBgzmhhPqKrUXEGG4eHN",
+            "album": {
+                "album_name": "Psyence Fiction",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-08-24",
+                "spotify_id": "0LFPjvWEaHP7WKQD6F5pVS"
+            }
+        },
+        {
+            "name": "The Distance",
+            "spotify_id": "0fsz7tJ7UKXT9hliLfO7aE",
+            "duration_ms": 179600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6A43Djmhbe9100UwnI7epV",
+                    "id": "6A43Djmhbe9100UwnI7epV",
+                    "name": "CAKE",
+                    "type": "artist",
+                    "uri": "spotify:artist:6A43Djmhbe9100UwnI7epV"
+                }
+            ],
+            "uri": "spotify:track:0fsz7tJ7UKXT9hliLfO7aE",
+            "album": {
+                "album_name": "Fashion Nugget",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-09-17",
+                "spotify_id": "6kPOXxCYCdXBzEbb9dqE90"
+            }
+        },
+        {
+            "name": "J'adore \u00e7a",
+            "spotify_id": "1rPz5Nuc6fbJBBO8i642uU",
+            "duration_ms": 112533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XaUaXu0cGAFK1AlQkl1b6",
+                    "id": "6XaUaXu0cGAFK1AlQkl1b6",
+                    "name": "Saian Supa Crew",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XaUaXu0cGAFK1AlQkl1b6"
+                }
+            ],
+            "uri": "spotify:track:1rPz5Nuc6fbJBBO8i642uU",
+            "album": {
+                "album_name": "Klr",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-10-24",
+                "spotify_id": "3mGbYjpwZAseVYLmQakxcL"
+            }
+        },
+        {
+            "name": "F.E.A.R.",
+            "spotify_id": "5YeYIVwxXC2NHyBHSz8zOy",
+            "duration_ms": 268986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3s398TKZNahAURRacx7oIT",
+                    "id": "3s398TKZNahAURRacx7oIT",
+                    "name": "Ian Brown",
+                    "type": "artist",
+                    "uri": "spotify:artist:3s398TKZNahAURRacx7oIT"
+                }
+            ],
+            "uri": "spotify:track:5YeYIVwxXC2NHyBHSz8zOy",
+            "album": {
+                "album_name": "Music Of The Spheres",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-01-01",
+                "spotify_id": "2EB1HKXeOOB4CqMGoSon1L"
+            }
+        },
+        {
+            "name": "Givin Up - Radio Edit",
+            "spotify_id": "55Sw4tlkXJBJyAJoxLR7oF",
+            "duration_ms": 161546,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3heCtwUGk6fv3p9BGDRYO2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3heCtwUGk6fv3p9BGDRYO2",
+                    "id": "3heCtwUGk6fv3p9BGDRYO2",
+                    "name": "Hairy Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:3heCtwUGk6fv3p9BGDRYO2"
+                }
+            ],
+            "uri": "spotify:track:55Sw4tlkXJBJyAJoxLR7oF",
+            "album": {
+                "album_name": "Givin Up",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2011-04-26",
+                "spotify_id": "6xxWSVPmcIcx1IxZVgCBgM"
+            }
+        },
+        {
+            "name": "You Got Me",
+            "spotify_id": "4pdLZsxq0y5oJDb6Cxlokw",
+            "duration_ms": 259306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/78xUyw6FkVZrRAtziFdtdu",
+                    "id": "78xUyw6FkVZrRAtziFdtdu",
+                    "name": "The Roots",
+                    "type": "artist",
+                    "uri": "spotify:artist:78xUyw6FkVZrRAtziFdtdu"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7i3os1iEWOn5UpaylRiMw5",
+                    "id": "7i3os1iEWOn5UpaylRiMw5",
+                    "name": "Tariq Trotter",
+                    "type": "artist",
+                    "uri": "spotify:artist:7i3os1iEWOn5UpaylRiMw5"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX",
+                    "id": "7IfculRW2WXyzNQ8djX8WX",
+                    "name": "Erykah Badu",
+                    "type": "artist",
+                    "uri": "spotify:artist:7IfculRW2WXyzNQ8djX8WX"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4d3yvTptO48nOYTPBcPFZC",
+                    "id": "4d3yvTptO48nOYTPBcPFZC",
+                    "name": "Eve",
+                    "type": "artist",
+                    "uri": "spotify:artist:4d3yvTptO48nOYTPBcPFZC"
+                }
+            ],
+            "uri": "spotify:track:4pdLZsxq0y5oJDb6Cxlokw",
+            "album": {
+                "album_name": "Things Fall Apart",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-02-23",
+                "spotify_id": "0qbl8aNaCUOvX8HGsZYLfh"
+            }
+        },
+        {
+            "name": "Ab\u00e9c\u00e9daire des cons",
+            "spotify_id": "1I4nJdzaXIHnwkYfmSQxh2",
+            "duration_ms": 235733,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XaUaXu0cGAFK1AlQkl1b6",
+                    "id": "6XaUaXu0cGAFK1AlQkl1b6",
+                    "name": "Saian Supa Crew",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XaUaXu0cGAFK1AlQkl1b6"
+                }
+            ],
+            "uri": "spotify:track:1I4nJdzaXIHnwkYfmSQxh2",
+            "album": {
+                "album_name": "Klr",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-10-24",
+                "spotify_id": "3mGbYjpwZAseVYLmQakxcL"
+            }
+        },
+        {
+            "name": "Histoire d'un homme faible",
+            "spotify_id": "0WnoXvk8J0o0WZl84wFKh0",
+            "duration_ms": 284306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XaUaXu0cGAFK1AlQkl1b6",
+                    "id": "6XaUaXu0cGAFK1AlQkl1b6",
+                    "name": "Saian Supa Crew",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XaUaXu0cGAFK1AlQkl1b6"
+                }
+            ],
+            "uri": "spotify:track:0WnoXvk8J0o0WZl84wFKh0",
+            "album": {
+                "album_name": "Klr",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-10-24",
+                "spotify_id": "3mGbYjpwZAseVYLmQakxcL"
+            }
+        }
+    ]
+}

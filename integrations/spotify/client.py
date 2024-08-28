@@ -1,4 +1,5 @@
 import difflib
+import re
 from typing import List, Optional, Iterator, Dict
 
 import spotipy
@@ -7,7 +8,8 @@ from spotipy import SpotifyOAuth
 from integrations.spotify.models import SpotifyTrack
 
 
-NUM_SEARCH_ITEMS = 5
+NUM_SEARCH_ITEMS = 15
+AND_REGEX = re.compile(" & | and |, | feat | featuring | feat\\. | מארח את ", re.IGNORECASE)
 
 
 class SpotifyClient:
@@ -79,6 +81,16 @@ class SpotifyClient:
             )
             items = response.get("tracks", {}).get("items", [])
             yield from (i for i in items)
+
+            if len(artist_names := artist_name_to_list(artist_name)) > 1:
+                first_artist_name = artist_names[0]
+                response = self.client.search(
+                    q=f"{track_name}, {first_artist_name}",
+                    type="track",
+                    limit=NUM_SEARCH_ITEMS,
+                )
+                items = response.get("tracks", {}).get("items", [])
+                yield from (i for i in items)
 
         track_filter = make_track_filter(track_name, artist_name, duration)
         found_item = next(filter(track_filter, gen_items()), None)
@@ -180,7 +192,7 @@ def make_track_filter(track_name: str, artist_name: str, duration: str):
                 int(hours) * 3600 + int(minutes) * 60 + int(seconds)
         ) * 1000
 
-    origin_artists = [a.strip() for a in artist_name.lower().split("&")]
+    origin_artists = artist_name_to_list(artist_name)
     duration_in_ms = duration_to_ms()
     duration_min = duration_in_ms * 0.9
     duration_max = duration_in_ms * 1.1
@@ -193,12 +205,15 @@ def make_track_filter(track_name: str, artist_name: str, duration: str):
         return False
 
     def similar_name_filter(_item) -> bool:
-        item_name = _item["name"].lower()
-        similar = difflib.SequenceMatcher(
+        item_name: str = _item["name"].lower()
+        if "remaster" in item_name and "-" in item_name:
+            parts = item_name.split("-")
+            item_name = parts[0].strip()
+        similar_score = difflib.SequenceMatcher(
             a=item_name,
             b=track_name_lower,
-        ).ratio() > 0.9
-        if similar:
+        ).ratio()
+        if similar_score >= 0.85:
             return True
 
         print(f"False. track name {track_name_lower} dissimilar to item name {item_name}")
@@ -216,16 +231,26 @@ def make_track_filter(track_name: str, artist_name: str, duration: str):
         )
         if artist_in_response:
             return True
+        # Fuzzy match now
+        _item_artists = "".join(artists_names_in_response)
+        similar_score = difflib.SequenceMatcher(
+            a=_item_artists.lower(),
+            b=artist_name.lower(),
+        ).ratio()
+        if similar_score >= 0.9:
+            return True
+
         print(
-            f"False origin artist {origin_artists} in  {artists_names_in_response}"
+            f"Can't find origin artist {origin_artists} in  {artists_names_in_response}"
         )
         return False
 
     def make_duration_filter(_item):
-        if duration_min <= _item["duration_ms"] <= duration_max:
+        _item_duration = _item["duration_ms"]
+        if duration_min <= _item_duration <= duration_max:
             return True
         print(
-            f"False duration for {_item} is not in bounds ({duration_min}, {duration_max})"
+            f"Item name {_item['name']} duration {_item_duration} is not in bounds ({duration_min}, {duration_max})"
         )
         return False
 
@@ -238,11 +263,19 @@ def make_track_filter(track_name: str, artist_name: str, duration: str):
 
     def filter_all(_item):
         return all(
-            [
+            (
                 f(_item)
                 for f
                 in all_filters
-            ]
+            )
         )
 
     return filter_all
+
+
+def artist_name_to_list(artist_names: str):
+    return [
+        name.strip().replace("\\&", "&").lower()
+        for name
+        in AND_REGEX.split(artist_names)
+    ]

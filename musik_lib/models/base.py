@@ -29,16 +29,20 @@ def render_duration(duration):
     :return:
     """
     total_seconds = int(duration.total_seconds())
-    hours = total_seconds // 3600
-    minutes = (total_seconds % 3600) // 60
     seconds = (total_seconds % 3600) % 60
+    minutes = (total_seconds % 3600) // 60
+    hours = total_seconds // 3600
 
+    if hours >= 24:
+        days = hours // 24
+        hours = hours % 24
+        return "{} days and {}:{:02}:{:02} hours".format(days, hours, minutes, seconds)
     if hours:
-        return "{}:{:02}:{:02}".format(hours, minutes, seconds)
+        return "{}:{:02}:{:02} hours".format(hours, minutes, seconds)
     if minutes:
-        return "{}:{:02}".format(minutes, seconds)
+        return "{}:{:02} minutes".format(minutes, seconds)
     else:
-        return "0:{:02}".format(total_seconds)
+        return "0:{:02} seconds".format(total_seconds)
 
 
 class Artist(models.Model):
@@ -112,7 +116,7 @@ class Collection(models.Model):
     description = models.CharField(max_length=2000)
 
     created_year = models.PositiveSmallIntegerField(validators=[validate_year])
-    ordinal = models.PositiveSmallIntegerField(unique=True)
+    ordinal = models.PositiveSmallIntegerField(unique=True, null=True)
 
     def __str__(self):
         template = "name={} , nick_name = {}, duration = {}"

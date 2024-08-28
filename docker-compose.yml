@@ -9,7 +9,11 @@ services:
     ports:
       - 8000:8000
     environment:
-      DJANGO_SETTINGS_MODULE: musika.settings
+      - DJANGO_SETTINGS_MODULE=musika.settings
+      - SPOTIPY_CLIENT_ID=$SPOTIPY_CLIENT_ID
+      - SPOTIPY_CLIENT_SECRET=$SPOTIPY_CLIENT_SECRET
+      - SPOTIPY_REDIRECT_URI=$SPOTIPY_REDIRECT_URI
+
     depends_on:
       - db
   db:

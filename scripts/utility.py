@@ -70,7 +70,7 @@ def ingest_spotify_collection(d):
         nick_name="",
         description=d["description"],
         created_year=int(d["created_date"][0:4]),
-        ordinal=d["ordinal"]
+        ordinal=None,
     )
     if not created:
         collection.trackincollection_set.all().delete()
@@ -79,7 +79,7 @@ def ingest_spotify_collection(d):
         #  so this is compatible with how the other method expects it
         return {
             "name": t["name"],
-            "artist": ",".join([a["name"] for a in t["artist"]]),
+            "artist": ", ".join([a["name"] for a in t["artist"]]),
             "duration": str(t["duration_ms"] / 1000),
             "released_year": int(t["album"]["released"][0:4]),
         }

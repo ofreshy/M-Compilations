@@ -47,11 +47,8 @@ def main():
         utility.ingest_collection(collection)
 
     # There is no concept of ordinal in spotify
-    ordinal = 100
     for spotify_collection in local_spotify_collections.values():
         print(f"Reading spotify collection name {spotify_collection['name']}")
-        ordinal += 1
-        spotify_collection["ordinal"] = str(ordinal)
         utility.ingest_spotify_collection(spotify_collection)
 
     l_stat = LibraryStat.load()

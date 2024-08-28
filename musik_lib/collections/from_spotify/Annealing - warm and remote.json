@@ -1,0 +1,438 @@
+{
+    "name": "Annealing - warm and remote",
+    "spotify_id": "2vFltfFFX7AKSdJHg86RVJ",
+    "created_date": "2024-02-19",
+    "description": "",
+    "tracks": [
+        {
+            "name": "Intro",
+            "spotify_id": "2UAj5D1vKyXp1EHoKuHf3M",
+            "duration_ms": 77773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0yz9lVc98Tji7yjwkUe7l7",
+                    "id": "0yz9lVc98Tji7yjwkUe7l7",
+                    "name": "Marta",
+                    "type": "artist",
+                    "uri": "spotify:artist:0yz9lVc98Tji7yjwkUe7l7"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+                    "id": "6hhA8TKRNryM8FNzqCqdDO",
+                    "name": "Tricky",
+                    "type": "artist",
+                    "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+                }
+            ],
+            "uri": "spotify:track:2UAj5D1vKyXp1EHoKuHf3M",
+            "album": {
+                "album_name": "When It's Going Wrong",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-03-31",
+                "spotify_id": "1y9pZMiGd5JbIi4rimq0Ja"
+            }
+        },
+        {
+            "name": "BYE BYE",
+            "spotify_id": "4K2hu1I4tuRpgDLiNTTEi2",
+            "duration_ms": 254000,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3n8qeKQViV1waeCzZmS4Tx",
+                    "id": "3n8qeKQViV1waeCzZmS4Tx",
+                    "name": "Kim Gordon",
+                    "type": "artist",
+                    "uri": "spotify:artist:3n8qeKQViV1waeCzZmS4Tx"
+                }
+            ],
+            "uri": "spotify:track:4K2hu1I4tuRpgDLiNTTEi2",
+            "album": {
+                "album_name": "BYE BYE",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2024-01-16",
+                "spotify_id": "5zve9HuTTyhYyDW5gnjpi7"
+            }
+        },
+        {
+            "name": "Cherry Blossom Girl",
+            "spotify_id": "4m8ttWM8IKXyhpv89E867J",
+            "duration_ms": 219760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1P6U1dCeHxPui5pIrGmndZ",
+                    "id": "1P6U1dCeHxPui5pIrGmndZ",
+                    "name": "Air",
+                    "type": "artist",
+                    "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ"
+                }
+            ],
+            "uri": "spotify:track:4m8ttWM8IKXyhpv89E867J",
+            "album": {
+                "album_name": "Talkie Walkie",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2004-01-26",
+                "spotify_id": "0hQOqvZv1nQvPiBjzyn363"
+            }
+        },
+        {
+            "name": "Oh My Heart",
+            "spotify_id": "6v9uVK1AjObTnejPSxgNMP",
+            "duration_ms": 200946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+                    "id": "4KWTAlx2RvbpseOGMEmROg",
+                    "name": "R.E.M.",
+                    "type": "artist",
+                    "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+                }
+            ],
+            "uri": "spotify:track:6v9uVK1AjObTnejPSxgNMP",
+            "album": {
+                "album_name": "Collapse Into Now",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-01-01",
+                "spotify_id": "2QfGdHHkWY0zBlwnMtoj9H"
+            }
+        },
+        {
+            "name": "Sound and Vision",
+            "spotify_id": "1uqQLKO4B1vPoMBMgfPW6j",
+            "duration_ms": 110161,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+                    "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+                    "name": "David Bowie",
+                    "type": "artist",
+                    "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+                }
+            ],
+            "uri": "spotify:track:1uqQLKO4B1vPoMBMgfPW6j",
+            "album": {
+                "album_name": "Sound and Vision 2013",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2013-10-04",
+                "spotify_id": "0Z0eeyJulKuTCZUiHj18NE"
+            }
+        },
+        {
+            "name": "Fear of Joy",
+            "spotify_id": "0l2r7T0RJW1Hv8o25mlsKT",
+            "duration_ms": 330203,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Oov8BULUOBiX6UVpP04JW",
+                    "id": "4Oov8BULUOBiX6UVpP04JW",
+                    "name": "GUM",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Oov8BULUOBiX6UVpP04JW"
+                }
+            ],
+            "uri": "spotify:track:0l2r7T0RJW1Hv8o25mlsKT",
+            "album": {
+                "album_name": "Saturnia",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-09-15",
+                "spotify_id": "0hCgQsKDH2Gd3U6njazzHv"
+            }
+        },
+        {
+            "name": "Pink Moon",
+            "spotify_id": "7fHzjaSpIqRPXP2s5hJS1M",
+            "duration_ms": 126902,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1WgXqy2Dd70QQOU7Ay074N",
+                    "id": "1WgXqy2Dd70QQOU7Ay074N",
+                    "name": "AURORA",
+                    "type": "artist",
+                    "uri": "spotify:artist:1WgXqy2Dd70QQOU7Ay074N"
+                }
+            ],
+            "uri": "spotify:track:7fHzjaSpIqRPXP2s5hJS1M",
+            "album": {
+                "album_name": "The Endless Coloured Ways: The Songs of Nick Drake",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2023-07-07",
+                "spotify_id": "41NPRAXWRq1a5JKOfxvkfE"
+            }
+        },
+        {
+            "name": "The Score",
+            "spotify_id": "7ecZnFZnilsRCgXXib9ivi",
+            "duration_ms": 161333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XyAI3jtlsss5mJjAAJXzE",
+                    "id": "6XyAI3jtlsss5mJjAAJXzE",
+                    "name": "Grian Chatten",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XyAI3jtlsss5mJjAAJXzE"
+                }
+            ],
+            "uri": "spotify:track:7ecZnFZnilsRCgXXib9ivi",
+            "album": {
+                "album_name": "Chaos For The Fly",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-06-30",
+                "spotify_id": "0lYFv5JDwH0NwiufmU4GKj"
+            }
+        },
+        {
+            "name": "Think Of You",
+            "spotify_id": "6DoorW57JlryA2QdYIoxfS",
+            "duration_ms": 137386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0yz9lVc98Tji7yjwkUe7l7",
+                    "id": "0yz9lVc98Tji7yjwkUe7l7",
+                    "name": "Marta",
+                    "type": "artist",
+                    "uri": "spotify:artist:0yz9lVc98Tji7yjwkUe7l7"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6hhA8TKRNryM8FNzqCqdDO",
+                    "id": "6hhA8TKRNryM8FNzqCqdDO",
+                    "name": "Tricky",
+                    "type": "artist",
+                    "uri": "spotify:artist:6hhA8TKRNryM8FNzqCqdDO"
+                }
+            ],
+            "uri": "spotify:track:6DoorW57JlryA2QdYIoxfS",
+            "album": {
+                "album_name": "When It's Going Wrong",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-03-31",
+                "spotify_id": "1y9pZMiGd5JbIi4rimq0Ja"
+            }
+        },
+        {
+            "name": "Diamonds",
+            "spotify_id": "2z35UAHACCEQsfeJFzRN7d",
+            "duration_ms": 232600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Jtfa8vjvzAAGxDfgIkU72",
+                    "id": "2Jtfa8vjvzAAGxDfgIkU72",
+                    "name": "Luluc",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Jtfa8vjvzAAGxDfgIkU72"
+                }
+            ],
+            "uri": "spotify:track:2z35UAHACCEQsfeJFzRN7d",
+            "album": {
+                "album_name": "Diamonds",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-09-15",
+                "spotify_id": "06qBCU6345SLVXjh6vk3NY"
+            }
+        },
+        {
+            "name": "Friend Of A Friend",
+            "spotify_id": "3Mn22PKkfTR2CjaRt4ziNj",
+            "duration_ms": 275200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6styCzc1Ej4NxISL0LiigM",
+                    "id": "6styCzc1Ej4NxISL0LiigM",
+                    "name": "The Smile",
+                    "type": "artist",
+                    "uri": "spotify:artist:6styCzc1Ej4NxISL0LiigM"
+                }
+            ],
+            "uri": "spotify:track:3Mn22PKkfTR2CjaRt4ziNj",
+            "album": {
+                "album_name": "Friend Of A Friend",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2024-01-09",
+                "spotify_id": "7w5rD7XcQufZshgBmTjDIJ"
+            }
+        },
+        {
+            "name": "Crown Shyness",
+            "spotify_id": "25L4UfCVb4KjLblW15cjKU",
+            "duration_ms": 225776,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6nbtlXRy0S6adYpDVoRdNi",
+                    "id": "6nbtlXRy0S6adYpDVoRdNi",
+                    "name": "Anna B Savage",
+                    "type": "artist",
+                    "uri": "spotify:artist:6nbtlXRy0S6adYpDVoRdNi"
+                }
+            ],
+            "uri": "spotify:track:25L4UfCVb4KjLblW15cjKU",
+            "album": {
+                "album_name": "in|FLUX",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-02-17",
+                "spotify_id": "4TIQe1aIGzwSeOHIckEqnY"
+            }
+        },
+        {
+            "name": "Underwater",
+            "spotify_id": "0PsZltduNZQbymx3XF9GbF",
+            "duration_ms": 405773,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/112n8pqLHAybFBHk2nB9yp",
+                    "id": "112n8pqLHAybFBHk2nB9yp",
+                    "name": "Sun's Signature",
+                    "type": "artist",
+                    "uri": "spotify:artist:112n8pqLHAybFBHk2nB9yp"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/791Z3924aa619hZ3xsOJEx",
+                    "id": "791Z3924aa619hZ3xsOJEx",
+                    "name": "Elizabeth Fraser",
+                    "type": "artist",
+                    "uri": "spotify:artist:791Z3924aa619hZ3xsOJEx"
+                }
+            ],
+            "uri": "spotify:track:0PsZltduNZQbymx3XF9GbF",
+            "album": {
+                "album_name": "Sun's Signature (Extended)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-08-25",
+                "spotify_id": "5rQJ0Q4WKC2XPyPiMaSO4n"
+            }
+        },
+        {
+            "name": "In This Heart",
+            "spotify_id": "4o92jEL52ww0OAPYgWWwW5",
+            "duration_ms": 190960,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sD9znwiVFx9cgRPZ42aQ1",
+                    "id": "4sD9znwiVFx9cgRPZ42aQ1",
+                    "name": "Sin\u00e9ad O'Connor",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sD9znwiVFx9cgRPZ42aQ1"
+                }
+            ],
+            "uri": "spotify:track:4o92jEL52ww0OAPYgWWwW5",
+            "album": {
+                "album_name": "Universal Mother",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-09-13",
+                "spotify_id": "7u20BJTgQrowjyaTEgE46p"
+            }
+        },
+        {
+            "name": "Pendulum",
+            "spotify_id": "1A06WDi0XMR4zjvt49WjTy",
+            "duration_ms": 131946,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1fpXM23IoNckJ7NDAm8YJQ",
+                    "id": "1fpXM23IoNckJ7NDAm8YJQ",
+                    "name": "Mark Lanegan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1fpXM23IoNckJ7NDAm8YJQ"
+                }
+            ],
+            "uri": "spotify:track:1A06WDi0XMR4zjvt49WjTy",
+            "album": {
+                "album_name": "Whiskey For The Holy Ghost",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-18",
+                "spotify_id": "1uaQEWs4HAfSMxXnORJHhG"
+            }
+        },
+        {
+            "name": "Forget It",
+            "spotify_id": "3hgVJGSwCFY8M84FavQwdD",
+            "duration_ms": 110373,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5PrHzxc3kFm4hIrGNmelpX",
+                    "id": "5PrHzxc3kFm4hIrGNmelpX",
+                    "name": "Rodr\u00edguez",
+                    "type": "artist",
+                    "uri": "spotify:artist:5PrHzxc3kFm4hIrGNmelpX"
+                }
+            ],
+            "uri": "spotify:track:3hgVJGSwCFY8M84FavQwdD",
+            "album": {
+                "album_name": "Cold Fact",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-03-05",
+                "spotify_id": "3q90UAYeHLvAtnowiQlmgp"
+            }
+        }
+    ]
+}

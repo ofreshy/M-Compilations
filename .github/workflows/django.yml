@@ -89,7 +89,7 @@ jobs:
       run: |
         export GITHUB_WORKFLOW=True
         export MODE="Test"
-        docker-compose up -d --build
+        docker compose up -d --build
     - name: Stop containers
       if: always()
-      run: docker-compose -f "docker-compose.yml" down
+      run: docker compose -f "docker-compose.yml" down

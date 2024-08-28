@@ -138,7 +138,7 @@ class HelperTest(TestCase):
 
         actual = render_duration(duration)
 
-        expected = "0:18"
+        expected = "0:18 seconds"
 
         self.assertEquals(actual, expected)
 
@@ -147,7 +147,7 @@ class HelperTest(TestCase):
 
         actual = render_duration(duration)
 
-        expected = "1:18"
+        expected = "1:18 hours"
 
         self.assertEquals(actual, expected)
 
@@ -156,7 +156,7 @@ class HelperTest(TestCase):
 
         actual = render_duration(duration)
 
-        expected = "10:18"
+        expected = "10:18 minutes"
 
         self.assertEquals(actual, expected)
 
@@ -165,7 +165,7 @@ class HelperTest(TestCase):
 
         actual = render_duration(duration)
 
-        expected = "10:00"
+        expected = "10:00 minutes"
 
         self.assertEquals(actual, expected)
 
@@ -174,6 +174,6 @@ class HelperTest(TestCase):
 
         actual = render_duration(duration)
 
-        expected = "1:04:18"
+        expected = "1:04:18 hours"
 
         self.assertEquals(actual, expected)

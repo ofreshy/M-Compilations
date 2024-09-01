@@ -1,0 +1,488 @@
+{
+    "name": "Almost quietly",
+    "spotify_id": "5NVeJSlMxDJjikIu4sTJYT",
+    "created_date": "2024-08-31",
+    "description": "Added after quietly with a few songs that go up a notch.  Last addition was the Wilco song before the end. Was hard to find a song after Pixies, but just like honey made it! ",
+    "tracks": [
+        {
+            "name": "Blue Chicago Moon",
+            "spotify_id": "5EdxTws4zxI32EUx8FIQEL",
+            "duration_ms": 407453,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3uQ5cxFHxXddqPL58egs1z",
+                    "id": "3uQ5cxFHxXddqPL58egs1z",
+                    "name": "Songs: Ohia",
+                    "type": "artist",
+                    "uri": "spotify:artist:3uQ5cxFHxXddqPL58egs1z"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4tBNwdhdWAXGzzaPTp9dRE",
+                    "id": "4tBNwdhdWAXGzzaPTp9dRE",
+                    "name": "Jason Molina",
+                    "type": "artist",
+                    "uri": "spotify:artist:4tBNwdhdWAXGzzaPTp9dRE"
+                }
+            ],
+            "uri": "spotify:track:5EdxTws4zxI32EUx8FIQEL",
+            "album": {
+                "album_name": "Didn't It Rain (Deluxe Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-03-05",
+                "spotify_id": "5Q3CKS0VEKKJXpGbXvOrLa"
+            }
+        },
+        {
+            "name": "The Right to Remain Silent",
+            "spotify_id": "3jWYXvTSGEZhEaJEZYnG42",
+            "duration_ms": 156600,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ePunOqQbOYoQwd1298g3Z",
+                    "id": "4ePunOqQbOYoQwd1298g3Z",
+                    "name": "Silver Jews",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ePunOqQbOYoQwd1298g3Z"
+                }
+            ],
+            "uri": "spotify:track:3jWYXvTSGEZhEaJEZYnG42",
+            "album": {
+                "album_name": "The Natural Bridge",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1996-10-01",
+                "spotify_id": "53s93tksSeBis2gL50AQPJ"
+            }
+        },
+        {
+            "name": "Rattlesnakes",
+            "spotify_id": "2N6Rx3WzHG20fcxKhGZMI9",
+            "duration_ms": 239426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KsASRNugxU85T0u6zSg32",
+                    "id": "1KsASRNugxU85T0u6zSg32",
+                    "name": "Tori Amos",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KsASRNugxU85T0u6zSg32"
+                }
+            ],
+            "uri": "spotify:track:2N6Rx3WzHG20fcxKhGZMI9",
+            "album": {
+                "album_name": "Strange Little Girls",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2001-09-17",
+                "spotify_id": "6VVyHpknRsMb0tU6VmTL9S"
+            }
+        },
+        {
+            "name": "Scarborough Fair / Canticle",
+            "spotify_id": "1eUtfbmI6Qq7Oj6okQ2ktT",
+            "duration_ms": 190093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/70cRZdQywnSFp9pnc2WTCE",
+                    "id": "70cRZdQywnSFp9pnc2WTCE",
+                    "name": "Simon & Garfunkel",
+                    "type": "artist",
+                    "uri": "spotify:artist:70cRZdQywnSFp9pnc2WTCE"
+                }
+            ],
+            "uri": "spotify:track:1eUtfbmI6Qq7Oj6okQ2ktT",
+            "album": {
+                "album_name": "Greatest Hits",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1972-06-14",
+                "spotify_id": "4Em5W5HgYEvhpc2elrpKES"
+            }
+        },
+        {
+            "name": "Horizons - Digital Remastered 2008",
+            "spotify_id": "7iL4qxE8ATYOKD9obP3CJa",
+            "duration_ms": 101160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+                    "id": "3CkvROUTQ6nRi9yQOcsB50",
+                    "name": "Genesis",
+                    "type": "artist",
+                    "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+                }
+            ],
+            "uri": "spotify:track:7iL4qxE8ATYOKD9obP3CJa",
+            "album": {
+                "album_name": "Foxtrot",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972-10-06",
+                "spotify_id": "1P9AuGH530Oy9JEW5XVuxo"
+            }
+        },
+        {
+            "name": "Tears In The Typing Pool",
+            "spotify_id": "2ckhAiLT5eV5blWvyDs8Lh",
+            "duration_ms": 132160,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0WtTGUjbur1R1cNzBvbsMU",
+                    "id": "0WtTGUjbur1R1cNzBvbsMU",
+                    "name": "Broadcast",
+                    "type": "artist",
+                    "uri": "spotify:artist:0WtTGUjbur1R1cNzBvbsMU"
+                }
+            ],
+            "uri": "spotify:track:2ckhAiLT5eV5blWvyDs8Lh",
+            "album": {
+                "album_name": "Tender Buttons",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-09-19",
+                "spotify_id": "6xBYjKF7uvteMN51uxVNJv"
+            }
+        },
+        {
+            "name": "He Will Follow You With His Eyes",
+            "spotify_id": "4kP5P9xl4iu191ZvPzGuZW",
+            "duration_ms": 225298,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/29WzbAQtDnBJF09es0uddn",
+                    "id": "29WzbAQtDnBJF09es0uddn",
+                    "name": "Corinne Bailey Rae",
+                    "type": "artist",
+                    "uri": "spotify:artist:29WzbAQtDnBJF09es0uddn"
+                }
+            ],
+            "uri": "spotify:track:4kP5P9xl4iu191ZvPzGuZW",
+            "album": {
+                "album_name": "Black Rainbows",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-09-15",
+                "spotify_id": "741jF1Njwj0i1dQAPdvKZ1"
+            }
+        },
+        {
+            "name": "Communist Daughter",
+            "spotify_id": "0n97PkKoTpnp5L343TMAgB",
+            "duration_ms": 117306,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ooIqOf4X2uz4mMptXCtie",
+                    "id": "2ooIqOf4X2uz4mMptXCtie",
+                    "name": "Neutral Milk Hotel",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
+                }
+            ],
+            "uri": "spotify:track:0n97PkKoTpnp5L343TMAgB",
+            "album": {
+                "album_name": "In the Aeroplane Over the Sea",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-02-20",
+                "spotify_id": "0vVekV45lOaVKs6RZQQNob"
+            }
+        },
+        {
+            "name": "The Thing",
+            "spotify_id": "16EKGMPGE3f6X3p18CjtkB",
+            "duration_ms": 118933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zvul52xwTWzilBZl6BUbT",
+                    "id": "6zvul52xwTWzilBZl6BUbT",
+                    "name": "Pixies",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT"
+                }
+            ],
+            "uri": "spotify:track:16EKGMPGE3f6X3p18CjtkB",
+            "album": {
+                "album_name": "Velouria",
+                "album_group": null,
+                "album_type": "single",
+                "released": "1990-07-16",
+                "spotify_id": "1EzLdeSngJNnzM94BHBtK2"
+            }
+        },
+        {
+            "name": "Just Like Honey",
+            "spotify_id": "1LwP9g1Hjbs64jXM2Qsxry",
+            "duration_ms": 182493,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4rjlerN21ygkIhmUv55irs",
+                    "id": "4rjlerN21ygkIhmUv55irs",
+                    "name": "The Jesus and Mary Chain",
+                    "type": "artist",
+                    "uri": "spotify:artist:4rjlerN21ygkIhmUv55irs"
+                }
+            ],
+            "uri": "spotify:track:1LwP9g1Hjbs64jXM2Qsxry",
+            "album": {
+                "album_name": "Psychocandy - Expanded Version",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1985-11-18",
+                "spotify_id": "2t1hVEwp82QebO7lq21Vto"
+            }
+        },
+        {
+            "name": "I'm So Tired",
+            "spotify_id": "6JgHKt0WwdwlXIht6M0mqa",
+            "duration_ms": 118933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/62sC6lUEWRjbFqXpMmOk4G",
+                    "id": "62sC6lUEWRjbFqXpMmOk4G",
+                    "name": "Fugazi",
+                    "type": "artist",
+                    "uri": "spotify:artist:62sC6lUEWRjbFqXpMmOk4G"
+                }
+            ],
+            "uri": "spotify:track:6JgHKt0WwdwlXIht6M0mqa",
+            "album": {
+                "album_name": "Instrument Soundtrack",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1999-04-01",
+                "spotify_id": "1owNOVlXTqmDVo4M2Z20uk"
+            }
+        },
+        {
+            "name": "All This Remains",
+            "spotify_id": "1N5LNoIAaKV8gJOUgPxyVa",
+            "duration_ms": 283866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1FqG6mhiJbhbMg43ohCT6D",
+                    "id": "1FqG6mhiJbhbMg43ohCT6D",
+                    "name": "Bert Jansch",
+                    "type": "artist",
+                    "uri": "spotify:artist:1FqG6mhiJbhbMg43ohCT6D"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zS53Xa6sVgfoh00kckgyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zS53Xa6sVgfoh00kckgyV",
+                    "id": "7zS53Xa6sVgfoh00kckgyV",
+                    "name": "Hope Sandoval",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zS53Xa6sVgfoh00kckgyV"
+                }
+            ],
+            "uri": "spotify:track:1N5LNoIAaKV8gJOUgPxyVa",
+            "album": {
+                "album_name": "Edge of a Dream",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-10-08",
+                "spotify_id": "1leCiWB4AR3ew9fX4JIqKv"
+            }
+        },
+        {
+            "name": "Untitled #6",
+            "spotify_id": "6lyfafyANnee0GxtfvPr23",
+            "duration_ms": 89706,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7rN3Agir6FaZNfhf5V7mfN",
+                    "id": "7rN3Agir6FaZNfhf5V7mfN",
+                    "name": "John Frusciante",
+                    "type": "artist",
+                    "uri": "spotify:artist:7rN3Agir6FaZNfhf5V7mfN"
+                }
+            ],
+            "uri": "spotify:track:6lyfafyANnee0GxtfvPr23",
+            "album": {
+                "album_name": "Niandra LaDes And Usually Just A T-Shirt",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994",
+                "spotify_id": "4wTLTb4VpQtTxmeyyFOFVj"
+            }
+        },
+        {
+            "name": "Rapture",
+            "spotify_id": "7paYOxzxIBkN0wDQvjAMiy",
+            "duration_ms": 293986,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4h7NLIlg1oYdEtfQJfyto0",
+                    "id": "4h7NLIlg1oYdEtfQJfyto0",
+                    "name": "Nouvelle Vague",
+                    "type": "artist",
+                    "uri": "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6xexoIU7343bCTpIhrl8Ii",
+                    "id": "6xexoIU7343bCTpIhrl8Ii",
+                    "name": "\u00c9lodie Fr\u00e9g\u00e9",
+                    "type": "artist",
+                    "uri": "spotify:artist:6xexoIU7343bCTpIhrl8Ii"
+                }
+            ],
+            "uri": "spotify:track:7paYOxzxIBkN0wDQvjAMiy",
+            "album": {
+                "album_name": "Should I Stay or Should I Go?",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2024-02-16",
+                "spotify_id": "0hqzKRKK0Ld0SgVSuCBNeD"
+            }
+        },
+        {
+            "name": "It's Summertime",
+            "spotify_id": "4bTXFLSWqZiUrrXD202tVG",
+            "duration_ms": 260240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/16eRpMNXSQ15wuJoeqguaB",
+                    "id": "16eRpMNXSQ15wuJoeqguaB",
+                    "name": "The Flaming Lips",
+                    "type": "artist",
+                    "uri": "spotify:artist:16eRpMNXSQ15wuJoeqguaB"
+                }
+            ],
+            "uri": "spotify:track:4bTXFLSWqZiUrrXD202tVG",
+            "album": {
+                "album_name": "Yoshimi Battles the Pink Robots",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2002-05-13",
+                "spotify_id": "49LA20VMk65fQyEaIzYdvf"
+            }
+        },
+        {
+            "name": "Ladies and gentlemen we are floating in space",
+            "spotify_id": "0fOjUafaAhJV16oRBgCtz7",
+            "duration_ms": 234053,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6DKmuXxXASTF6xaJwcTfjv",
+                    "id": "6DKmuXxXASTF6xaJwcTfjv",
+                    "name": "Spiritualized",
+                    "type": "artist",
+                    "uri": "spotify:artist:6DKmuXxXASTF6xaJwcTfjv"
+                }
+            ],
+            "uri": "spotify:track:0fOjUafaAhJV16oRBgCtz7",
+            "album": {
+                "album_name": "Ladies and gentlemen we are floating in space",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1997-06-16",
+                "spotify_id": "56YzQ0dhmRMDryZsrjdHun"
+            }
+        },
+        {
+            "name": "Levee",
+            "spotify_id": "3LjINbaBQeitJZD36pVdP4",
+            "duration_ms": 251386,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2QoU3awHVdcHS8LrZEKvSM",
+                    "id": "2QoU3awHVdcHS8LrZEKvSM",
+                    "name": "Wilco",
+                    "type": "artist",
+                    "uri": "spotify:artist:2QoU3awHVdcHS8LrZEKvSM"
+                }
+            ],
+            "uri": "spotify:track:3LjINbaBQeitJZD36pVdP4",
+            "album": {
+                "album_name": "Cousin",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2023-09-29",
+                "spotify_id": "1KZy1Oll0Cnnakyy6X92Wn"
+            }
+        },
+        {
+            "name": "The End of the World",
+            "spotify_id": "0Sg9bWEaPtDO2JE7qwcMvy",
+            "duration_ms": 178640,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2wJ4vsxWd7df7dRU4KcoDe",
+                    "id": "2wJ4vsxWd7df7dRU4KcoDe",
+                    "name": "Sharon Van Etten",
+                    "type": "artist",
+                    "uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+                }
+            ],
+            "uri": "spotify:track:0Sg9bWEaPtDO2JE7qwcMvy",
+            "album": {
+                "album_name": "The End of the World",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-03-03",
+                "spotify_id": "1mucviYBsV3qhlMmO0wSgz"
+            }
+        }
+    ]
+}

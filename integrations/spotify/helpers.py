@@ -10,8 +10,12 @@ UNFINISHED_PLAYLIST_PREFIXES = ("ZZZ", "KIDS", "XXX", "0")
 
 
 def get_remote_collections(client: SpotifyClient) -> Iterator[SpotifyCollection]:
-    user_name = client.me().get("user_name")
-    filtered_playlists = (p for p in client.playlists() if is_final_playlist(p, user_name))
+    display_name = client.me().get("display_name")
+    if display_name is None:
+        raise ValueError(
+            f"display name is None in client_me response {client.me()}"
+        )
+    filtered_playlists = (p for p in client.playlists() if is_final_playlist(p, display_name))
     for playlist in filtered_playlists:
         playlist_items = list(client.playlist_items(playlist))
         try:
@@ -38,7 +42,7 @@ def is_final_playlist(playlist: Dict, user_name: Optional[str] = None) -> bool:
     """
     Returns True if playlist is finalized as some playlists are WIP
     """
-    if _is_user_owned_playlist(
+    if _is_not_me_playlist(
             user_name=user_name,
             playlist_user=playlist.get("owner", {}).get("display_name", ""),
     ):
@@ -52,10 +56,8 @@ def is_final_playlist(playlist: Dict, user_name: Optional[str] = None) -> bool:
     return True
 
 
-def _is_user_owned_playlist(user_name: Optional[str], playlist_user: Optional[str]) -> bool:
-    if user_name is None:
-        return True
-    return playlist_user == user_name
+def _is_not_me_playlist(user_name: str, playlist_user: str) -> bool:
+    return playlist_user != user_name
 
 
 def _is_unfinished_playlist(playlist_name: str) -> bool:

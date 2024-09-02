@@ -9,10 +9,15 @@ doc_reqs = [
     'Sphinx>=1.5.2'
 ]
 
+extensions_reqs = [
+    'django-extensions>=3.2.3',
+]
+
 
 extra_reqs = {
     'doc': doc_reqs,
     'test': test_reqs,
+    'extensions': extensions_reqs,
 }
 
 install_requires = [

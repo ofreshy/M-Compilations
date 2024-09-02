@@ -26,8 +26,19 @@ and provide it from copy/paste the open window; I don't know yet how to allow do
 
 ## Local Scripts 
 1. Sync files with spotify `sync_spotify_collections.py` to get latest collections from remote
-2. Then run the `ingest_all_collections.py` script
+2. Then clean the liked playlist `prune_spotify_liked_playlist.py` to clear songs that may now be in a playlist
+3. Then run the `ingest_all_collections.py` script
 
+## Visualise 
+Create a model graph 
+From within a musika venv run
+* ``` python3 manage.py graph_models musik_lib -o db.dot ```
+Copy the contents into memory 
+* ``` pbcopy < db.dot ```
+Open a [visualize tool](https://dreampuf.github.io/GraphvizOnline/) , copy content, and look at graph 
+
+Current 
+![alt text](models.png "models")
 
 ## Test
 

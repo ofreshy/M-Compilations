@@ -1,0 +1,358 @@
+{
+    "name": "Sexy Nights",
+    "spotify_id": "3IqSveHfvIaHOOt9bpT77P",
+    "created_date": "2024-08-28",
+    "description": "For making love ... Sat 31&#x2F;08&#x2F;2024",
+    "tracks": [
+        {
+            "name": "Redbone",
+            "spotify_id": "3kxfsdsCpFgN412fpnW85Y",
+            "duration_ms": 326933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+                    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+                    "name": "Childish Gambino",
+                    "type": "artist",
+                    "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+                }
+            ],
+            "uri": "spotify:track:3kxfsdsCpFgN412fpnW85Y",
+            "album": {
+                "album_name": "\"Awaken, My Love!\"",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-12-02",
+                "spotify_id": "4xnq1L6P551Qcb9gBXNMK7"
+            }
+        },
+        {
+            "name": "Cherry",
+            "spotify_id": "5cENc0N9NpJJB7FggcMjyS",
+            "duration_ms": 201906,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06nsZ3qSOYZ2hPVIMcr1IN",
+                    "id": "06nsZ3qSOYZ2hPVIMcr1IN",
+                    "name": "J.J. Cale",
+                    "type": "artist",
+                    "uri": "spotify:artist:06nsZ3qSOYZ2hPVIMcr1IN"
+                }
+            ],
+            "uri": "spotify:track:5cENc0N9NpJJB7FggcMjyS",
+            "album": {
+                "album_name": "Troubadour",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-09",
+                "spotify_id": "4GIeoRcpLeLwgxQK8jo183"
+            }
+        },
+        {
+            "name": "Three Hours - Alternate Version",
+            "spotify_id": "4NmSSdm6mKCegjAQg8lrY4",
+            "duration_ms": 311746,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5c3GLXai8YOMid29ZEuR9y",
+                    "id": "5c3GLXai8YOMid29ZEuR9y",
+                    "name": "Nick Drake",
+                    "type": "artist",
+                    "uri": "spotify:artist:5c3GLXai8YOMid29ZEuR9y"
+                }
+            ],
+            "uri": "spotify:track:4NmSSdm6mKCegjAQg8lrY4",
+            "album": {
+                "album_name": "Made To Love Magic",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2004-01-01",
+                "spotify_id": "0nHa7yhIyuYgRL6msr9dJR"
+            }
+        },
+        {
+            "name": "Sweet Surrender",
+            "spotify_id": "42AO7bZPlJIxAbbn81k4kw",
+            "duration_ms": 407800,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6zHRqvws8dVeqL8D31ponr",
+                    "id": "6zHRqvws8dVeqL8D31ponr",
+                    "name": "Tim Buckley",
+                    "type": "artist",
+                    "uri": "spotify:artist:6zHRqvws8dVeqL8D31ponr"
+                }
+            ],
+            "uri": "spotify:track:42AO7bZPlJIxAbbn81k4kw",
+            "album": {
+                "album_name": "Greetings From L.A.",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1972",
+                "spotify_id": "7z7EJWzMiPb5NJ21okOIm7"
+            }
+        },
+        {
+            "name": "I've Got Dreams to Remember",
+            "spotify_id": "4C2jxg2GZsvttTiHpWP5ZL",
+            "duration_ms": 195866,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/60df5JBRRPcnSpsIMxxwQm",
+                    "id": "60df5JBRRPcnSpsIMxxwQm",
+                    "name": "Otis Redding",
+                    "type": "artist",
+                    "uri": "spotify:artist:60df5JBRRPcnSpsIMxxwQm"
+                }
+            ],
+            "uri": "spotify:track:4C2jxg2GZsvttTiHpWP5ZL",
+            "album": {
+                "album_name": "Dock of the Bay Sessions",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2018-05-18",
+                "spotify_id": "3mdKPgJ2hyDF9ToznWuCn1"
+            }
+        },
+        {
+            "name": "Sunday Afternoon's Dream",
+            "spotify_id": "7b1u1NYiP31KSvhWtgKI8P",
+            "duration_ms": 216861,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+                    "id": "65dGLGjkw3UbddUg2GKQoZ",
+                    "name": "BADBADNOTGOOD",
+                    "type": "artist",
+                    "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+                }
+            ],
+            "uri": "spotify:track:7b1u1NYiP31KSvhWtgKI8P",
+            "album": {
+                "album_name": "Mid Spiral",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2024-07-30",
+                "spotify_id": "6WNZ6fUOzpuKKDdPR8E1vO"
+            }
+        },
+        {
+            "name": "Sound & Color",
+            "spotify_id": "3zWgFhqjlGiM7p1ECrxclH",
+            "duration_ms": 182466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/16GcWuvvybAoaHr0NqT8Eh",
+                    "id": "16GcWuvvybAoaHr0NqT8Eh",
+                    "name": "Alabama Shakes",
+                    "type": "artist",
+                    "uri": "spotify:artist:16GcWuvvybAoaHr0NqT8Eh"
+                }
+            ],
+            "uri": "spotify:track:3zWgFhqjlGiM7p1ECrxclH",
+            "album": {
+                "album_name": "Sound & Color",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2015-04-20",
+                "spotify_id": "7ENKsNwViH6KjudEvVdMz1"
+            }
+        },
+        {
+            "name": "Better Things",
+            "spotify_id": "4orPBWfQNUxs3RObirJwZR",
+            "duration_ms": 253933,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FXMGgJwohJLUSr5nVlf9X",
+                    "id": "6FXMGgJwohJLUSr5nVlf9X",
+                    "name": "Massive Attack",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X"
+                }
+            ],
+            "uri": "spotify:track:4orPBWfQNUxs3RObirJwZR",
+            "album": {
+                "album_name": "Protection",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-09-26",
+                "spotify_id": "5CnZjFfPDmxOX7KnWLLqpC"
+            }
+        },
+        {
+            "name": "For Love I Come",
+            "spotify_id": "5UB4M3lUC9lfaMjmHTBrv6",
+            "duration_ms": 215359,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4frXpPxQQZwbCu3eTGnZEw",
+                    "id": "4frXpPxQQZwbCu3eTGnZEw",
+                    "name": "Thundercat",
+                    "type": "artist",
+                    "uri": "spotify:artist:4frXpPxQQZwbCu3eTGnZEw"
+                }
+            ],
+            "uri": "spotify:track:5UB4M3lUC9lfaMjmHTBrv6",
+            "album": {
+                "album_name": "Late Night Tales: Badbadnotgood",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-07-28",
+                "spotify_id": "1J3enVyckc2vOR0xOK1jZX"
+            }
+        },
+        {
+            "name": "Work",
+            "spotify_id": "1YzjKrBdWheeI2nBKmUvQn",
+            "duration_ms": 224481,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3GQboECxDT1xqPPWC30p7v",
+                    "id": "3GQboECxDT1xqPPWC30p7v",
+                    "name": "Charlotte Day Wilson",
+                    "type": "artist",
+                    "uri": "spotify:artist:3GQboECxDT1xqPPWC30p7v"
+                }
+            ],
+            "uri": "spotify:track:1YzjKrBdWheeI2nBKmUvQn",
+            "album": {
+                "album_name": "Late Night Tales: Badbadnotgood",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2017-07-28",
+                "spotify_id": "1J3enVyckc2vOR0xOK1jZX"
+            }
+        },
+        {
+            "name": "Glory Box",
+            "spotify_id": "3Ty7OTBNSigGEpeW2PqcsC",
+            "duration_ms": 308626,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y",
+                    "id": "6liAMWkVf5LH7YR9yfFy1Y",
+                    "name": "Portishead",
+                    "type": "artist",
+                    "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+                }
+            ],
+            "uri": "spotify:track:3Ty7OTBNSigGEpeW2PqcsC",
+            "album": {
+                "album_name": "Dummy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "3539EbNgIdEDGBKkUf4wno"
+            }
+        },
+        {
+            "name": "It's A Fire",
+            "spotify_id": "6JHGaBhtCbfEtOh5ea7fLI",
+            "duration_ms": 226200,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6liAMWkVf5LH7YR9yfFy1Y",
+                    "id": "6liAMWkVf5LH7YR9yfFy1Y",
+                    "name": "Portishead",
+                    "type": "artist",
+                    "uri": "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+                }
+            ],
+            "uri": "spotify:track:6JHGaBhtCbfEtOh5ea7fLI",
+            "album": {
+                "album_name": "Dummy",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1994-01-01",
+                "spotify_id": "3539EbNgIdEDGBKkUf4wno"
+            }
+        },
+        {
+            "name": "Aht Uh Mi Hed",
+            "spotify_id": "6eOiJuoyzAQeY0JHf5ZBWX",
+            "duration_ms": 257093,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4YHtIE7FI8ITfekzzN5Jpl",
+                    "id": "4YHtIE7FI8ITfekzzN5Jpl",
+                    "name": "Shuggie Otis",
+                    "type": "artist",
+                    "uri": "spotify:artist:4YHtIE7FI8ITfekzzN5Jpl"
+                }
+            ],
+            "uri": "spotify:track:6eOiJuoyzAQeY0JHf5ZBWX",
+            "album": {
+                "album_name": "INSPIRATION INFORMATION",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1974",
+                "spotify_id": "5EvsfavFbWpzcg3VNLQEOF"
+            }
+        },
+        {
+            "name": "Ex-Factor",
+            "spotify_id": "2VjXGuPVVxyhMgER3Uz2Fe",
+            "duration_ms": 326533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2Mu5NfyYm8n5iTomuKAEHl",
+                    "id": "2Mu5NfyYm8n5iTomuKAEHl",
+                    "name": "Ms. Lauryn Hill",
+                    "type": "artist",
+                    "uri": "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl"
+                }
+            ],
+            "uri": "spotify:track:2VjXGuPVVxyhMgER3Uz2Fe",
+            "album": {
+                "album_name": "The Miseducation of Lauryn Hill",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1998-08-25",
+                "spotify_id": "1BZoqf8Zje5nGdwZhOjAtD"
+            }
+        }
+    ]
+}

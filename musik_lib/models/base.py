@@ -5,6 +5,7 @@ from itertools import chain
 from functools import reduce
 
 from django.db import models
+from django.utils.translation import gettext_lazy
 
 from musik_lib.validators import validate_year
 
@@ -148,12 +149,58 @@ class Collection(models.Model):
         return self
 
 
+class Album(models.Model):
+    """
+    Collection stores some tracks
+    """
+
+    name = models.CharField(max_length=200)
+    created_year = models.PositiveSmallIntegerField(validators=[validate_year])
+    spotify_id = models.CharField(max_length=50, null=True)
+
+    class AlbumType(models.TextChoices):
+        COMPILATION = 'CPN', gettext_lazy('Compilation')
+        STUDIO = 'STD', gettext_lazy('Studio')
+
+    album_type = models.CharField(
+        max_length=3,
+        choices=AlbumType.choices,
+        default=AlbumType.COMPILATION,
+    )
+
+    def __str__(self):
+        return f"{self.name} - {self.created_year}"
+
+    def number_of_tracks(self):
+        if not hasattr(self, "trackincollection_set"):
+            return 0
+        return self.trackincollection_set.count()
+
+    @property
+    def tracks(self):
+        return [
+            t.track for t
+            in self.trackincollection_set
+        ]
+
+    def add_a_track(self, a_track: 'TrackInCollection'):
+        """
+
+        :param a_track: A TrackInCollcetion model
+        :return: this instance
+        """
+        a_track.album = self
+        a_track.save()
+        return self
+
+
 class TrackInCollection(models.Model):
     """
     A track in a collection; Separate from a track as it has a unique ordinal in the collection
     """
     track = models.ForeignKey(Track, on_delete=models.CASCADE)
     collection = models.ForeignKey(Collection, on_delete=models.CASCADE)
+    album = models.ForeignKey(Album, on_delete=models.CASCADE, null=True)
     ordinal = models.PositiveSmallIntegerField()
 
     class Meta:

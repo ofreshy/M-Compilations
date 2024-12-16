@@ -131,6 +131,41 @@ class TrackInCollectionTest(TestCase):
             )
 
 
+class AlbumTest(TestCase):
+
+    def test_empty_album_no_tracks(self):
+        a = fixtures.album_1()
+        self.assertEqual(0, a.number_of_tracks())
+
+    def test_num_tracks_with_tracks(self):
+        a = fixtures.album_1()
+        self.assertEqual(0, a.number_of_tracks())
+
+        a: Album = Album.objects.create(
+            name="test",
+            created_year=2000,
+            spotify_id="some_id",
+            album_type=Album.AlbumType.COMPILATION,
+        )
+        c = fixtures.collection_1()
+        a.add_a_track(
+            TrackInCollection.objects.create(
+                track=fixtures.track_1(name="t1"),
+                collection=c,
+                ordinal=1,
+            )
+        )
+        a.add_a_track(
+            TrackInCollection.objects.create(
+                track=fixtures.track_1(name="t2"),
+                collection=c,
+                ordinal=2,
+            )
+        )
+
+        self.assertEqual(2, a.number_of_tracks())
+
+
 class HelperTest(TestCase):
 
     def test_duration_render_seconds(self):

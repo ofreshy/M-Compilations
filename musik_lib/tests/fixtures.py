@@ -67,6 +67,15 @@ def collection_2(name="C2", nick_name="C2 nick", description="C2 description", r
     )[0]
 
 
+def album_1(name="album_1", created_year=2000, spotify_id="some_id", album_type=Album.AlbumType.COMPILATION) -> Album:
+    return Album.objects.create(
+        name=name,
+        created_year=created_year,
+        spotify_id=spotify_id,
+        album_type=album_type,
+    )
+
+
 def collection_stat(collection=None) -> CollectionStat:
     return CollectionStat.objects.get_or_create(
             collection=collection or collection_1(),

@@ -1,0 +1,608 @@
+{
+    "name": "Slide",
+    "spotify_id": "7dXTDzMvsUyf6jYzHYqkBs",
+    "created_date": "2024-10-19",
+    "description": "took some time to release although was ready around August.. ",
+    "tracks": [
+        {
+            "name": "Golden Slumbers - Remastered 2009",
+            "spotify_id": "01SfTM5nfCou5gQL70r6gs",
+            "duration_ms": 91760,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "uri": "spotify:track:01SfTM5nfCou5gQL70r6gs",
+            "album": {
+                "album_name": "Abbey Road (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-09-26",
+                "spotify_id": "0ETFjACtuP2ADo6LFhL6HN"
+            }
+        },
+        {
+            "name": "Carry That Weight - Remastered 2009",
+            "spotify_id": "5eZrW59C3UgBhkqNlowEID",
+            "duration_ms": 96466,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+                    "id": "3WrFJ7ztbogyGnTHbHJFl2",
+                    "name": "The Beatles",
+                    "type": "artist",
+                    "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+                }
+            ],
+            "uri": "spotify:track:5eZrW59C3UgBhkqNlowEID",
+            "album": {
+                "album_name": "Abbey Road (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969-09-26",
+                "spotify_id": "0ETFjACtuP2ADo6LFhL6HN"
+            }
+        },
+        {
+            "name": "(Till I) Run With You",
+            "spotify_id": "7JNR1RWQ5aAgLVcPPmHuqA",
+            "duration_ms": 114426,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7CCn4PFRRRZF127jtCBAUe",
+                    "id": "7CCn4PFRRRZF127jtCBAUe",
+                    "name": "The Lovin' Spoonful",
+                    "type": "artist",
+                    "uri": "spotify:artist:7CCn4PFRRRZF127jtCBAUe"
+                }
+            ],
+            "uri": "spotify:track:7JNR1RWQ5aAgLVcPPmHuqA",
+            "album": {
+                "album_name": "Revelation: Revolution '69",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1969",
+                "spotify_id": "52X7afMLQEUPhkrIkdJzJH"
+            }
+        },
+        {
+            "name": "My God Has A Telephone",
+            "spotify_id": "0vOHWx4itwA0pQeWromAAx",
+            "duration_ms": 175492,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Q33Sd9px79c7lWMbQXwxm",
+                    "id": "1Q33Sd9px79c7lWMbQXwxm",
+                    "name": "The Flying Stars Of Brooklyn NY",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Q33Sd9px79c7lWMbQXwxm"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4dwDVC6lrMINxVBxETE1AB",
+                    "id": "4dwDVC6lrMINxVBxETE1AB",
+                    "name": "Aaron Frazer",
+                    "type": "artist",
+                    "uri": "spotify:artist:4dwDVC6lrMINxVBxETE1AB"
+                }
+            ],
+            "uri": "spotify:track:0vOHWx4itwA0pQeWromAAx",
+            "album": {
+                "album_name": "My God Has a Telephone",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-10-20",
+                "spotify_id": "6A6ktPfg9TWvgNmk87FUmk"
+            }
+        },
+        {
+            "name": "There's a New Day Coming",
+            "spotify_id": "69eEpDzuj4U6U4XlLFadPn",
+            "duration_ms": 143120,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1PryMSya1JnSAlcwYawCxp",
+                    "id": "1PryMSya1JnSAlcwYawCxp",
+                    "name": "Menahan Street Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:1PryMSya1JnSAlcwYawCxp"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4EmnyCHnD8NmDRWckXctDk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4EmnyCHnD8NmDRWckXctDk",
+                    "id": "4EmnyCHnD8NmDRWckXctDk",
+                    "name": "Saundra Williams",
+                    "type": "artist",
+                    "uri": "spotify:artist:4EmnyCHnD8NmDRWckXctDk"
+                }
+            ],
+            "uri": "spotify:track:69eEpDzuj4U6U4XlLFadPn",
+            "album": {
+                "album_name": "There's a New Day Coming / Tommy Don't",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2019-11-22",
+                "spotify_id": "6kiRtcBuceI22ZhEFcvkdc"
+            }
+        },
+        {
+            "name": "Nobody's Business",
+            "spotify_id": "5Xp2Jd8D0MYKhdanZyiYcO",
+            "duration_ms": 225826,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/42TFhl7WlMRXiNqzSrnzPL",
+                    "id": "42TFhl7WlMRXiNqzSrnzPL",
+                    "name": "Lou Reed",
+                    "type": "artist",
+                    "uri": "spotify:artist:42TFhl7WlMRXiNqzSrnzPL"
+                }
+            ],
+            "uri": "spotify:track:5Xp2Jd8D0MYKhdanZyiYcO",
+            "album": {
+                "album_name": "Coney Island Baby",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1976-01-19",
+                "spotify_id": "3Kawndiz86cIHkPsKtFiKx"
+            }
+        },
+        {
+            "name": "Good Song",
+            "spotify_id": "75WFyYrXPMAWyN6jOBB7IC",
+            "duration_ms": 187680,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+                    "id": "7MhMgCo0Bl0Kukl93PZbYS",
+                    "name": "Blur",
+                    "type": "artist",
+                    "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+                }
+            ],
+            "uri": "spotify:track:75WFyYrXPMAWyN6jOBB7IC",
+            "album": {
+                "album_name": "Think Tank (Special Edition)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2003",
+                "spotify_id": "68P7oIUK327pt5tDIZJd63"
+            }
+        },
+        {
+            "name": "Lonely Avenue",
+            "spotify_id": "5WXTGO80T2z6XON8WtHWFm",
+            "duration_ms": 155400,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ScegULS790PAXp1qaIXt1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ScegULS790PAXp1qaIXt1",
+                    "id": "2ScegULS790PAXp1qaIXt1",
+                    "name": "Ben Waters",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ScegULS790PAXp1qaIXt1"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/12VaqyEhgwDRuFfEqbnrpz",
+                    "id": "12VaqyEhgwDRuFfEqbnrpz",
+                    "name": "PJ Harvey",
+                    "type": "artist",
+                    "uri": "spotify:artist:12VaqyEhgwDRuFfEqbnrpz"
+                }
+            ],
+            "uri": "spotify:track:5WXTGO80T2z6XON8WtHWFm",
+            "album": {
+                "album_name": "Boogie 4 Stu - A Tribute to Ian Stewart",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2011-04-15",
+                "spotify_id": "0O52kmC9WaiLb4hHO42GEE"
+            }
+        },
+        {
+            "name": "Hold On - Remastered 2010",
+            "spotify_id": "4bN43jYf41eIjJZ3UXQpuA",
+            "duration_ms": 112040,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
+                    "id": "4x1nvY2FN8jxqAFA0DA02H",
+                    "name": "John Lennon",
+                    "type": "artist",
+                    "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
+                }
+            ],
+            "uri": "spotify:track:4bN43jYf41eIjJZ3UXQpuA",
+            "album": {
+                "album_name": "Plastic Ono Band",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-12-11",
+                "spotify_id": "0DFYbYCcHCEJPcN1hODG6K"
+            }
+        },
+        {
+            "name": "Stand by Me",
+            "spotify_id": "1aj4GXfmEYXfdVZohCpNKu",
+            "duration_ms": 172333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/60df5JBRRPcnSpsIMxxwQm",
+                    "id": "60df5JBRRPcnSpsIMxxwQm",
+                    "name": "Otis Redding",
+                    "type": "artist",
+                    "uri": "spotify:artist:60df5JBRRPcnSpsIMxxwQm"
+                }
+            ],
+            "uri": "spotify:track:1aj4GXfmEYXfdVZohCpNKu",
+            "album": {
+                "album_name": "Pain in My Heart",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1964",
+                "spotify_id": "2BFOk5b8jjm2xmsbx7qXq3"
+            }
+        },
+        {
+            "name": "Bustin' Surfboards",
+            "spotify_id": "48jm3rEZ2gR6mlBDb5aq8k",
+            "duration_ms": 147333,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3L6UEvPrH9ENXU94fYxNlT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3L6UEvPrH9ENXU94fYxNlT",
+                    "id": "3L6UEvPrH9ENXU94fYxNlT",
+                    "name": "The Tornadoes",
+                    "type": "artist",
+                    "uri": "spotify:artist:3L6UEvPrH9ENXU94fYxNlT"
+                }
+            ],
+            "uri": "spotify:track:48jm3rEZ2gR6mlBDb5aq8k",
+            "album": {
+                "album_name": "Pulp Fiction (Music From The Motion Picture)",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "1994-09-27",
+                "spotify_id": "2Rosrqy5gnHaKLrh2ctnVq"
+            }
+        },
+        {
+            "name": "Son Of Sam",
+            "spotify_id": "6tPiCU4LFsXUQPRIykOAnl",
+            "duration_ms": 184293,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ApaG60P4r0yhBoDCGD8YG",
+                    "id": "2ApaG60P4r0yhBoDCGD8YG",
+                    "name": "Elliott Smith",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
+                }
+            ],
+            "uri": "spotify:track:6tPiCU4LFsXUQPRIykOAnl",
+            "album": {
+                "album_name": "Figure 8",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-04-18",
+                "spotify_id": "7DC0pE943VR5tAKIvQXHts"
+            }
+        },
+        {
+            "name": "Love Survive",
+            "spotify_id": "6qwxJiUTDF3kl71W7hcLxZ",
+            "duration_ms": 164687,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1VfgWum48nwYJcCfdPwWgs",
+                    "id": "1VfgWum48nwYJcCfdPwWgs",
+                    "name": "Michael Nau",
+                    "type": "artist",
+                    "uri": "spotify:artist:1VfgWum48nwYJcCfdPwWgs"
+                }
+            ],
+            "uri": "spotify:track:6qwxJiUTDF3kl71W7hcLxZ",
+            "album": {
+                "album_name": "Mowing",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2016-11-18",
+                "spotify_id": "6WCwaiv7jkwJKMieKAuybQ"
+            }
+        },
+        {
+            "name": "Every Night - Remastered 2011",
+            "spotify_id": "7zE7VClzAEYa9nUDC950pT",
+            "duration_ms": 153413,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4STHEaNw4mPZ2tzheohgXB",
+                    "id": "4STHEaNw4mPZ2tzheohgXB",
+                    "name": "Paul McCartney",
+                    "type": "artist",
+                    "uri": "spotify:artist:4STHEaNw4mPZ2tzheohgXB"
+                }
+            ],
+            "uri": "spotify:track:7zE7VClzAEYa9nUDC950pT",
+            "album": {
+                "album_name": "McCartney (Archive Collection)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1970-04-17",
+                "spotify_id": "2lOll0xAGw8FPjwmwopAKT"
+            }
+        },
+        {
+            "name": "Tell Her",
+            "spotify_id": "6EFxFbF6ZNCuE01gAd0xsN",
+            "duration_ms": 145240,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4bR7LiGTblv5N6Od7yu7yJ",
+                    "id": "4bR7LiGTblv5N6Od7yu7yJ",
+                    "name": "Fred Williams",
+                    "type": "artist",
+                    "uri": "spotify:artist:4bR7LiGTblv5N6Od7yu7yJ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7thYdpZLbyFk4ceydyaSrv",
+                    "id": "7thYdpZLbyFk4ceydyaSrv",
+                    "name": "The Jewel Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:7thYdpZLbyFk4ceydyaSrv"
+                }
+            ],
+            "uri": "spotify:track:6EFxFbF6ZNCuE01gAd0xsN",
+            "album": {
+                "album_name": "Tell Her b/w The Dance Got Old",
+                "album_group": null,
+                "album_type": "single",
+                "released": "1969-01-01",
+                "spotify_id": "4EOK4w9FYlrqWQvK3rpIww"
+            }
+        },
+        {
+            "name": "Live On",
+            "spotify_id": "6zsQroI5lbsfqqLchD5n9y",
+            "duration_ms": 249662,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Q33Sd9px79c7lWMbQXwxm",
+                    "id": "1Q33Sd9px79c7lWMbQXwxm",
+                    "name": "The Flying Stars Of Brooklyn NY",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Q33Sd9px79c7lWMbQXwxm"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4dwDVC6lrMINxVBxETE1AB",
+                    "id": "4dwDVC6lrMINxVBxETE1AB",
+                    "name": "Aaron Frazer",
+                    "type": "artist",
+                    "uri": "spotify:artist:4dwDVC6lrMINxVBxETE1AB"
+                }
+            ],
+            "uri": "spotify:track:6zsQroI5lbsfqqLchD5n9y",
+            "album": {
+                "album_name": "My God Has a Telephone",
+                "album_group": null,
+                "album_type": "single",
+                "released": "2017-10-20",
+                "spotify_id": "6A6ktPfg9TWvgNmk87FUmk"
+            }
+        },
+        {
+            "name": "Waiting for the Moon to Rise",
+            "spotify_id": "7semgIC6w9dYTF5lxWSQYg",
+            "duration_ms": 192973,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4I2BJf80C0skQpp1sQmA0h",
+                    "id": "4I2BJf80C0skQpp1sQmA0h",
+                    "name": "Belle and Sebastian",
+                    "type": "artist",
+                    "uri": "spotify:artist:4I2BJf80C0skQpp1sQmA0h"
+                }
+            ],
+            "uri": "spotify:track:7semgIC6w9dYTF5lxWSQYg",
+            "album": {
+                "album_name": "Fold Your Hands Child, You Walk Like a Peasant",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2000-06-05",
+                "spotify_id": "4fzo0zlnGOAiuB6ybFPlvz"
+            }
+        },
+        {
+            "name": "Man of the World - 1998 Remaster",
+            "spotify_id": "6fnZKO6nWl3elfvT11j5Mn",
+            "duration_ms": 180066,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+                    "id": "08GQAI4eElDnROBrJRGE0X",
+                    "name": "Fleetwood Mac",
+                    "type": "artist",
+                    "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+                }
+            ],
+            "uri": "spotify:track:6fnZKO6nWl3elfvT11j5Mn",
+            "album": {
+                "album_name": "Men of the World: The Early Years",
+                "album_group": null,
+                "album_type": "compilation",
+                "released": "2005-11-08",
+                "spotify_id": "48gcTGds5MLWEURDjbpwYE"
+            }
+        },
+        {
+            "name": "Salad Days",
+            "spotify_id": "5VdaMUzoQetwxQwtWAd022",
+            "duration_ms": 145893,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+                    "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+                    "name": "Mac DeMarco",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+                }
+            ],
+            "uri": "spotify:track:5VdaMUzoQetwxQwtWAd022",
+            "album": {
+                "album_name": "Salad Days",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2014-04-01",
+                "spotify_id": "2sij95QgjmgrhNv33achzn"
+            }
+        },
+        {
+            "name": "In My Room - Remastered",
+            "spotify_id": "62fX8EW16l8St2yL8rMer9",
+            "duration_ms": 134133,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3oDbviiivRWhXwIE8hxkVV",
+                    "id": "3oDbviiivRWhXwIE8hxkVV",
+                    "name": "The Beach Boys",
+                    "type": "artist",
+                    "uri": "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
+                }
+            ],
+            "uri": "spotify:track:62fX8EW16l8St2yL8rMer9",
+            "album": {
+                "album_name": "Surfer Girl (Remastered)",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1963-09-16",
+                "spotify_id": "1AhsZr98dNCfhO1XC4Ht7C"
+            }
+        },
+        {
+            "name": "Snowqueen Of Texas",
+            "spotify_id": "5DPNLHoisZSIInV23TJ49P",
+            "duration_ms": 158533,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1bs7HoMkSyQwcobCpE9KpN",
+                    "id": "1bs7HoMkSyQwcobCpE9KpN",
+                    "name": "The Mamas & The Papas",
+                    "type": "artist",
+                    "uri": "spotify:artist:1bs7HoMkSyQwcobCpE9KpN"
+                }
+            ],
+            "uri": "spotify:track:5DPNLHoisZSIInV23TJ49P",
+            "album": {
+                "album_name": "People Like Us",
+                "album_group": null,
+                "album_type": "album",
+                "released": "1971-11-01",
+                "spotify_id": "4HjNY35duY5p5ntqoyIlpp"
+            }
+        },
+        {
+            "name": "Mille Baci",
+            "spotify_id": "4vXp8k0SwE8050BMCSMgFp",
+            "duration_ms": 215953,
+            "artist": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7hrruNuPITt3N9zLMdbjGz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7hrruNuPITt3N9zLMdbjGz",
+                    "id": "7hrruNuPITt3N9zLMdbjGz",
+                    "name": "Saint Privat",
+                    "type": "artist",
+                    "uri": "spotify:artist:7hrruNuPITt3N9zLMdbjGz"
+                }
+            ],
+            "uri": "spotify:track:4vXp8k0SwE8050BMCSMgFp",
+            "album": {
+                "album_name": "Riviera",
+                "album_group": null,
+                "album_type": "album",
+                "released": "2005-06-03",
+                "spotify_id": "0JFSkyHPtXeCceh4awNSla"
+            }
+        }
+    ]
+}

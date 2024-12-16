@@ -11,12 +11,12 @@ Prerequisite
   - SPOTIPY_REDIRECT_URI
 
 1. build the app on docker 
-``` docker-compose up -d --build ```
+``` docker compose up -d --build ```
 2. Run the migrations
-``` docker-compose exec web python manage.py makemigrations ```
-``` docker-compose exec web python manage.py migrate ```
+``` docker compose exec web python manage.py makemigrations ```
+``` docker compose exec web python manage.py migrate ```
 3. Ingest collections 
-``` docker-compose exec web python scripts/ingest_all_collections.py --clear ```
+``` docker compose exec web python scripts/ingest_all_collections.py --clear ```
 
 Application is then available on `http://127.0.0.1:8000/lib`
 
